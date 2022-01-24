@@ -1,0 +1,51 @@
+data-state,data-programs,data-online-programs-count,data-most-combined-count
+Alabama,"medicaid,snap",2,1
+Alaska,medicaid,1,1
+Arizona,"medicaid,snap,tanf",3,3
+Arkansas,"medicaid,snap,tanf",3,2
+California,"medicaid,snap,tanf",3,3
+Colorado,"liheap,medicaid,snap,tanf,wic",5,4
+Connecticut,"medicaid,snap,tanf",3,2
+Delaware,"liheap,medicaid,snap,tanf",4,4
+Florida,"liheap,medicaid,snap,tanf",4,4
+Georgia,"medicaid,snap,tanf,wic",4,3
+Hawaii,medicaid,1,1
+Idaho,medicaid,1,1
+Illinois,"medicaid,snap,tanf",3,3
+Indiana,"medicaid,snap,tanf",3,3
+Iowa,"medicaid,snap,tanf",3,2
+Kansas,"liheap,medicaid,snap,tanf",4,3
+Kentucky,"medicaid,snap,tanf",3,3
+Louisiana,"medicaid,snap,tanf",3,2
+Maine,"medicaid,snap,tanf",3,3
+Maryland,"liheap,medicaid,snap,tanf",4,4
+Massachusetts,"medicaid,snap,wic",3,1
+Michigan,"liheap,medicaid,snap,tanf",4,4
+Minnesota,"medicaid,snap,tanf",3,2
+Mississippi,"liheap,medicaid,snap,tanf",4,4
+Missouri,"medicaid,snap,tanf",3,2
+Montana,"medicaid,snap,tanf",3,3
+Nebraska,"liheap,medicaid,snap,tanf",4,4
+Nevada,"medicaid,snap,tanf",3,3
+New Hampshire,"medicaid,snap,tanf",3,3
+New Jersey,"medicaid,snap,tanf",3,2
+New Mexico,"liheap,medicaid,snap,tanf",4,4
+New York,"liheap,medicaid,snap",3,3
+North Carolina,"medicaid,snap",2,2
+North Dakota,"medicaid,snap,tanf",3,3
+Ohio,"liheap,medicaid,snap,tanf",4,4
+Oklahoma,"liheap,medicaid,snap,tanf",4,4
+Oregon,"medicaid,snap,tanf",3,2
+Pennsylvania,"liheap,medicaid,snap,tanf,wic",5,4
+Rhode Island,"liheap,medicaid,snap,tanf",4,4
+South Carolina,"medicaid,snap,tanf",3,2
+South Dakota,"medicaid,snap",2,2
+Tennessee,"medicaid,snap,tanf",3,2
+Texas,"medicaid,snap,tanf,wic",4,3
+Utah,"medicaid,snap,tanf",3,3
+Vermont,"liheap,medicaid,snap,tanf",4,3
+Virginia,"liheap,medicaid,snap,tanf,wic",5,4
+Washington,"medicaid,snap,tanf",3,2
+West Virginia,"liheap,medicaid,snap,wic",4,3
+Wisconsin,"medicaid,snap",2,2
+Wyoming,"liheap,medicaid",2,1
