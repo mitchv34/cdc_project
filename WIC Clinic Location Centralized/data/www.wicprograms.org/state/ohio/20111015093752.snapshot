@@ -1,0 +1,810 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>Ohio WIC Programs | Ohio WIC Locations, Information and Assistance</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="Ohio WIC Programs in Ohio" />
+	<meta name="description" content="Ohio WIC Programs in Ohio" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong></strong> entries listed in our database.<br />
+	Entries pending approval: <strong></strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong></strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+			
+
+       
+			<!-- Top cities start -->
+
+			<div class="side-box group">
+				<h4 class="news">WIC Clinics and Offices By City</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-136_third_avenue" alt="136 Third Avenue WIC Programs" title="136 Third Avenue WIC Clinics & Offices">136 Third Avenue WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-1399_e._high_st." alt="1399 E. High St. WIC Programs" title="1399 E. High St. WIC Clinics & Offices">1399 E. High St. WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-2500_metrohealth_drive" alt="2500 Metrohealth Drive WIC Programs" title="2500 Metrohealth Drive WIC Clinics & Offices">2500 Metrohealth Drive WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-3035_wooster_road" alt="3035 Wooster Road WIC Programs" title="3035 Wooster Road WIC Clinics & Offices">3035 Wooster Road WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-66_merriman_road" alt="66 Merriman Road WIC Programs" title="66 Merriman Road WIC Clinics & Offices">66 Merriman Road WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-akron" alt="Akron WIC Programs" title="Akron WIC Clinics & Offices">Akron WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-alliance" alt="Alliance WIC Programs" title="Alliance WIC Clinics & Offices">Alliance WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-ashland" alt="Ashland WIC Programs" title="Ashland WIC Clinics & Offices">Ashland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-ashtabula" alt="Ashtabula WIC Programs" title="Ashtabula WIC Clinics & Offices">Ashtabula WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-austintown" alt="Austintown WIC Programs" title="Austintown WIC Clinics & Offices">Austintown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-barberton" alt="Barberton WIC Programs" title="Barberton WIC Clinics & Offices">Barberton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-batavia" alt="Batavia WIC Programs" title="Batavia WIC Clinics & Offices">Batavia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-bellaire" alt="Bellaire WIC Programs" title="Bellaire WIC Clinics & Offices">Bellaire WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-bellefontaine" alt="Bellefontaine WIC Programs" title="Bellefontaine WIC Clinics & Offices">Bellefontaine WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-belpre" alt="Belpre WIC Programs" title="Belpre WIC Clinics & Offices">Belpre WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-bowling_green" alt="Bowling Green WIC Programs" title="Bowling Green WIC Clinics & Offices">Bowling Green WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-brandner" alt="Brandner WIC Programs" title="Brandner WIC Clinics & Offices">Brandner WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-buckeye_lake" alt="Buckeye Lake WIC Programs" title="Buckeye Lake WIC Clinics & Offices">Buckeye Lake WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-bucyrus" alt="Bucyrus WIC Programs" title="Bucyrus WIC Clinics & Offices">Bucyrus WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-cadiz" alt="Cadiz WIC Programs" title="Cadiz WIC Clinics & Offices">Cadiz WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-caldwell" alt="Caldwell WIC Programs" title="Caldwell WIC Clinics & Offices">Caldwell WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-cambridge" alt="Cambridge WIC Programs" title="Cambridge WIC Clinics & Offices">Cambridge WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-canton" alt="Canton WIC Programs" title="Canton WIC Clinics & Offices">Canton WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-carrollton" alt="Carrollton WIC Programs" title="Carrollton WIC Clinics & Offices">Carrollton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-celina" alt="Celina WIC Programs" title="Celina WIC Clinics & Offices">Celina WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-chagrin_falls" alt="Chagrin Falls WIC Programs" title="Chagrin Falls WIC Clinics & Offices">Chagrin Falls WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-chardon" alt="Chardon WIC Programs" title="Chardon WIC Clinics & Offices">Chardon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-chesapeake" alt="Chesapeake WIC Programs" title="Chesapeake WIC Clinics & Offices">Chesapeake WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-chillicothe" alt="Chillicothe WIC Programs" title="Chillicothe WIC Clinics & Offices">Chillicothe WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-cincinnati" alt="Cincinnati WIC Programs" title="Cincinnati WIC Clinics & Offices">Cincinnati WIC Clinics</a> <em>(16)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-circleville" alt="Circleville WIC Programs" title="Circleville WIC Clinics & Offices">Circleville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-cleveland" alt="Cleveland WIC Programs" title="Cleveland WIC Clinics & Offices">Cleveland WIC Clinics</a> <em>(14)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-clyde" alt="Clyde WIC Programs" title="Clyde WIC Clinics & Offices">Clyde WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-coal_grove" alt="Coal Grove WIC Programs" title="Coal Grove WIC Clinics & Offices">Coal Grove WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-coldwater" alt="Coldwater WIC Programs" title="Coldwater WIC Clinics & Offices">Coldwater WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-columbus" alt="Columbus WIC Programs" title="Columbus WIC Clinics & Offices">Columbus WIC Clinics</a> <em>(16)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-conneaut" alt="Conneaut WIC Programs" title="Conneaut WIC Clinics & Offices">Conneaut WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-coshocton" alt="Coshocton WIC Programs" title="Coshocton WIC Clinics & Offices">Coshocton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-crestline" alt="Crestline WIC Programs" title="Crestline WIC Clinics & Offices">Crestline WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-danville" alt="Danville WIC Programs" title="Danville WIC Clinics & Offices">Danville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-dayton" alt="Dayton WIC Programs" title="Dayton WIC Clinics & Offices">Dayton WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-defiance" alt="Defiance WIC Programs" title="Defiance WIC Clinics & Offices">Defiance WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-delaware" alt="Delaware WIC Programs" title="Delaware WIC Clinics & Offices">Delaware WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-deshler" alt="Deshler WIC Programs" title="Deshler WIC Clinics & Offices">Deshler WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-dover" alt="Dover WIC Programs" title="Dover WIC Clinics & Offices">Dover WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-east_cleveland" alt="East Cleveland WIC Programs" title="East Cleveland WIC Clinics & Offices">East Cleveland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-eaton" alt="Eaton WIC Programs" title="Eaton WIC Clinics & Offices">Eaton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-elyria" alt="Elyria WIC Programs" title="Elyria WIC Clinics & Offices">Elyria WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-enon" alt="Enon WIC Programs" title="Enon WIC Clinics & Offices">Enon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-euclid" alt="Euclid WIC Programs" title="Euclid WIC Clinics & Offices">Euclid WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-fairborn" alt="Fairborn WIC Programs" title="Fairborn WIC Clinics & Offices">Fairborn WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-felicity" alt="Felicity WIC Programs" title="Felicity WIC Clinics & Offices">Felicity WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-findlay" alt="Findlay WIC Programs" title="Findlay WIC Clinics & Offices">Findlay WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-fostoria" alt="Fostoria WIC Programs" title="Fostoria WIC Clinics & Offices">Fostoria WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-franklin" alt="Franklin WIC Programs" title="Franklin WIC Clinics & Offices">Franklin WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-freeport" alt="Freeport WIC Programs" title="Freeport WIC Clinics & Offices">Freeport WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-fremont" alt="Fremont WIC Programs" title="Fremont WIC Clinics & Offices">Fremont WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-galion" alt="Galion WIC Programs" title="Galion WIC Clinics & Offices">Galion WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-gallipolis" alt="Gallipolis WIC Programs" title="Gallipolis WIC Clinics & Offices">Gallipolis WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-garfield_heights" alt="Garfield Heights WIC Programs" title="Garfield Heights WIC Clinics & Offices">Garfield Heights WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-geneva" alt="Geneva WIC Programs" title="Geneva WIC Clinics & Offices">Geneva WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Clinics & Offices">Georgetown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-gibsonburg" alt="Gibsonburg WIC Programs" title="Gibsonburg WIC Clinics & Offices">Gibsonburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-girard" alt="Girard WIC Programs" title="Girard WIC Clinics & Offices">Girard WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-goshen" alt="Goshen WIC Programs" title="Goshen WIC Clinics & Offices">Goshen WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-greenfield" alt="Greenfield WIC Programs" title="Greenfield WIC Clinics & Offices">Greenfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-greenville" alt="Greenville WIC Programs" title="Greenville WIC Clinics & Offices">Greenville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-hamilton" alt="Hamilton WIC Programs" title="Hamilton WIC Clinics & Offices">Hamilton WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-hannibal" alt="Hannibal WIC Programs" title="Hannibal WIC Clinics & Offices">Hannibal WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-harrison" alt="Harrison WIC Programs" title="Harrison WIC Clinics & Offices">Harrison WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-hicksville" alt="Hicksville WIC Programs" title="Hicksville WIC Clinics & Offices">Hicksville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-hillsboro" alt="Hillsboro WIC Programs" title="Hillsboro WIC Clinics & Offices">Hillsboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-holland" alt="Holland WIC Programs" title="Holland WIC Clinics & Offices">Holland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-jackson" alt="Jackson WIC Programs" title="Jackson WIC Clinics & Offices">Jackson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-jefferson" alt="Jefferson WIC Programs" title="Jefferson WIC Clinics & Offices">Jefferson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-johnstown" alt="Johnstown WIC Programs" title="Johnstown WIC Clinics & Offices">Johnstown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-kenton" alt="Kenton WIC Programs" title="Kenton WIC Clinics & Offices">Kenton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-kinsman" alt="Kinsman WIC Programs" title="Kinsman WIC Clinics & Offices">Kinsman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lake_milton" alt="Lake Milton WIC Programs" title="Lake Milton WIC Clinics & Offices">Lake Milton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lakewood" alt="Lakewood WIC Programs" title="Lakewood WIC Clinics & Offices">Lakewood WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Clinics & Offices">Lancaster WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-laurelville" alt="Laurelville WIC Programs" title="Laurelville WIC Clinics & Offices">Laurelville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lebanon" alt="Lebanon WIC Programs" title="Lebanon WIC Clinics & Offices">Lebanon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lewis_center" alt="Lewis Center WIC Programs" title="Lewis Center WIC Clinics & Offices">Lewis Center WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lima" alt="Lima WIC Programs" title="Lima WIC Clinics & Offices">Lima WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lisbon" alt="Lisbon WIC Programs" title="Lisbon WIC Clinics & Offices">Lisbon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lodi" alt="Lodi WIC Programs" title="Lodi WIC Clinics & Offices">Lodi WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-logan" alt="Logan WIC Programs" title="Logan WIC Clinics & Offices">Logan WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-london" alt="London WIC Programs" title="London WIC Clinics & Offices">London WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-lorain" alt="Lorain WIC Programs" title="Lorain WIC Clinics & Offices">Lorain WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-loudonville" alt="Loudonville WIC Programs" title="Loudonville WIC Clinics & Offices">Loudonville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-louisville" alt="Louisville WIC Programs" title="Louisville WIC Clinics & Offices">Louisville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-macedonia" alt="Macedonia WIC Programs" title="Macedonia WIC Clinics & Offices">Macedonia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-madison" alt="Madison WIC Programs" title="Madison WIC Clinics & Offices">Madison WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-malta" alt="Malta WIC Programs" title="Malta WIC Clinics & Offices">Malta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-mansfield" alt="Mansfield WIC Programs" title="Mansfield WIC Clinics & Offices">Mansfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-marietta" alt="Marietta WIC Programs" title="Marietta WIC Clinics & Offices">Marietta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-marion" alt="Marion WIC Programs" title="Marion WIC Clinics & Offices">Marion WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-marysville" alt="Marysville WIC Programs" title="Marysville WIC Clinics & Offices">Marysville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-massillon" alt="Massillon WIC Programs" title="Massillon WIC Clinics & Offices">Massillon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-mc_arthur" alt="Mc Arthur WIC Programs" title="Mc Arthur WIC Clinics & Offices">Mc Arthur WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-medina" alt="Medina WIC Programs" title="Medina WIC Clinics & Offices">Medina WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-mesopotamia" alt="Mesopotamia WIC Programs" title="Mesopotamia WIC Clinics & Offices">Mesopotamia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-middleburg_heights" alt="Middleburg Heights WIC Programs" title="Middleburg Heights WIC Clinics & Offices">Middleburg Heights WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-middlefield" alt="Middlefield WIC Programs" title="Middlefield WIC Clinics & Offices">Middlefield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-middletown" alt="Middletown WIC Programs" title="Middletown WIC Clinics & Offices">Middletown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-millersburg" alt="Millersburg WIC Programs" title="Millersburg WIC Clinics & Offices">Millersburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-montpelier" alt="Montpelier WIC Programs" title="Montpelier WIC Clinics & Offices">Montpelier WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-mt_vernon" alt="Mt Vernon WIC Programs" title="Mt Vernon WIC Clinics & Offices">Mt Vernon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-mt._gilead" alt="Mt. Gilead WIC Programs" title="Mt. Gilead WIC Clinics & Offices">Mt. Gilead WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-murray_city" alt="Murray City WIC Programs" title="Murray City WIC Clinics & Offices">Murray City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-napoleon" alt="Napoleon WIC Programs" title="Napoleon WIC Clinics & Offices">Napoleon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-navarre" alt="Navarre WIC Programs" title="Navarre WIC Clinics & Offices">Navarre WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-new_carlisle" alt="New Carlisle WIC Programs" title="New Carlisle WIC Clinics & Offices">New Carlisle WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-new_lexington" alt="New Lexington WIC Programs" title="New Lexington WIC Clinics & Offices">New Lexington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-newark" alt="Newark WIC Programs" title="Newark WIC Clinics & Offices">Newark WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-newton_falls" alt="Newton Falls WIC Programs" title="Newton Falls WIC Clinics & Offices">Newton Falls WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-north_baltimore" alt="North Baltimore WIC Programs" title="North Baltimore WIC Clinics & Offices">North Baltimore WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-northwood" alt="Northwood WIC Programs" title="Northwood WIC Clinics & Offices">Northwood WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-norwalk" alt="Norwalk WIC Programs" title="Norwalk WIC Clinics & Offices">Norwalk WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-orwell" alt="Orwell WIC Programs" title="Orwell WIC Clinics & Offices">Orwell WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-ottawa" alt="Ottawa WIC Programs" title="Ottawa WIC Clinics & Offices">Ottawa WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-oxford" alt="Oxford WIC Programs" title="Oxford WIC Clinics & Offices">Oxford WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-painesville" alt="Painesville WIC Programs" title="Painesville WIC Clinics & Offices">Painesville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-pataskala" alt="Pataskala WIC Programs" title="Pataskala WIC Clinics & Offices">Pataskala WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-paulding" alt="Paulding WIC Programs" title="Paulding WIC Clinics & Offices">Paulding WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-perrysburg" alt="Perrysburg WIC Programs" title="Perrysburg WIC Clinics & Offices">Perrysburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-piqua" alt="Piqua WIC Programs" title="Piqua WIC Clinics & Offices">Piqua WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-pomeroy" alt="Pomeroy WIC Programs" title="Pomeroy WIC Clinics & Offices">Pomeroy WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-port_clinton" alt="Port Clinton WIC Programs" title="Port Clinton WIC Clinics & Offices">Port Clinton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-portsmouth" alt="Portsmouth WIC Programs" title="Portsmouth WIC Clinics & Offices">Portsmouth WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-ravenna" alt="Ravenna WIC Programs" title="Ravenna WIC Clinics & Offices">Ravenna WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-richwood" alt="Richwood WIC Programs" title="Richwood WIC Clinics & Offices">Richwood WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-sandusky" alt="Sandusky WIC Programs" title="Sandusky WIC Clinics & Offices">Sandusky WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-scio" alt="Scio WIC Programs" title="Scio WIC Clinics & Offices">Scio WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-sebring" alt="Sebring WIC Programs" title="Sebring WIC Clinics & Offices">Sebring WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-shelby" alt="Shelby WIC Programs" title="Shelby WIC Clinics & Offices">Shelby WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-sidney" alt="Sidney WIC Programs" title="Sidney WIC Clinics & Offices">Sidney WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-south_charleston" alt="South Charleston WIC Programs" title="South Charleston WIC Clinics & Offices">South Charleston WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-springfield" alt="Springfield WIC Programs" title="Springfield WIC Clinics & Offices">Springfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-st_clairsville" alt="St Clairsville WIC Programs" title="St Clairsville WIC Clinics & Offices">St Clairsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-steubenville" alt="Steubenville WIC Programs" title="Steubenville WIC Clinics & Offices">Steubenville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-stow" alt="Stow WIC Programs" title="Stow WIC Clinics & Offices">Stow WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-struthers" alt="Struthers WIC Programs" title="Struthers WIC Clinics & Offices">Struthers WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-the_plains" alt="The Plains WIC Programs" title="The Plains WIC Clinics & Offices">The Plains WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-tiffin" alt="Tiffin WIC Programs" title="Tiffin WIC Clinics & Offices">Tiffin WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-toledo" alt="Toledo WIC Programs" title="Toledo WIC Clinics & Offices">Toledo WIC Clinics</a> <em>(7)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-troy" alt="Troy WIC Programs" title="Troy WIC Clinics & Offices">Troy WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-union_city" alt="Union City WIC Programs" title="Union City WIC Clinics & Offices">Union City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-upper_sandusky" alt="Upper Sandusky WIC Programs" title="Upper Sandusky WIC Clinics & Offices">Upper Sandusky WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-urbana" alt="Urbana WIC Programs" title="Urbana WIC Clinics & Offices">Urbana WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-van_wert" alt="Van Wert WIC Programs" title="Van Wert WIC Clinics & Offices">Van Wert WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-vermillion" alt="Vermillion WIC Programs" title="Vermillion WIC Clinics & Offices">Vermillion WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-wadsworth" alt="Wadsworth WIC Programs" title="Wadsworth WIC Clinics & Offices">Wadsworth WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-wapakoneta" alt="Wapakoneta WIC Programs" title="Wapakoneta WIC Clinics & Offices">Wapakoneta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-warren" alt="Warren WIC Programs" title="Warren WIC Clinics & Offices">Warren WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-washington_courthouse" alt="Washington Courthouse WIC Programs" title="Washington Courthouse WIC Clinics & Offices">Washington Courthouse WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-wauseon" alt="Wauseon WIC Programs" title="Wauseon WIC Clinics & Offices">Wauseon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-waverly" alt="Waverly WIC Programs" title="Waverly WIC Clinics & Offices">Waverly WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-west_carrollton" alt="West Carrollton WIC Programs" title="West Carrollton WIC Clinics & Offices">West Carrollton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-west_union" alt="West Union WIC Programs" title="West Union WIC Clinics & Offices">West Union WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-willard" alt="Willard WIC Programs" title="Willard WIC Clinics & Offices">Willard WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-willoughby" alt="Willoughby WIC Programs" title="Willoughby WIC Clinics & Offices">Willoughby WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-wilmington" alt="Wilmington WIC Programs" title="Wilmington WIC Clinics & Offices">Wilmington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-woodsfield" alt="Woodsfield WIC Programs" title="Woodsfield WIC Clinics & Offices">Woodsfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-wooster" alt="Wooster WIC Programs" title="Wooster WIC Clinics & Offices">Wooster WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-xenia" alt="Xenia WIC Programs" title="Xenia WIC Clinics & Offices">Xenia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-youngstown" alt="Youngstown WIC Programs" title="Youngstown WIC Clinics & Offices">Youngstown WIC Clinics</a> <em>(4)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-zanesville" alt="Zanesville WIC Programs" title="Zanesville WIC Clinics & Offices">Zanesville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/oh-parma" alt="Parma WIC Programs" title="Parma WIC Clinics & Offices">Parma WIC Clinics</a> 					</li>
+					</ul>
+
+			</div><!-- /.side-box -->
+
+<!-- Top cities end -->            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/state/ohio" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+
+
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<!-- Breadcrumb Start-->
+<a href="http://www.wicprograms.org">WIC Programs</a> &raquo; Ohio
+<!-- Breadcrumb End-->			
+			<div id="headline">
+
+                <h2>Ohio WIC Clinics and Offices</h2>
+    
+			
+			</div><!-- /headline -->
+
+                <p>We have listed out all of the cities where we have located WIC Clinics and Offices in Ohio. We are constantly adding new clinics and office locations as we find them. If you know of any WIC locations that we are not providing on the website, please go to the <a href="http://www.wicprograms.org/listing_add.php">ADD A WIC Location</a> page to help us add to our resource. </p>
+<br />
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-2985566993569762";
+			/* 336x280, created 9/22/11 */
+			google_ad_slot = "1876671469";
+			google_ad_width = 336;
+			google_ad_height = 280;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			
+			<!-- City search form start -->
+			<form action="http://www.wicprograms.org/city.php">
+				<h2>WIC Programs By City: </h2><br />
+				Type city name:<br />
+				<input name="city" size="40" type="text"/>
+				<input name="st" type="hidden" value="OH"/>
+				<input name="submit" value="Search for city" type="submit" />
+			</form>
+			<!-- City search form end -->
+            
+			<br /><br />
+			<h1>Ohio WIC Program Overview</h1>
+						
+			<p>
+			    The Special Supplemental Nutrition Program for Women, Infants, and Children - better known as the WIC Program - serves to safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care.
+				
+			    <br /><br />
+			
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+<br />
+		
+
+			
+			
+				<br /><strong>Ohio WIC Food Packages</strong> <br />
+
+				The WIC food packages provide supplemental foods designed to meet the special nutritional needs of low-income pregnant, breastfeeding, non-breastfeeding postpartum women, infants and children up to five years of age who are at nutritional risk. WIC food packages and nutrition education are the chief means by which WIC affects the dietary quality and habits of participants.  <br /> <br />
+
+				New food packages are now being provided to WIC participants in all States.  On December 6, 2007,  an interim rule revising the WIC food packages was published in the Federal Register. The new food packages align with the 2005 Dietary Guidelines for Americans and infant feeding practice guidelines of the American Academy of Pediatrics. The food packages better promote and support the establishment of successful, long-term breastfeeding, provide WIC participants with a wider variety of foods including fruits and vegetables and whole grains, and provide WIC State agencies greater flexibility in prescribing food packages to accommodate the cultural food preferences of WIC participants.  An interim rule allows the Food and Nutrition Service to obtain feedback on the revisions while allowing implementation to move forward. The interim rule comment period ended on February 1, 2010. FNS is currently reviewing and analyzing comments and expects to promulgate a final rule in February 2011.
+
+				<br />
+
+					<br /><strong>Ohio WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br /><br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+			
+			
+			
+			
+			
+			
+			            
+					<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/summit_lake_wic_44311">Summit Lake Wic - Akron</a></h5>
+		Akron, OH - 44311<br />
+		330-375-2641<br />
+		Monday to Friday 8:00 am - 4:30 pmTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is...<br />
+                 <a href="http://www.wicprograms.org/li/summit_lake_wic_44311">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/wiliams_county_health_department_bryan_city_wic_Bryan">Wiliams County Health Department - Bryan City Wic - 1399 E. High St.</a></h5>
+		1399 E. High St., OH - Bryan<br />
+		43506<br />
+		419-636-8754To Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is used to apply for Hea...<br />
+                 <a href="http://www.wicprograms.org/li/wiliams_county_health_department_bryan_city_wic_Bryan">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/merriman_road_wic_program_Akron">Merriman Road Wic Program - 66 Merriman Road</a></h5>
+		66 Merriman Road, OH - Akron<br />
+		44303<br />
+		330-375-2142To Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is used to apply for Hea...<br />
+                 <a href="http://www.wicprograms.org/li/merriman_road_wic_program_Akron">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/wiliams_county_health_department_montpelier_43543">Wiliams County Health Department - Montpelier - Montpelier</a></h5>
+		Montpelier, OH - 43543<br />
+		419-485-3141<br />
+		Monday, Thursday and Friday 8:30AM to 4:30PM; Wednesday  8:30AM - 5:30PMTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio govern...<br />
+                 <a href="http://www.wicprograms.org/li/wiliams_county_health_department_montpelier_43543">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/barberton_health_department_wic_44203">Barberton Health Department Wic - Barberton</a></h5>
+		Barberton, OH - 44203<br />
+		330-753-5426<br />
+		Monday to Friday 8:00 am - 4:30 pmTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is...<br />
+                 <a href="http://www.wicprograms.org/li/barberton_health_department_wic_44203">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/wayne_county_wic_program_44691">Wayne County Wic Program - Wooster</a></h5>
+		Wooster, OH - 44691<br />
+		330-264-1942<br />
+		Monday 8:00 am - 6:30 pm; Tuesday thru Friday 8:00 am - 4:30 pmTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government webs...<br />
+                 <a href="http://www.wicprograms.org/li/wayne_county_wic_program_44691">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/belpre_wic_45714">Belpre Wic - Belpre</a></h5>
+		Belpre, OH - 45714<br />
+		740-423-6719<br />
+		Monday 9:00 AM to 3:30 PMTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is used to ...<br />
+                 <a href="http://www.wicprograms.org/li/belpre_wic_45714">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/washington_morgan_county_wic_program_45750">Washington, Morgan County Wic Program - Marietta</a></h5>
+		Marietta, OH - 45750<br />
+		740-374-8501<br />
+		Monday to Friday 8:00 am - 4:00 pmTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is...<br />
+                 <a href="http://www.wicprograms.org/li/washington_morgan_county_wic_program_45750">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/massillon_city_health_department_wic_program_44646">Massillon City Health Department Wic Program - Massillon</a></h5>
+		Massillon, OH - 44646<br />
+		330-830-1715<br />
+		Monday to Friday 8:30 am - 4:30 pmTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is...<br />
+                 <a href="http://www.wicprograms.org/li/massillon_city_health_department_wic_program_44646">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/stark_navarre_44662">Stark Navarre - Navarre</a></h5>
+		Navarre, OH - 44662<br />
+		330-879-5300<br />
+		1st & 2nd Monday 8:30AM to 4:00PMTo Apply for WIC online in Ohio Follow this link to the online application. Ohio online WIC Application. This is the Ohio government website. This same application is ...<br />
+                 <a href="http://www.wicprograms.org/li/stark_navarre_44662">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->
+
+
+                
+			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2011 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

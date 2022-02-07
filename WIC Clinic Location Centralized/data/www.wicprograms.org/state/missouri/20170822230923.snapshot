@@ -1,0 +1,1527 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Missouri WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Missouri Programs,Missouri WIC Clinics,Missouri WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Missouri WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Missouri
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Missouri on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Missouri</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-advance">Advance</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-alton">Alton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-annapolis">Annapolis</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-appleton_city">Appleton City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-arnold">Arnold</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-aurora">Aurora</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-ava">Ava</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bell_city">Bell City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-belton">Belton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-berkeley">Berkeley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bernie">Bernie</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bethany">Bethany</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-birch_tree">Birch Tree</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bloomfield">Bloomfield</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-blue_springs">Blue Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bolivar">Bolivar</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-boonville">Boonville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bourbon">Bourbon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-bowling_green">Bowling Green</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-braymer">Braymer</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-brookfield">Brookfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-brunswick">Brunswick</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-buffalo">Buffalo</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-butler">Butler</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-cabool">Cabool</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-california">California</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-camdenton">Camdenton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-canton">Canton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-cape_girardeau">Cape Girardeau</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-carrolton">Carrolton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-carterville">Carterville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-cassville">Cassville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-centerville">Centerville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-chaffee">Chaffee</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-clinton">Clinton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-cole_camp">Cole Camp</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-columbia">Columbia</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-concordia">Concordia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-crocker">Crocker</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-doniphan">Doniphan</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-east_prairie">East Prairie</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-edina">Edina</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-el_dorado_springs">El Dorado Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-eminence">Eminence</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-excelsior_springs">Excelsior Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-fayette">Fayette</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-florissant">Florissant</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-forsyth">Forsyth</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-fredericktown">Fredericktown</a>
+												<em>(5)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-fulton">Fulton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-gainesville">Gainesville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-galena">Galena</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-gallatin">Gallatin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-gideon">Gideon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-granby">Granby</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-grandview">Grandview</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-greenfield">Greenfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hale">Hale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hamilton">Hamilton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hannibal">Hannibal</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-harrisonville">Harrisonville</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hartville">Hartville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hazelwood">Hazelwood</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hermann">Hermann</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hermitage">Hermitage</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-higginsville">Higginsville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-holden">Holden</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-hollister">Hollister</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-houston">Houston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-independence">Independence</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-ironton">Ironton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-jackson">Jackson</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-jefferson_city">Jefferson City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-joplin">Joplin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-kahoka">Kahoka</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-kansas_city">Kansas City</a>
+												<em>(13)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-kennett">Kennett</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-keytesville">Keytesville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-kingston">Kingston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-kirsville">Kirsville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-knob_noster">Knob Noster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-lamar">Lamar</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-lancaster">Lancaster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-lebanon">Lebanon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-lexington">Lexington</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-liberty">Liberty</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-licking">Licking</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-linn">Linn</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-lockwood">Lockwood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-macon">Macon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-malden">Malden</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-marble_hill">Marble Hill</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-marquand">Marquand</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-marshall">Marshall</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-marshfield">Marshfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-maryville">Maryville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-memphis">Memphis</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-mexico">Mexico</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-milan">Milan</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-moberly">Moberly</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-monett">Monett</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-monroe_city">Monroe City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-monticello">Monticello</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-mount_vernon">Mount Vernon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-mountain_grove">Mountain Grove</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-mountain_view">Mountain View</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-neelyville">Neelyville</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-neosho">Neosho</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-nevada">Nevada</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-new_london">New London</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-noel">Noel</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-o'fallon">O'Fallon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-odessa">Odessa</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-oregon">Oregon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-osceola">Osceola</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-owensville">Owensville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-ozark">Ozark</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-paris">Paris</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-park_hills">Park Hills</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-patton">Patton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-perryville">Perryville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-piedmont">Piedmont</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-pine_lawn">Pine Lawn</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-pineville">Pineville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-pittsburg">Pittsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-platte_city">Platte City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-plattsburg">Plattsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-poplar_bluff">Poplar Bluff</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-portageville">Portageville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-potosi">Potosi</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-princeton">Princeton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-puxico">Puxico</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-reeds_spring">Reeds Spring</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-republic">Republic</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-richmond">Richmond</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-risco">Risco</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-rolla">Rolla</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-saint_charles">Saint Charles</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-saint_joseph">Saint Joseph</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-saint_louis">Saint Louis</a>
+												<em>(23)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-sainte_genevieve">Sainte Genevieve</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-salem">Salem</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-savannah">Savannah</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-sedalia">Sedalia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-seligman">Seligman</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-seneca">Seneca</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-seymour">Seymour</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-shelbyville">Shelbyville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-shell_knob">Shell Knob</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-sikeston">Sikeston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-south_west_city">South West City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-springfield">Springfield</a>
+												<em>(8)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-st_joseph">St Joseph</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-st_louis">St Louis</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-st._louis">St. Louis</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-stanberry">Stanberry</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-steelville">Steelville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-stockton">Stockton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-tarkio">Tarkio</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-thayer">Thayer</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-trenton">Trenton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-troy">Troy</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-tuscumbia">Tuscumbia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-union">Union</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-unionville">Unionville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-urbana">Urbana</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-van_buren">Van Buren</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-vandalia">Vandalia</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-versailles">Versailles</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-viburnum">Viburnum</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-warrensburg">Warrensburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-warrenton">Warrenton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-warsaw">Warsaw</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-waynesville">Waynesville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-west_plains">West Plains</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-willard">Willard</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mo-willow_springs">Willow Springs</a>
+												<em>(1)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/64477_clinton_county_health_department" title="Clinton County Health Department">Clinton County Health Department</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/64477_clinton_county_health_department" title=""><img src="http://www.wicprograms.org/gallery/7058_64477_clinton_county_health_department_phz.jpg" alt="Clinton County Health Department"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    106 Bush St.<br />
+                    Plattsburg, MO - 64477<br />
+                    (816) 539-2144<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/64477_clinton_county_health_department">Website</a></span>            </div>
+            <p>The Clinton County Health Department provides WIC Services in Plattsburg on the First Thursday, and Second Wednesday. WIC Services are provided in Cameron on the Second Tuesday, Second Thursday, and Fourth Tuesday. WIC Services are provided in lathrop, MO on the third Thursday. Appointments are requ</p>
+            <a href="http://www.wicprograms.org/li/64477_clinton_county_health_department" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/64050_independence" title="Independence WIC Office">Independence WIC Office</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/64050_independence" title=""><img src="http://www.wicprograms.org/gallery/7101_64050_independence_gdu.jpg" alt="Independence WIC Office"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    529 E. Highway 24<br />
+                    Independence, MO - 64050<br />
+                    (816) 404-6460<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/64050_independence">Website</a></span>            </div>
+            <p>Office hours  8-4:30 M-FWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants with nutritious food</p>
+            <a href="http://www.wicprograms.org/li/64050_independence" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/people-maplewood" title="People's Health Center WIC West Side St Louis">People's Health Center WIC West Side St Louis</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/people-maplewood" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="People's Health Center WIC West Side St Louis"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    7200 Manchester<br />
+                    Saint Louis, MO - 63143<br />
+                    (314) 781-6945<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/people-maplewood">Website</a></span>            </div>
+            <p>Monday, Tuesday, Wednesday &amp; Friday: 8:30 am to 5:00 pmThursday: 11:30 am to 7:30 pm. Apply for WICApplication to the WIC Program is by appointment only. During a WIC appointment:&nbsp;&nbsp;&nbsp; An income assessment is completed.&nbsp;&nbsp;&nbsp; A nutrition assessment is completed.&nbsp;&nb</p>
+            <a href="http://www.wicprograms.org/li/people-maplewood" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/63456_monroe_city_christian_church" title="Monroe City Christian Church">Monroe City Christian Church</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/63456_monroe_city_christian_church" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Monroe City Christian Church"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    214 Court Street<br />
+                    Monroe City, MO - 63456<br />
+                    (660) 327-4653<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/63456_monroe_city_christian_church">Website</a></span>            </div>
+            <p>Office hours  8:30-4 1st &amp; 4th Tues.What is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants with</p>
+            <a href="http://www.wicprograms.org/li/63456_monroe_city_christian_church" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/65806_tom_watkins_clinic" title="Tom Watkins Clinic">Tom Watkins Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/65806_tom_watkins_clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Tom Watkins Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    2100 High Street<br />
+                    Springfield, MO - 65806<br />
+                    (417) 851-1581<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/65806_tom_watkins_clinic">Website</a></span>            </div>
+            <p>=Office hours  8am-5pm, 3rd Monday of each monthWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participa</p>
+            <a href="http://www.wicprograms.org/li/65806_tom_watkins_clinic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/64489_tri-county_health_department" title="Tri-County Health Department">Tri-County Health Department</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/64489_tri-county_health_department" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Tri-County Health Department"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    302 N. Park St.<br />
+                    Stanberry, MO - 64489<br />
+                    (660) 783-2707<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/64489_tri-county_health_department">Website</a></span>            </div>
+            <p>Office hours  8-3:30 Every WednesdayWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants with nut</p>
+            <a href="http://www.wicprograms.org/li/64489_tri-county_health_department" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/64139_truman_medical_centers" title="Truman Medical Centers">Truman Medical Centers</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/64139_truman_medical_centers" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Truman Medical Centers"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    7900 Lee's Summit Rd.<br />
+                    Kansas City, MO - 64139<br />
+                    (816) 404-9740<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/64139_truman_medical_centers">Website</a></span>            </div>
+            <p>Office hours  8-4:30 M-FWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants with nutritious food</p>
+            <a href="http://www.wicprograms.org/li/64139_truman_medical_centers" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/64076_united_methodist_church" title="United Methodist Church">United Methodist Church</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/64076_united_methodist_church" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="United Methodist Church"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    303 1st St.<br />
+                    Odessa, MO - 64076<br />
+                    (660) 259-3823<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/64076_united_methodist_church">Website</a></span>            </div>
+            <p>Office hours 9-4 2nd &amp; 4th ThursWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants with nut</p>
+            <a href="http://www.wicprograms.org/li/64076_united_methodist_church" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/63042_village_square_wic_site" title="Village Square WIC Site">Village Square WIC Site</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/63042_village_square_wic_site" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Village Square WIC Site"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    #21 A Village Square<br />
+                    Hazelwood, MO - 63042<br />
+                    (314) 679-7900<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/63042_village_square_wic_site">Website</a></span>            </div>
+            <p>Office hours  8-4:30 M-F Call for appointmentWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants</p>
+            <a href="http://www.wicprograms.org/li/63042_village_square_wic_site" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/64772_vernon_county_health_department_1" title="Vernon County Health Department 1">Vernon County Health Department 1</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/64772_vernon_county_health_department_1" title=""><img src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=37.8402429,-94.3552305&fov=90&heading=235&pitch=10" alt="Vernon County Health Department 1"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    301 N. Washington<br />
+                    Nevada, MO - 64772<br />
+                    (417) 667-8447<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/64772_vernon_county_health_department_1">Website</a></span>            </div>
+            <p>Office hours  8-6 Tue &amp; ThursWhat is WIC?WIC is a supplemental nutrition program for women, infants and children. WIC helps to prevent health problems and improve the health status of participants through good nutrition. The WIC Program supplements the diets of qualified participants with nutrit</p>
+            <a href="http://www.wicprograms.org/li/64772_vernon_county_health_department_1" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                                                         
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/64477_clinton_county_health_department">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/7058_64477_clinton_county_health_department_phz.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/64477_clinton_county_health_department">Clinton County Health Department</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Plattsburg,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/64050_independence">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/7101_64050_independence_gdu.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/64050_independence">Independence WIC Office</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Independence,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/people-maplewood">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/people-maplewood">People's Health Center WIC West Side St Louis</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Saint Louis,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/63456_monroe_city_christian_church">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/63456_monroe_city_christian_church">Monroe City Christian Church</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Monroe City,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/65806_tom_watkins_clinic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/65806_tom_watkins_clinic">Tom Watkins Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Springfield,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/64489_tri-county_health_department">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/64489_tri-county_health_department">Tri-County Health Department</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Stanberry,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/64139_truman_medical_centers">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/64139_truman_medical_centers">Truman Medical Centers</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Kansas City,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/64076_united_methodist_church">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/64076_united_methodist_church">United Methodist Church</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Odessa,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/63042_village_square_wic_site">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/63042_village_square_wic_site">Village Square WIC Site</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Hazelwood,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/64772_vernon_county_health_department_1">
+							<img width="90" height="75" src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=37.8402429,-94.3552305&fov=90&heading=235&pitch=10" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/64772_vernon_county_health_department_1">Vernon County Health Department 1</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Nevada,MO</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2017</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

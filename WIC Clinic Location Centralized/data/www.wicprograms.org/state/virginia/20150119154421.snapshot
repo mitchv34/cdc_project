@@ -1,0 +1,594 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Virginia WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Virginia Programs,Virginia WIC Clinics,Virginia WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Virginia WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Virginia
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Virginia WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Virginia on the right. Find your local WIC location using our Virginia search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Virginia City: </h2>
+		
+			<b>Enter city name in Virginia</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="VA" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Virginia WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/larke_county_health_department_wic_22611" title="Clarke County Health Department WIC">Clarke County Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/larke_county_health_department_wic_22611" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Clarke County Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                100 North Buckmarsh St.<br />
+                Berryville, VA - 22611<br />
+                (540) 955-1033<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/larke_county_health_department_wic_22611">Website</a></span>            </div>
+			<p>If the Clarke County Health Department WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WIC office and make an appointment. At the appointment, the client will be weighed, measur</p>
+            <a href="http://www.wicprograms.org/li/larke_county_health_department_wic_22611" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/frederick_winchester_health_department_wic_22601" title="Frederick Winchester Health Department WIC">Frederick Winchester Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/frederick_winchester_health_department_wic_22601" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Frederick Winchester Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                10 Baker St<br />
+                Winchester, VA - 22601<br />
+                540-777-3470<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/frederick_winchester_health_department_wic_22601">Website</a></span>            </div>
+			<p>If the Frederick Winchester Health Department WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WIC office and make an appointment. At the appointment, the client will be weighed,</p>
+            <a href="http://www.wicprograms.org/li/frederick_winchester_health_department_wic_22601" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/page_county_health_department_wic_22835" title="Page County Health Department WIC">Page County Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/page_county_health_department_wic_22835" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Page County Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                75 Court Lane Luray<br />
+                Luray, VA - 22835<br />
+                (540) 743 6528<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/page_county_health_department_wic_22835">Website</a></span>            </div>
+			<p>If the Page County Health Department WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WIC office and make an appointment. At the appointment, the client will be weighed, measured</p>
+            <a href="http://www.wicprograms.org/li/page_county_health_department_wic_22835" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/shenandoah_county_health_department_wic_22664" title="Shenandoah County Health Department WIC">Shenandoah County Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/shenandoah_county_health_department_wic_22664" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Shenandoah County Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                494 N. Main Street #100<br />
+                Woodstock, VA - 22664<br />
+                (540) 459-6957<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/shenandoah_county_health_department_wic_22664">Website</a></span>            </div>
+			<p>If the Shenandoah County Health Department WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WIC office and make an appointment. At the appointment, the client will be weighed, me</p>
+            <a href="http://www.wicprograms.org/li/shenandoah_county_health_department_wic_22664" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/warren_county_health_department_wic_22630" title="Warren County Health Department WIC">Warren County Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/warren_county_health_department_wic_22630" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Warren County Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                134 Peyton St.<br />
+                Front Royal, VA - 22630<br />
+                (540) 635-3159<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/warren_county_health_department_wic_22630">Website</a></span>            </div>
+			<p>If the Warren County Health Department WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WIC office and make an appointment. At the appointment, the client will be weighed, measur</p>
+            <a href="http://www.wicprograms.org/li/warren_county_health_department_wic_22630" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/va_23607_east-end-health-facility-wic-clinic" title="East End Health Facility WIC Clinic">East End Health Facility WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/va_23607_east-end-health-facility-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/6461_va_23607_east-end-health-facility-wic-clinic_mga.jpg" alt="East End Health Facility WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1033 28th Street<br />
+                Newport News, VA - 23607<br />
+                (757) 247-2184<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/va_23607_east-end-health-facility-wic-clinic">Website</a></span>            </div>
+			<p>WIC Clinic only. Location: In  the Peninsula Institute for Community Health  (PICH) East End Physicians/Community Dental Services building.What to bring to your appointment&nbsp;&nbsp;&nbsp; Your child must come with you if the appointment is for him or her.&nbsp;&nbsp;&nbsp; Proof of INCOME for ent</p>
+            <a href="http://www.wicprograms.org/li/va_23607_east-end-health-facility-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/williamsburg_area_office_wic_23185" title="Williamsburg Area Office WIC">Williamsburg Area Office WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/williamsburg_area_office_wic_23185" title=""><img src="http://www.wicprograms.org/gallery/4792_williamsburg_area_office_wic_23185_vlf.jpg" alt="Williamsburg Area Office WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                4095 Ironbound Road<br />
+                Williamsburg, VA - 23188<br />
+                (757) 253-4741<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/williamsburg_area_office_wic_23185">Website</a></span>            </div>
+			<p>Located in the Courthouse Green, behind the James City County/Williamsburg Courthouse.If the Williamsburg Area Office WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WIC office </p>
+            <a href="http://www.wicprograms.org/li/williamsburg_area_office_wic_23185" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/york_denbigh_wic_23608" title="York Denbigh WIC">York Denbigh WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/york_denbigh_wic_23608" title=""><img src="http://www.wicprograms.org/gallery/4794_york_denbigh_wic_23608_wnc.jpg" alt="York Denbigh WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                606 Denbigh Blvd.  Ste 304<br />
+                Newport News, VA - 23608<br />
+                (757) 886-2810<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/york_denbigh_wic_23608">Website</a></span>            </div>
+			<p>Location: In  the Denbigh Professional Park near the intersection of Denbigh Boulevard and Jefferson AvenueIf the York Denbigh WIC is the closest WIC office to your home, please call to make an appointment to apply or ask for a closer WIC location to your home. To apply for WIC, just call a local WI</p>
+            <a href="http://www.wicprograms.org/li/york_denbigh_wic_23608" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/healthworks-for-northern-virginia" title="HealthWorks for Northern Virginia">HealthWorks for Northern Virginia</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/healthworks-for-northern-virginia" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="HealthWorks for Northern Virginia"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1141 Elden Street<br />
+                Herndon, VA - 20170<br />
+                (703) 435-6832<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/healthworks-for-northern-virginia">Website</a></span>            </div>
+			<p>Monday - Friday
+8 a.m. to 4:30 p.m.</p>
+            <a href="http://www.wicprograms.org/li/healthworks-for-northern-virginia" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fort-belvoir-army-community-services" title="Fort Belvoir - Army Community Services">Fort Belvoir - Army Community Services</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fort-belvoir-army-community-services" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Fort Belvoir - Army Community Services"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                9800 Belvoir Road, Building 200<br />
+                Fort Belvoir, VA - 22060<br />
+                (703) 781-6509<br />
+		                </p>                       
+                                            </div>
+			<p>Monday, Wednesday, Friday
+8:00 a.m. to 4:30 p.m.</p>
+            <a href="http://www.wicprograms.org/li/fort-belvoir-army-community-services" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Virginia Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/va-accomac" alt="Accomac WIC Programs" title="Accomac WIC Programs">Accomac <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-alexandria" alt="Alexandria WIC Programs" title="Alexandria WIC Programs">Alexandria <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-amelia" alt="Amelia WIC Programs" title="Amelia WIC Programs">Amelia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-amherst" alt="Amherst WIC Programs" title="Amherst WIC Programs">Amherst <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-annandale" alt="Annandale WIC Programs" title="Annandale WIC Programs">Annandale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-appomattox" alt="Appomattox WIC Programs" title="Appomattox WIC Programs">Appomattox <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-arlington" alt="Arlington WIC Programs" title="Arlington WIC Programs">Arlington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-ashland" alt="Ashland WIC Programs" title="Ashland WIC Programs">Ashland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-bedford" alt="Bedford WIC Programs" title="Bedford WIC Programs">Bedford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-berryville" alt="Berryville WIC Programs" title="Berryville WIC Programs">Berryville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-bland" alt="Bland WIC Programs" title="Bland WIC Programs">Bland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-boydton" alt="Boydton WIC Programs" title="Boydton WIC Programs">Boydton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-bristol" alt="Bristol WIC Programs" title="Bristol WIC Programs">Bristol <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-buckingham" alt="Buckingham WIC Programs" title="Buckingham WIC Programs">Buckingham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-buena_vista" alt="Buena Vista WIC Programs" title="Buena Vista WIC Programs">Buena Vista <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-centreville" alt="Centreville WIC Programs" title="Centreville WIC Programs">Centreville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-charles_city" alt="Charles City WIC Programs" title="Charles City WIC Programs">Charles City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-charlotte_courthouse" alt="Charlotte Courthouse WIC Programs" title="Charlotte Courthouse WIC Programs">Charlotte Courthouse <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-charlottesville" alt="Charlottesville WIC Programs" title="Charlottesville WIC Programs">Charlottesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-chatham" alt="Chatham WIC Programs" title="Chatham WIC Programs">Chatham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-cheasapeake" alt="Cheasapeake WIC Programs" title="Cheasapeake WIC Programs">Cheasapeake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-chesapeake" alt="Chesapeake WIC Programs" title="Chesapeake WIC Programs">Chesapeake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-chesterfield" alt="Chesterfield WIC Programs" title="Chesterfield WIC Programs">Chesterfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-christianburg" alt="Christianburg WIC Programs" title="Christianburg WIC Programs">Christianburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-clifton_forge" alt="Clifton Forge WIC Programs" title="Clifton Forge WIC Programs">Clifton Forge <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-clintwood" alt="Clintwood WIC Programs" title="Clintwood WIC Programs">Clintwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-colonial_heights" alt="Colonial Heights WIC Programs" title="Colonial Heights WIC Programs">Colonial Heights <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-courtland" alt="Courtland WIC Programs" title="Courtland WIC Programs">Courtland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-covington" alt="Covington WIC Programs" title="Covington WIC Programs">Covington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-culpeper" alt="Culpeper WIC Programs" title="Culpeper WIC Programs">Culpeper <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-cumberland" alt="Cumberland WIC Programs" title="Cumberland WIC Programs">Cumberland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-danville" alt="Danville WIC Programs" title="Danville WIC Programs">Danville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-dinwiddie" alt="Dinwiddie WIC Programs" title="Dinwiddie WIC Programs">Dinwiddie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-emporia" alt="Emporia WIC Programs" title="Emporia WIC Programs">Emporia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-falls_church" alt="Falls Church WIC Programs" title="Falls Church WIC Programs">Falls Church <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-farmville" alt="Farmville WIC Programs" title="Farmville WIC Programs">Farmville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-fincastle" alt="Fincastle WIC Programs" title="Fincastle WIC Programs">Fincastle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-floyd" alt="Floyd WIC Programs" title="Floyd WIC Programs">Floyd <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-fort_belvoir" alt="Fort Belvoir WIC Programs" title="Fort Belvoir WIC Programs">Fort Belvoir <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-franklin" alt="Franklin WIC Programs" title="Franklin WIC Programs">Franklin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-fredericksburg" alt="Fredericksburg WIC Programs" title="Fredericksburg WIC Programs">Fredericksburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-front_royal" alt="Front Royal WIC Programs" title="Front Royal WIC Programs">Front Royal <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-galax" alt="Galax WIC Programs" title="Galax WIC Programs">Galax <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-gate_city" alt="Gate City WIC Programs" title="Gate City WIC Programs">Gate City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-gloucester" alt="Gloucester WIC Programs" title="Gloucester WIC Programs">Gloucester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-grundy" alt="Grundy WIC Programs" title="Grundy WIC Programs">Grundy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-halifax" alt="Halifax WIC Programs" title="Halifax WIC Programs">Halifax <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-hampton" alt="Hampton WIC Programs" title="Hampton WIC Programs">Hampton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-harrisonburg" alt="Harrisonburg WIC Programs" title="Harrisonburg WIC Programs">Harrisonburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-heathsville" alt="Heathsville WIC Programs" title="Heathsville WIC Programs">Heathsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-herndon" alt="Herndon WIC Programs" title="Herndon WIC Programs">Herndon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-hillsville" alt="Hillsville WIC Programs" title="Hillsville WIC Programs">Hillsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-hopewell" alt="Hopewell WIC Programs" title="Hopewell WIC Programs">Hopewell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-independence" alt="Independence WIC Programs" title="Independence WIC Programs">Independence <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-jonesville" alt="Jonesville WIC Programs" title="Jonesville WIC Programs">Jonesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-king_&_queen_courthouse" alt="King & Queen CourtHouse WIC Programs" title="King & Queen CourtHouse WIC Programs">King & Queen CourtHouse <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-king_george" alt="King George WIC Programs" title="King George WIC Programs">King George <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-king_william" alt="King William WIC Programs" title="King William WIC Programs">King William <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Programs">Lancaster <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lawrenceville" alt="Lawrenceville WIC Programs" title="Lawrenceville WIC Programs">Lawrenceville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lebanon" alt="Lebanon WIC Programs" title="Lebanon WIC Programs">Lebanon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lexington" alt="Lexington WIC Programs" title="Lexington WIC Programs">Lexington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-louisa" alt="Louisa WIC Programs" title="Louisa WIC Programs">Louisa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lovingston" alt="Lovingston WIC Programs" title="Lovingston WIC Programs">Lovingston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lunenburg" alt="Lunenburg WIC Programs" title="Lunenburg WIC Programs">Lunenburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-luray" alt="Luray WIC Programs" title="Luray WIC Programs">Luray <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-lynchburg" alt="Lynchburg WIC Programs" title="Lynchburg WIC Programs">Lynchburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-madison" alt="Madison WIC Programs" title="Madison WIC Programs">Madison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-manassas" alt="Manassas WIC Programs" title="Manassas WIC Programs">Manassas <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-martinsville" alt="Martinsville WIC Programs" title="Martinsville WIC Programs">Martinsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-mathews" alt="Mathews WIC Programs" title="Mathews WIC Programs">Mathews <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-milford" alt="Milford WIC Programs" title="Milford WIC Programs">Milford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-monterey" alt="Monterey WIC Programs" title="Monterey WIC Programs">Monterey <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-nassawadox" alt="Nassawadox WIC Programs" title="Nassawadox WIC Programs">Nassawadox <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-new_castle" alt="New Castle WIC Programs" title="New Castle WIC Programs">New Castle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-new_kent" alt="New Kent WIC Programs" title="New Kent WIC Programs">New Kent <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-newport_news" alt="Newport News WIC Programs" title="Newport News WIC Programs">Newport News <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-norfolk" alt="Norfolk WIC Programs" title="Norfolk WIC Programs">Norfolk <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-nottoway" alt="Nottoway WIC Programs" title="Nottoway WIC Programs">Nottoway <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-orange" alt="Orange WIC Programs" title="Orange WIC Programs">Orange <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-palmyra" alt="Palmyra WIC Programs" title="Palmyra WIC Programs">Palmyra <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-pearisburg" alt="Pearisburg WIC Programs" title="Pearisburg WIC Programs">Pearisburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-petersburg" alt="Petersburg WIC Programs" title="Petersburg WIC Programs">Petersburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-portsmouth" alt="Portsmouth WIC Programs" title="Portsmouth WIC Programs">Portsmouth <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-powhatan" alt="Powhatan WIC Programs" title="Powhatan WIC Programs">Powhatan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-prince_george" alt="Prince George WIC Programs" title="Prince George WIC Programs">Prince George <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-pulaski" alt="Pulaski WIC Programs" title="Pulaski WIC Programs">Pulaski <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-radford" alt="Radford WIC Programs" title="Radford WIC Programs">Radford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-richmond" alt="Richmond WIC Programs" title="Richmond WIC Programs">Richmond <em>(5)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-roanoke" alt="Roanoke WIC Programs" title="Roanoke WIC Programs">Roanoke <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-rocky_mount" alt="Rocky Mount WIC Programs" title="Rocky Mount WIC Programs">Rocky Mount <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-rustburg" alt="Rustburg WIC Programs" title="Rustburg WIC Programs">Rustburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-salem" alt="Salem WIC Programs" title="Salem WIC Programs">Salem <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-saluda" alt="Saluda WIC Programs" title="Saluda WIC Programs">Saluda <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-smithfield" alt="Smithfield WIC Programs" title="Smithfield WIC Programs">Smithfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-spotsylvania" alt="Spotsylvania WIC Programs" title="Spotsylvania WIC Programs">Spotsylvania <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-stafford" alt="Stafford WIC Programs" title="Stafford WIC Programs">Stafford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-stanardsville" alt="Stanardsville WIC Programs" title="Stanardsville WIC Programs">Stanardsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-staunton" alt="Staunton WIC Programs" title="Staunton WIC Programs">Staunton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-stuart" alt="Stuart WIC Programs" title="Stuart WIC Programs">Stuart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-suffolk" alt="Suffolk WIC Programs" title="Suffolk WIC Programs">Suffolk <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-surry" alt="Surry WIC Programs" title="Surry WIC Programs">Surry <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-sussex" alt="Sussex WIC Programs" title="Sussex WIC Programs">Sussex <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-tappahannock" alt="Tappahannock WIC Programs" title="Tappahannock WIC Programs">Tappahannock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-tazewell" alt="Tazewell WIC Programs" title="Tazewell WIC Programs">Tazewell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-vinton" alt="Vinton WIC Programs" title="Vinton WIC Programs">Vinton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-virginia_beach" alt="Virginia Beach WIC Programs" title="Virginia Beach WIC Programs">Virginia Beach <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-warm_springs" alt="Warm Springs WIC Programs" title="Warm Springs WIC Programs">Warm Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-warrenton" alt="Warrenton WIC Programs" title="Warrenton WIC Programs">Warrenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-warsaw" alt="Warsaw WIC Programs" title="Warsaw WIC Programs">Warsaw <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-washington" alt="Washington WIC Programs" title="Washington WIC Programs">Washington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-waynesboro" alt="Waynesboro WIC Programs" title="Waynesboro WIC Programs">Waynesboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-williamsburg" alt="Williamsburg WIC Programs" title="Williamsburg WIC Programs">Williamsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-winchester" alt="Winchester WIC Programs" title="Winchester WIC Programs">Winchester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-wise" alt="Wise WIC Programs" title="Wise WIC Programs">Wise <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-woodbridge" alt="Woodbridge WIC Programs" title="Woodbridge WIC Programs">Woodbridge <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-woodstock" alt="Woodstock WIC Programs" title="Woodstock WIC Programs">Woodstock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/va-wytheville" alt="Wytheville WIC Programs" title="Wytheville WIC Programs">Wytheville <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2015 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

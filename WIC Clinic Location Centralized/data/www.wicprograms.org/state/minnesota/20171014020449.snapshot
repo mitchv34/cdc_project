@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Minnesota WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Minnesota Programs,Minnesota WIC Clinics,Minnesota WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Minnesota WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Minnesota
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Minnesota on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Minnesota</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-ada">Ada</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-aitkin">Aitkin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-albert_lea">Albert Lea</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-alexandria">Alexandria</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-anoka">Anoka</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-apple_valley">Apple Valley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-austin">Austin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-baudette">Baudette</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-bemidji">Bemidji</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-benson">Benson</a>
+												<em>(6)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-bloomington">Bloomington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-blue_earth">Blue Earth</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-brainerd">Brainerd</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-breckenridge">Breckenridge</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-caledonia">Caledonia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-cambridge">Cambridge</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-cass_lake">Cass Lake</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-cloquet">Cloquet</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-crookston">Crookston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-detroit_lakes">Detroit Lakes</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-dodge_center">Dodge Center</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-duluth">Duluth</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-elbow_lake">Elbow Lake</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-elk_river">Elk River</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-fairmont">Fairmont</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-faribault">Faribault</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-fergus_falls">Fergus Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-foley">Foley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-gaylord">Gaylord</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-glencoe">Glencoe</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-glenwood">Glenwood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-grand_marais">Grand Marais</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-grand_portage">Grand Portage</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-grand_rapids">Grand Rapids</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-hastings">Hastings</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-hibbing">Hibbing</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-international_falls">International Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-ivanhoe">Ivanhoe</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-le_center">Le Center</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-litchfield">Litchfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-little_falls">Little Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-long_prairie">Long Prairie</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-luverne">Luverne</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-mankato">Mankato</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-mantorville">Mantorville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-maple_lake">Maple Lake</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-marshall">Marshall</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-milaca">Milaca</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-minneapolis">Minneapolis</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-moorhead">Moorhead</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-mora">Mora</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-morris">Morris</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-nett_lake">Nett Lake</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-new_ulm">New Ulm</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-newfolden">Newfolden</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-north_branch">North Branch</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-ogema">Ogema</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-olivia">Olivia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-onamia">Onamia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-ortonville">Ortonville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-owatonna">Owatonna</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-park_rapids">Park Rapids</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-pine_city">Pine City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-pipestone">Pipestone</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-preston">Preston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-red_lake">Red Lake</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-red_wing">Red Wing</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-redwood_falls">Redwood Falls</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-rochester">Rochester</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-shakopee">Shakopee</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-slayton">Slayton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-st._james">St. James</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-st._paul">St. Paul</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-st._peter">St. Peter</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-st.paul">St.Paul</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-stillwater">Stillwater</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-two_harbors">Two Harbors</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-virginia">Virginia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-wabasha">Wabasha</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-wadena">Wadena</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-waite_park">Waite Park</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-walker">Walker</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-waseca">Waseca</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-west_st._paul">West St. Paul</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-wheaton">Wheaton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-willmar">Willmar</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-windom">Windom</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-winona">Winona</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mn-worthington">Worthington</a>
+												<em>(1)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/renville-county-public-health-services-wic-program" title="Renville County Public Health Services WIC Program">Renville County Public Health Services WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/renville-county-public-health-services-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Renville County Public Health Services WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    105 S. 5th Street <br />
+                    Olivia, MN - 56277<br />
+                    (320) 523-3762<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/renville-county-public-health-services-wic-program">Website</a></span>            </div>
+            <p>Office hours Call for appointment.The WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious foods, and referrals to health and</p>
+            <a href="http://www.wicprograms.org/li/renville-county-public-health-services-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/mid-state-community-health-services" title="Mid-State Community Health Services">Mid-State Community Health Services</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/mid-state-community-health-services" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Mid-State Community Health Services"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    10 First Street NW PO Box 120<br />
+                    Elbow Lake, MN - 56531<br />
+                    (218) 685-8295 <br />
+                                    </p>
+                                            </div>
+            <p>Office hours Call for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious foods, and referrals to health and </p>
+            <a href="http://www.wicprograms.org/li/mid-state-community-health-services" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/kanabec-county-public-health-nursing-service" title="Kanabec County Public Health Nursing Service">Kanabec County Public Health Nursing Service</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/kanabec-county-public-health-nursing-service" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Kanabec County Public Health Nursing Service"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    905 East Forest Suite 140<br />
+                    Mora, MN - 55051<br />
+                    (320) 679-6329<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/kanabec-county-public-health-nursing-service">Website</a></span>            </div>
+            <p>Office hours Call for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious foods, and referrals to health and </p>
+            <a href="http://www.wicprograms.org/li/kanabec-county-public-health-nursing-service" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/koochiching-county-public-health-wic-program" title="Koochiching County Public Health WIC Program">Koochiching County Public Health WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/koochiching-county-public-health-wic-program" title=""><img src="http://www.wicprograms.org/gallery/4007_koochiching-county-public-health-wic-program_hck.gif" alt="Koochiching County Public Health WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1000 5th Street<br />
+                    International Falls, MN - 56649<br />
+                    (218) 283-7055<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/koochiching-county-public-health-wic-program">Website</a></span>            </div>
+            <p>Office hours Monday - Friday8 a.m. - 4:30 p.m.Call for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious fo</p>
+            <a href="http://www.wicprograms.org/li/koochiching-county-public-health-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/lake-county-health-department" title="Lake County Health Department">Lake County Health Department</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/lake-county-health-department" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Lake County Health Department"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    616 Third Avenue<br />
+                    Two Harbors, MN - 55616<br />
+                    (218) 834-8429<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lake-county-health-department">Website</a></span>            </div>
+            <p>Office hours Call for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious foods, and referrals to health and </p>
+            <a href="http://www.wicprograms.org/li/lake-county-health-department" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/lakewood-nursing-service" title="Lakewood Public Health">Lakewood Public Health</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/lakewood-nursing-service" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Lakewood Public Health"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    600 Main Avenue S.<br />
+                    Baudette, MN - 56623<br />
+                    (218) 634-1795<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lakewood-nursing-service">Website</a></span>            </div>
+            <p>Office hours Third Thursday of each monthand the Wednesday prior to that dayCall for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education</p>
+            <a href="http://www.wicprograms.org/li/lakewood-nursing-service" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/le-sueur---waseca-public-health-services---le-sueur-county" title="Le Sueur - Waseca Public Health Services - Le Sueur County">Le Sueur - Waseca Public Health Services - Le Sueur County</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/le-sueur---waseca-public-health-services---le-sueur-county" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Le Sueur - Waseca Public Health Services - Le Sueur County"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    88 South Park Avenue<br />
+                    Le Center, MN - 56057<br />
+                    (507) 357-8246<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/le-sueur---waseca-public-health-services---le-sueur-county">Website</a></span>            </div>
+            <p>Office hours Monday - Thursday 8:00am - 4:30pmFriday 8:00am - 4:00pmCall for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and cou</p>
+            <a href="http://www.wicprograms.org/li/le-sueur---waseca-public-health-services---le-sueur-county" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/lincoln-county-wic-program" title="Southwest Health & Human Services">Southwest Health & Human Services</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/lincoln-county-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Southwest Health & Human Services"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    319 North Rebecca PO Box 44<br />
+                    Ivanhoe, MN - 56142<br />
+                    (507) 694-1452<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lincoln-county-wic-program">Website</a></span>            </div>
+            <p>Office hours Monday - Friday 8:00 am to 4:30 pmCall for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious f</p>
+            <a href="http://www.wicprograms.org/li/lincoln-county-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/redwood-county-public-health-nursing-service" title="Redwood County Public Health Nursing Service">Redwood County Public Health Nursing Service</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/redwood-county-public-health-nursing-service" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Redwood County Public Health Nursing Service"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    266 East Bridge Street<br />
+                    Redwood Falls, MN - 56283<br />
+                    (507) 637-4041<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/redwood-county-public-health-nursing-service">Website</a></span>            </div>
+            <p>Office hours Monday – Friday: 8:00 a.m. – 4:30 p.m.Call for appointment.The WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nut</p>
+            <a href="http://www.wicprograms.org/li/redwood-county-public-health-nursing-service" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/lyon-county---southwest-health--human-services-wic-program" title="Lyon County - Southwest Health  Human Services WIC Program">Lyon County - Southwest Health  Human Services WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/lyon-county---southwest-health--human-services-wic-program" title=""><img src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=44.4505870,-95.7951990&fov=90&heading=235&pitch=10" alt="Lyon County - Southwest Health  Human Services WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    607 West Main Street, Suite 200<br />
+                    Marshall, MN - 56258<br />
+                    (507) 537-6713<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lyon-county---southwest-health--human-services-wic-program">Website</a></span>            </div>
+            <p>Office hours Monday - Friday 8:00 am to 4:30 pmCall for appointmentThe WIC Program:Is a Nutrition and Breastfeeding programHelps eligible pregnant women, new mothers, babies and young children eat well, learn about nutrition, and stay healthy.Provides nutrition education and counseling, nutritious f</p>
+            <a href="http://www.wicprograms.org/li/lyon-county---southwest-health--human-services-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                                                         
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/renville-county-public-health-services-wic-program">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/renville-county-public-health-services-wic-program">Renville County Public Health Services WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Olivia,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/mid-state-community-health-services">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/mid-state-community-health-services">Mid-State Community Health Services</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Elbow Lake,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/kanabec-county-public-health-nursing-service">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/kanabec-county-public-health-nursing-service">Kanabec County Public Health Nursing Service</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Mora,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/koochiching-county-public-health-wic-program">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/4007_koochiching-county-public-health-wic-program_hck.gif" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/koochiching-county-public-health-wic-program">Koochiching County Public Health WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> International Falls,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/lake-county-health-department">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/lake-county-health-department">Lake County Health Department</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Two Harbors,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/lakewood-nursing-service">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/lakewood-nursing-service">Lakewood Public Health</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Baudette,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/le-sueur---waseca-public-health-services---le-sueur-county">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/le-sueur---waseca-public-health-services---le-sueur-county">Le Sueur - Waseca Public Health Services - Le Sueur County</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Le Center,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/lincoln-county-wic-program">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/lincoln-county-wic-program">Southwest Health & Human Services</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Ivanhoe,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/redwood-county-public-health-nursing-service">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/redwood-county-public-health-nursing-service">Redwood County Public Health Nursing Service</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Redwood Falls,MN</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/lyon-county---southwest-health--human-services-wic-program">
+							<img width="90" height="75" src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=44.4505870,-95.7951990&fov=90&heading=235&pitch=10" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/lyon-county---southwest-health--human-services-wic-program">Lyon County - Southwest Health  Human Services WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Marshall,MN</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2017</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

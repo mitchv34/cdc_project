@@ -1,0 +1,1438 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>California WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="California Programs,California WIC Clinics,California WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='https://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="https://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+    
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin=""/>
+
+<script data-ad-client="ca-pub-2985566993569762" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<meta name="google-site-verification" content="LMqP6hd7yyrWtGOkuExwt3TUYGoVA-zMpFEKy4jgpcw" />
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="https://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="https://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="https://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="https://www.wicprograms.org">
+							<img src="https://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="https://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="https://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="https://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">California WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="https://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						California
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								California WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in California on the right. Find your local WIC location using our California search below. 
+								<br /><br />
+								We have also listed the top cities in California on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in California</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-29_palms">29 Palms</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-alameda">Alameda</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-alturas">Alturas</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-alviso">Alviso</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-anaheim">Anaheim</a>
+												<em>(6)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-arvin">Arvin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-auburn">Auburn</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-avalon">Avalon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-avenal">Avenal</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-azusa">Azusa</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-bakersfield">Bakersfield</a>
+												<em>(14)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-baldwin_park">Baldwin Park</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-banning">Banning</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-barstow">Barstow</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-bellflower">Bellflower</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-berkeley">Berkeley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-big_bear_city">Big Bear City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-blythe">Blythe</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-borrego_springs">Borrego Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-brentwood">Brentwood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-buena_park">Buena Park</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-carnelian_bay">Carnelian Bay</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-cathedral_city">Cathedral City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-ceres">Ceres</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-chino">Chino</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-chula_vista">Chula Vista</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-city_of_industry">City of Industry</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-cloverdale">Cloverdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-clovis">Clovis</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-coalinga">Coalinga</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-colton">Colton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-concord">Concord</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-corcoran">Corcoran</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-corona">Corona</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-covina">Covina</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-culver_city">Culver City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-cypress">Cypress</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-delano">Delano</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-desert_hot_springs">Desert Hot Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-dinuba">Dinuba</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-el_cajon">El Cajon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-el_monte">El Monte</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-elk_grove">Elk Grove</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-encinitas">Encinitas</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-escondido">Escondido</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-fallbrook">Fallbrook</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-farmersville">Farmersville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-folsom">Folsom</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-fontana">Fontana</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-fort_irwin">Fort Irwin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-fresno">Fresno</a>
+												<em>(5)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-fullerton">Fullerton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-gardena">Gardena</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-gilroy">Gilroy</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-grass_valley">Grass Valley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-guerneville">Guerneville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-hanford">Hanford</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-hayward">Hayward</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-healdsburg">Healdsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-hemet">Hemet</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-huron">Huron</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-indio">Indio</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-inglewood">Inglewood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-kerman">Kerman</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-kettleman_city">Kettleman City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-la_habra">La Habra</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-la_mirada">La Mirada</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-la_puente">La Puente</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lake_elsinore">Lake Elsinore</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lake_forest">Lake Forest</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lancaster">Lancaster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lawndale">Lawndale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lemoore">Lemoore</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lindsay">Lindsay</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-lodi">Lodi</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-long_beach">Long Beach</a>
+												<em>(4)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-los_angeles">Los Angeles</a>
+												<em>(17)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-mecca">Mecca</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-mendota">Mendota</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-milpitas">Milpitas</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-modesto">Modesto</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-montebello">Montebello</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-moreno_valley">Moreno Valley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-norwalk">Norwalk</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-oakdale">Oakdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-oakland">Oakland</a>
+												<em>(6)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-oceanside">Oceanside</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-orange">Orange</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-orange_cove">Orange Cove</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-orland">Orland</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-palm_desert">Palm Desert</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-palm_springs">Palm Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-palmdale">Palmdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-parlier">Parlier</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-patterson">Patterson</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-perris">Perris</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-petaluma">Petaluma</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-pico_rivera">Pico Rivera</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-pittsburg">Pittsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-pleasanton">Pleasanton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-pomona">Pomona</a>
+												<em>(4)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-porterville">Porterville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-ramona">Ramona</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-rancho_cordova">Rancho Cordova</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-rancho_cucamonga">Rancho Cucamonga</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-redlands">Redlands</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-reedley">Reedley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-rialto">Rialto</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-riverdale">Riverdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-riverside">Riverside</a>
+												<em>(9)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-rosemead">Rosemead</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-sacramento">Sacramento</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_bernardino">San Bernardino</a>
+												<em>(8)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_clemente">San Clemente</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_diego">San Diego</a>
+												<em>(5)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_francisco">San Francisco</a>
+												<em>(6)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_jose">San Jose</a>
+												<em>(8)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_juan_capistrano">San Juan Capistrano</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_marcos">San Marcos</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-san_pedro">San Pedro</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-sanger">Sanger</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-santa_ana">Santa Ana</a>
+												<em>(5)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-santa_cruz">Santa Cruz</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-santa_monica">Santa Monica</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-santa_rosa">Santa Rosa</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-selma">Selma</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-spring_valley">Spring Valley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-stockton">Stockton</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-sunnyvale">Sunnyvale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-sutter_creek">Sutter Creek</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-temecula">Temecula</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-torrance">Torrance</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-tracy">Tracy</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-truckee">Truckee</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-tulare">Tulare</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-turlock">Turlock</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-valley_center">Valley Center</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-victorville">Victorville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-vista">Vista</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-waterford">Waterford</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-watsonville">Watsonville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-westminster">Westminster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-wildomar">Wildomar</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-willows">Willows</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-wilmington">Wilmington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-windsor">Windsor</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-woodlake">Woodlake</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="https://www.wicprograms.org/ci/ca-yucca_valley">Yucca Valley</a>
+												<em>(1)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/wic-in-brentwood" title="Brentwood CA WIC Office">Brentwood CA WIC Office</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/wic-in-brentwood" title=""><img src="https://www.wicprograms.org/gallery/5321_hc_brentwood_200x150.jpg" alt="Brentwood CA WIC Office"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    171 Sand Creek Rd, Ste A<br />
+                    Brentwood, CA - 94513<br />
+                    (925) 513-6880<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/wic-in-brentwood">Website</a></span>            </div>
+            <p>Hours: 
+Wednesdays and Thursdays. Also open two Mondays per month (varies)7:30 AM to 4:30 PM 
+ 
+ 
+Languages Available: 
+EnglishSpanish 
+ 
+ 
+WIC is available to limited income: 
+  Pregnant women  Women who are breastfeeding a baby under 1 year of age  Women who have had a baby in the past 6 </p>
+            <a href="https://www.wicprograms.org/li/wic-in-brentwood" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/riverside_county_department_of_public_health_92503" title="Riverside County Department Of Public Health">Riverside County Department Of Public Health</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/riverside_county_department_of_public_health_92503" title=""><img src="https://www.wicprograms.org/gallery/121__kwe.jpg" alt="Riverside County Department Of Public Health"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    4065 County Circle Drive<br />
+                    Riverside, CA - 92503<br />
+                    (800)794-4814<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/riverside_county_department_of_public_health_92503">Website</a></span>            </div>
+            <p>Program name: teen health hotline. Program Description: Program provides information on family planning, prenatal care, referrals to health and social services for teen parents, STD diagnosis and treatment referrals. Target populations:youth, pregnant teens, teenage parents. Program Hours:Monday - F</p>
+            <a href="https://www.wicprograms.org/li/riverside_county_department_of_public_health_92503" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/ca-long_beach_health_department_wic" title="Long Beach Health Department WIC">Long Beach Health Department WIC</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/ca-long_beach_health_department_wic" title=""><img src="https://www.wicprograms.org/gallery/3211__cwx.jpg" alt="Long Beach Health Department WIC"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    2525 Grand Ave<br />
+                    Long Beach, CA - 90815<br />
+                    (562) 570-4242<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/ca-long_beach_health_department_wic">Website</a></span>            </div>
+            <p>The City of Long Beach Nutrition Services Division (NSD) – WIC Program - is committed to disseminating sound nutrition information and promoting healthy behaviors and active lifestyles.  The Nutrition Services Division adheres to its by providing a wide variety of programs that include the follow</p>
+            <a href="https://www.wicprograms.org/li/ca-long_beach_health_department_wic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/desert_hot_springs_family_resource_center_92240" title="Desert Hot Springs Family Resource Center">Desert Hot Springs Family Resource Center</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/desert_hot_springs_family_resource_center_92240" title=""><img src="https://www.wicprograms.org/gallery/113_desert_hot_springs_family_resource_center_92240_tyv.jpg" alt="Desert Hot Springs Family Resource Center"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    14201 Palm Drive<br />
+                    Desert Hot Springs, CA - 92240<br />
+                    (800) 455-4942<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/desert_hot_springs_family_resource_center_92240">Website</a></span>            </div>
+            <p>Program Name: Family Resource CenterProgram Description: 
+Center offers classes on parenting skills development, anger management, adult education classes, and High School diploma/GED classes. 
+Information for Healthy Children Connection, Healthy Families/Medi-Cal enrollment, free immunization cli</p>
+            <a href="https://www.wicprograms.org/li/desert_hot_springs_family_resource_center_92240" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/west_oakland_health_center_94607" title="West Oakland Health Center">West Oakland Health Center</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/west_oakland_health_center_94607" title=""><img src="https://www.wicprograms.org/gallery/9_west_oakland_health_center_94607_rae.png" alt="West Oakland Health Center"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    700 Adeline Street<br />
+                    Oakland, CA - 94607<br />
+                    (510) 835-9610<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/west_oakland_health_center_94607">Website</a></span>            </div>
+            <p>Main Hours: Monday-Friday, 8:30am to 5pm.  
+This is a Health Center that provides medical, dental, optometry, mental health, substance abuse and ancillary services along with WIC services. 
+ 
+Dietician on site, breast pump rental on site, lactation consultant on site. 
+ 
+ 
+</p>
+            <a href="https://www.wicprograms.org/li/west_oakland_health_center_94607" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/avenal_health_center_93204" title="Avenal Health Center">Avenal Health Center</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/avenal_health_center_93204" title=""><img src="https://www.wicprograms.org/gallery/13__yrn.jpg" alt="Avenal Health Center"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    590 Skyline Ave<br />
+                    Avenal, CA - 93204<br />
+                    (559) 386-4500<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/avenal_health_center_93204">Website</a></span>            </div>
+            <p>Avenal Health Center is a WIC ProgramsNutrition education classes and individual nutrition counseling Breastfeeding education Breastfeeding support from certified breastfeeding specialists Vouchers to purchase nutritious food at the grocery store Referrals to health care and community service provid</p>
+            <a href="https://www.wicprograms.org/li/avenal_health_center_93204" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/women_infants_and_children_(wic)_nutrition_program_95945" title="Nevada County Public Health WIC Program">Nevada County Public Health WIC Program</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/women_infants_and_children_(wic)_nutrition_program_95945" title=""><img src="https://www.wicprograms.org/gallery/109_women_infants_and_children_(wic)_nutrition_program_95945_ubt.jpg" alt="Nevada County Public Health WIC Program"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    988 McCourtney Road<br />
+                    Grass Valley, CA - 95949<br />
+                    (530) 265-1454<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/women_infants_and_children_(wic)_nutrition_program_95945">Website</a></span>            </div>
+            <p>The WIC Program is a nutrition, breastfeeding and health education program that helps pregnant women, mothers with new babies, and young children, under age 5 years, eat well and stay healthy. 
+Families receive checks to purchase nutritious foods at grocery stores. 
+Legal guardians such as fathers</p>
+            <a href="https://www.wicprograms.org/li/women_infants_and_children_(wic)_nutrition_program_95945" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_94601" title="La Clinica De La Raza, Fruitvale Neighborhood WIC">La Clinica De La Raza, Fruitvale Neighborhood WIC</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_94601" title=""><img src="https://www.wicprograms.org/gallery/4__jpx.jpg" alt="La Clinica De La Raza, Fruitvale Neighborhood WIC"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1450 Fruitvale Avenue<br />
+                    Oakland, CA - 94601<br />
+                    (510) 535-4000<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_94601">Website</a></span>            </div>
+            <p>WIC Hours at this location: Mondays through Fridays 8am to 5pm. 
+ 
+Services at this location: 
+Food vouchers, nutritional counseling, breastfeeding support, farmers market vouchers, referrals to other community programs. 
+ 
+</p>
+            <a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_94601" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/gardner-hs-south-county-site" title="Gardner HS South County Site">Gardner HS South County Site</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/gardner-hs-south-county-site" title=""><img src="https://www.wicprograms.org/gallery/7471_gardner-hs-south-county-site_ibs.jpg" alt="Gardner HS South County Site"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    7526 Monterery St.<br />
+                    Gilroy, CA - 95020<br />
+                    (408) 254-5197<br />
+                                    </p>
+                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/gardner-hs-south-county-site">Email</a></span>                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/gardner-hs-south-county-site">Website</a></span>            </div>
+            <p>A supplementary food and nutrition program for low-income pregnant, breastfeeding and postpartum mothers, infants and children up to five years of age at nutritional risk is funded by the Infants & Children (WIC) Program. 
+The supplementary foods offered are intended to fulfill the dietary needs of</p>
+            <a href="https://www.wicprograms.org/li/gardner-hs-south-county-site" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_inc_94606" title="La Clinica - San Antonio Neighborhood Health Center WIC">La Clinica - San Antonio Neighborhood Health Center WIC</a></h2>
+            
+                        <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_inc_94606" title=""><img src="https://www.wicprograms.org/gallery/5_la_clinica_de_la_raza_inc_94606_way.jpg" alt="La Clinica - San Antonio Neighborhood Health Center WIC"  /></a>
+            </div>
+                       
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1030 International Blvd<br />
+                    Oakland, CA - 94606<br />
+                    (510) 272-1500<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_inc_94606">Website</a></span>            </div>
+            <p> WIC services: 
+ 
+ Nutrition counseling, classes and food vouchers 
+ Breastfeeding education & support 
+ Note: This institution is an equal opportunity provider.</p>
+            <a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_inc_94606" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="https://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='https://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="https://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                                                         
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/wic-in-brentwood">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/5321_hc_brentwood_200x150.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/wic-in-brentwood">Brentwood CA WIC Office</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Brentwood,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/riverside_county_department_of_public_health_92503">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/121__kwe.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/riverside_county_department_of_public_health_92503">Riverside County Department Of Public Health</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Riverside,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/ca-long_beach_health_department_wic">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/3211__cwx.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/ca-long_beach_health_department_wic">Long Beach Health Department WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Long Beach,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/desert_hot_springs_family_resource_center_92240">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/113_desert_hot_springs_family_resource_center_92240_tyv.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/desert_hot_springs_family_resource_center_92240">Desert Hot Springs Family Resource Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Desert Hot Springs,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/west_oakland_health_center_94607">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/9_west_oakland_health_center_94607_rae.png" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/west_oakland_health_center_94607">West Oakland Health Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Oakland,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/avenal_health_center_93204">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/13__yrn.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/avenal_health_center_93204">Avenal Health Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Avenal,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/women_infants_and_children_(wic)_nutrition_program_95945">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/109_women_infants_and_children_(wic)_nutrition_program_95945_ubt.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/women_infants_and_children_(wic)_nutrition_program_95945">Nevada County Public Health WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Grass Valley,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_94601">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/4__jpx.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_94601">La Clinica De La Raza, Fruitvale Neighborhood WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Oakland,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/gardner-hs-south-county-site">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/7471_gardner-hs-south-county-site_ibs.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/gardner-hs-south-county-site">Gardner HS South County Site</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Gilroy,CA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_inc_94606">
+							<img width="90" height="75" src="https://www.wicprograms.org/gallery/5_la_clinica_de_la_raza_inc_94606_way.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="https://www.wicprograms.org/li/la_clinica_de_la_raza_inc_94606">La Clinica - San Antonio Neighborhood Health Center WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Oakland,CA</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="https://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="https://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="https://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="https://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="https://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="https://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2022</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='https://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='https://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="https://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='https://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='https://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='https://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='https://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="https://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='https://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

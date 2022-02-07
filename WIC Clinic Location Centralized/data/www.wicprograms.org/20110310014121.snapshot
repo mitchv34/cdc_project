@@ -1,0 +1,482 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>WIC Programs </title>
+	<link rel="stylesheet" type="text/css" href="http://www.wicprograms.org/templates/wicprograms//main.css" />
+	<meta name="keywords" content="WIC Programs " />
+	<meta name="description" content="WIC Programs " />
+</head>
+<body>
+
+   <!-- Begin Wrapper -->
+   <div id="wrapper">
+   
+         <!-- Begin Header -->
+
+         <div id="header">
+         
+         	<div class="left">
+				<!-- LOGO -->
+				<h1><a href="http://www.wicprograms.org" title="WIC Programs"><img src="http://www.wicprograms.org/images/wic_logo.jpg" alt="" width="276" height="81" border="0"></a></h1>
+				<h2>Women, Infants, and Children Programs</h2>
+            </div>
+            
+         	<div class="right">
+                	<!-- Login start -->
+
+		
+		<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+		Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /><br />
+		Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/" />
+			<input type="submit" name="login" value="Login" class="login" />
+
+		</form>
+<a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a>
+<a href="http://www.wicprograms.org/member_add.php">Register</a><br />
+
+	<!-- Login end -->            </div>
+                			   
+		 </div>
+		 <!-- End Header -->
+		 	 
+		 <!-- Begin Navigation -->
+		 <div id="navigation">
+		 
+            <a href="http://www.wicprograms.org/" title="WIC Programs">Home</a> | 
+            <a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a> | 
+            <!-- <a href="http://www.wicprograms.org/members.php" title="Link to us">How to Help</a> |  -->
+            <a href="http://www.wicprograms.org/listing_add.php">Add Listing</a> |
+            <a href="http://www.wicprograms.org/search.php">Advanced Search</a> |
+	        		 
+		 </div>
+		 <!-- End Navigation -->
+		 
+		 <!-- Begin Left Column -->
+
+		 <div id="leftcolumn">
+         
+			<!-- US Map Start -->
+
+	
+
+<!-- US Map End -->
+
+
+<div class="map"><img src="http://www.wicprograms.org/templates/wicprograms//images/map.jpg" width="565" height="381" alt="US MAP" usemap="#Map" border="0" ></div>
+
+
+<map name="Map">
+ <area shape="poly" coords="127,67,133,32,88,23,71,24,72,50,82,62" HREF="http://www.wicprograms.org/state/washington" alt="Washington WIC Programs" title="Washington WIC Programs">
+  <area shape="poly" coords="147,73" HREF="http://www.wicprograms.org/state/2">
+<area shape="poly" coords="71,51,79,61,126,68,128,73,120,85,121,90,115,114,53,98,53,90" HREF="http://www.wicprograms.org/state/oregon" alt="Oregon WIC Programs" title="Oregon WIC Programs">
+<area shape="poly" coords="121,201,81,144,89,108,53,99,53,107,46,117,47,137,56,171,62,194,90,216,90,227,116,229,123,211" HREF="http://www.wicprograms.org/state/california">
+<area shape="poly" coords="91,109,141,119,128,190,122,189,122,201,82,144" HREF="http://www.wicprograms.org/state/nevada" alt="Nevada WIC Programs" title="Nevada WIC Programs">
+<area shape="poly" coords="142,120,167,124,166,136,184,138,177,186,132,179" HREF="http://www.wicprograms.org/state/utah" alt="Utah WIC Programs" title="Utah WIC Programs">
+<area shape="poly" coords="132,180,178,187,169,254,149,251,115,231,120,223,124,209,123,202,124,191,131,191" HREF="http://www.wicprograms.org/state/arizona" alt="Arizona WIC Programs" title="Arizona WIC Programs">
+<area shape="poly" coords="186,139,246,145,244,192,179,187" HREF="http://www.wicprograms.org/state/colorado" alt="Colorado WIC Programs" title="Colorado WIC Programs">
+<area shape="poly" coords="180,188,235,193,231,252,179,251,178,255,170,255" HREF="http://www.wicprograms.org/state/new_mexico" alt="New Mexico WIC Programs" title="New Mexico WIC Programs">
+<area shape="poly" coords="236,198,262,199,263,222,272,228,288,233,309,232,322,236,322,254,326,265,326,280,316,284,300,295,289,308,290,325,275,324,265,313,261,300,252,285,243,279,236,280,227,288,214,278,212,270,198,252,232,252" HREF="http://www.wicprograms.org/state/texas" alt="Texas WIC Programs" title="Texas WIC Programs">
+<area shape="poly" coords="323,242,350,241,353,249,348,265,367,265,370,273,376,287,358,287,347,282,327,280,328,264,323,254" HREF="http://www.wicprograms.org/state/louisiana" alt="Louisiana WIC Programs" title="Louisiana WIC Programs">
+<area shape="poly" coords="236,192,315,194,317,233,308,233,295,232,284,230,265,222,263,198,235,197" HREF="http://www.wicprograms.org/state/oklahoma" alt="Oklahoma WIC Programs" title="Oklahoma WIC Programs">
+<area shape="poly" coords="316,200,357,199,358,203,362,205,350,232,351,240,323,241,323,234,317,234" HREF="http://www.wicprograms.org/state/arkansas" alt="Arkansas WIC Programs" title="Arkansas WIC Programs">
+<area shape="poly" coords="361,216,379,215,381,270,370,272,368,263,350,263,356,248,351,233,358,220" HREF="http://www.wicprograms.org/state/mississippi" alt="Mississippi WIC Programs" title="Mississippi WIC Programs">
+<area shape="poly" coords="246,157,307,158,314,168,315,193,246,191" HREF="http://www.wicprograms.org/state/kansas" alt="Kansas WIC Programs" title="Kansas WIC Programs">
+<area shape="poly" coords="231,120,279,122,292,125,298,130,302,141,306,157,247,156,247,145,230,142" HREF="http://www.wicprograms.org/state/nebraska" alt="Nebraska WIC Programs" title="Nebraska WIC Programs">
+<area shape="poly" coords="174,88,231,95,228,142,167,135" HREF="http://www.wicprograms.org/state/wyoming" alt="Wyoming WIC Programs" title="Wyoming WIC Programs">
+<area shape="poly" coords="233,84,231,119,282,121,298,128,295,86" HREF="http://www.wicprograms.org/state/south_dakota" alt="South Dakota WIC Programs" title="South Dakota WIC Programs">
+<area shape="poly" coords="237,48,290,49,295,85,234,83" HREF="http://www.wicprograms.org/state/north_dakota" alt="North Dakota WIC Programs" title="North Dakota WIC Programs">
+<area shape="poly" coords="292,49,297,86,298,116,342,114,339,107,328,100,329,91,327,88,331,84,331,75,350,60,324,53,308,45" HREF="http://www.wicprograms.org/state/minnesota" alt="Minnesota WIC Programs" title="Minnesota WIC Programs">
+<area shape="poly" coords="134,33,127,68,129,73,121,86,122,91,117,113,167,122,171,92,156,92,150,77,146,77,150,66,139,48,140,34" HREF="http://www.wicprograms.org/state/idaho" alt="Idaho WIC Programs" title="Idaho WIC Programs">
+<area shape="poly" coords="141,34,236,46,232,94,173,87,172,91,158,91,151,77,149,76,152,64,146,57,141,48" HREF="http://www.wicprograms.org/state/montana" alt="Montana WIC Programs" title="Montana WIC Programs">
+<area shape="poly" coords="379,215,382,269,391,270,389,262,415,260,413,239,402,212" HREF="http://www.wicprograms.org/state/alabama" alt="Alabama WIC Programs" title="Alabama WIC Programs">
+<area shape="poly" coords="390,263,391,269,402,269,415,275,427,268,443,281,442,294,457,312,466,323,475,320,476,301,464,281,452,256,447,258,446,263" HREF="http://www.wicprograms.org/state/florida" alt="Florida WIC Programs" title="Florida WIC Programs">
+<area shape="poly" coords="404,212,425,210,455,241,451,255,447,257,446,262,416,261,417,245" HREF="http://www.wicprograms.org/state/georgia" alt="Georgia WIC Programs" title="Georgia WIC Programs">
+<area shape="poly" coords="427,210,435,205,450,205,451,207,462,206,473,214,455,239" HREF="http://www.wicprograms.org/state/south_carolina" alt="South Carolina WIC Programs" title="South Carolina WIC Programs">
+<area shape="poly" coords="305,150,341,151,346,140,353,130,343,115,299,117,298,128" HREF="http://www.wicprograms.org/state/iowa" alt="Iowa WIC Programs" title="Iowa WIC Programs">
+<area shape="poly" coords="306,151,341,152,343,158,352,170,357,170,355,177,366,191,361,203,358,199,316,198,316,168,307,156" HREF="http://www.wicprograms.org/state/missouri" alt="Missouri WIC Programs" title="Missouri WIC Programs">
+<area shape="poly" coords="350,126,372,125,376,131,379,168,373,183,370,189,364,188,356,178,358,171,351,167,341,153,347,143,353,134" HREF="http://www.wicprograms.org/state/illinois" alt="Illinois WIC Programs" title="Illinois WIC Programs">
+<area shape="poly" coords="333,76,333,83,329,88,330,91,329,99,336,103,344,111,352,125,372,123,374,91,369,84,360,80,348,75,341,72" HREF="http://www.wicprograms.org/state/wisconsin" alt="Wisconsin WIC Programs" title="Wisconsin WIC Programs">
+<area shape="poly" coords="350,74,368,63,393,70,402,77,414,95,419,113,414,124,412,127,384,130,386,118,384,110,380,102,374,87" HREF="http://www.wicprograms.org/state/michigan" alt="Michigan WIC Programs" title="Michigan WIC Programs">
+<area shape="poly" coords="378,133,401,130,405,161,404,166,396,173,390,176,383,179,373,188,379,174,381,163" HREF="http://www.wicprograms.org/state/indiana" alt="Indiana WIC Programs" title="Indiana WIC Programs">
+<area shape="poly" coords="359,215,365,197,439,187,416,210" HREF="http://www.wicprograms.org/state/tennessee" alt="Tennessee WIC Programs" title="Tennessee WIC Programs">
+<area shape="poly" coords="416,211,438,189,490,179,497,187,494,197,489,203,477,215,462,206,453,205,442,203,431,204,425,210" HREF="http://www.wicprograms.org/state/north_carolina" alt="North Carolina WIC Programs" title="North Carolina WIC Programs">
+<area shape="poly" coords="423,188,433,177,437,179,449,175,453,161,465,149,474,150,477,152,475,157,483,160,487,168,493,177,441,187" HREF="http://www.wicprograms.org/state/virginia" alt="Virginia WIC Programs" title="Virginia WIC Programs">
+<area shape="poly" coords="367,190,366,196,422,189,433,177,425,167,420,164,407,161,403,167,399,173,388,177" HREF="http://www.wicprograms.org/state/kentucky" alt="Kentucky WIC Programs" title="Kentucky WIC Programs">
+<area shape="poly" coords="402,129,416,129,419,130,437,122,439,149,434,153,429,162,428,167,421,163,407,160" HREF="http://www.wicprograms.org/state/ohio" alt="Ohio WIC Programs" title="Ohio WIC Programs">
+<area shape="poly" coords="439,120,446,118,483,111,487,117,488,127,494,132,489,138,443,147" HREF="http://www.wicprograms.org/state/pennsylvania" alt="Pennsylvania WIC Programs" title="Pennsylvania WIC Programs">
+<area shape="poly" coords="445,117,451,109,448,103,455,101,466,99,472,96,469,87,479,75,491,72,497,91,500,118,501,121,514,114,503,125,498,121,495,117,489,114,484,110" HREF="http://www.wicprograms.org/state/new_york" alt="New York WIC Programs" title="New York WIC Programs">
+<area shape="poly" coords="439,135,440,150,435,154,428,168,433,174,437,177,445,175,450,173,451,162,456,155,467,148,464,144,442,148" HREF="http://www.wicprograms.org/state/west_virginia" alt="West Virginia WIC Programs" title="West Virginia WIC Programs">
+<area shape="poly" coords="466,144,485,140,489,154,494,154,491,167,485,161,478,157,478,150,469,148" HREF="http://www.wicprograms.org/state/district_of_columbia" alt="Washington DC WIC Programs" title="District of Columbia WIC Programs">
+<area shape="poly" coords="492,72,506,68,507,75,504,78,505,96,499,97" HREF="http://www.wicprograms.org/state/vermont" alt="Vermont WIC Programs" title="Vermont WIC Programs">
+<area shape="poly" coords="509,64,519,90,516,94,506,96,505,78,506,75,507,68" HREF="http://www.wicprograms.org/state/new_hampshire" alt="New Hampshire WIC Programs" title="New Hampshire WIC Programs">
+<area shape="poly" coords="489,116,500,124,500,131,500,139,497,147,488,141,493,133,490,126" HREF="http://www.wicprograms.org/state/new_jersey" alt="New Jersey WIC Programs" title="New Jersey WIC Programs">
+<area shape="poly" coords="510,64,513,56,516,35,528,33,534,50,547,59,536,69,520,88" HREF="http://www.wicprograms.org/state/maine" alt="Maine WIC Programs" title="Maine WIC Programs">
+<area shape="poly" coords="499,97,520,92,532,102,528,107,519,103,501,107" HREF="http://www.wicprograms.org/state/massachusetts" alt="Massachusetts WIC Programs" title="Massachusetts WIC Programs">
+<area shape="poly" coords="500,108,501,117,514,112,512,105" HREF="http://www.wicprograms.org/state/connecticut" alt="Connecticut WIC Programs" title="Connecticut WIC Programs"><area shape="poly" coords="486,142,489,152,521,156,523,148,497,148" href="http://www.wicprograms.org/state/delaware" alt="Delaware WIC Programs" title="Delaware WIC Programs">
+<area shape="poly" coords="513,106,518,104,545,111,545,119,521,114,515,112" href="http://www.wicprograms.org/state/rhode_island" alt="Rhode Island WIC Programs" title="Rhode Island WIC Programs">
+<AREA SHAPE="rect" ALT="" COORDS="216,333,304,376" HREF="http://www.wicprograms.org/state/hawaii" alt="Hawaii WIC Programs" title="Hawaii WIC Programs">
+<AREA SHAPE="rect" ALT="" COORDS="46,257,175,370" HREF="http://www.wicprograms.org/state/alaska" alt="Alaska WIC Programs" title="Alaska WIC Programs">
+<AREA SHAPE="rect" ALT="" COORDS="498,159,522,176" HREF="http://www.wicprograms.org/state/maryland" alt="Maryland WIC Programs" title="Maryland WIC Programs">
+
+
+</map>						
+
+
+<h2>WIC Programs Program Guidelines</h2>
+                            	<p>Work Guidelines<br />
+1. Recipients of WIC Programs must be working no later than<br />
+2 years from the start of receiving the government assistance program WIC Programs.
+ 2. To maintain eligibility toward the States eligibility guidelines, work must consist of employment of no less than 30 hours per week (or 20 hours a week if there is a child in the household under 6 years of age).<br />
+ <br />
+<br />
+                       	  <br />
+                          <h2>WIC Programs Benefits </h2><p>There is a maximum of 60 months of WIC Programs benefits within one's lifetimes. There is 
+oftentimes a differentiation between adults and children. If you are a child and receive
+WIC Programs benefits, depending on your State, you could receive another 60 months as an 
+adult.<br />
+<br />
+<br />
+<br />		<h2>WIC Programs Eligiblity Requirements</h2><p>
+ You must be a US Citizen.<br />
+ - Children must be citizens or have eligible alien status.<br />
+ - You must have a social security number.<br />
+ - Your family must earn less than a certain amount of money per month<br />
+ - Children must be 18 years old or younger. If you are older than 18, you must be a full<br />
+time student with an expected graduation date before the age of 20. <br />
+- Families must have a child <br />
+</p>
+ 
+
+
+<br /><HR><br />
+<h2>Latest WIC Programs and Services</h2>
+<br /><br />
+
+
+
+
+
+            
+            	<!-- Latest Entries Start -->
+
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/il_grace-mission-early-childhood-center-and-wiccatholic-charities">Grace Mission Early Childhood Center and WIC/Catholic Charities - Chicago</a></h3>
+        Chicago, IL - 60609<br />
+        (773) 476-1990<br />
+		<br />
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ne_goldenrod-hills-community-action">Goldenrod Hills Community Action - South Sioux City</a></h3>
+        South Sioux City, NE - 68776<br />
+        (402) 494-8312;<br />
+		NHAP provides financial assistance to qualifying individuals and families for one month payment of a security deposit, utility deposit, past due rent, past due mortgage or past due utility through NHAP (Nebraska Homeless Assistance Program).<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ne_goldenrod-hills-community-action">Email</a>			
+
+    
+    
+        <a href="http://www.wicprograms.org/li/ne_goldenrod-hills-community-action">Website</a>			
+
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_golden-isles-childrens-center-connie-smith-rape-crisis-center">Golden Isles Children's Center & Connie Smith Rape Crisis Center - Brunswick</a></h3>
+        Brunswick, GA - 31520<br />
+        (912) 554-0609 <br />
+		SERVICE DESCRIPTION:* Support services for victims of sexual abuse and/or assault and other violent crimes;     * 24-hour crisis line* Forensic interviews* Forensic medical exams* Counseling* Prevention education* Crime victims compensation* Crisis intervention* Personal, Legal, Medical, and Financi<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ga_golden-isles-childrens-center-connie-smith-rape-crisis-center">Email</a>			
+
+    
+    
+        <a href="http://www.wicprograms.org/li/ga_golden-isles-childrens-center-connie-smith-rape-crisis-center">Website</a>			
+
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_golden-isles-area-intergroup-alcoholics-anonymous">Golden Isles Area Intergroup Alcoholics Anonymous - Brunswick</a></h3>
+        Brunswick, GA - 31521<br />
+        (912) 265-0892 <br />
+		SERVICE DES<br />
+
+    
+    
+        <a href="http://www.wicprograms.org/li/ga_golden-isles-area-intergroup-alcoholics-anonymous">Website</a>			
+
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_glynn-county-st-vincent-depaul">Glynn County. St. Vincent DePaul - Brunswick</a></h3>
+        Brunswick, GA - 31520<br />
+        (912) 262-6027 <br />
+		Clothes, utility assistance case-by-case walk-in service, water bill assistance, Rx assistance on non-narcotics, thrift store.<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ga_glynn-county-st-vincent-depaul">Email</a>			
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_glynn-county-commission-on-children-youth">Glynn County. Commission on Children & Youth - Brunswick</a></h3>
+        Brunswick, GA - 31521<br />
+        <br />
+		Assists in development of Youth Advisory Boards for Family Connections Collaboratives<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ga_glynn-county-commission-on-children-youth">Email</a>			
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_glynn-county-schools-pre-kindergarten">Glynn County Schools Pre-kindergarten - Brunswick</a></h3>
+        Brunswick, GA - 31520<br />
+        (912) 267-4229 <br />
+		SERVICE DESCRIPTION:<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ga_glynn-county-schools-pre-kindergarten">Email</a>			
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_glynn-county-police-dept">Glynn County Police Dept. - Brunswick</a></h3>
+        Brunswick, GA - 31325<br />
+        (912) 554-3645 <br />
+		<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ga_glynn-county-police-dept">Email</a>			
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_glynn-county-health-dept">Glynn County Health Dept. - Brunswick</a></h3>
+        Brunswick, GA - 31520<br />
+        (912) 264-3961 <br />
+		To continually protect and improve the health of our communities through assessment, policy development and assurance. Immunizations, family planning, hypertension program,WIC, Child health checks, travel clinic, perinatal case mgmt., pregnancy related services, HIV, Cancer screening and breast exam<br />
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+	<div class="left">
+    <h3><a href="http://www.wicprograms.org/li/ga_glynn-county-cooperative-extension-service">Glynn County Cooperative Extension Service - Brunswick</a></h3>
+        Brunswick, GA - 31520<br />
+        (912) 554-7577 <br />
+		SERVICE DESCRIPTION:<br />
+
+    
+        <a href="http://www.wicprograms.org/li/ga_glynn-county-cooperative-extension-service">Email</a>			
+
+    
+    
+        </div>
+
+	<div class="right">
+
+	</div>
+    <div style="clear:both;"></div>
+    <br /><br />
+
+	<!-- Latest Entries End -->		      
+		 </div>
+		 <!-- End Left Column -->
+		 
+		 <!-- Begin Right Column -->
+		 <div id="rightcolumn">
+
+			<h2>WIC Programs</h2>
+			<p></p>
+            
+			<div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong>318</strong> entries listed in our database.<br />
+	Entries pending approval: <strong>0</strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong>5</strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+            <!-- Search widget start -->
+    <h2>Search</h2>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+        
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+<!-- Search widget end -->
+ 
+
+           
+		 
+		 </div>
+		 <!-- End Right Column -->
+
+		 <!-- Begin Footer -->
+		 <div id="footer">
+		       
+			   &copy; 2008 - 2011 WIC Programs
+			    
+	     </div>
+		 <!-- End Footer -->
+		 
+   </div>
+   <!-- End Wrapper -->
+
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</script>
+
+
+   
+</body>
+</html>

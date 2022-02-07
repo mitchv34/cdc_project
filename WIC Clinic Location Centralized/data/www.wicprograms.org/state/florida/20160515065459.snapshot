@@ -1,0 +1,585 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Florida WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Florida Programs,Florida WIC Clinics,Florida WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Florida WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Florida
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Florida WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Florida on the right. Find your local WIC location using our Florida search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Florida City: </h2>
+		
+			<b>Enter city name in Florida</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="FL" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Florida WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/delray_beach_health_center_33445" title="Delray Beach Health Center">Delray Beach Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/delray_beach_health_center_33445" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Delray Beach Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                225 South Congress Avenue<br />
+                Delray Beach, FL - 33445<br />
+                1-877-693-6703<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/delray_beach_health_center_33445">Website</a></span>            </div>
+			<p>ICMonday &nbsp;&nbsp;&nbsp; 7 a.m. - 7 p.m.Tuesday &nbsp;&nbsp;&nbsp; 7 a.m. - 5 p.m.Wednesday &nbsp;&nbsp;&nbsp; 7 a.m. - 7 p.m.Thursday &nbsp;&nbsp;&nbsp; 7 a.m. - 5 p.m.Friday &nbsp;&nbsp;&nbsp; 7 a.m. - 5 p.m.Saturday &nbsp;&nbsp;&nbsp; 9 a.m. * - 1 p.m.Sunday &nbsp;&nbsp;&nbsp; Closed* WIC is o</p>
+            <a href="http://www.wicprograms.org/li/delray_beach_health_center_33445" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/west_palm_beach_health_center_33407" title="West Palm Beach Health Center">West Palm Beach Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/west_palm_beach_health_center_33407" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="West Palm Beach Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1150 45th Street<br />
+                West Palm Beach, FL - 33407<br />
+                561-357-6007<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/west_palm_beach_health_center_33407">Website</a></span>            </div>
+			<p>WICMonday &nbsp;&nbsp;&nbsp; 7:30 a.m. - 5 p.m.Tuesday &nbsp;&nbsp;&nbsp; 7:30 a.m. - 5 p.m.Wednesday &nbsp;&nbsp;&nbsp; 7:30 a.m. - 5 p.m.Thursday &nbsp;&nbsp;&nbsp; -Friday &nbsp;&nbsp;&nbsp; 7:30 a.m. - 5 p.m.Saturday &nbsp;&nbsp;&nbsp; 9 a.m. - 1 p.m.Sunday &nbsp;&nbsp;&nbsp; ClosedWIC office op</p>
+            <a href="http://www.wicprograms.org/li/west_palm_beach_health_center_33407" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/c.l._brumback_(belle_glade)_health_center_33430" title="C.l. Brumback (belle Glade) Health Center">C.l. Brumback (belle Glade) Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/c.l._brumback_(belle_glade)_health_center_33430" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="C.l. Brumback (belle Glade) Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                38754 State Road 80<br />
+                Belle Glade, FL - 33430<br />
+                1-877-693-6703<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/c.l._brumback_(belle_glade)_health_center_33430">Website</a></span>            </div>
+			<p>WIC (Women, Infants and Children)WIC *Monday &nbsp;&nbsp;&nbsp; 8 a.m. - 5 p.m.Tuesday &nbsp;&nbsp;&nbsp; 8 a.m. - 5 p.m.Wednesday &nbsp;&nbsp;&nbsp; 8 a.m. - 5 p.m.Thursday &nbsp;&nbsp;&nbsp; 8 a.m. - 5 p.m.Friday &nbsp;&nbsp;&nbsp; 8 a.m. - 5 p.m.Saturday &nbsp;&nbsp;&nbsp; ClosedSunday &nbsp;&nbs</p>
+            <a href="http://www.wicprograms.org/li/c.l._brumback_(belle_glade)_health_center_33430" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/carol_city_wic_center_33055" title="Carol City Wic Center">Carol City Wic Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/carol_city_wic_center_33055" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Carol City Wic Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                4737 N.w. 183 Street<br />
+                Miami, FL - 33055<br />
+                (305) 628-7294<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/carol_city_wic_center_33055">Website</a></span>            </div>
+			<p>Miami Dade County WIC clinic.Mon-Thurs:&nbsp;7:00am – 5:30pm Fri:&nbsp;7:00am – 5:00pm&nbsp; Sat:&nbsp;7:30am – 4:00pm</p>
+            <a href="http://www.wicprograms.org/li/carol_city_wic_center_33055" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_alachua-chd-clinic" title="Alachua CHD, Clinic and Family Health Services">Alachua CHD, Clinic and Family Health Services</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_alachua-chd-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Alachua CHD, Clinic and Family Health Services"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                224 SE 24th St<br />
+                Gainesville, FL - 32641<br />
+                (352) 334-7900<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_alachua-chd-clinic">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_alachua-chd-clinic">Website</a></span>            </div>
+			<p>Services include: 1) adult and pediatric primary health care; 2) family planning; 3) immunization; 4) WIC; 5) HIV/AIDS anonymous and confidential screening, treatment, education and Ryan White programs. Additional clinic location: Alachua, 15530 NW US Hwy 411, Ste 10010 &amp; 10030, Hitchcock Shoppi</p>
+            <a href="http://www.wicprograms.org/li/fl_alachua-chd-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/north_miami_wic_center_33168" title="North Miami Wic Center">North Miami Wic Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/north_miami_wic_center_33168" title=""><img src="http://www.wicprograms.org/gallery/319_north_miami_wic_center_33168_ajh.jpg" alt="North Miami Wic Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                14101 N.w 8th Avenue<br />
+                Miami, FL - 33168<br />
+                786-336-1300<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/north_miami_wic_center_33168">Website</a></span>            </div>
+			<p>Hours of Operation: Mon. - Fri. 8 Am - 5 PM</p>
+            <a href="http://www.wicprograms.org/li/north_miami_wic_center_33168" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_career-and-service-center-one-stop-lee-county" title="Career and Service Center (One-Stop) - Lee County">Career and Service Center (One-Stop) - Lee County</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_career-and-service-center-one-stop-lee-county" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Career and Service Center (One-Stop) - Lee County"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                4150 Ford Street Extension<br />
+                Fort Myers, FL - 33916<br />
+                (239) 931-8200 <br />
+		                </p>                       
+                                            </div>
+			<p>Houses many programs and services (see below for details). Offers one-stop shopping for employment services. Designed to provide individuals with access to employment, education and training services from different programs and providers at a single location. The One Stop Center has offices for the </p>
+            <a href="http://www.wicprograms.org/li/fl_career-and-service-center-one-stop-lee-county" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl-bradford_county_wic_clinic" title="Bradford County WIC Clinic">Bradford County WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl-bradford_county_wic_clinic" title=""><img src="http://www.wicprograms.org/gallery/327_bardford_starke.jpg" alt="Bradford County WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1801 N Temple Ave<br />
+                Starke, FL - 32091<br />
+                352-392-4493<br />
+		                </p>                       
+                                            </div>
+			<p>Wic Clinic. 
+Clinic Hours:
+1st, 2nd, 3rd &amp; 4th Mondays &amp; Thursdays, 2nd &amp; 4th Wednesdays
+2nd &amp; 4th Tuesdays pick-up only, in A.M. only, no Nutritionist available 
+Recertifications by appointment only. Transfers can walk in but it is best to call ahead.</p>
+            <a href="http://www.wicprograms.org/li/fl-bradford_county_wic_clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl-fort_lauderdale_health_center" title="Fort Lauderdale Health Center">Fort Lauderdale Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl-fort_lauderdale_health_center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Fort Lauderdale Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2421 SW 6th Avenue<br />
+                Fort Lauderdale, FL - 33315<br />
+                (954) 467-4700<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl-fort_lauderdale_health_center">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl-fort_lauderdale_health_center">Website</a></span>            </div>
+			<p>WICMonday &nbsp;&nbsp;&nbsp; 8:00 AM - 5:00 PMTuesday &nbsp;&nbsp;&nbsp; 8:00 AM - 6:30 PMWednesday &nbsp;&nbsp;&nbsp; 8:00 AM - 5:00 PMThursday &nbsp;&nbsp;&nbsp; 8:00 AM - 5:00 PMFriday &nbsp;&nbsp;&nbsp; 8:00 AM - 5:00 PMSaturday &nbsp;&nbsp;&nbsp; ClosedSunday &nbsp;&nbsp;&nbsp; ClosedIntake pro</p>
+            <a href="http://www.wicprograms.org/li/fl-fort_lauderdale_health_center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/citrus_county_health_department_wic_and_nutrition_services_inverness" title="Citrus County Health Department - Inverness Health Department">Citrus County Health Department - Inverness Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/citrus_county_health_department_wic_and_nutrition_services_inverness" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Citrus County Health Department - Inverness Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                120 N. Montgomery St.<br />
+                Inverness, FL - 34450<br />
+                (352) 726-5222<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/citrus_county_health_department_wic_and_nutrition_services_inverness">Website</a></span>            </div>
+			<p>Nutrition Services: Registered, licensed dietitians are available for:  Medical Nutrition Therapy (diet counseling) for special medical needs  including diabetes, gestational diabetes, cholesterol, and high blood  pressure. Weight reduction counseling and diabetes classes.  School-health and county-</p>
+            <a href="http://www.wicprograms.org/li/citrus_county_health_department_wic_and_nutrition_services_inverness" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Florida Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/fl-apopka" alt="Apopka WIC Programs" title="Apopka WIC Programs">Apopka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-auburndale" alt="Auburndale WIC Programs" title="Auburndale WIC Programs">Auburndale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-avon_park" alt="Avon Park WIC Programs" title="Avon Park WIC Programs">Avon Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-belle_glade" alt="Belle Glade WIC Programs" title="Belle Glade WIC Programs">Belle Glade <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-blountstown" alt="Blountstown WIC Programs" title="Blountstown WIC Programs">Blountstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-boca_raton" alt="Boca Raton WIC Programs" title="Boca Raton WIC Programs">Boca Raton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bonifay" alt="Bonifay WIC Programs" title="Bonifay WIC Programs">Bonifay <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bonita_springs" alt="Bonita Springs WIC Programs" title="Bonita Springs WIC Programs">Bonita Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bradenton" alt="Bradenton WIC Programs" title="Bradenton WIC Programs">Bradenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-brandon" alt="Brandon WIC Programs" title="Brandon WIC Programs">Brandon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-branford" alt="Branford WIC Programs" title="Branford WIC Programs">Branford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bristol" alt="Bristol WIC Programs" title="Bristol WIC Programs">Bristol <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bronson" alt="Bronson WIC Programs" title="Bronson WIC Programs">Bronson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-brooksville" alt="Brooksville WIC Programs" title="Brooksville WIC Programs">Brooksville <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bunnell" alt="Bunnell WIC Programs" title="Bunnell WIC Programs">Bunnell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bushnell" alt="Bushnell WIC Programs" title="Bushnell WIC Programs">Bushnell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-callahan" alt="Callahan WIC Programs" title="Callahan WIC Programs">Callahan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-cantonment" alt="Cantonment WIC Programs" title="Cantonment WIC Programs">Cantonment <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-chattahoochee" alt="Chattahoochee WIC Programs" title="Chattahoochee WIC Programs">Chattahoochee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-chipley" alt="Chipley WIC Programs" title="Chipley WIC Programs">Chipley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-clearwater" alt="Clearwater WIC Programs" title="Clearwater WIC Programs">Clearwater <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-clermont" alt="Clermont WIC Programs" title="Clermont WIC Programs">Clermont <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-clewiston" alt="Clewiston WIC Programs" title="Clewiston WIC Programs">Clewiston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-coral_springs" alt="Coral Springs WIC Programs" title="Coral Springs WIC Programs">Coral Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-crescent_city" alt="Crescent City WIC Programs" title="Crescent City WIC Programs">Crescent City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-crestview" alt="Crestview WIC Programs" title="Crestview WIC Programs">Crestview <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-cross_city" alt="Cross City WIC Programs" title="Cross City WIC Programs">Cross City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-crystal_river" alt="Crystal River WIC Programs" title="Crystal River WIC Programs">Crystal River <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-cutler_bay" alt="Cutler Bay WIC Programs" title="Cutler Bay WIC Programs">Cutler Bay <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-dade_city" alt="Dade City WIC Programs" title="Dade City WIC Programs">Dade City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-daytona_beach" alt="Daytona Beach WIC Programs" title="Daytona Beach WIC Programs">Daytona Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-defuniak_springs" alt="DeFuniak Springs WIC Programs" title="DeFuniak Springs WIC Programs">DeFuniak Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-deland" alt="DeLand WIC Programs" title="DeLand WIC Programs">DeLand <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-delray_beach" alt="Delray Beach WIC Programs" title="Delray Beach WIC Programs">Delray Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-deltona" alt="Deltona WIC Programs" title="Deltona WIC Programs">Deltona <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-englewood" alt="Englewood WIC Programs" title="Englewood WIC Programs">Englewood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fellsmere" alt="Fellsmere WIC Programs" title="Fellsmere WIC Programs">Fellsmere <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fernandina_beach" alt="Fernandina Beach WIC Programs" title="Fernandina Beach WIC Programs">Fernandina Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fleming_island" alt="Fleming Island WIC Programs" title="Fleming Island WIC Programs">Fleming Island <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-florida_city" alt="Florida City WIC Programs" title="Florida City WIC Programs">Florida City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_lauderdale" alt="Fort Lauderdale WIC Programs" title="Fort Lauderdale WIC Programs">Fort Lauderdale <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_myers" alt="Fort Myers WIC Programs" title="Fort Myers WIC Programs">Fort Myers <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_pierce" alt="Fort Pierce WIC Programs" title="Fort Pierce WIC Programs">Fort Pierce <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_walton_beach" alt="Fort Walton Beach WIC Programs" title="Fort Walton Beach WIC Programs">Fort Walton Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-gainesville" alt="Gainesville WIC Programs" title="Gainesville WIC Programs">Gainesville <em>(6)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-goulds" alt="Goulds WIC Programs" title="Goulds WIC Programs">Goulds <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-graceville" alt="Graceville WIC Programs" title="Graceville WIC Programs">Graceville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-green_cove_springs" alt="Green Cove Springs WIC Programs" title="Green Cove Springs WIC Programs">Green Cove Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-greenacres" alt="Greenacres WIC Programs" title="Greenacres WIC Programs">Greenacres <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-haines_city" alt="Haines City WIC Programs" title="Haines City WIC Programs">Haines City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-havana" alt="Havana WIC Programs" title="Havana WIC Programs">Havana <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-hialeah" alt="Hialeah WIC Programs" title="Hialeah WIC Programs">Hialeah <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-hilliard" alt="Hilliard WIC Programs" title="Hilliard WIC Programs">Hilliard <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-hollywood" alt="Hollywood WIC Programs" title="Hollywood WIC Programs">Hollywood <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-homestead" alt="Homestead WIC Programs" title="Homestead WIC Programs">Homestead <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-hosford" alt="Hosford WIC Programs" title="Hosford WIC Programs">Hosford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-immokalee" alt="Immokalee WIC Programs" title="Immokalee WIC Programs">Immokalee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-indiantown" alt="Indiantown WIC Programs" title="Indiantown WIC Programs">Indiantown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-interlachen" alt="Interlachen WIC Programs" title="Interlachen WIC Programs">Interlachen <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-inverness" alt="Inverness WIC Programs" title="Inverness WIC Programs">Inverness <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-jacksonville" alt="Jacksonville WIC Programs" title="Jacksonville WIC Programs">Jacksonville <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-jasper" alt="Jasper WIC Programs" title="Jasper WIC Programs">Jasper <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-jupiter" alt="Jupiter WIC Programs" title="Jupiter WIC Programs">Jupiter <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-keystone_heights" alt="Keystone Heights WIC Programs" title="Keystone Heights WIC Programs">Keystone Heights <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-kissimmee" alt="Kissimmee WIC Programs" title="Kissimmee WIC Programs">Kissimmee <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-labelle" alt="LaBelle WIC Programs" title="LaBelle WIC Programs">LaBelle <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lake_butler" alt="Lake Butler WIC Programs" title="Lake Butler WIC Programs">Lake Butler <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lake_city" alt="Lake City WIC Programs" title="Lake City WIC Programs">Lake City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lake_placid" alt="Lake Placid WIC Programs" title="Lake Placid WIC Programs">Lake Placid <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lake_wales" alt="Lake Wales WIC Programs" title="Lake Wales WIC Programs">Lake Wales <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lantana" alt="Lantana WIC Programs" title="Lantana WIC Programs">Lantana <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-largo" alt="Largo WIC Programs" title="Largo WIC Programs">Largo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lauderdale_lakes" alt="Lauderdale Lakes WIC Programs" title="Lauderdale Lakes WIC Programs">Lauderdale Lakes <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-leesburg" alt="Leesburg WIC Programs" title="Leesburg WIC Programs">Leesburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lehigh_acres" alt="Lehigh Acres WIC Programs" title="Lehigh Acres WIC Programs">Lehigh Acres <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-live_oak" alt="Live Oak WIC Programs" title="Live Oak WIC Programs">Live Oak <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-macclenny" alt="Macclenny WIC Programs" title="Macclenny WIC Programs">Macclenny <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-marathon" alt="Marathon WIC Programs" title="Marathon WIC Programs">Marathon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-marianna" alt="Marianna WIC Programs" title="Marianna WIC Programs">Marianna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-mayo" alt="Mayo WIC Programs" title="Mayo WIC Programs">Mayo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-melbourne" alt="Melbourne WIC Programs" title="Melbourne WIC Programs">Melbourne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-miami" alt="Miami WIC Programs" title="Miami WIC Programs">Miami <em>(14)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-moore_haven" alt="Moore Haven WIC Programs" title="Moore Haven WIC Programs">Moore Haven <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-naples" alt="Naples WIC Programs" title="Naples WIC Programs">Naples <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-naranja" alt="Naranja WIC Programs" title="Naranja WIC Programs">Naranja <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-new_port_richey" alt="New Port Richey WIC Programs" title="New Port Richey WIC Programs">New Port Richey <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-new_smyrna_beach" alt="New Smyrna Beach WIC Programs" title="New Smyrna Beach WIC Programs">New Smyrna Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-north_fort_myers" alt="North Fort Myers WIC Programs" title="North Fort Myers WIC Programs">North Fort Myers <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-okeechobee" alt="Okeechobee WIC Programs" title="Okeechobee WIC Programs">Okeechobee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-opa_locka" alt="Opa Locka WIC Programs" title="Opa Locka WIC Programs">Opa Locka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-orlando" alt="Orlando WIC Programs" title="Orlando WIC Programs">Orlando <em>(7)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-palatka" alt="Palatka WIC Programs" title="Palatka WIC Programs">Palatka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-palmetto" alt="Palmetto WIC Programs" title="Palmetto WIC Programs">Palmetto <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-panama_city" alt="Panama City WIC Programs" title="Panama City WIC Programs">Panama City <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-panama_city_beach" alt="Panama City Beach WIC Programs" title="Panama City Beach WIC Programs">Panama City Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pensacola" alt="Pensacola WIC Programs" title="Pensacola WIC Programs">Pensacola <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-perrine" alt="Perrine WIC Programs" title="Perrine WIC Programs">Perrine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pierson" alt="Pierson WIC Programs" title="Pierson WIC Programs">Pierson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pinellas_park" alt="Pinellas Park WIC Programs" title="Pinellas Park WIC Programs">Pinellas Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-plant_city" alt="Plant City WIC Programs" title="Plant City WIC Programs">Plant City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pompano_beach" alt="Pompano Beach WIC Programs" title="Pompano Beach WIC Programs">Pompano Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-ponce_de_leon" alt="Ponce de Leon WIC Programs" title="Ponce de Leon WIC Programs">Ponce de Leon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_charlotte" alt="Port Charlotte WIC Programs" title="Port Charlotte WIC Programs">Port Charlotte <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_saint_joe" alt="Port Saint Joe WIC Programs" title="Port Saint Joe WIC Programs">Port Saint Joe <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_st_joe" alt="Port St Joe WIC Programs" title="Port St Joe WIC Programs">Port St Joe <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_st._lucie" alt="Port St. Lucie WIC Programs" title="Port St. Lucie WIC Programs">Port St. Lucie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-punta_gorda" alt="Punta Gorda WIC Programs" title="Punta Gorda WIC Programs">Punta Gorda <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-quincy" alt="Quincy WIC Programs" title="Quincy WIC Programs">Quincy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-ruskin" alt="Ruskin WIC Programs" title="Ruskin WIC Programs">Ruskin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-safety_harbor" alt="Safety Harbor WIC Programs" title="Safety Harbor WIC Programs">Safety Harbor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-sneads" alt="Sneads WIC Programs" title="Sneads WIC Programs">Sneads <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-st_petersburg" alt="St Petersburg WIC Programs" title="St Petersburg WIC Programs">St Petersburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-st._cloud" alt="St. Cloud WIC Programs" title="St. Cloud WIC Programs">St. Cloud <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-starke" alt="Starke WIC Programs" title="Starke WIC Programs">Starke <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-stuart" alt="Stuart WIC Programs" title="Stuart WIC Programs">Stuart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-sunrise" alt="Sunrise WIC Programs" title="Sunrise WIC Programs">Sunrise <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-tallahassee" alt="Tallahassee WIC Programs" title="Tallahassee WIC Programs">Tallahassee <em>(5)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-tampa" alt="Tampa WIC Programs" title="Tampa WIC Programs">Tampa <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-tarpon_springs" alt="Tarpon Springs WIC Programs" title="Tarpon Springs WIC Programs">Tarpon Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-titusville" alt="Titusville WIC Programs" title="Titusville WIC Programs">Titusville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-trenton" alt="Trenton WIC Programs" title="Trenton WIC Programs">Trenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-umatilla" alt="Umatilla WIC Programs" title="Umatilla WIC Programs">Umatilla <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-vernon" alt="Vernon WIC Programs" title="Vernon WIC Programs">Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-vero_beach" alt="Vero Beach WIC Programs" title="Vero Beach WIC Programs">Vero Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-viera" alt="Viera WIC Programs" title="Viera WIC Programs">Viera <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-wauchula" alt="Wauchula WIC Programs" title="Wauchula WIC Programs">Wauchula <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-west_palm_beach" alt="West Palm Beach WIC Programs" title="West Palm Beach WIC Programs">West Palm Beach <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-wewahitchka" alt="Wewahitchka WIC Programs" title="Wewahitchka WIC Programs">Wewahitchka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-wildwood" alt="Wildwood WIC Programs" title="Wildwood WIC Programs">Wildwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-winter_garden" alt="Winter Garden WIC Programs" title="Winter Garden WIC Programs">Winter Garden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-youngstown" alt="Youngstown WIC Programs" title="Youngstown WIC Programs">Youngstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-yulee" alt="Yulee WIC Programs" title="Yulee WIC Programs">Yulee <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2016 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

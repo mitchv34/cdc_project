@@ -1,0 +1,589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Missouri WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Missouri Programs,Missouri WIC Clinics,Missouri WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Missouri WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Missouri
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Missouri WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Missouri on the right. Find your local WIC location using our Missouri search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Missouri City: </h2>
+		
+			<b>Enter city name in Missouri</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="MO" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Missouri WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/homer-g-phillips-health-center" title="Homer G. Phillips Health Center">Homer G. Phillips Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/homer-g-phillips-health-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Homer G. Phillips Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2425 North Whittier Ave<br />
+                St. Louis, MO - 63113<br />
+                (314) 371-3100<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/homer-g-phillips-health-center">Website</a></span>            </div>
+			<p>(314) 371-3100 Ext 6021.
+
+Grace Hill offers WIC services through staff located at four of itâ€™s locations and also at Barnes-Jewish Hospital and St. Mary\'s Health Center.
+</p>
+            <a href="http://www.wicprograms.org/li/homer-g-phillips-health-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/st-charles-co-dept-of-community-health" title="St. Charles Co Dept of Community Health">St. Charles Co Dept of Community Health</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/st-charles-co-dept-of-community-health" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="St. Charles Co Dept of Community Health"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1650 Boone\'s Lick Road<br />
+                Saint Charles, MO - 63301<br />
+                (636) 949-7402<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-charles-co-dept-of-community-health">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-charles-co-dept-of-community-health">Website</a></span>            </div>
+			<p>Hours: 8:30-5 M-F Some late nights. Call for appointment
+
+Women, Infants and Children (WIC) is a supplemental nutrition program that provides pregnant women, new mothers, infants and children up to their fifth birthday with health screening, risk assessment, nutrition education and counseling, bre</p>
+            <a href="http://www.wicprograms.org/li/st-charles-co-dept-of-community-health" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/st-louis-dept-of-health-village-square" title="St Louis Dept of Health-Village Square">St Louis Dept of Health-Village Square</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/st-louis-dept-of-health-village-square" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="St Louis Dept of Health-Village Square"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                #21 A Village Square<br />
+                Hazelwood, MO - 63042<br />
+                (314) 679-7900<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-louis-dept-of-health-village-square">Website</a></span>            </div>
+			<p>Hours: 8-4:30 M-F Call for appointment</p>
+            <a href="http://www.wicprograms.org/li/st-louis-dept-of-health-village-square" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/st-louis-co-john-c-murphy-health-center" title="St. Louis Co.-John C. Murphy Health Center">St. Louis Co.-John C. Murphy Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/st-louis-co-john-c-murphy-health-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="St. Louis Co.-John C. Murphy Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                6121 N. Hanley Rd.<br />
+                Berkeley, MO - 63134<br />
+                (314) 679-7900<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-louis-co-john-c-murphy-health-center">Website</a></span>            </div>
+			<p>Hours: 8:30-5 M,T,W,F; and 9:30-6 Th Call for appt.</p>
+            <a href="http://www.wicprograms.org/li/st-louis-co-john-c-murphy-health-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/peoples-w-florissant-clinic" title="People\'s- W. Florissant Clinic">People\'s- W. Florissant Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/peoples-w-florissant-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="People\'s- W. Florissant Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                11642 W. Florissant<br />
+                St Louis, MO - 63033<br />
+                (314) 831-3517<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/peoples-w-florissant-clinic">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/peoples-w-florissant-clinic">Website</a></span>            </div>
+			<p>Hours
+Monday, Tuesday, Thursday
+& Friday: 8:00 am - 5:30 pm
+Wednesday: 8:00 am - 8:30 pm</p>
+            <a href="http://www.wicprograms.org/li/peoples-w-florissant-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/st-louis-co-health-dept-mayfair-plaza-wic" title="St. Louis Co. Health Dept.-Mayfair Plaza WIC">St. Louis Co. Health Dept.-Mayfair Plaza WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/st-louis-co-health-dept-mayfair-plaza-wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="St. Louis Co. Health Dept.-Mayfair Plaza WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                244 Mayfair Plaza Shopping Ctr<br />
+                Florissant, MO - 63033<br />
+                (314) 679-7900<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-louis-co-health-dept-mayfair-plaza-wic">Website</a></span>            </div>
+			<p>Hours: 8-4:30 M-F Call for an appointment</p>
+            <a href="http://www.wicprograms.org/li/st-louis-co-health-dept-mayfair-plaza-wic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/grace-hill-florence-hill-health-center" title="Grace Hill-Florence Hill Health Center">Grace Hill-Florence Hill Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/grace-hill-florence-hill-health-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Grace Hill-Florence Hill Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                5541 Riverview Blvd.<br />
+                Saint Louis, MO - 63120<br />
+                (314) 389-4566<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/grace-hill-florence-hill-health-center">Website</a></span>            </div>
+			<p>Hours: 8:30-5 T, W,Th, F and 9:30-6 M</p>
+            <a href="http://www.wicprograms.org/li/grace-hill-florence-hill-health-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/st-louis-dept-of-health-n-central-comm-health-ctr" title="St Louis Dept of Health-N.Central Comm. Health Ctr">St Louis Dept of Health-N.Central Comm. Health Ctr</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/st-louis-dept-of-health-n-central-comm-health-ctr" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="St Louis Dept of Health-N.Central Comm. Health Ctr"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                4000 Jennings Station Rd.<br />
+                Pine Lawn, MO - 63120<br />
+                (314) 679-7900<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-louis-dept-of-health-n-central-comm-health-ctr">Website</a></span>            </div>
+			<p>Hours: 8:30-5 M,T,Th,F & 9:30-6 W Call for appt.</p>
+            <a href="http://www.wicprograms.org/li/st-louis-dept-of-health-n-central-comm-health-ctr" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/grace-hill-comprehensive-health-center" title="Grace Hill Comprehensive Health Center">Grace Hill Comprehensive Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/grace-hill-comprehensive-health-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Grace Hill Comprehensive Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                5471 Dr. Martin Luther King Dr.<br />
+                Saint Louis, MO - 63112<br />
+                (314) 367-5820<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/grace-hill-comprehensive-health-center">Website</a></span>            </div>
+			<p>Grace Hill offers WIC services through staff located at four of itâ€™s locations and also at Barnes-Jewish Hospital and St. Mary\'s Health Center. </p>
+            <a href="http://www.wicprograms.org/li/grace-hill-comprehensive-health-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/grace-hill-water-tower-wic-program" title="Grace Hill- Water Tower WIC Program">Grace Hill- Water Tower WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/grace-hill-water-tower-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Grace Hill- Water Tower WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                4414 N. Florissant Ave.<br />
+                Saint Louis, MO - 63107<br />
+                (314) 898-1730<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 8:30-5 M,T,Th, F and 9:30-6 W</p>
+            <a href="http://www.wicprograms.org/li/grace-hill-water-tower-wic-program" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Missouri Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/mo-berkeley" alt="Berkeley WIC Programs" title="Berkeley WIC Programs">Berkeley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-bloomfield" alt="Bloomfield WIC Programs" title="Bloomfield WIC Programs">Bloomfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-butler" alt="Butler WIC Programs" title="Butler WIC Programs">Butler <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-camdenton" alt="Camdenton WIC Programs" title="Camdenton WIC Programs">Camdenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-cape_girardeau" alt="Cape Girardeau WIC Programs" title="Cape Girardeau WIC Programs">Cape Girardeau <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-carrolton" alt="Carrolton WIC Programs" title="Carrolton WIC Programs">Carrolton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-cassville" alt="Cassville WIC Programs" title="Cassville WIC Programs">Cassville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-charleston" alt="Charleston WIC Programs" title="Charleston WIC Programs">Charleston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-columbia" alt="Columbia WIC Programs" title="Columbia WIC Programs">Columbia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-el_dorado_springs" alt="El Dorado Springs WIC Programs" title="El Dorado Springs WIC Programs">El Dorado Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-florissant" alt="Florissant WIC Programs" title="Florissant WIC Programs">Florissant <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-fulton" alt="Fulton WIC Programs" title="Fulton WIC Programs">Fulton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-hale" alt="Hale WIC Programs" title="Hale WIC Programs">Hale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-harrisonville" alt="Harrisonville WIC Programs" title="Harrisonville WIC Programs">Harrisonville <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-hazelwood" alt="Hazelwood WIC Programs" title="Hazelwood WIC Programs">Hazelwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-kennett" alt="Kennett WIC Programs" title="Kennett WIC Programs">Kennett <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-keytesville" alt="Keytesville WIC Programs" title="Keytesville WIC Programs">Keytesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-kingston" alt="Kingston WIC Programs" title="Kingston WIC Programs">Kingston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-kirsville" alt="Kirsville WIC Programs" title="Kirsville WIC Programs">Kirsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-lamar" alt="Lamar WIC Programs" title="Lamar WIC Programs">Lamar <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-malden" alt="Malden WIC Programs" title="Malden WIC Programs">Malden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-marble_hill" alt="Marble Hill WIC Programs" title="Marble Hill WIC Programs">Marble Hill <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-mexico" alt="Mexico WIC Programs" title="Mexico WIC Programs">Mexico <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-monett" alt="Monett WIC Programs" title="Monett WIC Programs">Monett <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-neelyville" alt="Neelyville WIC Programs" title="Neelyville WIC Programs">Neelyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-ozark" alt="Ozark WIC Programs" title="Ozark WIC Programs">Ozark <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-perryville" alt="Perryville WIC Programs" title="Perryville WIC Programs">Perryville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-pine_lawn" alt="Pine Lawn WIC Programs" title="Pine Lawn WIC Programs">Pine Lawn <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-poplar_bluff" alt="Poplar Bluff WIC Programs" title="Poplar Bluff WIC Programs">Poplar Bluff <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-saint_charles" alt="Saint Charles WIC Programs" title="Saint Charles WIC Programs">Saint Charles <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-saint_louis" alt="Saint Louis WIC Programs" title="Saint Louis WIC Programs">Saint Louis <em>(12)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-savannah" alt="Savannah WIC Programs" title="Savannah WIC Programs">Savannah <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-seligman" alt="Seligman WIC Programs" title="Seligman WIC Programs">Seligman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-sikeston" alt="Sikeston WIC Programs" title="Sikeston WIC Programs">Sikeston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-st_joseph" alt="St Joseph WIC Programs" title="St Joseph WIC Programs">St Joseph <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-st_louis" alt="St Louis WIC Programs" title="St Louis WIC Programs">St Louis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-st._louis" alt="St. Louis WIC Programs" title="St. Louis WIC Programs">St. Louis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-stocktown" alt="Stocktown WIC Programs" title="Stocktown WIC Programs">Stocktown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-tarkio" alt="Tarkio WIC Programs" title="Tarkio WIC Programs">Tarkio <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-van_buren" alt="Van Buren WIC Programs" title="Van Buren WIC Programs">Van Buren <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-vandalia" alt="Vandalia WIC Programs" title="Vandalia WIC Programs">Vandalia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/mo-warsaw" alt="Warsaw WIC Programs" title="Warsaw WIC Programs">Warsaw <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2016 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

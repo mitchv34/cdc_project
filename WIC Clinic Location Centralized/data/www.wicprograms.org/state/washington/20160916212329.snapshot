@@ -1,0 +1,1049 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Washington WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Washington Programs,Washington WIC Clinics,Washington WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Washington WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Washington
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Washington on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Washington</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-anacortes">Anacortes</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-arlington">Arlington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-asotin">Asotin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-auburn">Auburn</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-belfair">Belfair</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-bellevue">Bellevue</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-bellingham">Bellingham</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-bothell">Bothell</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-bremerton">Bremerton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-brewster">Brewster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-buckley">Buckley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-camano_island">Camano Island</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-cheney">Cheney</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-connell">Connell</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-deer_park">Deer Park</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-enumclaw">Enumclaw</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-everett">Everett</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-federal_way">Federal Way</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-grandview">Grandview</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-granite_falls">Granite Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-kennewick">Kennewick</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-kent">Kent</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-lacey">Lacey</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-lakewood">Lakewood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-marysville">Marysville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-milton">Milton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-monroe">Monroe</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-mount_vernon">Mount Vernon</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-north_bend">North Bend</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-oak_harbor">Oak Harbor</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-ocean_shores">Ocean Shores</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-okanogan">Okanogan</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-olympia">Olympia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-othello">Othello</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-pasco">Pasco</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-pomeroy">Pomeroy</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-port_orchard">Port Orchard</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-port_townsend">Port Townsend</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-prosser">Prosser</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-puyallup">Puyallup</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-renton">Renton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-ritzville">Ritzville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-seattle">Seattle</a>
+												<em>(9)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-silverdale">Silverdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-snohomish">Snohomish</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-spanaway">Spanaway</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-spokane">Spokane</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-suquamish">Suquamish</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-tacoma">Tacoma</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-toppenish">Toppenish</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-vancouver">Vancouver </a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-vaughn">Vaughn</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-walla_walla">Walla Walla</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-wapato">Wapato</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/wa-yakima">Yakima</a>
+												<em>(3)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/wa_98118_columbia-city-center-for-health" title="Columbia City Center for Health">Columbia City Center for Health</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/wa_98118_columbia-city-center-for-health" title=""><img src="http://www.wicprograms.org/gallery/6801_wa_98118_columbia-city-center-for-health_eab.ashx" alt="Columbia City Center for Health"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    4400 37th Ave S<br />
+                    Seattle, WA - 98118<br />
+                    206-296-4650<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/wa_98118_columbia-city-center-for-health">Website</a></span>            </div>
+            <p>&nbsp;WIC Hours: Monday - Thursday, 8:00 am - 7:00 pm and Friday, 8:00 am - 5:00 pm</p>
+            <a href="http://www.wicprograms.org/li/wa_98118_columbia-city-center-for-health" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/wa_98003_federal-way-public-health-center" title="Federal Way Public Health Center">Federal Way Public Health Center</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/wa_98003_federal-way-public-health-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Federal Way Public Health Center"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    33431 13th Place S<br />
+                    Federal Way, WA - 98003<br />
+                    206-477-6800<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/wa_98003_federal-way-public-health-center">Website</a></span>            </div>
+            <p>Office hours: Monday - Friday, 8:00 am - 5:00 pm.You can apply for WIC at this office. &nbsp;&nbsp;&nbsp; Qualifications to be eligible for WIC&nbsp;&nbsp;&nbsp; You live in Washington state, and;&nbsp;&nbsp;&nbsp; Have a medical or nutrition need, and;&nbsp;&nbsp;&nbsp; You are pregnant, a new moth</p>
+            <a href="http://www.wicprograms.org/li/wa_98003_federal-way-public-health-center" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/wa_98133_meridian-center-for-health" title="Meridian Center for Health">Meridian Center for Health</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/wa_98133_meridian-center-for-health" title=""><img src="http://www.wicprograms.org/gallery/6804_wa_98133_meridian-center-for-health_pdp.ashx" alt="Meridian Center for Health"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    10521 Meridian Ave N, 2nd Floor<br />
+                    Seattle, WA - 98133<br />
+                    206-296-4990<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/wa_98133_meridian-center-for-health">Website</a></span>            </div>
+            <p>Public Health clinic hours:&nbsp;&nbsp;&nbsp; Monday, 8:00 am – 5:00 pm&nbsp;&nbsp;&nbsp; Tuesday, 8:00 am – 6:30 pm&nbsp;&nbsp;&nbsp; Wednesday, 8:00 am – 5:00 pm&nbsp;&nbsp;&nbsp; Thursday, 8:00 am – 6:30 pm&nbsp;&nbsp;&nbsp; Friday, 8:00 am – 5:00 pm Call for WIC Hours. </p>
+            <a href="http://www.wicprograms.org/li/wa_98133_meridian-center-for-health" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/wa_98103_wic-satellite-in-wallingford-at-the-family-resource-center" title="WIC Satellite in Wallingford at The Family Resource Center">WIC Satellite in Wallingford at The Family Resource Center</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/wa_98103_wic-satellite-in-wallingford-at-the-family-resource-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="WIC Satellite in Wallingford at The Family Resource Center"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1501 N. 45th Street<br />
+                    Seattle, WA - 98103<br />
+                    206-694-6728<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/wa_98103_wic-satellite-in-wallingford-at-the-family-resource-center">Website</a></span>            </div>
+            <p>WIC HoursThurs 9:30am – 3:30pm&nbsp;&nbsp;&nbsp; Qualifications to be eligible for WIC&nbsp;&nbsp;&nbsp; You live in Washington state, and;&nbsp;&nbsp;&nbsp; Have a medical or nutrition need, and;&nbsp;&nbsp;&nbsp; You are pregnant, a new mother, or have a child under five years of age&nbsp;&nbsp;</p>
+            <a href="http://www.wicprograms.org/li/wa_98103_wic-satellite-in-wallingford-at-the-family-resource-center" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore" title="Seattle-King County Health Department East Public Health Center at Northshore">Seattle-King County Health Department East Public Health Center at Northshore</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Seattle-King County Health Department East Public Health Center at Northshore"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    10808 NE 145th Street<br />
+                    Bothell, WA - 98011<br />
+                    (800) 562-2956<br />
+                                    </p>
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore">Website</a></span>            </div>
+            <p>Office hours: Mon-Thurs: 8:00 am to 6:00 pm; Fri: 8:00 am to 5:00 pmWIC satellite clinics:&nbsp;&nbsp;&nbsp; HealthPoint, Bothell&nbsp;&nbsp;&nbsp; 10414 Beardslee Blvd&nbsp;&nbsp;&nbsp; Bothell, WA 98011&nbsp;&nbsp;&nbsp; Phone: 425-806-2890&nbsp;&nbsp;&nbsp; Open:&nbsp;&nbsp;&nbsp; Mondays: 8:00 a</p>
+            <a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/wic-shoreline-services" title="WIC Shoreline Services">WIC Shoreline Services</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/wic-shoreline-services" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="WIC Shoreline Services"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    17018 15th Ave NE<br />
+                    Seattle, WA - 98155<br />
+                    206-362-7282 <br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/wic-shoreline-services">Website</a></span>            </div>
+            <p>Office hours: Monday-Friday, 9am to 5pmLocated near Center for Human Serrvices. Provides Family Counseling, Family Support, and Substance Abuse services.</p>
+            <a href="http://www.wicprograms.org/li/wic-shoreline-services" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/white-center-public-health-center-at-greenbridge" title="White Center Public Health Center at Greenbridge">White Center Public Health Center at Greenbridge</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/white-center-public-health-center-at-greenbridge" title=""><img src="http://www.wicprograms.org/gallery/5700_white-center-public-health-center-at-greenbridge_dtu.ashx" alt="White Center Public Health Center at Greenbridge"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    9934 8th Ave SW<br />
+                    Seattle, WA - 98106<br />
+                    (855) 826-7427<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/white-center-public-health-center-at-greenbridge">Website</a></span>            </div>
+            <p>Hours open: Monday - Friday, 8:30 am to 5:30 pmWIC satellite clinics:&nbsp;&nbsp;&nbsp; HealthPoint Midway&nbsp;&nbsp;&nbsp; 26401 Pacific Hwy S&nbsp;&nbsp;&nbsp; Des Moines, WA 98198&nbsp;&nbsp;&nbsp; Phone: 206-870-3588&nbsp;&nbsp;&nbsp; Open:&nbsp;&nbsp;&nbsp; Mondays, Tuesdays, Wednesdays: 8:30 </p>
+            <a href="http://www.wicprograms.org/li/white-center-public-health-center-at-greenbridge" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/king-county-wic-clinic" title="Kent Public Health Center WIC Clinic">Kent Public Health Center WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/king-county-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/5704_king-county-wic-clinic_acr.ashx" alt="Kent Public Health Center WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    25742 104th Ave SE<br />
+                    Kent, WA - 98030<br />
+                    (206) 296-4502<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/king-county-wic-clinic">Website</a></span>            </div>
+            <p>Location: Kent Hill Plaza Shopping Center.Health Center Hours: Monday - Friday, 8:00 am - 5:00 pm.&nbsp;&nbsp;&nbsp; Qualifications to be eligible for WIC&nbsp;&nbsp;&nbsp; You live in Washington state, and;&nbsp;&nbsp;&nbsp; Have a medical or nutrition need, and;&nbsp;&nbsp;&nbsp; You are pregnant,</p>
+            <a href="http://www.wicprograms.org/li/king-county-wic-clinic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/downtown-public-health-center" title="Downtown Public Health Center WIC">Downtown Public Health Center WIC</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/downtown-public-health-center" title=""><img src="http://www.wicprograms.org/gallery/5711_downtown-public-health-center_hec.ashx" alt="Downtown Public Health Center WIC"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    2124 4th Ave<br />
+                    Seattle, WA - 98121<br />
+                    (206) 296-4981<br />
+                                    </p>
+                                            </div>
+            <p>Seattle City of Wic Program Social Services Organization
+Monday - Friday, 8 am to 5 pm.&nbsp;&nbsp;&nbsp; Qualifications to be eligible for WIC&nbsp;&nbsp;&nbsp; You live in Washington state, and;&nbsp;&nbsp;&nbsp; Have a medical or nutrition need, and;&nbsp;&nbsp;&nbsp; You are pregnant, a new mot</p>
+            <a href="http://www.wicprograms.org/li/downtown-public-health-center" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/auburn-public-health-center" title="Auburn Public Health Center WIC">Auburn Public Health Center WIC</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/auburn-public-health-center" title=""><img src="http://www.wicprograms.org/gallery/5720_auburn-public-health-center_pny.ashx" alt="Auburn Public Health Center WIC"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    901 Auburn Way N<br />
+                    Auburn, WA - 98002<br />
+                    206-477-0600<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/auburn-public-health-center">Website</a></span>            </div>
+            <p>WIC Hours: Open: Monday - Friday, 8:00 am - 5:00 pmBreastfeeding peer counselor program available at this WIC office.You are eligible if you:&nbsp;&nbsp;&nbsp; Live in Washington state, and&nbsp;&nbsp;&nbsp; Are pregnant, a new mother, or a child under five years of age, and&nbsp;&nbsp;&nbsp; Meet t</p>
+            <a href="http://www.wicprograms.org/li/auburn-public-health-center" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                            
+
+                                <!-- Top cities start -->
+                                <aside class="widget">
+                                    <h3 class="widget-title">Washington WIC</h3>
+                                    <ul class="widget-list">
+                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-anacortes" alt="Anacortes WIC Programs" title="Anacortes WIC Programs">Anacortes <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-arlington" alt="Arlington WIC Programs" title="Arlington WIC Programs">Arlington <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-asotin" alt="Asotin WIC Programs" title="Asotin WIC Programs">Asotin <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-auburn" alt="Auburn WIC Programs" title="Auburn WIC Programs">Auburn <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-belfair" alt="Belfair WIC Programs" title="Belfair WIC Programs">Belfair <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-bellevue" alt="Bellevue WIC Programs" title="Bellevue WIC Programs">Bellevue <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-bellingham" alt="Bellingham WIC Programs" title="Bellingham WIC Programs">Bellingham <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-bothell" alt="Bothell WIC Programs" title="Bothell WIC Programs">Bothell <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-bremerton" alt="Bremerton WIC Programs" title="Bremerton WIC Programs">Bremerton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-brewster" alt="Brewster WIC Programs" title="Brewster WIC Programs">Brewster <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-buckley" alt="Buckley WIC Programs" title="Buckley WIC Programs">Buckley <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-camano_island" alt="Camano Island WIC Programs" title="Camano Island WIC Programs">Camano Island <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-cheney" alt="Cheney WIC Programs" title="Cheney WIC Programs">Cheney <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-connell" alt="Connell WIC Programs" title="Connell WIC Programs">Connell <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-deer_park" alt="Deer Park WIC Programs" title="Deer Park WIC Programs">Deer Park <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-enumclaw" alt="Enumclaw WIC Programs" title="Enumclaw WIC Programs">Enumclaw <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-everett" alt="Everett WIC Programs" title="Everett WIC Programs">Everett <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-federal_way" alt="Federal Way WIC Programs" title="Federal Way WIC Programs">Federal Way <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-grandview" alt="Grandview WIC Programs" title="Grandview WIC Programs">Grandview <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-granite_falls" alt="Granite Falls WIC Programs" title="Granite Falls WIC Programs">Granite Falls <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-kennewick" alt="Kennewick WIC Programs" title="Kennewick WIC Programs">Kennewick <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-kent" alt="Kent WIC Programs" title="Kent WIC Programs">Kent <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-lacey" alt="Lacey WIC Programs" title="Lacey WIC Programs">Lacey <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-lakewood" alt="Lakewood WIC Programs" title="Lakewood WIC Programs">Lakewood <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-marysville" alt="Marysville WIC Programs" title="Marysville WIC Programs">Marysville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-milton" alt="Milton WIC Programs" title="Milton WIC Programs">Milton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-monroe" alt="Monroe WIC Programs" title="Monroe WIC Programs">Monroe <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-mount_vernon" alt="Mount Vernon WIC Programs" title="Mount Vernon WIC Programs">Mount Vernon <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-north_bend" alt="North Bend WIC Programs" title="North Bend WIC Programs">North Bend <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-oak_harbor" alt="Oak Harbor WIC Programs" title="Oak Harbor WIC Programs">Oak Harbor <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-ocean_shores" alt="Ocean Shores WIC Programs" title="Ocean Shores WIC Programs">Ocean Shores <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-okanogan" alt="Okanogan WIC Programs" title="Okanogan WIC Programs">Okanogan <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-olympia" alt="Olympia WIC Programs" title="Olympia WIC Programs">Olympia <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-othello" alt="Othello WIC Programs" title="Othello WIC Programs">Othello <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-pasco" alt="Pasco WIC Programs" title="Pasco WIC Programs">Pasco <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-pomeroy" alt="Pomeroy WIC Programs" title="Pomeroy WIC Programs">Pomeroy <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-port_orchard" alt="Port Orchard WIC Programs" title="Port Orchard WIC Programs">Port Orchard <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-port_townsend" alt="Port Townsend WIC Programs" title="Port Townsend WIC Programs">Port Townsend <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-prosser" alt="Prosser WIC Programs" title="Prosser WIC Programs">Prosser <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-puyallup" alt="Puyallup WIC Programs" title="Puyallup WIC Programs">Puyallup <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-renton" alt="Renton WIC Programs" title="Renton WIC Programs">Renton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-ritzville" alt="Ritzville WIC Programs" title="Ritzville WIC Programs">Ritzville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-seattle" alt="Seattle WIC Programs" title="Seattle WIC Programs">Seattle <em>(9)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-silverdale" alt="Silverdale WIC Programs" title="Silverdale WIC Programs">Silverdale <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-snohomish" alt="Snohomish WIC Programs" title="Snohomish WIC Programs">Snohomish <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-spanaway" alt="Spanaway WIC Programs" title="Spanaway WIC Programs">Spanaway <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-spokane" alt="Spokane WIC Programs" title="Spokane WIC Programs">Spokane <em>(3)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-suquamish" alt="Suquamish WIC Programs" title="Suquamish WIC Programs">Suquamish <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-tacoma" alt="Tacoma WIC Programs" title="Tacoma WIC Programs">Tacoma <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-toppenish" alt="Toppenish WIC Programs" title="Toppenish WIC Programs">Toppenish <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-vancouver" alt="Vancouver  WIC Programs" title="Vancouver  WIC Programs">Vancouver  <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-vaughn" alt="Vaughn WIC Programs" title="Vaughn WIC Programs">Vaughn <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-walla_walla" alt="Walla Walla WIC Programs" title="Walla Walla WIC Programs">Walla Walla <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-wapato" alt="Wapato WIC Programs" title="Wapato WIC Programs">Wapato <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/wa-yakima" alt="Yakima WIC Programs" title="Yakima WIC Programs">Yakima <em>(3)</em></a></li>                                                                            </ul>
+                                </aside>
+                                <!-- Top cities end -->
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/wa_98118_columbia-city-center-for-health">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/6801_wa_98118_columbia-city-center-for-health_eab.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/wa_98118_columbia-city-center-for-health">Columbia City Center for Health</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Seattle,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/wa_98003_federal-way-public-health-center">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/wa_98003_federal-way-public-health-center">Federal Way Public Health Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Federal Way,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/wa_98133_meridian-center-for-health">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/6804_wa_98133_meridian-center-for-health_pdp.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/wa_98133_meridian-center-for-health">Meridian Center for Health</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Seattle,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/wa_98103_wic-satellite-in-wallingford-at-the-family-resource-center">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/wa_98103_wic-satellite-in-wallingford-at-the-family-resource-center">WIC Satellite in Wallingford at The Family Resource Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Seattle,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/seattle-king-county-health-department-east-public-health-center-at-northshore">Seattle-King County Health Department East Public Health Center at Northshore</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Bothell,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/wic-shoreline-services">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/wic-shoreline-services">WIC Shoreline Services</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Seattle,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/white-center-public-health-center-at-greenbridge">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/5700_white-center-public-health-center-at-greenbridge_dtu.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/white-center-public-health-center-at-greenbridge">White Center Public Health Center at Greenbridge</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Seattle,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/king-county-wic-clinic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/5704_king-county-wic-clinic_acr.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/king-county-wic-clinic">Kent Public Health Center WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Kent,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/downtown-public-health-center">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/5711_downtown-public-health-center_hec.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/downtown-public-health-center">Downtown Public Health Center WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Seattle,WA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/auburn-public-health-center">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/5720_auburn-public-health-center_pny.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/auburn-public-health-center">Auburn Public Health Center WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Auburn,WA</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2016</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-3966987-23', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,681 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>Arizona WIC Programs | Arizona WIC Locations, Information and Assistance</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="Arizona WIC Programs in Arizona" />
+	<meta name="description" content="Arizona WIC Programs in Arizona" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong></strong> entries listed in our database.<br />
+	Entries pending approval: <strong></strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong></strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+			
+
+       
+			<!-- Top cities start -->
+
+			<div class="side-box group">
+				<h4 class="news">WIC Clinics and Offices By City</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-_buckeye" alt=" Buckeye WIC Programs" title=" Buckeye WIC Clinics & Offices"> Buckeye WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-_mesa" alt=" Mesa WIC Programs" title=" Mesa WIC Clinics & Offices"> Mesa WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-ajo" alt="Ajo WIC Programs" title="Ajo WIC Clinics & Offices">Ajo WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-amando" alt="Amando WIC Programs" title="Amando WIC Clinics & Offices">Amando WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-apache_junction" alt="Apache Junction WIC Programs" title="Apache Junction WIC Clinics & Offices">Apache Junction WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-ashfork" alt="Ashfork WIC Programs" title="Ashfork WIC Clinics & Offices">Ashfork WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-avondale" alt="Avondale WIC Programs" title="Avondale WIC Clinics & Offices">Avondale WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-benson" alt="Benson WIC Programs" title="Benson WIC Clinics & Offices">Benson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-bisbee" alt="Bisbee WIC Programs" title="Bisbee WIC Clinics & Offices">Bisbee WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-buckeye" alt="Buckeye WIC Programs" title="Buckeye WIC Clinics & Offices">Buckeye WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-bullhead_city" alt="Bullhead City WIC Programs" title="Bullhead City WIC Clinics & Offices">Bullhead City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-camp_verde" alt="Camp Verde WIC Programs" title="Camp Verde WIC Clinics & Offices">Camp Verde WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-casa_grande" alt="Casa Grande WIC Programs" title="Casa Grande WIC Clinics & Offices">Casa Grande WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-chandler" alt="Chandler WIC Programs" title="Chandler WIC Clinics & Offices">Chandler WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-chino_valley" alt="Chino Valley WIC Programs" title="Chino Valley WIC Clinics & Offices">Chino Valley WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-clifton" alt="Clifton WIC Programs" title="Clifton WIC Clinics & Offices">Clifton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-colorado_city" alt="Colorado City WIC Programs" title="Colorado City WIC Clinics & Offices">Colorado City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-concho" alt="Concho WIC Programs" title="Concho WIC Clinics & Offices">Concho WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-continental" alt="Continental WIC Programs" title="Continental WIC Clinics & Offices">Continental WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-coolidge" alt="Coolidge WIC Programs" title="Coolidge WIC Clinics & Offices">Coolidge WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-cottonwood" alt="Cottonwood WIC Programs" title="Cottonwood WIC Clinics & Offices">Cottonwood WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-dateland" alt="Dateland WIC Programs" title="Dateland WIC Clinics & Offices">Dateland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-douglas" alt="Douglas WIC Programs" title="Douglas WIC Clinics & Offices">Douglas WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-duncan" alt="Duncan WIC Programs" title="Duncan WIC Clinics & Offices">Duncan WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-eloy" alt="Eloy WIC Programs" title="Eloy WIC Clinics & Offices">Eloy WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-flagstaff" alt="Flagstaff WIC Programs" title="Flagstaff WIC Clinics & Offices">Flagstaff WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-fredonia" alt="Fredonia WIC Programs" title="Fredonia WIC Clinics & Offices">Fredonia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-gila_bend_" alt="Gila Bend  WIC Programs" title="Gila Bend  WIC Clinics & Offices">Gila Bend  WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-gilbert" alt="Gilbert WIC Programs" title="Gilbert WIC Clinics & Offices">Gilbert WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-glendale" alt="Glendale WIC Programs" title="Glendale WIC Clinics & Offices">Glendale WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-glendale_luke_afb" alt="Glendale Luke Afb WIC Programs" title="Glendale Luke Afb WIC Clinics & Offices">Glendale Luke Afb WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-globe" alt="Globe WIC Programs" title="Globe WIC Clinics & Offices">Globe WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-goodyear" alt="Goodyear WIC Programs" title="Goodyear WIC Clinics & Offices">Goodyear WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-grand_canyon" alt="Grand Canyon WIC Programs" title="Grand Canyon WIC Clinics & Offices">Grand Canyon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-guadalupe" alt="Guadalupe WIC Programs" title="Guadalupe WIC Clinics & Offices">Guadalupe WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-holbrook" alt="Holbrook WIC Programs" title="Holbrook WIC Clinics & Offices">Holbrook WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-kearny" alt="Kearny WIC Programs" title="Kearny WIC Clinics & Offices">Kearny WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-kingman" alt="Kingman WIC Programs" title="Kingman WIC Clinics & Offices">Kingman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-lake_havasu_city" alt="Lake Havasu City WIC Programs" title="Lake Havasu City WIC Clinics & Offices">Lake Havasu City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-mammoth" alt="Mammoth WIC Programs" title="Mammoth WIC Clinics & Offices">Mammoth WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-marana" alt="Marana WIC Programs" title="Marana WIC Clinics & Offices">Marana WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-maricopa" alt="Maricopa WIC Programs" title="Maricopa WIC Clinics & Offices">Maricopa WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-mesa" alt="Mesa WIC Programs" title="Mesa WIC Clinics & Offices">Mesa WIC Clinics</a> <em>(8)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-nogales" alt="Nogales WIC Programs" title="Nogales WIC Clinics & Offices">Nogales WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-oracle" alt="Oracle WIC Programs" title="Oracle WIC Clinics & Offices">Oracle WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-overgaard" alt="Overgaard WIC Programs" title="Overgaard WIC Clinics & Offices">Overgaard WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-page" alt="Page WIC Programs" title="Page WIC Clinics & Offices">Page WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-patagonia" alt="Patagonia WIC Programs" title="Patagonia WIC Clinics & Offices">Patagonia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-payson" alt="Payson WIC Programs" title="Payson WIC Clinics & Offices">Payson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-peoria" alt="Peoria WIC Programs" title="Peoria WIC Clinics & Offices">Peoria WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-phoenix" alt="Phoenix WIC Programs" title="Phoenix WIC Clinics & Offices">Phoenix WIC Clinics</a> <em>(15)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-pinetop" alt="Pinetop WIC Programs" title="Pinetop WIC Clinics & Offices">Pinetop WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-prescott" alt="Prescott WIC Programs" title="Prescott WIC Clinics & Offices">Prescott WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-prescott_valley" alt="Prescott Valley WIC Programs" title="Prescott Valley WIC Clinics & Offices">Prescott Valley WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-queen_creek" alt="Queen Creek WIC Programs" title="Queen Creek WIC Clinics & Offices">Queen Creek WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-rio_rico" alt="Rio Rico WIC Programs" title="Rio Rico WIC Clinics & Offices">Rio Rico WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-safford" alt="Safford WIC Programs" title="Safford WIC Clinics & Offices">Safford WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-san_luis" alt="San Luis WIC Programs" title="San Luis WIC Clinics & Offices">San Luis WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-san_manuel" alt="San Manuel WIC Programs" title="San Manuel WIC Clinics & Offices">San Manuel WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-scottsdale" alt="Scottsdale WIC Programs" title="Scottsdale WIC Clinics & Offices">Scottsdale WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-sedona" alt="Sedona WIC Programs" title="Sedona WIC Clinics & Offices">Sedona WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-show_low" alt="Show Low WIC Programs" title="Show Low WIC Clinics & Offices">Show Low WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-sierra_vista" alt="Sierra Vista WIC Programs" title="Sierra Vista WIC Clinics & Offices">Sierra Vista WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-snowflake" alt="Snowflake WIC Programs" title="Snowflake WIC Clinics & Offices">Snowflake WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-somerton" alt="Somerton WIC Programs" title="Somerton WIC Clinics & Offices">Somerton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-springerville" alt="Springerville WIC Programs" title="Springerville WIC Clinics & Offices">Springerville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-st_johns" alt="St Johns WIC Programs" title="St Johns WIC Clinics & Offices">St Johns WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-stanfield" alt="Stanfield WIC Programs" title="Stanfield WIC Clinics & Offices">Stanfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-superior" alt="Superior WIC Programs" title="Superior WIC Clinics & Offices">Superior WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-surprise" alt="Surprise WIC Programs" title="Surprise WIC Clinics & Offices">Surprise WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-tempe" alt="Tempe WIC Programs" title="Tempe WIC Clinics & Offices">Tempe WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-tucson" alt="Tucson WIC Programs" title="Tucson WIC Clinics & Offices">Tucson WIC Clinics</a> <em>(22)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-wellton" alt="Wellton WIC Programs" title="Wellton WIC Clinics & Offices">Wellton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-wickenburg" alt="Wickenburg WIC Programs" title="Wickenburg WIC Clinics & Offices">Wickenburg WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-willcox" alt="Willcox WIC Programs" title="Willcox WIC Clinics & Offices">Willcox WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-williams" alt="Williams WIC Programs" title="Williams WIC Clinics & Offices">Williams WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-winslow" alt="Winslow WIC Programs" title="Winslow WIC Clinics & Offices">Winslow WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/az-yuma" alt="Yuma WIC Programs" title="Yuma WIC Clinics & Offices">Yuma WIC Clinics</a> <em>(2)</em> 					</li>
+					</ul>
+
+			</div><!-- /.side-box -->
+
+<!-- Top cities end -->            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/state/arizona" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+
+
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<!-- Breadcrumb Start-->
+<a href="http://www.wicprograms.org">WIC Programs</a> &raquo; Arizona
+<!-- Breadcrumb End-->			
+			<div id="headline">
+
+                <h2>Arizona WIC Clinics and Offices</h2>
+    
+			
+			</div><!-- /headline -->
+
+                <p>We have listed out all of the cities where we have located WIC Clinics and Offices in Arizona. We are constantly adding new clinics and office locations as we find them. If you know of any WIC locations that we are not providing on the website, please go to the <a href="http://www.wicprograms.org/listing_add.php">ADD A WIC Location</a> page to help us add to our resource. </p>
+<br />
+			<!-- Google Ad Start -->
+
+<script type="text/javascript"><!--
+				google_ad_client = "pub-2985566993569762";
+				/* 300x250, created 11/22/10 */
+				google_ad_slot = "6936711454";
+				google_ad_width = 300;
+				google_ad_height = 250;
+				//-->
+				</script>
+				<script type="text/javascript"
+				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><br />
+		
+
+<!-- Google Ad End -->			
+			<!-- City search form start -->
+			<form action="http://www.wicprograms.org/city.php">
+				<h2>WIC Programs By City: </h2><br />
+				Type city name:<br />
+				<input name="city" size="40" type="text"/>
+				<input name="st" type="hidden" value="AZ"/>
+				<input name="submit" value="Search for city" type="submit" />
+			</form>
+			<!-- City search form end -->
+            
+			<br /><br />
+			<h1>Arizona WIC Program Overview</h1>
+						
+			<p>
+			    The Special Supplemental Nutrition Program for Women, Infants, and Children - better known as the WIC Program - serves to safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care.
+				
+			    <br /><br />
+				<script type="text/javascript"><!--
+				google_ad_client = "pub-2985566993569762";
+				/* 300x250, created 11/22/10 */
+				google_ad_slot = "6936711454";
+				google_ad_width = 300;
+				google_ad_height = 250;
+				//-->
+				</script>
+				<script type="text/javascript"
+				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script><br />
+		
+
+			
+			
+				<br /><strong>Arizona WIC Food Packages</strong> <br />
+
+				The WIC food packages provide supplemental foods designed to meet the special nutritional needs of low-income pregnant, breastfeeding, non-breastfeeding postpartum women, infants and children up to five years of age who are at nutritional risk. WIC food packages and nutrition education are the chief means by which WIC affects the dietary quality and habits of participants.  <br /> <br />
+
+				New food packages are now being provided to WIC participants in all States.  On December 6, 2007,  an interim rule revising the WIC food packages was published in the Federal Register. The new food packages align with the 2005 Dietary Guidelines for Americans and infant feeding practice guidelines of the American Academy of Pediatrics. The food packages better promote and support the establishment of successful, long-term breastfeeding, provide WIC participants with a wider variety of foods including fruits and vegetables and whole grains, and provide WIC State agencies greater flexibility in prescribing food packages to accommodate the cultural food preferences of WIC participants.  An interim rule allows the Food and Nutrition Service to obtain feedback on the revisions while allowing implementation to move forward. The interim rule comment period ended on February 1, 2010. FNS is currently reviewing and analyzing comments and expects to promulgate a final rule in February 2011.
+
+				<br />
+
+					<br /><strong>Arizona WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br /><br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+			
+			
+			
+			
+			
+			
+			            
+					<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/prescott_wic_clinic_86305">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_1.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/prescott_wic_clinic_86305">Prescott Wic Clinic - Prescott</a></h5>
+					<p>
+                    Prescott, AZ - 86305<br />
+			        928-771-3138
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Prescott WIC Clinic is a WIC cl<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/cottonwood_wic_clinic_86326">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_2.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/cottonwood_wic_clinic_86326">Cottonwood Wic Clinic - Cottonwood</a></h5>
+					<p>
+                    Cottonwood, AZ - 86326<br />
+			        928-639-8134
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Cottonwood WIC Clinic is a WIC <br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/prescott_valley_wic_clinic_86314">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_3.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/prescott_valley_wic_clinic_86314">Prescott Valley Wic Clinic - Prescott Valley</a></h5>
+					<p>
+                    Prescott Valley, AZ - 86314<br />
+			        928-771-3138
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Prescott Valley WIC Clinic is a<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/ash_fork_wic_clinic_86320">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_4.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/ash_fork_wic_clinic_86320">Ash Fork Wic Clinic - Ashfork</a></h5>
+					<p>
+                    Ashfork, AZ - 86320<br />
+			        800-771-2797
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Ash Fork WIC Clinic is a WIC cl<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/camp_verde_wic_clinic_86322">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_5.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/camp_verde_wic_clinic_86322">Camp Verde Wic Clinic - Camp Verde</a></h5>
+					<p>
+                    Camp Verde, AZ - 86322<br />
+			        928-639-8134
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Camp Verde WIC Clinic is a WIC <br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/chino_valley_wic_clinic_86323">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_6.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/chino_valley_wic_clinic_86323">Chino Valley Wic Clinic - Chino Valley</a></h5>
+					<p>
+                    Chino Valley, AZ - 86323<br />
+			        928-771-3138
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Chino Valley WIC Clinic is a WI<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/sedona_wic_clinic_86336">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_7.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/sedona_wic_clinic_86336">Sedona Wic Clinic - Sedona</a></h5>
+					<p>
+                    Sedona, AZ - 86336<br />
+			        928-639-8134
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Sedona WIC Clinic is a WIC clin<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/san_luis_wic_clinic_85349">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_8.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/san_luis_wic_clinic_85349">San Luis Wic Clinic - San Luis</a></h5>
+					<p>
+                    San Luis, AZ - 85349<br />
+			        928-317-4500
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. San Luis WIC Clinic is a WIC cl<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/somerton_wic_clinic_85350">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_9.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/somerton_wic_clinic_85350">Somerton Wic Clinic - Somerton</a></h5>
+					<p>
+                    Somerton, AZ - 85350<br />
+			        928-317-4500
+<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Somerton WIC Clinic is a WIC cl<br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+				
+				<div class="project">
+                    <a href="http://www.wicprograms.org/li/cocopah_tribe_wic_program_85364">
+                        <img src="http://www.wicprograms.org/templates/centizero/inc/timthumb.php?src=http://www.wicprograms.org/gallery/no_photo_10.jpg&amp;w=244&amp;h=118&amp;zc=1" border="0" class="preview" />
+                    </a>                
+				</div>
+				
+				<div class="project alt">
+					<h5><a href="http://www.wicprograms.org/li/cocopah_tribe_wic_program_85364">Cocopah Tribe Wic Program - Yuma</a></h5>
+					<p>
+                    Yuma, AZ - 85364<br />
+			        760-572-4218<br />
+					WIC is available to women in Arizona who are pregnant and breastfeeding. Postpartum women along with infants and children under the age of five who are at nutritional risk and who are at or below 185 percent of the federal poverty guidelines are also eligible for WIC. Cocopah Tribe WIC Program is a <br />
+                                    
+                                    
+                    					</p>
+
+				</div>
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->
+
+
+                
+			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2011 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

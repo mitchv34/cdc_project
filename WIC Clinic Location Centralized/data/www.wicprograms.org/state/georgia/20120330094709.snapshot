@@ -1,0 +1,833 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>Georgia WIC Programs | Georgia WIC Locations, Information and Assistance</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="Georgia WIC Programs in Georgia" />
+	<meta name="description" content="Georgia WIC Programs in Georgia" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong></strong> entries listed in our database.<br />
+	Entries pending approval: <strong></strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong></strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+			
+
+       
+			<!-- Top cities start -->
+
+			<div class="side-box group">
+				<h4 class="news">WIC Clinics and Offices By City</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-acworth" alt="Acworth WIC Programs" title="Acworth WIC Clinics & Offices">Acworth WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-adel" alt="Adel WIC Programs" title="Adel WIC Clinics & Offices">Adel WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-adrian" alt="Adrian WIC Programs" title="Adrian WIC Clinics & Offices">Adrian WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-alamo" alt="Alamo WIC Programs" title="Alamo WIC Clinics & Offices">Alamo WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-albany" alt="Albany WIC Programs" title="Albany WIC Clinics & Offices">Albany WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-alma" alt="Alma WIC Programs" title="Alma WIC Clinics & Offices">Alma WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-alpharetta" alt="Alpharetta WIC Programs" title="Alpharetta WIC Clinics & Offices">Alpharetta WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-americus" alt="Americus WIC Programs" title="Americus WIC Clinics & Offices">Americus WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-ashburn" alt="Ashburn WIC Programs" title="Ashburn WIC Clinics & Offices">Ashburn WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-athens" alt="Athens WIC Programs" title="Athens WIC Clinics & Offices">Athens WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-atlanta" alt="Atlanta WIC Programs" title="Atlanta WIC Clinics & Offices">Atlanta WIC Clinics</a> <em>(16)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-augusta" alt="Augusta WIC Programs" title="Augusta WIC Clinics & Offices">Augusta WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-austell" alt="Austell WIC Programs" title="Austell WIC Clinics & Offices">Austell WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-bainbridge" alt="Bainbridge WIC Programs" title="Bainbridge WIC Clinics & Offices">Bainbridge WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-barnesville" alt="Barnesville WIC Programs" title="Barnesville WIC Clinics & Offices">Barnesville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-baxley" alt="Baxley WIC Programs" title="Baxley WIC Clinics & Offices">Baxley WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-blackshear" alt="Blackshear WIC Programs" title="Blackshear WIC Clinics & Offices">Blackshear WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-blairsville" alt="Blairsville WIC Programs" title="Blairsville WIC Clinics & Offices">Blairsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-blakely" alt="Blakely WIC Programs" title="Blakely WIC Clinics & Offices">Blakely WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-blue_ridge" alt="Blue Ridge WIC Programs" title="Blue Ridge WIC Clinics & Offices">Blue Ridge WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-brunswick" alt="Brunswick WIC Programs" title="Brunswick WIC Clinics & Offices">Brunswick WIC Clinics</a> <em>(21)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-buchanan" alt="Buchanan WIC Programs" title="Buchanan WIC Clinics & Offices">Buchanan WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-buena_vista" alt="Buena Vista WIC Programs" title="Buena Vista WIC Clinics & Offices">Buena Vista WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-buford" alt="Buford WIC Programs" title="Buford WIC Clinics & Offices">Buford WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-butler" alt="Butler WIC Programs" title="Butler WIC Clinics & Offices">Butler WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cairo" alt="Cairo WIC Programs" title="Cairo WIC Clinics & Offices">Cairo WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-calhoun" alt="Calhoun WIC Programs" title="Calhoun WIC Clinics & Offices">Calhoun WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-camilla" alt="Camilla WIC Programs" title="Camilla WIC Clinics & Offices">Camilla WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-canton" alt="Canton WIC Programs" title="Canton WIC Clinics & Offices">Canton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-carnesville" alt="Carnesville WIC Programs" title="Carnesville WIC Clinics & Offices">Carnesville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-carrollton" alt="Carrollton WIC Programs" title="Carrollton WIC Clinics & Offices">Carrollton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cartersville" alt="Cartersville WIC Programs" title="Cartersville WIC Clinics & Offices">Cartersville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cedartown" alt="Cedartown WIC Programs" title="Cedartown WIC Clinics & Offices">Cedartown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-chamblee" alt="Chamblee WIC Programs" title="Chamblee WIC Clinics & Offices">Chamblee WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-chatsworth" alt="Chatsworth WIC Programs" title="Chatsworth WIC Clinics & Offices">Chatsworth WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-claxton" alt="Claxton WIC Programs" title="Claxton WIC Clinics & Offices">Claxton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-clayton" alt="Clayton WIC Programs" title="Clayton WIC Clinics & Offices">Clayton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cochran" alt="Cochran WIC Programs" title="Cochran WIC Clinics & Offices">Cochran WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-college_park" alt="College Park WIC Programs" title="College Park WIC Clinics & Offices">College Park WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-colquitt" alt="Colquitt WIC Programs" title="Colquitt WIC Clinics & Offices">Colquitt WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-columbus" alt="Columbus WIC Programs" title="Columbus WIC Clinics & Offices">Columbus WIC Clinics</a> <em>(4)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-commerce" alt="Commerce WIC Programs" title="Commerce WIC Clinics & Offices">Commerce WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-conyers" alt="Conyers WIC Programs" title="Conyers WIC Clinics & Offices">Conyers WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cordele" alt="Cordele WIC Programs" title="Cordele WIC Clinics & Offices">Cordele WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-covington" alt="Covington WIC Programs" title="Covington WIC Clinics & Offices">Covington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-crawfordville" alt="Crawfordville WIC Programs" title="Crawfordville WIC Clinics & Offices">Crawfordville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cumming" alt="Cumming WIC Programs" title="Cumming WIC Clinics & Offices">Cumming WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cusseta" alt="Cusseta WIC Programs" title="Cusseta WIC Clinics & Offices">Cusseta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-cuthbert" alt="Cuthbert WIC Programs" title="Cuthbert WIC Clinics & Offices">Cuthbert WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-dahlonega" alt="Dahlonega WIC Programs" title="Dahlonega WIC Clinics & Offices">Dahlonega WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-dalton" alt="Dalton WIC Programs" title="Dalton WIC Clinics & Offices">Dalton WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-danielsville" alt="Danielsville WIC Programs" title="Danielsville WIC Clinics & Offices">Danielsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-dawson" alt="Dawson WIC Programs" title="Dawson WIC Clinics & Offices">Dawson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-decatur" alt="Decatur WIC Programs" title="Decatur WIC Clinics & Offices">Decatur WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-demorest" alt="Demorest WIC Programs" title="Demorest WIC Clinics & Offices">Demorest WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-donalsonville" alt="Donalsonville WIC Programs" title="Donalsonville WIC Clinics & Offices">Donalsonville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-douglas" alt="Douglas WIC Programs" title="Douglas WIC Clinics & Offices">Douglas WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-douglasville" alt="Douglasville WIC Programs" title="Douglasville WIC Clinics & Offices">Douglasville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-dublin" alt="Dublin WIC Programs" title="Dublin WIC Clinics & Offices">Dublin WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-eastman" alt="Eastman WIC Programs" title="Eastman WIC Clinics & Offices">Eastman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-eatonton" alt="Eatonton WIC Programs" title="Eatonton WIC Clinics & Offices">Eatonton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-elberton" alt="Elberton WIC Programs" title="Elberton WIC Clinics & Offices">Elberton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-elijay" alt="Elijay WIC Programs" title="Elijay WIC Clinics & Offices">Elijay WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-ellaville" alt="Ellaville WIC Programs" title="Ellaville WIC Clinics & Offices">Ellaville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-fayettevile" alt="Fayettevile WIC Programs" title="Fayettevile WIC Clinics & Offices">Fayettevile WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-fitzgerald" alt="Fitzgerald WIC Programs" title="Fitzgerald WIC Clinics & Offices">Fitzgerald WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-folkston" alt="Folkston WIC Programs" title="Folkston WIC Clinics & Offices">Folkston WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-forsyth" alt="Forsyth WIC Programs" title="Forsyth WIC Clinics & Offices">Forsyth WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-fort_gaines" alt="Fort Gaines WIC Programs" title="Fort Gaines WIC Clinics & Offices">Fort Gaines WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-fort_gordon" alt="Fort Gordon WIC Programs" title="Fort Gordon WIC Clinics & Offices">Fort Gordon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-fort_stewart" alt="Fort Stewart WIC Programs" title="Fort Stewart WIC Clinics & Offices">Fort Stewart WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-fort_valley" alt="Fort Valley WIC Programs" title="Fort Valley WIC Clinics & Offices">Fort Valley WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-franklin" alt="Franklin WIC Programs" title="Franklin WIC Clinics & Offices">Franklin WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-ft_benning" alt="Ft Benning WIC Programs" title="Ft Benning WIC Clinics & Offices">Ft Benning WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-gainesville" alt="Gainesville WIC Programs" title="Gainesville WIC Clinics & Offices">Gainesville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Clinics & Offices">Georgetown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-gibson" alt="Gibson WIC Programs" title="Gibson WIC Clinics & Offices">Gibson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-glennville" alt="Glennville WIC Programs" title="Glennville WIC Clinics & Offices">Glennville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-gray" alt="Gray WIC Programs" title="Gray WIC Clinics & Offices">Gray WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-greensboro" alt="Greensboro WIC Programs" title="Greensboro WIC Clinics & Offices">Greensboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-greenville" alt="Greenville WIC Programs" title="Greenville WIC Clinics & Offices">Greenville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-griffin" alt="Griffin WIC Programs" title="Griffin WIC Clinics & Offices">Griffin WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-hahira" alt="Hahira WIC Programs" title="Hahira WIC Clinics & Offices">Hahira WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-hamilton" alt="Hamilton WIC Programs" title="Hamilton WIC Clinics & Offices">Hamilton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-hartwell" alt="Hartwell WIC Programs" title="Hartwell WIC Clinics & Offices">Hartwell WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-hawkinsville" alt="Hawkinsville WIC Programs" title="Hawkinsville WIC Clinics & Offices">Hawkinsville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-hazelhurst" alt="Hazelhurst WIC Programs" title="Hazelhurst WIC Clinics & Offices">Hazelhurst WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-hinesville" alt="Hinesville WIC Programs" title="Hinesville WIC Clinics & Offices">Hinesville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-homer" alt="Homer WIC Programs" title="Homer WIC Clinics & Offices">Homer WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-homerville" alt="Homerville WIC Programs" title="Homerville WIC Clinics & Offices">Homerville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-irwinton" alt="Irwinton WIC Programs" title="Irwinton WIC Clinics & Offices">Irwinton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-jackson" alt="Jackson WIC Programs" title="Jackson WIC Clinics & Offices">Jackson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-jasper" alt="Jasper WIC Programs" title="Jasper WIC Clinics & Offices">Jasper WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-jefferson" alt="Jefferson WIC Programs" title="Jefferson WIC Clinics & Offices">Jefferson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-jeffersonville" alt="Jeffersonville WIC Programs" title="Jeffersonville WIC Clinics & Offices">Jeffersonville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-kingsland" alt="Kingsland WIC Programs" title="Kingsland WIC Clinics & Offices">Kingsland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lafayette" alt="Lafayette WIC Programs" title="Lafayette WIC Clinics & Offices">Lafayette WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lagrange" alt="Lagrange WIC Programs" title="Lagrange WIC Clinics & Offices">Lagrange WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lake_park" alt="Lake Park WIC Programs" title="Lake Park WIC Clinics & Offices">Lake Park WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lakeland" alt="Lakeland WIC Programs" title="Lakeland WIC Clinics & Offices">Lakeland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lawrenceville" alt="Lawrenceville WIC Programs" title="Lawrenceville WIC Clinics & Offices">Lawrenceville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-leesburg" alt="Leesburg WIC Programs" title="Leesburg WIC Clinics & Offices">Leesburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lexington" alt="Lexington WIC Programs" title="Lexington WIC Clinics & Offices">Lexington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lilburn" alt="Lilburn WIC Programs" title="Lilburn WIC Clinics & Offices">Lilburn WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lincolnton" alt="Lincolnton WIC Programs" title="Lincolnton WIC Clinics & Offices">Lincolnton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lithonia" alt="Lithonia WIC Programs" title="Lithonia WIC Clinics & Offices">Lithonia WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-louisville" alt="Louisville WIC Programs" title="Louisville WIC Clinics & Offices">Louisville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-ludowici" alt="Ludowici WIC Programs" title="Ludowici WIC Clinics & Offices">Ludowici WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lumpkin" alt="Lumpkin WIC Programs" title="Lumpkin WIC Clinics & Offices">Lumpkin WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-lyons" alt="Lyons WIC Programs" title="Lyons WIC Clinics & Offices">Lyons WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-macon" alt="Macon WIC Programs" title="Macon WIC Clinics & Offices">Macon WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-madison" alt="Madison WIC Programs" title="Madison WIC Clinics & Offices">Madison WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-manchester" alt="Manchester WIC Programs" title="Manchester WIC Clinics & Offices">Manchester WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-marietta" alt="Marietta WIC Programs" title="Marietta WIC Clinics & Offices">Marietta WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-mcdonough" alt="Mcdonough WIC Programs" title="Mcdonough WIC Clinics & Offices">Mcdonough WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-mcrae" alt="Mcrae WIC Programs" title="Mcrae WIC Clinics & Offices">Mcrae WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-metter" alt="Metter WIC Programs" title="Metter WIC Clinics & Offices">Metter WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-milledgeville" alt="Milledgeville WIC Programs" title="Milledgeville WIC Clinics & Offices">Milledgeville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-millen" alt="Millen WIC Programs" title="Millen WIC Clinics & Offices">Millen WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-monroe" alt="Monroe WIC Programs" title="Monroe WIC Clinics & Offices">Monroe WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-monticello" alt="Monticello WIC Programs" title="Monticello WIC Clinics & Offices">Monticello WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-morgan" alt="Morgan WIC Programs" title="Morgan WIC Clinics & Offices">Morgan WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-moultrie" alt="Moultrie WIC Programs" title="Moultrie WIC Clinics & Offices">Moultrie WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-mt._vernon" alt="Mt. Vernon WIC Programs" title="Mt. Vernon WIC Clinics & Offices">Mt. Vernon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-nashville" alt="Nashville WIC Programs" title="Nashville WIC Clinics & Offices">Nashville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-newnan" alt="Newnan WIC Programs" title="Newnan WIC Clinics & Offices">Newnan WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-newton" alt="Newton WIC Programs" title="Newton WIC Clinics & Offices">Newton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-norcross" alt="Norcross WIC Programs" title="Norcross WIC Clinics & Offices">Norcross WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-ocilla" alt="Ocilla WIC Programs" title="Ocilla WIC Clinics & Offices">Ocilla WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-oglethorpe" alt="Oglethorpe WIC Programs" title="Oglethorpe WIC Clinics & Offices">Oglethorpe WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-pearson" alt="Pearson WIC Programs" title="Pearson WIC Clinics & Offices">Pearson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-pembroke" alt="Pembroke WIC Programs" title="Pembroke WIC Clinics & Offices">Pembroke WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-preston" alt="Preston WIC Programs" title="Preston WIC Clinics & Offices">Preston WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-quitman" alt="Quitman WIC Programs" title="Quitman WIC Clinics & Offices">Quitman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-reidsville" alt="Reidsville WIC Programs" title="Reidsville WIC Clinics & Offices">Reidsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-richmond_hill" alt="Richmond Hill WIC Programs" title="Richmond Hill WIC Clinics & Offices">Richmond Hill WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-ringgold" alt="Ringgold WIC Programs" title="Ringgold WIC Clinics & Offices">Ringgold WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-riverdale" alt="Riverdale WIC Programs" title="Riverdale WIC Clinics & Offices">Riverdale WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-roberta" alt="Roberta WIC Programs" title="Roberta WIC Clinics & Offices">Roberta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-rochelle" alt="Rochelle WIC Programs" title="Rochelle WIC Clinics & Offices">Rochelle WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-rockmart" alt="Rockmart WIC Programs" title="Rockmart WIC Clinics & Offices">Rockmart WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-rome" alt="Rome WIC Programs" title="Rome WIC Clinics & Offices">Rome WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-roswell" alt="Roswell WIC Programs" title="Roswell WIC Clinics & Offices">Roswell WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-sandersville" alt="Sandersville WIC Programs" title="Sandersville WIC Clinics & Offices">Sandersville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-savannah" alt="Savannah WIC Programs" title="Savannah WIC Clinics & Offices">Savannah WIC Clinics</a> <em>(5)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-smyrna" alt="Smyrna WIC Programs" title="Smyrna WIC Clinics & Offices">Smyrna WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-soperton" alt="Soperton WIC Programs" title="Soperton WIC Clinics & Offices">Soperton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-sparta" alt="Sparta WIC Programs" title="Sparta WIC Clinics & Offices">Sparta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-springfield" alt="Springfield WIC Programs" title="Springfield WIC Clinics & Offices">Springfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-st._simons_island" alt="St. Simons Island WIC Programs" title="St. Simons Island WIC Clinics & Offices">St. Simons Island WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-statenville" alt="Statenville WIC Programs" title="Statenville WIC Clinics & Offices">Statenville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-statesboro" alt="Statesboro WIC Programs" title="Statesboro WIC Clinics & Offices">Statesboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-summerville" alt="Summerville WIC Programs" title="Summerville WIC Clinics & Offices">Summerville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-swainsboro" alt="Swainsboro WIC Programs" title="Swainsboro WIC Clinics & Offices">Swainsboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-sylvania" alt="Sylvania WIC Programs" title="Sylvania WIC Clinics & Offices">Sylvania WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-sylvester" alt="Sylvester WIC Programs" title="Sylvester WIC Clinics & Offices">Sylvester WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-talbotton" alt="Talbotton WIC Programs" title="Talbotton WIC Clinics & Offices">Talbotton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-thomaston" alt="Thomaston WIC Programs" title="Thomaston WIC Clinics & Offices">Thomaston WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-thomasville" alt="Thomasville WIC Programs" title="Thomasville WIC Clinics & Offices">Thomasville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-thomson" alt="Thomson WIC Programs" title="Thomson WIC Clinics & Offices">Thomson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-tifton" alt="Tifton WIC Programs" title="Tifton WIC Clinics & Offices">Tifton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-toccoa" alt="Toccoa WIC Programs" title="Toccoa WIC Clinics & Offices">Toccoa WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-townsend" alt="Townsend WIC Programs" title="Townsend WIC Clinics & Offices">Townsend WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-trenton" alt="Trenton WIC Programs" title="Trenton WIC Clinics & Offices">Trenton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-twin_city" alt="Twin City WIC Programs" title="Twin City WIC Clinics & Offices">Twin City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-vienna" alt="Vienna WIC Programs" title="Vienna WIC Clinics & Offices">Vienna WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-villa_rica" alt="Villa Rica WIC Programs" title="Villa Rica WIC Clinics & Offices">Villa Rica WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-warner_robins" alt="Warner Robins WIC Programs" title="Warner Robins WIC Clinics & Offices">Warner Robins WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-warrenton" alt="Warrenton WIC Programs" title="Warrenton WIC Clinics & Offices">Warrenton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-washington" alt="Washington WIC Programs" title="Washington WIC Clinics & Offices">Washington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-watkinsville" alt="Watkinsville WIC Programs" title="Watkinsville WIC Clinics & Offices">Watkinsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-waycross" alt="Waycross WIC Programs" title="Waycross WIC Clinics & Offices">Waycross WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-waynesboro" alt="Waynesboro WIC Programs" title="Waynesboro WIC Clinics & Offices">Waynesboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-winder" alt="Winder WIC Programs" title="Winder WIC Clinics & Offices">Winder WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-woodbine" alt="Woodbine WIC Programs" title="Woodbine WIC Clinics & Offices">Woodbine WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-woodstock" alt="Woodstock WIC Programs" title="Woodstock WIC Clinics & Offices">Woodstock WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-wrightsville" alt="Wrightsville WIC Programs" title="Wrightsville WIC Clinics & Offices">Wrightsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-young_harris" alt="Young Harris WIC Programs" title="Young Harris WIC Clinics & Offices">Young Harris WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-zebulon" alt="Zebulon WIC Programs" title="Zebulon WIC Clinics & Offices">Zebulon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-sandy_springs" alt="Sandy Springs WIC Programs" title="Sandy Springs WIC Clinics & Offices">Sandy Springs WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/ga-johns_creek" alt="Johns Creek WIC Programs" title="Johns Creek WIC Clinics & Offices">Johns Creek WIC Clinics</a> 					</li>
+					</ul>
+
+			</div><!-- /.side-box -->
+
+<!-- Top cities end -->            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/state/georgia" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+
+
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<!-- Breadcrumb Start-->
+<a href="http://www.wicprograms.org">WIC Programs</a> &raquo; Georgia
+<!-- Breadcrumb End-->			
+			<div id="headline">
+
+                <h2>Georgia WIC Clinics and Offices</h2>
+    
+			
+			</div><!-- /headline -->
+
+                <p>We have listed out all of the cities where we have located WIC Clinics and Offices in Georgia. We are constantly adding new clinics and office locations as we find them. If you know of any WIC locations that we are not providing on the website, please go to the <a href="http://www.wicprograms.org/listing_add.php">ADD A WIC Location</a> page to help us add to our resource. </p>
+<br />
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-2985566993569762";
+			/* 336x280, created 9/22/11 */
+			google_ad_slot = "1876671469";
+			google_ad_width = 336;
+			google_ad_height = 280;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			
+			<!-- City search form start -->
+			<form action="http://www.wicprograms.org/city.php">
+				<h2>WIC Programs By City: </h2><br />
+				Type city name:<br />
+				<input name="city" size="40" type="text"/>
+				<input name="st" type="hidden" value="GA"/>
+				<input name="submit" value="Search for city" type="submit" />
+			</form>
+			<!-- City search form end -->
+            
+			<br /><br />
+			<h1>Georgia WIC Program Overview</h1>
+						
+			<p>
+			    The Special Supplemental Nutrition Program for Women, Infants, and Children - better known as the WIC Program - serves to safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care.
+				
+			    <br /><br />
+			
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+<br />
+		
+
+			
+			
+				<br /><strong>Georgia WIC Food Packages</strong> <br />
+
+				The WIC food packages provide supplemental foods designed to meet the special nutritional needs of low-income pregnant, breastfeeding, non-breastfeeding postpartum women, infants and children up to five years of age who are at nutritional risk. WIC food packages and nutrition education are the chief means by which WIC affects the dietary quality and habits of participants.  <br /> <br />
+
+				New food packages are now being provided to WIC participants in all States.  On December 6, 2007,  an interim rule revising the WIC food packages was published in the Federal Register. The new food packages align with the 2005 Dietary Guidelines for Americans and infant feeding practice guidelines of the American Academy of Pediatrics. The food packages better promote and support the establishment of successful, long-term breastfeeding, provide WIC participants with a wider variety of foods including fruits and vegetables and whole grains, and provide WIC State agencies greater flexibility in prescribing food packages to accommodate the cultural food preferences of WIC participants.  An interim rule allows the Food and Nutrition Service to obtain feedback on the revisions while allowing implementation to move forward. The interim rule comment period ended on February 1, 2010. FNS is currently reviewing and analyzing comments and expects to promulgate a final rule in February 2011.
+
+				<br />
+
+					<br /><strong>Georgia WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br /><br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+			
+			
+			
+			
+			
+			
+			            
+					<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_young-womens-christian-association-of-brunswickgainc">Young Women's Christian Association of Brunswick,Ga,Inc - Brunswick</a></h5>
+		Brunswick, GA - 31525<br />
+		(912) 265-4100 <br />
+		SERVICE DESCRIPTION:     Empowers women and girls through services, advocacy, & education     CHILD DEVELOPMENT CENTER:Child care for children 6 wks - 4 years of age for working parents. Hours are Mon...<br />
+                 <a href="http://www.wicprograms.org/li/ga_young-womens-christian-association-of-brunswickgainc">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_wic-services">WIC Services - Columbus</a></h5>
+		Columbus, GA - 31904<br />
+		(706) 321-6200 <br />
+		* Food vouchers for infants, children, and pregnant mothers and mothers that breast feed* Counseling for high risk pregnancies and children at risk for nutritional deficiencies...<br />
+                 <a href="http://www.wicprograms.org/li/ga_wic-services">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_university-of-georgia-cooperative-extension-service">University of Georgia Cooperative Extension Service - Columbus</a></h5>
+		Columbus, GA - 31901<br />
+		(706) 653-4200 <br />
+		* Budgeting class* Food/diet preparation* Diabetes support group* Information and resources on Diabetes and Blood pressure* 4-H program* Welfare To Work Program* Gardening information* Pest control in...<br />
+                 <a href="http://www.wicprograms.org/li/ga_university-of-georgia-cooperative-extension-service">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_the-gathering-place">The Gathering Place - St. Simons Island</a></h5>
+		St. Simons Island, GA - 31520<br />
+		(912) 264-3474 <br />
+		SERVICE DESCRIPTION:...<br />
+                 <a href="http://www.wicprograms.org/li/ga_the-gathering-place">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_sparrows-nest">Sparrow's Nest - Brunswick</a></h5>
+		Brunswick, GA -  <br />
+		(912) 261-8959 <br />
+		Food PantryService Description:Limited utility assistance...<br />
+                 <a href="http://www.wicprograms.org/li/ga_sparrows-nest">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_southside-performance-learning-center">Southside Performance Learning Center - Brunswick</a></h5>
+		Brunswick, GA - 31521<br />
+		(912) 554-0649 <br />
+		SERVICE DESCRPTIONA non-traditional high school of the Glynn County School System and Communities in Schools of Georgia offering high school juniors and seniors a second chance to earn their high scho...<br />
+                 <a href="http://www.wicprograms.org/li/ga_southside-performance-learning-center">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_southeastern-coastal-ga-chapter-of-american-red-cross">Southeastern Coastal GA Chapter of American Red Cross - Brunswick</a></h5>
+		Brunswick, GA - 31520<br />
+		(912) 265-1695 <br />
+		SERVICE DESCRIPTION:     **DISASTER RELIEF PROGRAM:      Provides relief to victims of disaster. Responds to house fires as well as natural or man made disasters. Will set up mass care shelters, cante...<br />
+                 <a href="http://www.wicprograms.org/li/ga_southeastern-coastal-ga-chapter-of-american-red-cross">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_southeast-baptist-association">Southeast Baptist Association - Brunswick</a></h5>
+		Brunswick, GA - 31523<br />
+		(912) 264-6277 <br />
+		SERVICE DESCRIPTION:...<br />
+                 <a href="http://www.wicprograms.org/li/ga_southeast-baptist-association">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/ga_safe-harbor-childrens-shelter-inc">Safe Harbor Children's Shelter, Inc. - Brunswick</a></h5>
+		Brunswick, GA - 31521<br />
+		(912) 267-6000 <br />
+		SERVICE DESCRIPTION:...<br />
+                 <a href="http://www.wicprograms.org/li/ga_safe-harbor-childrens-shelter-inc">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/banks_county_health_department_30547">Banks County Health Department - Homer</a></h5>
+		Homer, GA - 30547<br />
+		(706)677-229<br />
+		Banks County Health Department is a local WIC clinic in Georgia. This clinic is located in Banks County County. To apply for WIC at Banks County Health Department, call for an appointment.
+	Georgia's ...<br />
+                 <a href="http://www.wicprograms.org/li/banks_county_health_department_30547">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->
+
+
+                
+			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2012 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

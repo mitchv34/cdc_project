@@ -1,0 +1,623 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Florida WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Florida Programs,Florida WIC Clinics,Florida WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+<li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+<li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Florida WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Florida
+                
+				<p>
+                
+				<br /><strong>Florida WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Florida on the right. Find your local WIC location using our Florida search below. 
+				<br />
+				</p>
+                <p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Florida City: </h2>
+		
+			<b>Enter city name in Florida</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="FL" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Florida WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/fl-tillman_full_service_wic_clinic" title="Tillman Full Service WIC Clinic">Tillman Full Service WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl-tillman_full_service_wic_clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Tillman Full Service WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2715 16th Ave. East<br />
+                Palmetto, FL - 34221<br />
+                (941) 721-2241<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl-tillman_full_service_wic_clinic">Website</a></span>            </div>
+			<p>WIC Clinic hours: Tuesdays & Thursdays 8:00am - 5:00pm.
+
+To safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care. 
+
+According to the US </p>
+            <a href="http://www.wicprograms.org/li/fl-tillman_full_service_wic_clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/pine_village_wic_clinic" title="Pine Village WIC Clinic">Pine Village WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/pine_village_wic_clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Pine Village WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1107 56th Terrace East<br />
+                Bradenton, FL - 34203<br />
+                (941) 727-6518<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/pine_village_wic_clinic">Website</a></span>            </div>
+			<p>WIC Clinic Hours: Mondays & Wednesdays, 8:00 am - 5:00 pm.
+To safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care. 
+
+According to the US</p>
+            <a href="http://www.wicprograms.org/li/pine_village_wic_clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/FL-boca-raton-pampered-mama" title="Pampered Mama">Pampered Mama</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/FL-boca-raton-pampered-mama" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Pampered Mama"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                940 Sweetwater Lane <br />
+                Boca Raton, FL - 33431<br />
+                4077124197<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/FL-boca-raton-pampered-mama">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/FL-boca-raton-pampered-mama">Website</a></span>            </div>
+			<p>We are a postpartum doula service dedicated to easing a woman\'s transition into motherhood. We can provide non-medical breastfeeding support and education. We can help with mama\'s emotional and physical needs during the first 12 weeks of baby\'s birth. We monitor for signs of postpartum depression</p>
+            <a href="http://www.wicprograms.org/li/FL-boca-raton-pampered-mama" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_suwannee-chd-branford-site" title="Suwannee CHD, Branford Site">Suwannee CHD, Branford Site</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_suwannee-chd-branford-site" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Suwannee CHD, Branford Site"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                120 SW Suwannee Ave<br />
+                Branford, FL - 32008<br />
+                (386) 935-1133<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_suwannee-chd-branford-site">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_suwannee-chd-branford-site">Website</a></span>            </div>
+			<p>Suwanee CHD offers anonymous and confidential HIV/AIDS testing, primary care on Mondays, family planning every other Wednesday, WIC on 1st and 3rd Tuesdays, and Immunizations every Thursday.</p>
+            <a href="http://www.wicprograms.org/li/fl_suwannee-chd-branford-site" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_sumter-chd-maternalinfant-services" title="Sumter CHD, Maternal/Infant Services">Sumter CHD, Maternal/Infant Services</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_sumter-chd-maternalinfant-services" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Sumter CHD, Maternal/Infant Services"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                415 E Noble Ave<br />
+                Bushnell, FL - 33513<br />
+                (352) 793-2701<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_sumter-chd-maternalinfant-services">Website</a></span>            </div>
+			<p>Sumter CHD, Maternal/Infant Services provides at the first 1st appointment: pregnancy test, WIC screening, financial screening (PEPW); 2nd appointment: medical history, blood work, physical examination. PEPW screening is done only for clients receiving care at CHD. Pediatric Services provides immuni</p>
+            <a href="http://www.wicprograms.org/li/fl_sumter-chd-maternalinfant-services" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_polk-chd-lake-wales" title="Polk CHD, Lake Wales">Polk CHD, Lake Wales</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_polk-chd-lake-wales" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Polk CHD, Lake Wales"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                305 W Central Ave<br />
+                Lake Wales, FL - 33853<br />
+                (863) 678-4144<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_polk-chd-lake-wales">Website</a></span>            </div>
+			<p>Polk CHD at the Lake Wales Clinic provides pregnancy testing, prenatal care, WIC (at 710SR 60 W, 33853), pediatrics, immunizations, family planning, and confidential HIV and STD testing. An ARNP is available everyday and physicians are scheduled weekly. Patients can be screened for PEPW only if gett</p>
+            <a href="http://www.wicprograms.org/li/fl_polk-chd-lake-wales" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_polk-chd-auburndale" title="Polk CHD, Auburndale">Polk CHD, Auburndale</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_polk-chd-auburndale" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Polk CHD, Auburndale"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1805 Hobbs Rd<br />
+                Auburndale, FL - 33823<br />
+                (863) 965-5400<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_polk-chd-auburndale">Website</a></span>            </div>
+			<p>Polk CHD at the Auburndale Clinic provides child health care, family planning, Healthy Start, immunizations, prenatal/maternity care, HIV testing, STD screening and treatment and WIC. Patients can be screened for PEPW only if getting care at CHD. An ARNP is available everyday and physicians are sche</p>
+            <a href="http://www.wicprograms.org/li/fl_polk-chd-auburndale" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_pasco-chd-new-port-richey" title="Pasco CHD, New Port Richey">Pasco CHD, New Port Richey</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_pasco-chd-new-port-richey" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Pasco CHD, New Port Richey"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                10841 Little Rd, Bldg B<br />
+                New Port Richey, FL - 34654<br />
+                (727) 861-5250<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_pasco-chd-new-port-richey">Website</a></span>            </div>
+			<p>Pasco CHD, New Port Richey serves as a primary care unit for HIV/AIDS and offers: 1) Enrollment with initial history and physical; 2) X-rays; 3) Lab tests; 3) On-going medical management including medications; 4) Anonymous and confidential HIV testing; 5) Dental care. Additionally, free immunization</p>
+            <a href="http://www.wicprograms.org/li/fl_pasco-chd-new-port-richey" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_pasco-chd-dade-city" title="Pasco CHD, Dade City">Pasco CHD, Dade City</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_pasco-chd-dade-city" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Pasco CHD, Dade City"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                13941 15th St<br />
+                Dade City, FL - 33525<br />
+                (352) 521-1450<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_pasco-chd-dade-city">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_pasco-chd-dade-city">Website</a></span>            </div>
+			<p>Pasco CHD at Dade City provides the following services: 1) anonymous and confidential HIV/AIDS testing, counseling, case management; 2) family planning; 3) pediatric care including immunizations; 4) WIC; 5) treatment of communicable diseases such as STD and TB.</p>
+            <a href="http://www.wicprograms.org/li/fl_pasco-chd-dade-city" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/fl_palm-beach-chd-maternalinfant-services" title="Palm Beach CHD, Maternal/Infant Services">Palm Beach CHD, Maternal/Infant Services</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fl_palm-beach-chd-maternalinfant-services" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Palm Beach CHD, Maternal/Infant Services"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1150 45th St<br />
+                West Palm Beach, FL - 33407<br />
+                (561) 514-5540 <br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fl_palm-beach-chd-maternalinfant-services">Website</a></span>            </div>
+			<p>Palm Beach CHD, West Palm, offers to eligible residents the following services: 1) primary pediatric and adult care; 2) multiple family planning methods; 3)anonymous HIV testing and counseling; 4) immunizations; 5) lab work; 6) dental care; 7) emergency shelter and human services. For pregnancy serv</p>
+            <a href="http://www.wicprograms.org/li/fl_palm-beach-chd-maternalinfant-services" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+				
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Florida Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/fl-auburndale" alt="Auburndale WIC Programs" title="Auburndale WIC Programs">Auburndale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-belle_glade" alt="Belle Glade WIC Programs" title="Belle Glade WIC Programs">Belle Glade <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-boca_raton" alt="Boca Raton WIC Programs" title="Boca Raton WIC Programs">Boca Raton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bradenton" alt="Bradenton WIC Programs" title="Bradenton WIC Programs">Bradenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-branford" alt="Branford WIC Programs" title="Branford WIC Programs">Branford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-brooksville" alt="Brooksville WIC Programs" title="Brooksville WIC Programs">Brooksville <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-bushnell" alt="Bushnell WIC Programs" title="Bushnell WIC Programs">Bushnell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-clearwater" alt="Clearwater WIC Programs" title="Clearwater WIC Programs">Clearwater <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-clewiston" alt="Clewiston WIC Programs" title="Clewiston WIC Programs">Clewiston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-crystal_river" alt="Crystal River WIC Programs" title="Crystal River WIC Programs">Crystal River <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-cutler_bay" alt="Cutler Bay WIC Programs" title="Cutler Bay WIC Programs">Cutler Bay <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-dade_city" alt="Dade City WIC Programs" title="Dade City WIC Programs">Dade City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-delray_beach" alt="Delray Beach WIC Programs" title="Delray Beach WIC Programs">Delray Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-englewood" alt="Englewood WIC Programs" title="Englewood WIC Programs">Englewood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fernandina_beach" alt="Fernandina Beach WIC Programs" title="Fernandina Beach WIC Programs">Fernandina Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-florida_city" alt="Florida City WIC Programs" title="Florida City WIC Programs">Florida City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_lauderdale" alt="Fort Lauderdale WIC Programs" title="Fort Lauderdale WIC Programs">Fort Lauderdale <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_myers" alt="Fort Myers WIC Programs" title="Fort Myers WIC Programs">Fort Myers <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-fort_pierce" alt="Fort Pierce WIC Programs" title="Fort Pierce WIC Programs">Fort Pierce <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-gainesville" alt="Gainesville WIC Programs" title="Gainesville WIC Programs">Gainesville <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-goulds" alt="Goulds WIC Programs" title="Goulds WIC Programs">Goulds <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-greenacres" alt="Greenacres WIC Programs" title="Greenacres WIC Programs">Greenacres <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-hialeah" alt="Hialeah WIC Programs" title="Hialeah WIC Programs">Hialeah <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-hollywood" alt="Hollywood WIC Programs" title="Hollywood WIC Programs">Hollywood <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-homestead" alt="Homestead WIC Programs" title="Homestead WIC Programs">Homestead <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-indiantown" alt="Indiantown WIC Programs" title="Indiantown WIC Programs">Indiantown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-inverness" alt="Inverness WIC Programs" title="Inverness WIC Programs">Inverness <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-jupiter" alt="Jupiter WIC Programs" title="Jupiter WIC Programs">Jupiter <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-labelle" alt="LaBelle WIC Programs" title="LaBelle WIC Programs">LaBelle <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lake_wales" alt="Lake Wales WIC Programs" title="Lake Wales WIC Programs">Lake Wales <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lantana" alt="Lantana WIC Programs" title="Lantana WIC Programs">Lantana <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-largo" alt="Largo WIC Programs" title="Largo WIC Programs">Largo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lauderdale_lakes" alt="Lauderdale Lakes WIC Programs" title="Lauderdale Lakes WIC Programs">Lauderdale Lakes <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-lecanto" alt="Lecanto WIC Programs" title="Lecanto WIC Programs">Lecanto <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-leesburg" alt="Leesburg WIC Programs" title="Leesburg WIC Programs">Leesburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-marathon" alt="Marathon WIC Programs" title="Marathon WIC Programs">Marathon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-melbourne" alt="Melbourne WIC Programs" title="Melbourne WIC Programs">Melbourne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-miami" alt="Miami WIC Programs" title="Miami WIC Programs">Miami <em>(12)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-moore_haven" alt="Moore Haven WIC Programs" title="Moore Haven WIC Programs">Moore Haven <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-naranja" alt="Naranja WIC Programs" title="Naranja WIC Programs">Naranja <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-new_port_richey" alt="New Port Richey WIC Programs" title="New Port Richey WIC Programs">New Port Richey <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-okeechobee" alt="Okeechobee WIC Programs" title="Okeechobee WIC Programs">Okeechobee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-opa_locka" alt="Opa Locka WIC Programs" title="Opa Locka WIC Programs">Opa Locka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-orlando" alt="Orlando WIC Programs" title="Orlando WIC Programs">Orlando <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-palmetto" alt="Palmetto WIC Programs" title="Palmetto WIC Programs">Palmetto <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-panama_city" alt="Panama City WIC Programs" title="Panama City WIC Programs">Panama City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pensacola" alt="Pensacola WIC Programs" title="Pensacola WIC Programs">Pensacola <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-perrine" alt="Perrine WIC Programs" title="Perrine WIC Programs">Perrine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-plant_city" alt="Plant City WIC Programs" title="Plant City WIC Programs">Plant City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pompano" alt="Pompano WIC Programs" title="Pompano WIC Programs">Pompano <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-pompano_beach" alt="Pompano Beach WIC Programs" title="Pompano Beach WIC Programs">Pompano Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_charlotte" alt="Port Charlotte WIC Programs" title="Port Charlotte WIC Programs">Port Charlotte <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_st_joe" alt="Port St Joe WIC Programs" title="Port St Joe WIC Programs">Port St Joe <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-port_st._lucie" alt="Port St. Lucie WIC Programs" title="Port St. Lucie WIC Programs">Port St. Lucie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-punta_gorda" alt="Punta Gorda WIC Programs" title="Punta Gorda WIC Programs">Punta Gorda <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-quincy" alt="Quincy WIC Programs" title="Quincy WIC Programs">Quincy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-ruskin" alt="Ruskin WIC Programs" title="Ruskin WIC Programs">Ruskin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-safety_harbor" alt="Safety Harbor WIC Programs" title="Safety Harbor WIC Programs">Safety Harbor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-starke" alt="Starke WIC Programs" title="Starke WIC Programs">Starke <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-stuart" alt="Stuart WIC Programs" title="Stuart WIC Programs">Stuart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-tallahassee" alt="Tallahassee WIC Programs" title="Tallahassee WIC Programs">Tallahassee <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-tampa" alt="Tampa WIC Programs" title="Tampa WIC Programs">Tampa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-titusville" alt="Titusville WIC Programs" title="Titusville WIC Programs">Titusville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-vero_beach" alt="Vero Beach WIC Programs" title="Vero Beach WIC Programs">Vero Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-viera" alt="Viera WIC Programs" title="Viera WIC Programs">Viera <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-wauchula" alt="Wauchula WIC Programs" title="Wauchula WIC Programs">Wauchula <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/fl-west_palm_beach" alt="West Palm Beach WIC Programs" title="West Palm Beach WIC Programs">West Palm Beach <em>(2)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* WIC Vertical */
+                google_ad_slot = "5367683000";
+                google_ad_width = 120;
+                google_ad_height = 240;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Members</h4>
+			
+				<ul class="footer_widget_list">
+                    <li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+                    <li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+                    <li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2012 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

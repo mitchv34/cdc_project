@@ -1,0 +1,539 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>New Jersey WIC Programs | New Jersey WIC Locations, Information and Assistance</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="New Jersey WIC Programs in New Jersey" />
+	<meta name="description" content="New Jersey WIC Programs in New Jersey" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong></strong> entries listed in our database.<br />
+	Entries pending approval: <strong></strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong></strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+			
+
+       
+			<!-- Top cities start -->
+
+			<div class="side-box group">
+				<h4 class="news">WIC Clinics and Offices By City</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-atlantic_city" alt="Atlantic City WIC Programs" title="Atlantic City WIC Clinics & Offices">Atlantic City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-belford" alt="Belford WIC Programs" title="Belford WIC Clinics & Offices">Belford WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-bridgeton" alt="Bridgeton WIC Programs" title="Bridgeton WIC Clinics & Offices">Bridgeton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-camden" alt="Camden WIC Programs" title="Camden WIC Clinics & Offices">Camden WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-east_orange" alt="East Orange WIC Programs" title="East Orange WIC Clinics & Offices">East Orange WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-elizabeth" alt="Elizabeth WIC Programs" title="Elizabeth WIC Clinics & Offices">Elizabeth WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-ewing" alt="Ewing WIC Programs" title="Ewing WIC Clinics & Offices">Ewing WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-jersey_city" alt="Jersey City WIC Programs" title="Jersey City WIC Clinics & Offices">Jersey City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-newark" alt="Newark WIC Programs" title="Newark WIC Clinics & Offices">Newark WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-passaic" alt="Passaic WIC Programs" title="Passaic WIC Clinics & Offices">Passaic WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-paterson" alt="Paterson WIC Programs" title="Paterson WIC Clinics & Offices">Paterson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-phillipsburg" alt="Phillipsburg WIC Programs" title="Phillipsburg WIC Clinics & Offices">Phillipsburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-plainfield" alt="Plainfield WIC Programs" title="Plainfield WIC Clinics & Offices">Plainfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-sewell" alt="Sewell WIC Programs" title="Sewell WIC Clinics & Offices">Sewell WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-toms_river" alt="Toms River WIC Programs" title="Toms River WIC Clinics & Offices">Toms River WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-union_city" alt="Union City WIC Programs" title="Union City WIC Clinics & Offices">Union City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-westampton" alt="Westampton WIC Programs" title="Westampton WIC Clinics & Offices">Westampton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-woodbury" alt="Woodbury WIC Programs" title="Woodbury WIC Clinics & Offices">Woodbury WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-edisonship" alt="Edisonship WIC Programs" title="Edisonship WIC Clinics & Offices">Edisonship WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-woodbridgeship" alt="Woodbridgeship WIC Programs" title="Woodbridgeship WIC Clinics & Offices">Woodbridgeship WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-toms_rivership" alt="Toms Rivership WIC Programs" title="Toms Rivership WIC Clinics & Offices">Toms Rivership WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-hamiltonship" alt="Hamiltonship WIC Programs" title="Hamiltonship WIC Clinics & Offices">Hamiltonship WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/nj-trenton" alt="Trenton WIC Programs" title="Trenton WIC Clinics & Offices">Trenton WIC Clinics</a> 					</li>
+					</ul>
+
+			</div><!-- /.side-box -->
+
+<!-- Top cities end -->            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/state/new_jersey" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+
+
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<!-- Breadcrumb Start-->
+<a href="http://www.wicprograms.org">WIC Programs</a> &raquo; New Jersey
+<!-- Breadcrumb End-->			
+			<div id="headline">
+
+                <h2>New Jersey WIC Clinics and Offices</h2>
+    
+			
+			</div><!-- /headline -->
+
+                <p>We have listed out all of the cities where we have located WIC Clinics and Offices in New Jersey. We are constantly adding new clinics and office locations as we find them. If you know of any WIC locations that we are not providing on the website, please go to the <a href="http://www.wicprograms.org/listing_add.php">ADD A WIC Location</a> page to help us add to our resource. </p>
+<br />
+<div style="float:left; margin:0px 0px 30px 0px;">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>  
+
+<div style="float:right; margin:0px 0px 30px 0px;">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div> 
+<div class="clear"></div>
+			
+			<!-- City search form start -->
+			<form action="http://www.wicprograms.org/city.php">
+				<h2>WIC Programs By City: </h2><br />
+				Type city name:<br />
+				<input name="city" size="40" type="text"/>
+				<input name="st" type="hidden" value="NJ"/>
+				<input name="submit" value="Search for city" type="submit" />
+			</form>
+			<!-- City search form end -->
+            
+			<br /><br />
+			<h1>New Jersey WIC Program Overview</h1>
+						
+			<p>
+			    The Special Supplemental Nutrition Program for Women, Infants, and Children - better known as the WIC Program - serves to safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care.
+				
+			    <br /><br />
+			
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+<br />
+		
+
+			
+			
+				<br /><strong>New Jersey WIC Food Packages</strong> <br />
+
+				The WIC food packages provide supplemental foods designed to meet the special nutritional needs of low-income pregnant, breastfeeding, non-breastfeeding postpartum women, infants and children up to five years of age who are at nutritional risk. WIC food packages and nutrition education are the chief means by which WIC affects the dietary quality and habits of participants.  <br /> <br />
+
+				New food packages are now being provided to WIC participants in all States.  On December 6, 2007,  an interim rule revising the WIC food packages was published in the Federal Register. The new food packages align with the 2005 Dietary Guidelines for Americans and infant feeding practice guidelines of the American Academy of Pediatrics. The food packages better promote and support the establishment of successful, long-term breastfeeding, provide WIC participants with a wider variety of foods including fruits and vegetables and whole grains, and provide WIC State agencies greater flexibility in prescribing food packages to accommodate the cultural food preferences of WIC participants.  An interim rule allows the Food and Nutrition Service to obtain feedback on the revisions while allowing implementation to move forward. The interim rule comment period ended on February 1, 2010. FNS is currently reviewing and analyzing comments and expects to promulgate a final rule in February 2011.
+
+				<br />
+
+					<br /><strong>New Jersey WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br /><br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+			
+			
+			
+			
+			
+			
+			            
+					<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/nj-trinitas_wic_program">Trinitas WIC Program - Elizabeth</a></h5>
+		Elizabeth, NJ - 07201<br />
+		(908) 994-5141<br />
+		To Enroll In WIC You Must:Meet the WIC income guidelines. For example, from July 2002 through June 2003, a family of four whose income is lower than $644.00 per week qualifies for WIC services.Have nu...<br />
+                 <a href="http://www.wicprograms.org/li/nj-trinitas_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/plainfield_wic_program">Plainfield WIC Program - Plainfield</a></h5>
+		Plainfield, NJ - 07060<br />
+		(908) 753-3397<br />
+		Women, infant and children (WIC) is a special supplemental nutrition  Program for Women, infants and children designed to provide nutritious  foods, education and counseling to ensure a balanced diet ...<br />
+                 <a href="http://www.wicprograms.org/li/plainfield_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/nj-st_josephs_wic_program">St. Joseph’s WIC Program - Paterson</a></h5>
+		Paterson, NJ - 07524<br />
+		(973) 754-4575<br />
+		The Special Supplemental Nutrition Program for Women, Infants and  Children (WIC) was created by Congress as a result of research findings  indicating that a substantial number of pregnant, breastfeed...<br />
+                 <a href="http://www.wicprograms.org/li/nj-st_josephs_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/passaic_wic_program">Passaic WIC Program - Passaic</a></h5>
+		Passaic, NJ - 07055<br />
+		(973) 365-5620<br />
+		Potential applicants should call the WIC Office for more information.Services Provided at this Location:Food vouchers for nutritious food items such as milk, cheese, juice, cereal, eggs, beans or pean...<br />
+                 <a href="http://www.wicprograms.org/li/passaic_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/north_hudson_wic_program">North Hudson WIC Program - Union City</a></h5>
+		Union City, NJ - 07087<br />
+		(201) 866-4700<br />
+		This office serves the Hudson County area WIC program....<br />
+                 <a href="http://www.wicprograms.org/li/north_hudson_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/jersey_city_wic_program">Jersey City WIC Program - Jersey City</a></h5>
+		Jersey City, NJ - 07304<br />
+		(201) 547-5682<br />
+		The WIC program provides Federal grants to States for  supplemental&nbsp;foods, health care referrals, and nutri- tion&nbsp;education for  low-income pregnant, breastfeeding, and non-breastfeeding pos...<br />
+                 <a href="http://www.wicprograms.org/li/jersey_city_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/nj-east_orange_wic_program">East Orange WIC Program - East Orange</a></h5>
+		East Orange, NJ - 07017<br />
+		973-395-8960<br />
+		This WIC location handles the WIC applications and service for these cities in Essex County.  Fairfield, Verona, West Caldwell, Essex Falls, Cedar Grove,  Glen Ridge, North Caldwell, Caldwell, Montcla...<br />
+                 <a href="http://www.wicprograms.org/li/nj-east_orange_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/newark_wic_program">Newark WIC Program - Newark</a></h5>
+		Newark, NJ - 07102<br />
+		(973) 733-7628<br />
+		Essex county WIC program is administered here. City of Newark WIC program.
+WIC Benefits and Services:
+WIC checks for nutritious foods (cashed at grocery stores)Nutrition education and counselingBrea...<br />
+                 <a href="http://www.wicprograms.org/li/newark_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/nj-norwescap_wic_program">NORWESCAP WIC Program - Phillipsburg</a></h5>
+		Phillipsburg, NJ - 08865<br />
+		(908) 454-1210<br />
+		WIC provides the following benefits FREE to families who qualify at this location:
+Milk (or Soy Milk/Tofu)EggsCheeseCerealPeanut ButterBeans/Peas/LentilsJuiceWhole Grain Bread/Rice/TortillasFruits an...<br />
+                 <a href="http://www.wicprograms.org/li/nj-norwescap_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/nj-vna_of_central_jersey_wic_program">VNA of Central Jersey WIC Program - Belford</a></h5>
+		Belford, NJ - 07718<br />
+		(732) 471-9301<br />
+		This WIC office serves MONMOUTH and MIDDLESEX COUNTIES; Franklin Township in SOMERSET COUNTY. We do not have any further information on this WIC location at this time....<br />
+                 <a href="http://www.wicprograms.org/li/nj-vna_of_central_jersey_wic_program">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->
+
+
+                
+			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2012 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

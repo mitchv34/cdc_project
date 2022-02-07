@@ -1,0 +1,621 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Delaware WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Delaware Programs,Delaware WIC Clinics,Delaware WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Delaware WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Delaware
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Delaware WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Delaware on the right. Find your local WIC location using our Delaware search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Delaware City: </h2>
+		
+			<b>Enter city name in Delaware</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="DE" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Delaware WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/anna-c-shipley-state-service-center" title="Anna C. Shipley State Service Center">Anna C. Shipley State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/anna-c-shipley-state-service-center" title=""><img src="http://www.wicprograms.org/gallery/5755_anna-c-shipley-state-service-center_vai.jpg" alt="Anna C. Shipley State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                350 Virginia Ave.<br />
+                Seaford, DE - 19973<br />
+                (302) 628-2000 <br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/anna-c-shipley-state-service-center">Website</a></span>            </div>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp; The Anna C. Shipley State Service Center currently offers client services administered by Delaware Health and Social Services (DHSS) divisions:&nbsp;&nbsp;&nbsp; Division of State Service Centers (DSSC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Community Resource Assistance </p>
+            <a href="http://www.wicprograms.org/li/anna-c-shipley-state-service-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/claymont_state_service_center_19703" title="Claymont State Service Center">Claymont State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/claymont_state_service_center_19703" title=""><img src="http://www.wicprograms.org/gallery/4099_claymont.jpg" alt="Claymont State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                3301 Green Street<br />
+                Claymont, DE - 19703<br />
+                (302) 798-2392<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/claymont_state_service_center_19703">Website</a></span>            </div>
+			<p>Business Hours: 8:00 a.m. - 4:30 p.m.
+Facility Hours: 7:30 a.m. - 5:00 p.m. 
+The Claymont State Service Center/Claymont Community Center currently offers client services administered or funded by Delaware Health and Social Services (DHSS).
+Service: WIC - Supplemental Nutrition Program for pregnan</p>
+            <a href="http://www.wicprograms.org/li/claymont_state_service_center_19703" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/williams_state_service_center_19901" title="Williams State Service Center">Williams State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/williams_state_service_center_19901" title=""><img src="http://www.wicprograms.org/gallery/4100_williams.jpg" alt="Williams State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                805 River Road<br />
+                Dover, DE - 19901<br />
+                (302) 857-5110<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/williams_state_service_center_19901">Website</a></span>            </div>
+			<p>Business Hours: 8:30 a.m. - 4:30 p.m. Monday/Tuesday/Thursday/Friday
+8:30 a.m. - 5:30 p.m. Wednesday.
+Facility Hours:
+7:30 a.m. - 5:00 p.m., Wednesday evenings until 7:00 p.m. 
+The James W. Williams State Service Center currently offers client services administered by Delaware Health and Social </p>
+            <a href="http://www.wicprograms.org/li/williams_state_service_center_19901" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/pyle_state_service_center_19945" title="Pyle State Service Center">Pyle State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/pyle_state_service_center_19945" title=""><img src="http://www.wicprograms.org/gallery/4101_pyle.jpg" alt="Pyle State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                34314 Pyle Center Road<br />
+                Frankford, DE - 19945<br />
+                (302) 732-5480<br />
+		                </p>                       
+                                            </div>
+			<p>Business Hours: 8:00 a.m. - 4:30 p.m.
+Facility Hours: 7:30 a.m. - 5:00 p.m.
+The Edward W. Pyle State Service Center currently offers client services administered by Delaware Health and Social Services (DHSS).
+WIC - Supplemental Nutrition Program for pregnant and nursing women, infants and young c</p>
+            <a href="http://www.wicprograms.org/li/pyle_state_service_center_19945" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/adams_state_service_center_(302)" title="Adams State Service Center">Adams State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/adams_state_service_center_(302)" title=""><img src="http://www.wicprograms.org/gallery/4102_gtown.jpg" alt="Adams State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                546 S. Bedford Street<br />
+                Georgetown, DE - 19947<br />
+                (302) 856-5631<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/adams_state_service_center_(302)">Website</a></span>            </div>
+			<p>Business Hours: 8:00 a.m. - 4:30 p.m.
+Facility Hours: 7:30 a.m. - 5:00 p.m. 
+Thurman Adams State Service Center (formerly the Georgetown State Service Center) currently offers administrative and client services by Delaware Health and Social Services (DHSS) divisions.
+WIC - Supplemental Nutrition </p>
+            <a href="http://www.wicprograms.org/li/adams_state_service_center_(302)" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/middletown_health_unit_19709" title="Middletown Health Unit">Middletown Health Unit</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/middletown_health_unit_19709" title=""><img src="http://www.wicprograms.org/gallery/4103_middletown_health_unit_19709_jka.jpg" alt="Middletown Health Unit"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                214 North Broad Street<br />
+                Middletown, DE - 19709<br />
+                (302) 378-5200<br />
+		                </p>                       
+                                            </div>
+			<p>To apply for WIC benefits in Delaware, you need to visit your local WIC office. 
+	WIC Eligibility in DETo be eligible for WIC you need the following: Be a pregnant woman or be within 6 months after birth or after pregnancy ended.Be breastfeeding, up to 1 year old for the child.Be a postpartum women</p>
+            <a href="http://www.wicprograms.org/li/middletown_health_unit_19709" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/milford_riverwalk_19963" title="Milford Riverwalk">Milford Riverwalk</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/milford_riverwalk_19963" title=""><img src="http://www.wicprograms.org/gallery/4104_riverwalk.jpg" alt="Milford Riverwalk"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                253 NE Front Street<br />
+                Milford, DE - 19963<br />
+                (302) 424-7220<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/milford_riverwalk_19963">Website</a></span>            </div>
+			<p>Business Hours: 8:00 a.m. - 4:30 p.m.
+Facility Hours: 7:30 a.m. - 5:00 p.m.
+
+ 	The Milford State Service Center currently offers client services administered by Delaware Health and Social Services (DHSS).
+
+To apply for WIC benefits in Delaware, you need to visit your local WIC office. 
+	WIC El</p>
+            <a href="http://www.wicprograms.org/li/milford_riverwalk_19963" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/hudson_state_service_center_19711" title="Hudson State Service Center">Hudson State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/hudson_state_service_center_19711" title=""><img src="http://www.wicprograms.org/gallery/4105_hudson.jpg" alt="Hudson State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                501 Ogletown Road<br />
+                Newark, DE - 19711<br />
+                (302) 283-7570<br />
+		                </p>                       
+                                            </div>
+			<p>Business Hours: 8:00 a.m. - 4:30 p.m., Wednesday evenings until 7:00 p.m.
+Facility Hours: 7:30 a.m. - 5:00 p.m., Wednesday evenings until 7:00 p.m
+The Floyd I. Hudson State Service Center currently offers administrative and client services administered by Delaware Health and Social Services (DHSS)</p>
+            <a href="http://www.wicprograms.org/li/hudson_state_service_center_19711" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/shipley_state_service_center_19973" title="Shipley State Service Center">Shipley State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/shipley_state_service_center_19973" title=""><img src="http://www.wicprograms.org/gallery/4106_shipley.jpg" alt="Shipley State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                350 Virginia Ave<br />
+                Seaford, DE - 19973<br />
+                (302) 628-2005<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/shipley_state_service_center_19973">Website</a></span>            </div>
+			<p>Business Hours: 8:00 a.m. - 4:30 p.m.
+Facility Hours: 7:30 a.m. - 5:00 p.m. 
+
+To apply for WIC benefits in Delaware, you need to visit your local WIC office. 
+	WIC Eligibility in DETo be eligible for WIC you need the following: Be a pregnant woman or be within 6 months after birth or after pregn</p>
+            <a href="http://www.wicprograms.org/li/shipley_state_service_center_19973" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/smyrna_state_service_center_19977" title="Smyrna State Service Center">Smyrna State Service Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/smyrna_state_service_center_19977" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Smyrna State Service Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                200 South DuPont Boulevard, Suite 101<br />
+                Smyrna, DE - 19977<br />
+                (302) 514-4590<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/smyrna_state_service_center_19977">Website</a></span>            </div>
+			<p>Hours: 8:00 a.m. - 4:30 p.m.
+
+To apply for WIC benefits in Delaware, you need to visit your local WIC office. 
+	WIC Eligibility in DETo be eligible for WIC you need the following: Be a pregnant woman or be within 6 months after birth or after pregnancy ended.Be breastfeeding, up to 1 year old for</p>
+            <a href="http://www.wicprograms.org/li/smyrna_state_service_center_19977" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Delaware Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/de-claymont" alt="Claymont WIC Programs" title="Claymont WIC Programs">Claymont <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-dover" alt="Dover WIC Programs" title="Dover WIC Programs">Dover <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-frankford" alt="Frankford WIC Programs" title="Frankford WIC Programs">Frankford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Programs">Georgetown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-middletown" alt="Middletown WIC Programs" title="Middletown WIC Programs">Middletown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-milford" alt="Milford WIC Programs" title="Milford WIC Programs">Milford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-newark" alt="Newark WIC Programs" title="Newark WIC Programs">Newark <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-seaford" alt="Seaford WIC Programs" title="Seaford WIC Programs">Seaford <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-smyrna" alt="Smyrna WIC Programs" title="Smyrna WIC Programs">Smyrna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/de-wilmington" alt="Wilmington WIC Programs" title="Wilmington WIC Programs">Wilmington <em>(4)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2015 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

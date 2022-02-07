@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Indiana WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Indiana Programs,Indiana WIC Clinics,Indiana WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Indiana WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Indiana
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Indiana WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Indiana on the right. Find your local WIC location using our Indiana search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Indiana City: </h2>
+		
+			<b>Enter city name in Indiana</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="IN" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Indiana WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/in_52591_keokuk-county-wic-clinic" title="Keokuk County WIC Clinic">Keokuk County WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/in_52591_keokuk-county-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Keokuk County WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                23019 Hwy 149<br />
+                Sigourney, IN - 52591<br />
+                (641) 682-3449<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/in_52591_keokuk-county-wic-clinic">Website</a></span>            </div>
+			<p>Call for WIC Hours. </p>
+            <a href="http://www.wicprograms.org/li/in_52591_keokuk-county-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/clay_county_wic_program_national_guard_armory_47834" title="Clay County Wic Program - National Guard Armory">Clay County Wic Program - National Guard Armory</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/clay_county_wic_program_national_guard_armory_47834" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Clay County Wic Program - National Guard Armory"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                972 West Craig Avenue<br />
+                Brazil, IN - 47834<br />
+                (812) 442-0573<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/clay_county_wic_program_national_guard_armory_47834">Website</a></span>            </div>
+			<p>The Clay City, Indiana, and Jasonville, Indiana WIC Office sites are closed. In Clay County, Indiana, WIC can be reached at the Brazil office at 812-442-0573.Monday 8:00-7:00, Tuesday - Friday 8:00-4:00 Please double check these posted hours as they are subject to change.Call this WIC clinic locatio</p>
+            <a href="http://www.wicprograms.org/li/clay_county_wic_program_national_guard_armory_47834" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/in_wic-nutrition-program-newton-county" title="Newton County WIC Office">Newton County WIC Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/in_wic-nutrition-program-newton-county" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Newton County WIC Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                4117 South 240 West<br />
+                Morocco, IN - 47963<br />
+                219-285-0656<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/in_wic-nutrition-program-newton-county">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/in_wic-nutrition-program-newton-county">Website</a></span>            </div>
+			<p>Hours:Tues. and Thurs. 8:00am - 4:30pm 2nd Tuesday of the month 10:30am - 7:00pmPlease double check these posted hours as they are subject to change.Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certi</p>
+            <a href="http://www.wicprograms.org/li/in_wic-nutrition-program-newton-county" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/pulaski_county_wic_program_46996" title="Pulaski County Wic Program">Pulaski County Wic Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/pulaski_county_wic_program_46996" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Pulaski County Wic Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                123 North Market Street, Suite 2<br />
+                Winamac, IN - 46996<br />
+                (574) 946-6863<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/pulaski_county_wic_program_46996">Website</a></span>            </div>
+			<p>Hours:Tues. and Thurs. 8:00am - 4:30pm2nd Tuesday of the month 10:30am - 7:00pmPlease double check these posted hours as they are subject to change.Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certif</p>
+            <a href="http://www.wicprograms.org/li/pulaski_county_wic_program_46996" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/jasper_county_wic_program_47978" title="Jasper County Wic Office">Jasper County Wic Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/jasper_county_wic_program_47978" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Jasper County Wic Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                215 West Kellner, Suite 13<br />
+                Rensselaer, IN - 47978<br />
+                (219) 866-8662<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/jasper_county_wic_program_47978">Website</a></span>            </div>
+			<p>Hours:Mon., Wed., Fri. 8:00am - 4:30pm3rd Monday of the month 10:30am - 7:00pmPlease double check these posted hours as they are subject to change.Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certifi</p>
+            <a href="http://www.wicprograms.org/li/jasper_county_wic_program_47978" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/lake_station_46405" title="Lake Station">Lake Station</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/lake_station_46405" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Lake Station"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2490 Central Avenue, Suite 1<br />
+                Lake Station, IN - 46405<br />
+                (219) 962-4116<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lake_station_46405">Website</a></span>            </div>
+			<p>Hours:Mon., Tues., Thurs., Fri. 8:00am - 4:30pmWed. 10:30am - 7:00pmPlease double check these posted hours as they are subject to change.Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certification app</p>
+            <a href="http://www.wicprograms.org/li/lake_station_46405" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/hammond_wic_program_northwest_family_services_inc_46320" title="Hammond Wic Program - Northwest Family Services, Inc">Hammond Wic Program - Northwest Family Services, Inc</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/hammond_wic_program_northwest_family_services_inc_46320" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Hammond Wic Program - Northwest Family Services, Inc"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                5927 Columbia Avenue<br />
+                Hammond, IN - 46320<br />
+                (219) 931-9527<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/hammond_wic_program_northwest_family_services_inc_46320">Website</a></span>            </div>
+			<p>Monday, Tue., Thursday, Friday 8:00-4:30, Wednesday 10:30-7:00 Please double check these posted hours as they are subject to change. 
+
+Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certification app</p>
+            <a href="http://www.wicprograms.org/li/hammond_wic_program_northwest_family_services_inc_46320" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/glen_park_office_46410" title="Merrillville WIC Program">Merrillville WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/glen_park_office_46410" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Merrillville WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                6111 Harrison Street, Suite 320 <br />
+                Merrillville, IN - 46410<br />
+                (219) 887-1038<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/glen_park_office_46410">Website</a></span>            </div>
+			<p>Hours:Mon. &nbsp;&nbsp; &nbsp;10:30-7:00Tue.-Fri. &nbsp;&nbsp; &nbsp;8:00-4:30Please double check these posted hours as they are subject to change.Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certifi</p>
+            <a href="http://www.wicprograms.org/li/glen_park_office_46410" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/gary_wic" title="University Park-Gary">University Park-Gary</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/gary_wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="University Park-Gary"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                3229 Broadway<br />
+                Gary, IN - 46408<br />
+                219-239-2615<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/gary_wic">Website</a></span>            </div>
+			<p>Hours:Mon. 10:30am - 7:00p,Tues., Wed., Thurs., Fri. 8:00am - 4:30pmPlease double check these posted hours as they are subject to change.Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certification app</p>
+            <a href="http://www.wicprograms.org/li/gary_wic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/crown_point_wic_program_46307" title="Crown Point Wic Program">Crown Point Wic Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/crown_point_wic_program_46307" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Crown Point Wic Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1450 East Joliet Street, Suite 6<br />
+                Crown Point, IN - 46307<br />
+                219-663-6279<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/crown_point_wic_program_46307">Website</a></span>            </div>
+			<p>Monday 10:30-7:00, Tuesdays through Fridays 8am -4:30 Please double check these posted hours as they are subject to change. 
+
+Call this WIC clinic location to apply. When you call this WIC clinic, the staff will be able to answer your questions and get you started with a certification appointment.</p>
+            <a href="http://www.wicprograms.org/li/crown_point_wic_program_46307" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Indiana Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/in-albion" alt="Albion WIC Programs" title="Albion WIC Programs">Albion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-anderson" alt="Anderson WIC Programs" title="Anderson WIC Programs">Anderson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-angola" alt="Angola WIC Programs" title="Angola WIC Programs">Angola <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-auburn" alt="Auburn WIC Programs" title="Auburn WIC Programs">Auburn <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-bedford" alt="Bedford WIC Programs" title="Bedford WIC Programs">Bedford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-berne" alt="Berne WIC Programs" title="Berne WIC Programs">Berne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-bicknell" alt="Bicknell WIC Programs" title="Bicknell WIC Programs">Bicknell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-bloomfield" alt="Bloomfield WIC Programs" title="Bloomfield WIC Programs">Bloomfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-bloomington" alt="Bloomington WIC Programs" title="Bloomington WIC Programs">Bloomington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-bluffton" alt="Bluffton WIC Programs" title="Bluffton WIC Programs">Bluffton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-boonville" alt="Boonville WIC Programs" title="Boonville WIC Programs">Boonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-brazil" alt="Brazil WIC Programs" title="Brazil WIC Programs">Brazil <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-brookville" alt="Brookville WIC Programs" title="Brookville WIC Programs">Brookville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-cambridge_city" alt="Cambridge City WIC Programs" title="Cambridge City WIC Programs">Cambridge City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-clinton" alt="Clinton WIC Programs" title="Clinton WIC Programs">Clinton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-columbia_city" alt="Columbia City WIC Programs" title="Columbia City WIC Programs">Columbia City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-columbus" alt="Columbus WIC Programs" title="Columbus WIC Programs">Columbus <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-connersville" alt="Connersville WIC Programs" title="Connersville WIC Programs">Connersville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-corydon" alt="Corydon WIC Programs" title="Corydon WIC Programs">Corydon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-covington" alt="Covington WIC Programs" title="Covington WIC Programs">Covington <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-crawfordsville" alt="Crawfordsville WIC Programs" title="Crawfordsville WIC Programs">Crawfordsville <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-crown_point" alt="Crown Point WIC Programs" title="Crown Point WIC Programs">Crown Point <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-danville" alt="Danville WIC Programs" title="Danville WIC Programs">Danville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-decatur" alt="Decatur WIC Programs" title="Decatur WIC Programs">Decatur <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-delphi" alt="Delphi WIC Programs" title="Delphi WIC Programs">Delphi <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-east_chicago" alt="East Chicago WIC Programs" title="East Chicago WIC Programs">East Chicago <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-elkhart" alt="Elkhart WIC Programs" title="Elkhart WIC Programs">Elkhart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-elwood" alt="Elwood WIC Programs" title="Elwood WIC Programs">Elwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-evansville" alt="Evansville WIC Programs" title="Evansville WIC Programs">Evansville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-fort_wayne" alt="Fort Wayne WIC Programs" title="Fort Wayne WIC Programs">Fort Wayne <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-frankfort" alt="Frankfort WIC Programs" title="Frankfort WIC Programs">Frankfort <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-franklin" alt="Franklin WIC Programs" title="Franklin WIC Programs">Franklin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-gary" alt="Gary WIC Programs" title="Gary WIC Programs">Gary <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-goshen" alt="Goshen WIC Programs" title="Goshen WIC Programs">Goshen <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-greencastle" alt="Greencastle WIC Programs" title="Greencastle WIC Programs">Greencastle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-greenfield" alt="Greenfield WIC Programs" title="Greenfield WIC Programs">Greenfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-greensburg" alt="Greensburg WIC Programs" title="Greensburg WIC Programs">Greensburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-hammond" alt="Hammond WIC Programs" title="Hammond WIC Programs">Hammond <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-hartford_city" alt="Hartford City WIC Programs" title="Hartford City WIC Programs">Hartford City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-jasper" alt="Jasper WIC Programs" title="Jasper WIC Programs">Jasper <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-jeffersonville" alt="Jeffersonville WIC Programs" title="Jeffersonville WIC Programs">Jeffersonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-knox" alt="Knox WIC Programs" title="Knox WIC Programs">Knox <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-kokomo" alt="Kokomo WIC Programs" title="Kokomo WIC Programs">Kokomo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-lafayette" alt="Lafayette WIC Programs" title="Lafayette WIC Programs">Lafayette <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-lagrange" alt="Lagrange WIC Programs" title="Lagrange WIC Programs">Lagrange <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-lake_station" alt="Lake Station WIC Programs" title="Lake Station WIC Programs">Lake Station <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-laporte" alt="Laporte WIC Programs" title="Laporte WIC Programs">Laporte <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-lawrenceburg" alt="Lawrenceburg WIC Programs" title="Lawrenceburg WIC Programs">Lawrenceburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-lebanon" alt="Lebanon WIC Programs" title="Lebanon WIC Programs">Lebanon <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-liberty" alt="Liberty WIC Programs" title="Liberty WIC Programs">Liberty <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-logansport" alt="Logansport WIC Programs" title="Logansport WIC Programs">Logansport <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-madison" alt="Madison WIC Programs" title="Madison WIC Programs">Madison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-marengo" alt="Marengo WIC Programs" title="Marengo WIC Programs">Marengo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-martinsville" alt="Martinsville WIC Programs" title="Martinsville WIC Programs">Martinsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-merrillville" alt="Merrillville WIC Programs" title="Merrillville WIC Programs">Merrillville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-michigan_city" alt="Michigan City WIC Programs" title="Michigan City WIC Programs">Michigan City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-milan" alt="Milan WIC Programs" title="Milan WIC Programs">Milan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-mishawaka" alt="Mishawaka WIC Programs" title="Mishawaka WIC Programs">Mishawaka <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-monticello" alt="Monticello WIC Programs" title="Monticello WIC Programs">Monticello <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-morocco" alt="Morocco WIC Programs" title="Morocco WIC Programs">Morocco <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-mount_vernon" alt="Mount Vernon WIC Programs" title="Mount Vernon WIC Programs">Mount Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-munster" alt="Munster WIC Programs" title="Munster WIC Programs">Munster <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-nashville" alt="Nashville WIC Programs" title="Nashville WIC Programs">Nashville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-new_albany" alt="New Albany WIC Programs" title="New Albany WIC Programs">New Albany <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-new_castle" alt="New Castle WIC Programs" title="New Castle WIC Programs">New Castle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-noblesville" alt="Noblesville WIC Programs" title="Noblesville WIC Programs">Noblesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-north_liberty" alt="North Liberty WIC Programs" title="North Liberty WIC Programs">North Liberty <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-north_manchester" alt="North Manchester WIC Programs" title="North Manchester WIC Programs">North Manchester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-north_vernon" alt="North Vernon WIC Programs" title="North Vernon WIC Programs">North Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-oxford" alt="Oxford WIC Programs" title="Oxford WIC Programs">Oxford <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-paoli" alt="Paoli WIC Programs" title="Paoli WIC Programs">Paoli <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-peru" alt="Peru WIC Programs" title="Peru WIC Programs">Peru <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-petersburg" alt="Petersburg WIC Programs" title="Petersburg WIC Programs">Petersburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-plymouth" alt="Plymouth WIC Programs" title="Plymouth WIC Programs">Plymouth <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-portage" alt="Portage WIC Programs" title="Portage WIC Programs">Portage <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-portland" alt="Portland WIC Programs" title="Portland WIC Programs">Portland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-princeton" alt="Princeton WIC Programs" title="Princeton WIC Programs">Princeton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-rensselaer" alt="Rensselaer WIC Programs" title="Rensselaer WIC Programs">Rensselaer <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-richmond" alt="Richmond WIC Programs" title="Richmond WIC Programs">Richmond <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-rising_sun" alt="Rising Sun WIC Programs" title="Rising Sun WIC Programs">Rising Sun <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-rochester" alt="Rochester WIC Programs" title="Rochester WIC Programs">Rochester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-rockport" alt="Rockport WIC Programs" title="Rockport WIC Programs">Rockport <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-rockville" alt="Rockville WIC Programs" title="Rockville WIC Programs">Rockville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-rushville" alt="Rushville WIC Programs" title="Rushville WIC Programs">Rushville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-salem" alt="Salem WIC Programs" title="Salem WIC Programs">Salem <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-scottsburg" alt="Scottsburg WIC Programs" title="Scottsburg WIC Programs">Scottsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-seymour" alt="Seymour WIC Programs" title="Seymour WIC Programs">Seymour <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-shelbyville" alt="Shelbyville WIC Programs" title="Shelbyville WIC Programs">Shelbyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-shoals" alt="Shoals WIC Programs" title="Shoals WIC Programs">Shoals <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-sigourney" alt="Sigourney WIC Programs" title="Sigourney WIC Programs">Sigourney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-south_bend" alt="South Bend WIC Programs" title="South Bend WIC Programs">South Bend <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-spencer" alt="Spencer WIC Programs" title="Spencer WIC Programs">Spencer <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-sullivan" alt="Sullivan WIC Programs" title="Sullivan WIC Programs">Sullivan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-tell_city" alt="Tell City WIC Programs" title="Tell City WIC Programs">Tell City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-terre_haute" alt="Terre Haute WIC Programs" title="Terre Haute WIC Programs">Terre Haute <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-tipton" alt="Tipton WIC Programs" title="Tipton WIC Programs">Tipton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-valparaiso" alt="Valparaiso WIC Programs" title="Valparaiso WIC Programs">Valparaiso <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-vevay" alt="Vevay WIC Programs" title="Vevay WIC Programs">Vevay <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-vincennes" alt="Vincennes WIC Programs" title="Vincennes WIC Programs">Vincennes <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-wabash" alt="Wabash WIC Programs" title="Wabash WIC Programs">Wabash <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-warsaw" alt="Warsaw WIC Programs" title="Warsaw WIC Programs">Warsaw <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-washington" alt="Washington WIC Programs" title="Washington WIC Programs">Washington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-west_lafayette" alt="West Lafayette  WIC Programs" title="West Lafayette  WIC Programs">West Lafayette  <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-winamac" alt="Winamac WIC Programs" title="Winamac WIC Programs">Winamac <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/in-winchester" alt="Winchester WIC Programs" title="Winchester WIC Programs">Winchester <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care â€” when whatâ€™s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic nee...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2015 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

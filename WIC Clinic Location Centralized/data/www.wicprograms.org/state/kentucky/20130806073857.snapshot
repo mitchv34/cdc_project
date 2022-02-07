@@ -1,0 +1,631 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Kentucky WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Kentucky Programs,Kentucky WIC Clinics,Kentucky WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+<li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+<li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Kentucky WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Kentucky
+                
+				<p>
+                
+				<br /><strong>Kentucky WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Kentucky on the right. Find your local WIC location using our Kentucky search below. 
+				<br />
+				</p>
+                <p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Kentucky City: </h2>
+		
+			<b>Enter city name in Kentucky</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="KY" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Kentucky WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/whitley_county_health_department_40769" title="Whitley County Health Department">Whitley County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/whitley_county_health_department_40769" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Whitley County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                114 N. Second Street<br />
+                Williamsburg, KY - 40769<br />
+                (606) 549-3380<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Whitley County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+</p>
+            <a href="http://www.wicprograms.org/li/whitley_county_health_department_40769" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/public_health_wic_clinic_south_40503" title="Public Health WIC Clinic South">Public Health WIC Clinic South</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/public_health_wic_clinic_south_40503" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Public Health WIC Clinic South"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2423 Regency Road<br />
+                Lexington, KY - 40503<br />
+                (859) 899-5260
+<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Public Health WIC Clinic South (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+WI</p>
+            <a href="http://www.wicprograms.org/li/public_health_wic_clinic_south_40503" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/lfchd_public_health_wic_clinic_north_40511" title="LFCHD Public Health WIC Clinic North">LFCHD Public Health WIC Clinic North</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/lfchd_public_health_wic_clinic_north_40511" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="LFCHD Public Health WIC Clinic North"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                805 Newtown Circle, Suite A<br />
+                Lexington, KY - 40511<br />
+                (859) 288-2402<br />
+		                </p>                       
+                                            </div>
+			<p>Contact LFCHD Public Health WIC Clinic North (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guideline</p>
+            <a href="http://www.wicprograms.org/li/lfchd_public_health_wic_clinic_north_40511" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/winburn_wic_clinic_40509" title="Winburn WIC Clinic">Winburn WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/winburn_wic_clinic_40509" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Winburn WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1169 Winburn Drive<br />
+                Lexington, KY - 40509<br />
+                (859) 299-2120<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Winburn WIC Clinic (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+WIC is a healt</p>
+            <a href="http://www.wicprograms.org/li/winburn_wic_clinic_40509" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/allen_county_health_department_42164" title="Allen County Health Department">Allen County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/allen_county_health_department_42164" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Allen County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                207 East Locust Street<br />
+                Scottsville, KY - 42164<br />
+                (270) 237-4423<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Allen County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+WI</p>
+            <a href="http://www.wicprograms.org/li/allen_county_health_department_42164" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/anderson_county_health_department_40342" title="Anderson County Health Department">Anderson County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/anderson_county_health_department_40342" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Anderson County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1180 Glensboro Road<br />
+                Lawrenceburg, KY - 40342<br />
+                (502) 839-4551<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/anderson_county_health_department_40342">Website</a></span>            </div>
+			<p>Contact Anderson County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+</p>
+            <a href="http://www.wicprograms.org/li/anderson_county_health_department_40342" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/bourbon_county_health_department_40361" title="Bourbon County Health Department">Bourbon County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/bourbon_county_health_department_40361" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Bourbon County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                341 East Main Street<br />
+                Paris, KY - 40361<br />
+                (859) 987-1915<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/bourbon_county_health_department_40361">Website</a></span>            </div>
+			<p>Contact Bourbon County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+</p>
+            <a href="http://www.wicprograms.org/li/bourbon_county_health_department_40361" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ashland-boyd_county_health_department_41105" title="Ashland-Boyd County Health Department">Ashland-Boyd County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ashland-boyd_county_health_department_41105" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Ashland-Boyd County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2916 Holt Street<br />
+                Ashland, KY - 41105<br />
+                (606) 324-7181<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Ashland-Boyd County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelin</p>
+            <a href="http://www.wicprograms.org/li/ashland-boyd_county_health_department_41105" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/boyle_county_health_department_40423" title="Boyle County Health Department">Boyle County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/boyle_county_health_department_40423" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Boyle County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                448 South Third Street<br />
+                Danville, KY - 40423<br />
+                (859) 236-2053<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Boyle County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+WI</p>
+            <a href="http://www.wicprograms.org/li/boyle_county_health_department_40423" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/bracken_county_health_department_41004" title="Bracken County Health Department">Bracken County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/bracken_county_health_department_41004" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Bracken County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                429 Frankfort Street<br />
+                Brooksville, KY - 41004<br />
+                (606) 735-2157<br />
+		                </p>                       
+                                            </div>
+			<p>Contact Bracken County Health Department (WIC Program or Health Department) or another location serving your area to see if you qualify for WIC. 
+You will be asked to provide proper ID, proof of residence and information about your household income to help determine if you meet program guidelines.
+
+</p>
+            <a href="http://www.wicprograms.org/li/bracken_county_health_department_41004" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+				
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Kentucky Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ky-albany" alt="Albany WIC Programs" title="Albany WIC Programs">Albany <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-ashland" alt="Ashland WIC Programs" title="Ashland WIC Programs">Ashland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-barbourville" alt="Barbourville WIC Programs" title="Barbourville WIC Programs">Barbourville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-bardstown" alt="Bardstown WIC Programs" title="Bardstown WIC Programs">Bardstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-bardwell" alt="Bardwell WIC Programs" title="Bardwell WIC Programs">Bardwell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-beattyville" alt="Beattyville WIC Programs" title="Beattyville WIC Programs">Beattyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-bedford" alt="Bedford WIC Programs" title="Bedford WIC Programs">Bedford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-belfry" alt="Belfry WIC Programs" title="Belfry WIC Programs">Belfry <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-benton" alt="Benton WIC Programs" title="Benton WIC Programs">Benton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-berea" alt="Berea WIC Programs" title="Berea WIC Programs">Berea <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-booneville" alt="Booneville WIC Programs" title="Booneville WIC Programs">Booneville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-bowling_green" alt="Bowling Green WIC Programs" title="Bowling Green WIC Programs">Bowling Green <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-brandenburg" alt="Brandenburg WIC Programs" title="Brandenburg WIC Programs">Brandenburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-brooksville" alt="Brooksville WIC Programs" title="Brooksville WIC Programs">Brooksville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-burkesville" alt="Burkesville WIC Programs" title="Burkesville WIC Programs">Burkesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-cadiz" alt="Cadiz WIC Programs" title="Cadiz WIC Programs">Cadiz <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-calhoun" alt="Calhoun WIC Programs" title="Calhoun WIC Programs">Calhoun <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-campbellsville" alt="Campbellsville WIC Programs" title="Campbellsville WIC Programs">Campbellsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-campton" alt="Campton WIC Programs" title="Campton WIC Programs">Campton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-carlisle" alt="Carlisle WIC Programs" title="Carlisle WIC Programs">Carlisle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-carrollton" alt="Carrollton WIC Programs" title="Carrollton WIC Programs">Carrollton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-central_city" alt="Central City WIC Programs" title="Central City WIC Programs">Central City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-clinton" alt="Clinton WIC Programs" title="Clinton WIC Programs">Clinton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-columbia" alt="Columbia WIC Programs" title="Columbia WIC Programs">Columbia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-covington" alt="Covington WIC Programs" title="Covington WIC Programs">Covington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-cumberland" alt="Cumberland WIC Programs" title="Cumberland WIC Programs">Cumberland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-cynthiana" alt="Cynthiana WIC Programs" title="Cynthiana WIC Programs">Cynthiana <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-danville" alt="Danville WIC Programs" title="Danville WIC Programs">Danville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-dixon" alt="Dixon WIC Programs" title="Dixon WIC Programs">Dixon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-eddyville" alt="Eddyville WIC Programs" title="Eddyville WIC Programs">Eddyville <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-edgewood" alt="Edgewood WIC Programs" title="Edgewood WIC Programs">Edgewood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-elizabethtown" alt="Elizabethtown WIC Programs" title="Elizabethtown WIC Programs">Elizabethtown <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-elkton" alt="Elkton WIC Programs" title="Elkton WIC Programs">Elkton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-fairdale" alt="Fairdale WIC Programs" title="Fairdale WIC Programs">Fairdale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-falmouth" alt="Falmouth WIC Programs" title="Falmouth WIC Programs">Falmouth <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-flemingsburg" alt="Flemingsburg WIC Programs" title="Flemingsburg WIC Programs">Flemingsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-florence" alt="Florence WIC Programs" title="Florence WIC Programs">Florence <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-frankfort" alt="Frankfort WIC Programs" title="Frankfort WIC Programs">Frankfort <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-franklin" alt="Franklin WIC Programs" title="Franklin WIC Programs">Franklin <em>(5)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-frenchburg" alt="Frenchburg WIC Programs" title="Frenchburg WIC Programs">Frenchburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-fulton" alt="Fulton WIC Programs" title="Fulton WIC Programs">Fulton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Programs">Georgetown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-glasgow" alt="Glasgow WIC Programs" title="Glasgow WIC Programs">Glasgow <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-grayson" alt="Grayson WIC Programs" title="Grayson WIC Programs">Grayson <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-greensburg" alt="Greensburg WIC Programs" title="Greensburg WIC Programs">Greensburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-greenup" alt="Greenup WIC Programs" title="Greenup WIC Programs">Greenup <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hardinsburg" alt="Hardinsburg WIC Programs" title="Hardinsburg WIC Programs">Hardinsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-harrodsburg" alt="Harrodsburg WIC Programs" title="Harrodsburg WIC Programs">Harrodsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hartford" alt="Hartford WIC Programs" title="Hartford WIC Programs">Hartford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hawesville" alt="Hawesville WIC Programs" title="Hawesville WIC Programs">Hawesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hazard" alt="Hazard WIC Programs" title="Hazard WIC Programs">Hazard <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-henderson" alt="Henderson WIC Programs" title="Henderson WIC Programs">Henderson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hickman" alt="Hickman WIC Programs" title="Hickman WIC Programs">Hickman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hindman" alt="Hindman WIC Programs" title="Hindman WIC Programs">Hindman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hodgenville" alt="Hodgenville WIC Programs" title="Hodgenville WIC Programs">Hodgenville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hopkinsville" alt="Hopkinsville WIC Programs" title="Hopkinsville WIC Programs">Hopkinsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-hyden" alt="Hyden WIC Programs" title="Hyden WIC Programs">Hyden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-inez" alt="Inez WIC Programs" title="Inez WIC Programs">Inez <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-irvine" alt="Irvine WIC Programs" title="Irvine WIC Programs">Irvine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-jackson" alt="Jackson WIC Programs" title="Jackson WIC Programs">Jackson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-jamestown" alt="Jamestown WIC Programs" title="Jamestown WIC Programs">Jamestown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-lacenter" alt="LaCenter WIC Programs" title="LaCenter WIC Programs">LaCenter <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-lagrange" alt="LaGrange WIC Programs" title="LaGrange WIC Programs">LaGrange <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Programs">Lancaster <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-lawrenceburg" alt="Lawrenceburg WIC Programs" title="Lawrenceburg WIC Programs">Lawrenceburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-lebanon" alt="Lebanon WIC Programs" title="Lebanon WIC Programs">Lebanon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-leitchfield" alt="Leitchfield WIC Programs" title="Leitchfield WIC Programs">Leitchfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-lexington" alt="Lexington WIC Programs" title="Lexington WIC Programs">Lexington <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-liberty" alt="Liberty WIC Programs" title="Liberty WIC Programs">Liberty <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-london" alt="London WIC Programs" title="London WIC Programs">London <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-louisa" alt="Louisa WIC Programs" title="Louisa WIC Programs">Louisa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-louisville" alt="Louisville WIC Programs" title="Louisville WIC Programs">Louisville <em>(8)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-madisonville" alt="Madisonville WIC Programs" title="Madisonville WIC Programs">Madisonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-manchester" alt="Manchester WIC Programs" title="Manchester WIC Programs">Manchester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-mayfield" alt="Mayfield WIC Programs" title="Mayfield WIC Programs">Mayfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-maysville" alt="Maysville WIC Programs" title="Maysville WIC Programs">Maysville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-mckee" alt="McKee WIC Programs" title="McKee WIC Programs">McKee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-middletown" alt="Middletown WIC Programs" title="Middletown WIC Programs">Middletown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-monticello" alt="Monticello WIC Programs" title="Monticello WIC Programs">Monticello <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-morehead" alt="Morehead WIC Programs" title="Morehead WIC Programs">Morehead <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-morganfield" alt="Morganfield WIC Programs" title="Morganfield WIC Programs">Morganfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-mt._olivet" alt="Mt. Olivet WIC Programs" title="Mt. Olivet WIC Programs">Mt. Olivet <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-mt._sterling" alt="Mt. Sterling WIC Programs" title="Mt. Sterling WIC Programs">Mt. Sterling <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-mt._vernon" alt="Mt. Vernon WIC Programs" title="Mt. Vernon WIC Programs">Mt. Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-murray" alt="Murray WIC Programs" title="Murray WIC Programs">Murray <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-new_castle" alt="New Castle WIC Programs" title="New Castle WIC Programs">New Castle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-newport" alt="Newport WIC Programs" title="Newport WIC Programs">Newport <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-nicholasville" alt="Nicholasville WIC Programs" title="Nicholasville WIC Programs">Nicholasville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-olive_hill" alt="Olive Hill WIC Programs" title="Olive Hill WIC Programs">Olive Hill <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-owensboro" alt="Owensboro WIC Programs" title="Owensboro WIC Programs">Owensboro <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-owenton" alt="Owenton WIC Programs" title="Owenton WIC Programs">Owenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-owingsville" alt="Owingsville WIC Programs" title="Owingsville WIC Programs">Owingsville <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-paducah" alt="Paducah WIC Programs" title="Paducah WIC Programs">Paducah <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-paintsville" alt="Paintsville WIC Programs" title="Paintsville WIC Programs">Paintsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-paris" alt="Paris WIC Programs" title="Paris WIC Programs">Paris <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-pineville" alt="Pineville WIC Programs" title="Pineville WIC Programs">Pineville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-prestonsburg" alt="Prestonsburg WIC Programs" title="Prestonsburg WIC Programs">Prestonsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-princeton" alt="Princeton WIC Programs" title="Princeton WIC Programs">Princeton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-radcliff" alt="Radcliff WIC Programs" title="Radcliff WIC Programs">Radcliff <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-richmond" alt="Richmond WIC Programs" title="Richmond WIC Programs">Richmond <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-russellville" alt="Russellville WIC Programs" title="Russellville WIC Programs">Russellville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-salyersville" alt="Salyersville WIC Programs" title="Salyersville WIC Programs">Salyersville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-sandy_hook" alt="Sandy Hook WIC Programs" title="Sandy Hook WIC Programs">Sandy Hook <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-scottsville" alt="Scottsville WIC Programs" title="Scottsville WIC Programs">Scottsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-shelbyville" alt="Shelbyville WIC Programs" title="Shelbyville WIC Programs">Shelbyville <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-shepherdsville" alt="Shepherdsville WIC Programs" title="Shepherdsville WIC Programs">Shepherdsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-smithland" alt="Smithland WIC Programs" title="Smithland WIC Programs">Smithland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-somerset" alt="Somerset WIC Programs" title="Somerset WIC Programs">Somerset <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-south_shore" alt="South Shore WIC Programs" title="South Shore WIC Programs">South Shore <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-stanford" alt="Stanford WIC Programs" title="Stanford WIC Programs">Stanford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-stanton" alt="Stanton WIC Programs" title="Stanton WIC Programs">Stanton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-taylorsville" alt="Taylorsville WIC Programs" title="Taylorsville WIC Programs">Taylorsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-tompkinsville" alt="Tompkinsville WIC Programs" title="Tompkinsville WIC Programs">Tompkinsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-vanceburg" alt="Vanceburg WIC Programs" title="Vanceburg WIC Programs">Vanceburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-versailles" alt="Versailles WIC Programs" title="Versailles WIC Programs">Versailles <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-warsaw" alt="Warsaw WIC Programs" title="Warsaw WIC Programs">Warsaw <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-west_liberty" alt="West Liberty WIC Programs" title="West Liberty WIC Programs">West Liberty <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-wheelwright" alt="Wheelwright WIC Programs" title="Wheelwright WIC Programs">Wheelwright <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-whitesburg" alt="Whitesburg WIC Programs" title="Whitesburg WIC Programs">Whitesburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-whitley_city" alt="Whitley City WIC Programs" title="Whitley City WIC Programs">Whitley City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-williamsburg" alt="Williamsburg WIC Programs" title="Williamsburg WIC Programs">Williamsburg <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-williamstown" alt="Williamstown WIC Programs" title="Williamstown WIC Programs">Williamstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ky-winchester" alt="Winchester WIC Programs" title="Winchester WIC Programs">Winchester <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Members</h4>
+			
+				<ul class="footer_widget_list">
+                    <li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+                    <li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+                    <li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2013 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

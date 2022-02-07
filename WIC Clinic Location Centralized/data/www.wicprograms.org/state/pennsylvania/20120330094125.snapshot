@@ -1,0 +1,504 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>Pennsylvania WIC Programs | Pennsylvania WIC Locations, Information and Assistance</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="Pennsylvania WIC Programs in Pennsylvania" />
+	<meta name="description" content="Pennsylvania WIC Programs in Pennsylvania" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong></strong> entries listed in our database.<br />
+	Entries pending approval: <strong></strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong></strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+			
+
+       
+			<!-- Top cities start -->
+
+			<div class="side-box group">
+				<h4 class="news">WIC Clinics and Offices By City</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-carnegie" alt="Carnegie WIC Programs" title="Carnegie WIC Clinics & Offices">Carnegie WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-clairton" alt="Clairton WIC Programs" title="Clairton WIC Clinics & Offices">Clairton WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-mckees_rocks" alt="Mckees Rocks WIC Programs" title="Mckees Rocks WIC Clinics & Offices">Mckees Rocks WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-mckeesport" alt="Mckeesport WIC Programs" title="Mckeesport WIC Clinics & Offices">Mckeesport WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-mt._oliver" alt="Mt. Oliver WIC Programs" title="Mt. Oliver WIC Clinics & Offices">Mt. Oliver WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-pittsburgh" alt="Pittsburgh WIC Programs" title="Pittsburgh WIC Clinics & Offices">Pittsburgh WIC Clinics</a> <em>(6)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-springdale" alt="Springdale WIC Programs" title="Springdale WIC Clinics & Offices">Springdale WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-turtle_creek" alt="Turtle Creek WIC Programs" title="Turtle Creek WIC Clinics & Offices">Turtle Creek WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-philadelphia" alt="Philadelphia WIC Programs" title="Philadelphia WIC Clinics & Offices">Philadelphia WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-allentown" alt="Allentown WIC Programs" title="Allentown WIC Clinics & Offices">Allentown WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-erie" alt="Erie WIC Programs" title="Erie WIC Clinics & Offices">Erie WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-reading" alt="Reading WIC Programs" title="Reading WIC Clinics & Offices">Reading WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-upper_darbyship" alt="Upper Darbyship WIC Programs" title="Upper Darbyship WIC Clinics & Offices">Upper Darbyship WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-scranton" alt="Scranton WIC Programs" title="Scranton WIC Clinics & Offices">Scranton WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-bensalemship" alt="Bensalemship WIC Programs" title="Bensalemship WIC Clinics & Offices">Bensalemship WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-lower_merionship" alt="Lower Merionship WIC Programs" title="Lower Merionship WIC Clinics & Offices">Lower Merionship WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/pa-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Clinics & Offices">Lancaster WIC Clinics</a> 					</li>
+					</ul>
+
+			</div><!-- /.side-box -->
+
+<!-- Top cities end -->            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/state/pennsylvania" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+
+
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<!-- Breadcrumb Start-->
+<a href="http://www.wicprograms.org">WIC Programs</a> &raquo; Pennsylvania
+<!-- Breadcrumb End-->			
+			<div id="headline">
+
+                <h2>Pennsylvania WIC Clinics and Offices</h2>
+    
+			
+			</div><!-- /headline -->
+
+                <p>We have listed out all of the cities where we have located WIC Clinics and Offices in Pennsylvania. We are constantly adding new clinics and office locations as we find them. If you know of any WIC locations that we are not providing on the website, please go to the <a href="http://www.wicprograms.org/listing_add.php">ADD A WIC Location</a> page to help us add to our resource. </p>
+<br />
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-2985566993569762";
+			/* 336x280, created 9/22/11 */
+			google_ad_slot = "1876671469";
+			google_ad_width = 336;
+			google_ad_height = 280;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			
+			<!-- City search form start -->
+			<form action="http://www.wicprograms.org/city.php">
+				<h2>WIC Programs By City: </h2><br />
+				Type city name:<br />
+				<input name="city" size="40" type="text"/>
+				<input name="st" type="hidden" value="PA"/>
+				<input name="submit" value="Search for city" type="submit" />
+			</form>
+			<!-- City search form end -->
+            
+			<br /><br />
+			<h1>Pennsylvania WIC Program Overview</h1>
+						
+			<p>
+			    The Special Supplemental Nutrition Program for Women, Infants, and Children - better known as the WIC Program - serves to safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care.
+				
+			    <br /><br />
+			
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+<br />
+		
+
+			
+			
+				<br /><strong>Pennsylvania WIC Food Packages</strong> <br />
+
+				The WIC food packages provide supplemental foods designed to meet the special nutritional needs of low-income pregnant, breastfeeding, non-breastfeeding postpartum women, infants and children up to five years of age who are at nutritional risk. WIC food packages and nutrition education are the chief means by which WIC affects the dietary quality and habits of participants.  <br /> <br />
+
+				New food packages are now being provided to WIC participants in all States.  On December 6, 2007,  an interim rule revising the WIC food packages was published in the Federal Register. The new food packages align with the 2005 Dietary Guidelines for Americans and infant feeding practice guidelines of the American Academy of Pediatrics. The food packages better promote and support the establishment of successful, long-term breastfeeding, provide WIC participants with a wider variety of foods including fruits and vegetables and whole grains, and provide WIC State agencies greater flexibility in prescribing food packages to accommodate the cultural food preferences of WIC participants.  An interim rule allows the Food and Nutrition Service to obtain feedback on the revisions while allowing implementation to move forward. The interim rule comment period ended on February 1, 2010. FNS is currently reviewing and analyzing comments and expects to promulgate a final rule in February 2011.
+
+				<br />
+
+					<br /><strong>Pennsylvania WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br /><br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+			
+			
+			
+			
+			
+			
+			            
+					<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145">Westinghouse Valley Human Service Center - Turtle Creek</a></h5>
+		Turtle Creek, PA - 15145<br />
+		412.823.1333<br />
+		Monday - Friday8:00 a.m. - 4:00 p.m. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must complete ...<br />
+                 <a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/hosanna_house_wic_15221">Hosanna House Wic - Pittsburgh</a></h5>
+		Pittsburgh, PA - 15221<br />
+		412.241.3860<br />
+		Monday - Friday8:00 a.m. - 4:00 p.m WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must complete a...<br />
+                 <a href="http://www.wicprograms.org/li/hosanna_house_wic_15221">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/springdale_wic_program_15144">Springdale Wic Program - Springdale</a></h5>
+		Springdale, PA - 15144<br />
+		724-274-6411<br />
+		Wednesday and/or Thursday8:00 a.m. - 4:00 p.m. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must...<br />
+                 <a href="http://www.wicprograms.org/li/springdale_wic_program_15144">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210">Upmc South Pittsburgh Health Center - Mt. Oliver - 136 - Mt. Oliver</a></h5>
+		Mt. Oliver, PA - 15210<br />
+		412.481-2780<br />
+		Monday - Friday8:00 a.m. - 4:00 p.m.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must complete a...<br />
+                 <a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132">Mckeesport - 112 Wander Building Wic - Mckeesport</a></h5>
+		Mckeesport, PA - 15132<br />
+		412.664.8870<br />
+		Monday - Friday8:00 a.m. - 4:00 p.m.Saturday appointments available. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's hea...<br />
+                 <a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/sto-rox_neighborhood_family_health_center_15136">Sto-rox Neighborhood Family Health Center - Mckees Rocks</a></h5>
+		Mckees Rocks, PA - 15136<br />
+		412.331-5410<br />
+		Tuesday, Wednesday, Thursday and some Fridays8:00 a.m. – 4:00 p.m.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's heal...<br />
+                 <a href="http://www.wicprograms.org/li/sto-rox_neighborhood_family_health_center_15136">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201">Lawrenceville Center Wic Office - Pittsburgh</a></h5>
+		Pittsburgh, PA - 15201<br />
+		412.578.8165<br />
+		Monday - Friday7:30 a.m. - 4:00 p.m.Saturday appointments available.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's heal...<br />
+                 <a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/clairton_health_center_wic_15025">Clairton Health Center Wic - Clairton</a></h5>
+		Clairton, PA - 15025<br />
+		412.641.3267<br />
+		Monday and/or Thursday8:00 a.m. - 4:00 p.m. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must co...<br />
+                 <a href="http://www.wicprograms.org/li/clairton_health_center_wic_15025">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106">Carnegie - 115 Wic Enrollment - Carnegie</a></h5>
+		Carnegie, PA - 15106<br />
+		412.278.2510<br />
+		Monday - Friday8:00 a.m. - 4:00 p.m.Saturday appointments available.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's heal...<br />
+                 <a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222">Allegheny County Wic Program - Pittsburgh</a></h5>
+		Pittsburgh, PA - 15222<br />
+		412-350-5801<br />
+		Investment Building, 6th FloorWIC serves income-eligible and medically or nutritionally at-risk pregnant women, breastfeeding mothers, infants and children under age five.WIC offers nutrition counseli...<br />
+                 <a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->
+
+
+                
+			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2012 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

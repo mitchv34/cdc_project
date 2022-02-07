@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Montana WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Montana Programs,Montana WIC Clinics,Montana WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Montana WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Montana
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Montana on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Montana</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-anaconda">Anaconda</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-big_timber">Big Timber</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-billings">Billings</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-bozeman">Bozeman</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-butte">Butte</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-columbia_falls">Columbia Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-cut_bank">Cut Bank</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-dillon">Dillon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-glendive">Glendive</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-great_falls">Great Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-hamilton">Hamilton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-helena">Helena</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-kalispell">Kalispell</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-lodge_grass">Lodge Grass</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-malta">Malta</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-missoula">Missoula</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-plentywood">Plentywood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-polson">Polson</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-shelby">Shelby</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/mt-wolf_point">Wolf Point</a>
+												<em>(1)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/mt_59401_cascade-city-county-health-department" title="Cascade City-County Health Department">Cascade City-County Health Department</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/mt_59401_cascade-city-county-health-department" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Cascade City-County Health Department"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    115 4th Street South<br />
+                    Great Falls, MT - 59401<br />
+                    (406) 454-6953<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/mt_59401_cascade-city-county-health-department">Website</a></span>            </div>
+            <p>The WIC program’s complete name is Special Supplemental Nutrition Program for Women, Infants and Children. WIC helps lower-income women (pregnant, breastfeeding, and those who recently had a baby) and infants and children (up to age 5) who are at nutritional health risk.WIC Clinic Hours at CCHD:Mo</p>
+            <a href="http://www.wicprograms.org/li/mt_59401_cascade-city-county-health-department" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/butte-city-wic" title="Butte City WIC">Butte City WIC</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/butte-city-wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Butte City WIC"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    25 W Front St<br />
+                    Butte, MT - 59701<br />
+                    (406) 497-5060<br />
+                                    </p>
+                                            </div>
+            <p></p>
+            <a href="http://www.wicprograms.org/li/butte-city-wic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/mt_59725_beaverhead-county-wic-program-dillon" title="Beaverhead County WIC Program Dillon and Sheriden">Beaverhead County WIC Program Dillon and Sheriden</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/mt_59725_beaverhead-county-wic-program-dillon" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Beaverhead County WIC Program Dillon and Sheriden"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    41 Barrett Street<br />
+                    Dillon, MT - 59725<br />
+                    406-683-4771<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/mt_59725_beaverhead-county-wic-program-dillon">Website</a></span>            </div>
+            <p>WIC is provided Every Tuesday in Dillon MT 9am to 1pm and 2pm - 5pm. Every 3rd Monday in Sheridan MT 9am to 12 noon &amp; 1-3pmCall to make an appointment or for more information. </p>
+            <a href="http://www.wicprograms.org/li/mt_59725_beaverhead-county-wic-program-dillon" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/yellowstone-county-wic" title="RiverStone Health WIC">RiverStone Health WIC</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/yellowstone-county-wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="RiverStone Health WIC"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    123 South 27th St<br />
+                    Billings, MT - 5910<br />
+                    (406) 247-3370<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/yellowstone-county-wic">Website</a></span>            </div>
+            <p>WIC Hours: Mondays, Tuesdays, Thursdays, Fridays 8am - 5pm. Wednesdays 9am - 1pm, 2pm - 6pm. </p>
+            <a href="http://www.wicprograms.org/li/yellowstone-county-wic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/montana-wic-program" title="Montana WIC Program">Montana WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/montana-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Montana WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1400 Broadway, Cogswell Bldg. C305<br />
+                    Helena, MT - 59620<br />
+                    (406) 444-5533<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/montana-wic-program">Website</a></span>            </div>
+            <p>WIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health behaviors in a targeted, at-risk population. Nutrition education is the cornerstone of the WIC Program. </p>
+            <a href="http://www.wicprograms.org/li/montana-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/sheridan-county-wic-program" title="Sheridan County WIC Program">Sheridan County WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/sheridan-county-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Sheridan County WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    100 W Laurel Ave<br />
+                    Plentywood, MT - 59254<br />
+                    (406) 765-3473<br />
+                                    </p>
+                                            </div>
+            <p></p>
+            <a href="http://www.wicprograms.org/li/sheridan-county-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/phillips-malta-wic-project" title="Phillips-Malta WIC Project">Phillips-Malta WIC Project</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/phillips-malta-wic-project" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Phillips-Malta WIC Project"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    133 S 1st St W<br />
+                    Malta, MT - 59538<br />
+                    (406) 654-1380<br />
+                                    </p>
+                                            </div>
+            <p></p>
+            <a href="http://www.wicprograms.org/li/phillips-malta-wic-project" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/fort-peck-tribes-wic-program" title="Fort Peck Tribes WIC Program">Fort Peck Tribes WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/fort-peck-tribes-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Fort Peck Tribes WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    550 6th Ave N<br />
+                    Wolf Point, MT - 59201<br />
+                    (406) 653-1204<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/fort-peck-tribes-wic-program">Website</a></span>            </div>
+            <p></p>
+            <a href="http://www.wicprograms.org/li/fort-peck-tribes-wic-program" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/toole-county-wic" title="Toole County WIC">Toole County WIC</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/toole-county-wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Toole County WIC"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    402 1st St S<br />
+                    Shelby, MT - 59474<br />
+                    (406) 424-5169<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/toole-county-wic">Website</a></span>            </div>
+            <p></p>
+            <a href="http://www.wicprograms.org/li/toole-county-wic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/glacier-county-wic" title="Glacier County WIC">Glacier County WIC</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/glacier-county-wic" title=""><img src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=48.629433,-112.316511&fov=90&heading=235&pitch=10" alt="Glacier County WIC"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1210 E Main St<br />
+                    Cut Bank, MT - 59427<br />
+                    (406) 873-2969<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/glacier-county-wic">Website</a></span>            </div>
+            <p></p>
+            <a href="http://www.wicprograms.org/li/glacier-county-wic" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                            
+
+                                <!-- Top cities start -->
+                                <aside class="widget">
+                                    <h3 class="widget-title">Montana WIC</h3>
+                                    <ul class="widget-list">
+                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-anaconda" alt="Anaconda WIC Programs" title="Anaconda WIC Programs">Anaconda <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-big_timber" alt="Big Timber WIC Programs" title="Big Timber WIC Programs">Big Timber <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-billings" alt="Billings WIC Programs" title="Billings WIC Programs">Billings <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-bozeman" alt="Bozeman WIC Programs" title="Bozeman WIC Programs">Bozeman <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-butte" alt="Butte WIC Programs" title="Butte WIC Programs">Butte <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-columbia_falls" alt="Columbia Falls WIC Programs" title="Columbia Falls WIC Programs">Columbia Falls <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-cut_bank" alt="Cut Bank WIC Programs" title="Cut Bank WIC Programs">Cut Bank <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-dillon" alt="Dillon WIC Programs" title="Dillon WIC Programs">Dillon <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-glendive" alt="Glendive WIC Programs" title="Glendive WIC Programs">Glendive <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-great_falls" alt="Great Falls WIC Programs" title="Great Falls WIC Programs">Great Falls <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-hamilton" alt="Hamilton WIC Programs" title="Hamilton WIC Programs">Hamilton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-helena" alt="Helena WIC Programs" title="Helena WIC Programs">Helena <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-kalispell" alt="Kalispell WIC Programs" title="Kalispell WIC Programs">Kalispell <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-lodge_grass" alt="Lodge Grass WIC Programs" title="Lodge Grass WIC Programs">Lodge Grass <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-malta" alt="Malta WIC Programs" title="Malta WIC Programs">Malta <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-missoula" alt="Missoula WIC Programs" title="Missoula WIC Programs">Missoula <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-plentywood" alt="Plentywood WIC Programs" title="Plentywood WIC Programs">Plentywood <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-polson" alt="Polson WIC Programs" title="Polson WIC Programs">Polson <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-shelby" alt="Shelby WIC Programs" title="Shelby WIC Programs">Shelby <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/mt-wolf_point" alt="Wolf Point WIC Programs" title="Wolf Point WIC Programs">Wolf Point <em>(1)</em></a></li>                                                                            </ul>
+                                </aside>
+                                <!-- Top cities end -->
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/mt_59401_cascade-city-county-health-department">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/mt_59401_cascade-city-county-health-department">Cascade City-County Health Department</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Great Falls,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/butte-city-wic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/butte-city-wic">Butte City WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Butte,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/mt_59725_beaverhead-county-wic-program-dillon">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/mt_59725_beaverhead-county-wic-program-dillon">Beaverhead County WIC Program Dillon and Sheriden</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Dillon,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/yellowstone-county-wic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/yellowstone-county-wic">RiverStone Health WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Billings,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/montana-wic-program">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/montana-wic-program">Montana WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Helena,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/sheridan-county-wic-program">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/sheridan-county-wic-program">Sheridan County WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Plentywood,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/phillips-malta-wic-project">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/phillips-malta-wic-project">Phillips-Malta WIC Project</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Malta,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/fort-peck-tribes-wic-program">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/fort-peck-tribes-wic-program">Fort Peck Tribes WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Wolf Point,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/toole-county-wic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/toole-county-wic">Toole County WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Shelby,MT</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/glacier-county-wic">
+							<img width="90" height="75" src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=48.629433,-112.316511&fov=90&heading=235&pitch=10" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/glacier-county-wic">Glacier County WIC</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Cut Bank,MT</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2017</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

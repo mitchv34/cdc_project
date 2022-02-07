@@ -1,0 +1,629 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Texas WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Texas Programs,Texas WIC Clinics,Texas WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+<li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+<li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Texas WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Texas
+                
+				<p>
+                
+				<br /><strong>Texas WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Texas on the right. Find your local WIC location using our Texas search below. 
+				<br />
+				</p>
+                <p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Texas City: </h2>
+		
+			<b>Enter city name in Texas</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="TX" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Texas WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/fabens-wic-clinic" title="FABENS WIC CLINIC">FABENS WIC CLINIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/fabens-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="FABENS WIC CLINIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                101 POTASIO<br />
+                Fabens, TX - 79838<br />
+                (915) 764-5090<br />
+		                </p>                       
+                                            </div>
+			<p>WIC Hours: 8:00-12:00,(LAST MON);8:00-5:00,(2ND WED/4TH WED/THU/3RD/4TH FRI)</p>
+            <a href="http://www.wicprograms.org/li/fabens-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/garden-plaza-wic-clinic" title="Garden Plaza WIC Clinic">Garden Plaza WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/garden-plaza-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Garden Plaza WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1225 North Expressway Suite 2d<br />
+                Brownsville, TX - 78520<br />
+                (888) 942-4847<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/garden-plaza-wic-clinic">Website</a></span>            </div>
+			<p>Hours 8:00-8:00,(MON/TUE/WED);LUNCH 12:00-13:00,8:00-5:00,(THU);8:00-1:00,(FRI); </p>
+            <a href="http://www.wicprograms.org/li/garden-plaza-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/la-paloma-wic-clinic" title="La Paloma Wic Clinic">La Paloma Wic Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/la-paloma-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="La Paloma Wic Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                35005 Leal Road<br />
+                San Benito, TX - 78586<br />
+                (888) 942-4847<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 8:00-8:00,(MON/TUE);LUNCH 12:00-13:00,8:00-5:00,(WED/THU);8:00-1:00,(FRI);
+Satellite Clinic
+No Immunizations at this location
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.</p>
+            <a href="http://www.wicprograms.org/li/la-paloma-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/cameron-park-wic-clinic" title="Cameron Park Wic Clinic">Cameron Park Wic Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/cameron-park-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Cameron Park Wic Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2102 Gregory Avenue<br />
+                Brownsville, TX - 78526<br />
+                (888) 942-4847<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 8:00-8:00,(MON/TUE);LUNCH 12:00-13:00,8:00-5:00,(WED/THU);8:00-1:00,(FRI);
+
+No Immunizations at this location
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.</p>
+            <a href="http://www.wicprograms.org/li/cameron-park-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/santa-rosa-wic-clinic" title="Santa Rosa Wic Clinic">Santa Rosa Wic Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/santa-rosa-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Santa Rosa Wic Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                116 Santa Vista Ave<br />
+                Santa Rosa, TX - 78593<br />
+                (888) 942-4847<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 8:00-8:00,(MON/TUE);LUNCH 12:00-13:00,8:00-5:00,(WED/THU);8:00-1:00,(FRI);
+Satellite Clinic
+No Immunizations at this location
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.
+</p>
+            <a href="http://www.wicprograms.org/li/santa-rosa-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/lasara-community-resource-center" title="Lasara Community Resource Center">Lasara Community Resource Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/lasara-community-resource-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Lasara Community Resource Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                706 East 6th Street<br />
+                Lasara, TX - 78561<br />
+                (956) 689-2425<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 1:00-4:30,(WED/1ST/4TH WED);
+
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.
+</p>
+            <a href="http://www.wicprograms.org/li/lasara-community-resource-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/dch-wic-at-driscoll-health-center" title="DCH WIC At Driscoll Health Center">DCH WIC At Driscoll Health Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/dch-wic-at-driscoll-health-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="DCH WIC At Driscoll Health Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                222 East Main<br />
+                Robstown, TX - 78380<br />
+                (361) 767-7777<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 8:30-5:00,(2ND MON/4TH MON);8:30-7:00,(TUE);8:30-5:00,(WED/THU);LUNCH 12:30-13:30,8:30-2:30,(FRI);8:30-12:00,(4TH SAT);
+
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.
+</p>
+            <a href="http://www.wicprograms.org/li/dch-wic-at-driscoll-health-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/super-s-foods" title="Super S Foods">Super S Foods</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/super-s-foods" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Super S Foods"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                121 East 4th<br />
+                Bishop, TX - 78343<br />
+                (361) 767-7777<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 1:00-4:00,(3RD THU);
+
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.
+</p>
+            <a href="http://www.wicprograms.org/li/super-s-foods" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/banquete-l-and-m-superette" title="Banquete-l And M Superette">Banquete-l And M Superette</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/banquete-l-and-m-superette" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Banquete-l And M Superette"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                5669 Hwy 44<br />
+                Banquete, TX - 78339<br />
+                (361) 767-7777<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 1:00-4:00,(4TH THU);
+
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.</p>
+            <a href="http://www.wicprograms.org/li/banquete-l-and-m-superette" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/agua-dulce-nueces-county" title="Agua Dulce - Nueces County">Agua Dulce - Nueces County</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/agua-dulce-nueces-county" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Agua Dulce - Nueces County"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1708 2nd Street<br />
+                Agua Dulce, TX - 78330<br />
+                (361) 767-7777<br />
+		                </p>                       
+                                            </div>
+			<p>Hours: 9:00-12:00,(4TH THU);
+
+Hours of operation are subject to change, please contact the clinic to confirm hours and/or schedule an appointment.
+</p>
+            <a href="http://www.wicprograms.org/li/agua-dulce-nueces-county" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+				
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Texas Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/tx-angleton" alt=" Angleton WIC Programs" title=" Angleton WIC Programs"> Angleton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-abernathy" alt="Abernathy WIC Programs" title="Abernathy WIC Programs">Abernathy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-abilene" alt="Abilene WIC Programs" title="Abilene WIC Programs">Abilene <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-agua_dulce" alt="Agua Dulce WIC Programs" title="Agua Dulce WIC Programs">Agua Dulce <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-alamo" alt="Alamo WIC Programs" title="Alamo WIC Programs">Alamo <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-albany" alt="Albany WIC Programs" title="Albany WIC Programs">Albany <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-alto" alt="Alto WIC Programs" title="Alto WIC Programs">Alto <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-alton" alt="Alton WIC Programs" title="Alton WIC Programs">Alton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-alvin" alt="Alvin WIC Programs" title="Alvin WIC Programs">Alvin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-amarillo" alt="Amarillo WIC Programs" title="Amarillo WIC Programs">Amarillo <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-anahuac" alt="Anahuac WIC Programs" title="Anahuac WIC Programs">Anahuac <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-andrews" alt="Andrews WIC Programs" title="Andrews WIC Programs">Andrews <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-annaville" alt="Annaville WIC Programs" title="Annaville WIC Programs">Annaville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-anthony" alt="Anthony WIC Programs" title="Anthony WIC Programs">Anthony <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-archer_city" alt="Archer City WIC Programs" title="Archer City WIC Programs">Archer City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-arlington" alt="Arlington WIC Programs" title="Arlington WIC Programs">Arlington <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-asherton" alt="Asherton WIC Programs" title="Asherton WIC Programs">Asherton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-aspermont" alt="Aspermont  WIC Programs" title="Aspermont  WIC Programs">Aspermont  <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-athens" alt="Athens WIC Programs" title="Athens WIC Programs">Athens <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-atlanta" alt="Atlanta WIC Programs" title="Atlanta WIC Programs">Atlanta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-austin" alt="Austin WIC Programs" title="Austin WIC Programs">Austin <em>(10)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-azle" alt="Azle WIC Programs" title="Azle WIC Programs">Azle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-ballinger" alt="Ballinger WIC Programs" title="Ballinger WIC Programs">Ballinger <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bandera" alt="Bandera WIC Programs" title="Bandera WIC Programs">Bandera <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-banquete" alt="Banquete WIC Programs" title="Banquete WIC Programs">Banquete <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bartlett" alt="Bartlett WIC Programs" title="Bartlett WIC Programs">Bartlett <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bastrop" alt="Bastrop WIC Programs" title="Bastrop WIC Programs">Bastrop <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-batesville" alt="Batesville WIC Programs" title="Batesville WIC Programs">Batesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bay_city" alt="Bay City WIC Programs" title="Bay City WIC Programs">Bay City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-baytown" alt="Baytown WIC Programs" title="Baytown WIC Programs">Baytown <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-beaumont" alt="Beaumont WIC Programs" title="Beaumont WIC Programs">Beaumont <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bedford" alt="Bedford WIC Programs" title="Bedford WIC Programs">Bedford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-beeville" alt="Beeville WIC Programs" title="Beeville WIC Programs">Beeville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bellville" alt="Bellville WIC Programs" title="Bellville WIC Programs">Bellville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-big_wells" alt="Big Wells WIC Programs" title="Big Wells WIC Programs">Big Wells <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bishop" alt="Bishop WIC Programs" title="Bishop WIC Programs">Bishop <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-blanco" alt="Blanco WIC Programs" title="Blanco WIC Programs">Blanco <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-blooming_grove" alt="Blooming Grove WIC Programs" title="Blooming Grove WIC Programs">Blooming Grove <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-boerne" alt="Boerne WIC Programs" title="Boerne WIC Programs">Boerne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bonham" alt="Bonham WIC Programs" title="Bonham WIC Programs">Bonham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-booker" alt="Booker WIC Programs" title="Booker WIC Programs">Booker <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-borger" alt="Borger WIC Programs" title="Borger WIC Programs">Borger <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bowie" alt="Bowie WIC Programs" title="Bowie WIC Programs">Bowie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brackettville" alt="Brackettville WIC Programs" title="Brackettville WIC Programs">Brackettville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brazoria" alt="Brazoria WIC Programs" title="Brazoria WIC Programs">Brazoria <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-breckenridge" alt="Breckenridge WIC Programs" title="Breckenridge WIC Programs">Breckenridge <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brenham" alt="Brenham WIC Programs" title="Brenham WIC Programs">Brenham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brookshire" alt="Brookshire WIC Programs" title="Brookshire WIC Programs">Brookshire <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brownfield" alt="Brownfield WIC Programs" title="Brownfield WIC Programs">Brownfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brownsville" alt="Brownsville WIC Programs" title="Brownsville WIC Programs">Brownsville <em>(5)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-brownwood" alt="Brownwood WIC Programs" title="Brownwood WIC Programs">Brownwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-bryan" alt="Bryan WIC Programs" title="Bryan WIC Programs">Bryan <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-buna" alt="Buna WIC Programs" title="Buna WIC Programs">Buna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-burkburnett" alt="Burkburnett WIC Programs" title="Burkburnett WIC Programs">Burkburnett <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-burleson" alt="Burleson WIC Programs" title="Burleson WIC Programs">Burleson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cactus" alt="Cactus WIC Programs" title="Cactus WIC Programs">Cactus <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-caldwell" alt="Caldwell WIC Programs" title="Caldwell WIC Programs">Caldwell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cameron" alt="Cameron WIC Programs" title="Cameron WIC Programs">Cameron <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-camp_wood" alt="Camp Wood WIC Programs" title="Camp Wood WIC Programs">Camp Wood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-canadian" alt="Canadian WIC Programs" title="Canadian WIC Programs">Canadian <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-canton" alt="Canton WIC Programs" title="Canton WIC Programs">Canton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-canutillo" alt="Canutillo WIC Programs" title="Canutillo WIC Programs">Canutillo <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-canyon" alt="Canyon WIC Programs" title="Canyon WIC Programs">Canyon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-carrizo_springs" alt="Carrizo Springs WIC Programs" title="Carrizo Springs WIC Programs">Carrizo Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-carrollton" alt="Carrollton WIC Programs" title="Carrollton WIC Programs">Carrollton <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-carthage" alt="CARTHAGE WIC Programs" title="CARTHAGE WIC Programs">CARTHAGE <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-castroville" alt="Castroville WIC Programs" title="Castroville WIC Programs">Castroville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cedar_park" alt="Cedar Park WIC Programs" title="Cedar Park WIC Programs">Cedar Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-center" alt="Center WIC Programs" title="Center WIC Programs">Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-centerville" alt="Centerville WIC Programs" title="Centerville WIC Programs">Centerville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-childress" alt="Childress WIC Programs" title="Childress WIC Programs">Childress <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cleburne" alt="Cleburne WIC Programs" title="Cleburne WIC Programs">Cleburne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-clifton" alt="Clifton WIC Programs" title="Clifton WIC Programs">Clifton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-clute" alt="Clute WIC Programs" title="Clute WIC Programs">Clute <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-clyde" alt="Clyde WIC Programs" title="Clyde WIC Programs">Clyde <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-coldspring" alt="Coldspring WIC Programs" title="Coldspring WIC Programs">Coldspring <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-coleman" alt="Coleman WIC Programs" title="Coleman WIC Programs">Coleman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-college_station" alt="College Station WIC Programs" title="College Station WIC Programs">College Station <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-colorado_city" alt="Colorado City WIC Programs" title="Colorado City WIC Programs">Colorado City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-columbus" alt="Columbus WIC Programs" title="Columbus WIC Programs">Columbus <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-commerce" alt="Commerce WIC Programs" title="Commerce WIC Programs">Commerce <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-conroe" alt="Conroe WIC Programs" title="Conroe WIC Programs">Conroe <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-copperas_cove" alt="Copperas Cove WIC Programs" title="Copperas Cove WIC Programs">Copperas Cove <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-corpus_christi" alt="Corpus Christi WIC Programs" title="Corpus Christi WIC Programs">Corpus Christi <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-corrigan" alt="Corrigan WIC Programs" title="Corrigan WIC Programs">Corrigan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-corsicana" alt="Corsicana WIC Programs" title="Corsicana WIC Programs">Corsicana <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cotulla" alt="Cotulla WIC Programs" title="Cotulla WIC Programs">Cotulla <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-crockett" alt="Crockett WIC Programs" title="Crockett WIC Programs">Crockett <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cross_plains" alt="Cross Plains WIC Programs" title="Cross Plains WIC Programs">Cross Plains <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-crowell" alt="Crowell WIC Programs" title="Crowell WIC Programs">Crowell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-crystal_city" alt="Crystal City WIC Programs" title="Crystal City WIC Programs">Crystal City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-cuero" alt="Cuero WIC Programs" title="Cuero WIC Programs">Cuero <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-daingerfield" alt="Daingerfield WIC Programs" title="Daingerfield WIC Programs">Daingerfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dalhart" alt="Dalhart WIC Programs" title="Dalhart WIC Programs">Dalhart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dallas" alt="Dallas WIC Programs" title="Dallas WIC Programs">Dallas <em>(18)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-de_leon" alt="De Leon WIC Programs" title="De Leon WIC Programs">De Leon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-decatur" alt="Decatur WIC Programs" title="Decatur WIC Programs">Decatur <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-del_rio" alt="Del Rio WIC Programs" title="Del Rio WIC Programs">Del Rio <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-del_valle" alt="Del Valle WIC Programs" title="Del Valle WIC Programs">Del Valle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dell_city" alt="Dell City WIC Programs" title="Dell City WIC Programs">Dell City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-denison" alt="Denison WIC Programs" title="Denison WIC Programs">Denison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-denton" alt="Denton WIC Programs" title="Denton WIC Programs">Denton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-denver_city" alt="Denver City WIC Programs" title="Denver City WIC Programs">Denver City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-devine" alt="Devine WIC Programs" title="Devine WIC Programs">Devine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-diboll" alt="Diboll WIC Programs" title="Diboll WIC Programs">Diboll <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dickinson" alt="Dickinson WIC Programs" title="Dickinson WIC Programs">Dickinson <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dilley" alt="Dilley WIC Programs" title="Dilley WIC Programs">Dilley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dimmitt" alt="Dimmitt WIC Programs" title="Dimmitt WIC Programs">Dimmitt <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-donna" alt="Donna WIC Programs" title="Donna WIC Programs">Donna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-dumas" alt="Dumas WIC Programs" title="Dumas WIC Programs">Dumas <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-duncanville" alt="Duncanville WIC Programs" title="Duncanville WIC Programs">Duncanville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-eagle_lake" alt="Eagle Lake WIC Programs" title="Eagle Lake WIC Programs">Eagle Lake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-eagle_pass" alt="Eagle Pass WIC Programs" title="Eagle Pass WIC Programs">Eagle Pass <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-eastland" alt="Eastland WIC Programs" title="Eastland WIC Programs">Eastland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-edinburg" alt="Edinburg WIC Programs" title="Edinburg WIC Programs">Edinburg <em>(5)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-edna" alt="Edna WIC Programs" title="Edna WIC Programs">Edna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-el_campo" alt="El Campo WIC Programs" title="El Campo WIC Programs">El Campo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-el_paso" alt="El Paso WIC Programs" title="El Paso WIC Programs">El Paso <em>(17)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-electra" alt="Electra WIC Programs" title="Electra WIC Programs">Electra <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-elgin" alt="Elgin WIC Programs" title="Elgin WIC Programs">Elgin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-elsa" alt="Elsa WIC Programs" title="Elsa WIC Programs">Elsa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-encinal" alt="Encinal WIC Programs" title="Encinal WIC Programs">Encinal <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-ennis" alt="Ennis WIC Programs" title="Ennis WIC Programs">Ennis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-euless" alt="Euless WIC Programs" title="Euless WIC Programs">Euless <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fabens" alt="Fabens WIC Programs" title="Fabens WIC Programs">Fabens <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fairfield" alt="Fairfield WIC Programs" title="Fairfield WIC Programs">Fairfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-floresville" alt="Floresville WIC Programs" title="Floresville WIC Programs">Floresville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-floydada" alt="Floydada WIC Programs" title="Floydada WIC Programs">Floydada <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fort_bliss" alt="Fort Bliss WIC Programs" title="Fort Bliss WIC Programs">Fort Bliss <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fort_hancock" alt="Fort Hancock WIC Programs" title="Fort Hancock WIC Programs">Fort Hancock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fort_hood" alt="Fort Hood WIC Programs" title="Fort Hood WIC Programs">Fort Hood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fort_stockton" alt="Fort Stockton WIC Programs" title="Fort Stockton WIC Programs">Fort Stockton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fort_worth" alt="Fort Worth WIC Programs" title="Fort Worth WIC Programs">Fort Worth <em>(8)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-fredericksburg" alt="Fredericksburg WIC Programs" title="Fredericksburg WIC Programs">Fredericksburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-freeport" alt="Freeport WIC Programs" title="Freeport WIC Programs">Freeport <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-friona" alt="Friona WIC Programs" title="Friona WIC Programs">Friona <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-frisco" alt="Frisco WIC Programs" title="Frisco WIC Programs">Frisco <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-gainesville" alt="Gainesville WIC Programs" title="Gainesville WIC Programs">Gainesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-galveston" alt="Galveston WIC Programs" title="Galveston WIC Programs">Galveston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-garland" alt="Garland WIC Programs" title="Garland WIC Programs">Garland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Programs">Georgetown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-giddings" alt="Giddings WIC Programs" title="Giddings WIC Programs">Giddings <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-gilmer" alt="Gilmer WIC Programs" title="Gilmer WIC Programs">Gilmer <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-goliad" alt="Goliad WIC Programs" title="Goliad WIC Programs">Goliad <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-gonzales" alt="Gonzales WIC Programs" title="Gonzales WIC Programs">Gonzales <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-graham" alt="Graham WIC Programs" title="Graham WIC Programs">Graham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-granbury" alt="Granbury WIC Programs" title="Granbury WIC Programs">Granbury <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-grand_prairie" alt="Grand Prairie WIC Programs" title="Grand Prairie WIC Programs">Grand Prairie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-greenville" alt="Greenville WIC Programs" title="Greenville WIC Programs">Greenville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-gregory" alt="Gregory WIC Programs" title="Gregory WIC Programs">Gregory <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-groom" alt="Groom WIC Programs" title="Groom WIC Programs">Groom <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-groveton" alt="Groveton WIC Programs" title="Groveton WIC Programs">Groveton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hale_center" alt="Hale Center WIC Programs" title="Hale Center WIC Programs">Hale Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hallettsville" alt="Hallettsville WIC Programs" title="Hallettsville WIC Programs">Hallettsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-haltom_city" alt="Haltom City WIC Programs" title="Haltom City WIC Programs">Haltom City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hamilton" alt="Hamilton WIC Programs" title="Hamilton WIC Programs">Hamilton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hamlin" alt="Hamlin WIC Programs" title="Hamlin WIC Programs">Hamlin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-harlingen" alt="Harlingen WIC Programs" title="Harlingen WIC Programs">Harlingen <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hartley" alt="Hartley WIC Programs" title="Hartley WIC Programs">Hartley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-haskell" alt="Haskell WIC Programs" title="Haskell WIC Programs">Haskell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hearne" alt="Hearne WIC Programs" title="Hearne WIC Programs">Hearne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hebbronville" alt="Hebbronville WIC Programs" title="Hebbronville WIC Programs">Hebbronville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-henderson" alt="Henderson WIC Programs" title="Henderson WIC Programs">Henderson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-henrietta" alt="Henrietta WIC Programs" title="Henrietta WIC Programs">Henrietta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hereford" alt="Hereford WIC Programs" title="Hereford WIC Programs">Hereford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hidalgo" alt="Hidalgo WIC Programs" title="Hidalgo WIC Programs">Hidalgo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hillsboro" alt="Hillsboro WIC Programs" title="Hillsboro WIC Programs">Hillsboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-hondo" alt="Hondo WIC Programs" title="Hondo WIC Programs">Hondo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-horizon_city" alt="Horizon City WIC Programs" title="Horizon City WIC Programs">Horizon City <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-houston" alt="Houston WIC Programs" title="Houston WIC Programs">Houston <em>(32)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-humble" alt="Humble WIC Programs" title="Humble WIC Programs">Humble <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-huntington" alt="Huntington WIC Programs" title="Huntington WIC Programs">Huntington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-huntsville" alt="Huntsville WIC Programs" title="Huntsville WIC Programs">Huntsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-ingleside" alt="Ingleside WIC Programs" title="Ingleside WIC Programs">Ingleside <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-irving" alt="Irving WIC Programs" title="Irving WIC Programs">Irving <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-jacksboro" alt="Jacksboro WIC Programs" title="Jacksboro WIC Programs">Jacksboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-jacksonville" alt="Jacksonville WIC Programs" title="Jacksonville WIC Programs">Jacksonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-jefferson" alt="Jefferson WIC Programs" title="Jefferson WIC Programs">Jefferson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-katy" alt="Katy WIC Programs" title="Katy WIC Programs">Katy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kaufman" alt="Kaufman WIC Programs" title="Kaufman WIC Programs">Kaufman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kenedy" alt="Kenedy WIC Programs" title="Kenedy WIC Programs">Kenedy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kerens" alt="Kerens WIC Programs" title="Kerens WIC Programs">Kerens <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kerrville" alt="Kerrville WIC Programs" title="Kerrville WIC Programs">Kerrville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kilgore" alt="Kilgore WIC Programs" title="Kilgore WIC Programs">Kilgore <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-killeen" alt="Killeen WIC Programs" title="Killeen WIC Programs">Killeen <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kingsland" alt="Kingsland WIC Programs" title="Kingsland WIC Programs">Kingsland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kirbyville" alt="Kirbyville WIC Programs" title="Kirbyville WIC Programs">Kirbyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-knox_city" alt="Knox City WIC Programs" title="Knox City WIC Programs">Knox City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kountze" alt="Kountze WIC Programs" title="Kountze WIC Programs">Kountze <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-kyle" alt="Kyle WIC Programs" title="Kyle WIC Programs">Kyle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-la_grange" alt="La Grange WIC Programs" title="La Grange WIC Programs">La Grange <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-la_pryor" alt="La Pryor WIC Programs" title="La Pryor WIC Programs">La Pryor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lackland_afb" alt="Lackland Afb WIC Programs" title="Lackland Afb WIC Programs">Lackland Afb <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lamesa" alt="Lamesa WIC Programs" title="Lamesa WIC Programs">Lamesa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lampasas" alt="Lampasas WIC Programs" title="Lampasas WIC Programs">Lampasas <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-laredo" alt="Laredo WIC Programs" title="Laredo WIC Programs">Laredo <em>(7)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lasara" alt="Lasara WIC Programs" title="Lasara WIC Programs">Lasara <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-laughlin_afb" alt="Laughlin Afb WIC Programs" title="Laughlin Afb WIC Programs">Laughlin Afb <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-league_city" alt="League City WIC Programs" title="League City WIC Programs">League City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-leakey" alt="Leakey WIC Programs" title="Leakey WIC Programs">Leakey <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-levelland" alt="Levelland WIC Programs" title="Levelland WIC Programs">Levelland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lewisville" alt="Lewisville WIC Programs" title="Lewisville WIC Programs">Lewisville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lindale" alt="Lindale WIC Programs" title="Lindale WIC Programs">Lindale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-linden" alt="Linden WIC Programs" title="Linden WIC Programs">Linden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-littlefield" alt="Littlefield WIC Programs" title="Littlefield WIC Programs">Littlefield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-livingston" alt="Livingston WIC Programs" title="Livingston WIC Programs">Livingston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-llano" alt="Llano WIC Programs" title="Llano WIC Programs">Llano <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lockhart" alt="Lockhart WIC Programs" title="Lockhart WIC Programs">Lockhart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-longview" alt="Longview WIC Programs" title="Longview WIC Programs">Longview <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-los_fresnos" alt="Los Fresnos WIC Programs" title="Los Fresnos WIC Programs">Los Fresnos <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lubbock" alt="Lubbock WIC Programs" title="Lubbock WIC Programs">Lubbock <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lufkin" alt="Lufkin WIC Programs" title="Lufkin WIC Programs">Lufkin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-lytle" alt="Lytle WIC Programs" title="Lytle WIC Programs">Lytle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-madisonville" alt="Madisonville WIC Programs" title="Madisonville WIC Programs">Madisonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-magnolia" alt="Magnolia WIC Programs" title="Magnolia WIC Programs">Magnolia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-manor" alt="Manor WIC Programs" title="Manor WIC Programs">Manor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mansfield" alt="Mansfield WIC Programs" title="Mansfield WIC Programs">Mansfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-marble_falls" alt="Marble Falls WIC Programs" title="Marble Falls WIC Programs">Marble Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-marlin" alt="Marlin WIC Programs" title="Marlin WIC Programs">Marlin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-marshall" alt="MARSHALL WIC Programs" title="MARSHALL WIC Programs">MARSHALL <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mart" alt="Mart WIC Programs" title="Mart WIC Programs">Mart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mathis" alt="Mathis WIC Programs" title="Mathis WIC Programs">Mathis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mc_gregor" alt="Mc Gregor WIC Programs" title="Mc Gregor WIC Programs">Mc Gregor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mcallen" alt="McAllen WIC Programs" title="McAllen WIC Programs">McAllen <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mccamey" alt="Mccamey WIC Programs" title="Mccamey WIC Programs">Mccamey <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mckinney" alt="McKinney WIC Programs" title="McKinney WIC Programs">McKinney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-memphis" alt="Memphis WIC Programs" title="Memphis WIC Programs">Memphis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mercedes" alt="Mercedes WIC Programs" title="Mercedes WIC Programs">Mercedes <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-merkel" alt="Merkel WIC Programs" title="Merkel WIC Programs">Merkel <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mesquite" alt="Mesquite WIC Programs" title="Mesquite WIC Programs">Mesquite <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mexia" alt="Mexia WIC Programs" title="Mexia WIC Programs">Mexia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-midland" alt="Midland WIC Programs" title="Midland WIC Programs">Midland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mineral_wells" alt="Mineral Wells WIC Programs" title="Mineral Wells WIC Programs">Mineral Wells <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mission" alt="Mission WIC Programs" title="Mission WIC Programs">Mission <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-monahans" alt="Monahans WIC Programs" title="Monahans WIC Programs">Monahans <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mont_belvieu" alt="Mont Belvieu WIC Programs" title="Mont Belvieu WIC Programs">Mont Belvieu <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-morton" alt="Morton WIC Programs" title="Morton WIC Programs">Morton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-mount_pleasant" alt="Mount Pleasant WIC Programs" title="Mount Pleasant WIC Programs">Mount Pleasant <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-muleshoe" alt="Muleshoe WIC Programs" title="Muleshoe WIC Programs">Muleshoe <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-nacogdoches" alt="Nacogdoches WIC Programs" title="Nacogdoches WIC Programs">Nacogdoches <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-navasota" alt="Navasota WIC Programs" title="Navasota WIC Programs">Navasota <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-new_braunfels" alt="New Braunfels WIC Programs" title="New Braunfels WIC Programs">New Braunfels <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-new_caney" alt="New Caney WIC Programs" title="New Caney WIC Programs">New Caney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-newton" alt="Newton WIC Programs" title="Newton WIC Programs">Newton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-nixon" alt="Nixon WIC Programs" title="Nixon WIC Programs">Nixon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-nocona" alt="Nocona WIC Programs" title="Nocona WIC Programs">Nocona <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-odessa" alt="Odessa WIC Programs" title="Odessa WIC Programs">Odessa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-olney" alt="Olney WIC Programs" title="Olney WIC Programs">Olney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-olton" alt="Olton WIC Programs" title="Olton WIC Programs">Olton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-orange" alt="Orange WIC Programs" title="Orange WIC Programs">Orange <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-paducah" alt="Paducah WIC Programs" title="Paducah WIC Programs">Paducah <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-palacios" alt="Palacios WIC Programs" title="Palacios WIC Programs">Palacios <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pampa" alt="Pampa WIC Programs" title="Pampa WIC Programs">Pampa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-panhandle" alt="Panhandle WIC Programs" title="Panhandle WIC Programs">Panhandle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pantego" alt="Pantego WIC Programs" title="Pantego WIC Programs">Pantego <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-paris" alt="Paris WIC Programs" title="Paris WIC Programs">Paris <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pasadena" alt="Pasadena WIC Programs" title="Pasadena WIC Programs">Pasadena <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pearland" alt="Pearland WIC Programs" title="Pearland WIC Programs">Pearland <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pearsall" alt="Pearsall WIC Programs" title="Pearsall WIC Programs">Pearsall <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pecos" alt="Pecos WIC Programs" title="Pecos WIC Programs">Pecos <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-perryton" alt="Perryton WIC Programs" title="Perryton WIC Programs">Perryton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-petersburg" alt="Petersburg WIC Programs" title="Petersburg WIC Programs">Petersburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pflugerville" alt="Pflugerville WIC Programs" title="Pflugerville WIC Programs">Pflugerville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pharr" alt="Pharr WIC Programs" title="Pharr WIC Programs">Pharr <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-plainview" alt="Plainview WIC Programs" title="Plainview WIC Programs">Plainview <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-plano" alt="Plano WIC Programs" title="Plano WIC Programs">Plano <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-pleasanton" alt="Pleasanton WIC Programs" title="Pleasanton WIC Programs">Pleasanton <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-port_aransas" alt="Port Aransas WIC Programs" title="Port Aransas WIC Programs">Port Aransas <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-port_arthur" alt="Port Arthur WIC Programs" title="Port Arthur WIC Programs">Port Arthur <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-port_isabel" alt="Port Isabel WIC Programs" title="Port Isabel WIC Programs">Port Isabel <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-port_lavaca" alt="Port Lavaca WIC Programs" title="Port Lavaca WIC Programs">Port Lavaca <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-post" alt="Post WIC Programs" title="Post WIC Programs">Post <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-prairie_view" alt="Prairie View  WIC Programs" title="Prairie View  WIC Programs">Prairie View  <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-progreso" alt="Progreso WIC Programs" title="Progreso WIC Programs">Progreso <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-quanah" alt="Quanah WIC Programs" title="Quanah WIC Programs">Quanah <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-quinlan" alt="Quinlan WIC Programs" title="Quinlan WIC Programs">Quinlan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-quitman" alt="Quitman WIC Programs" title="Quitman WIC Programs">Quitman <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-ralls" alt="Ralls WIC Programs" title="Ralls WIC Programs">Ralls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rio_bravo" alt="Rio Bravo WIC Programs" title="Rio Bravo WIC Programs">Rio Bravo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rio_grande_city" alt="Rio Grande City WIC Programs" title="Rio Grande City WIC Programs">Rio Grande City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rio_hondo" alt="Rio Hondo WIC Programs" title="Rio Hondo WIC Programs">Rio Hondo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-robstown" alt="Robstown WIC Programs" title="Robstown WIC Programs">Robstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rockdale" alt="Rockdale WIC Programs" title="Rockdale WIC Programs">Rockdale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rocksprings" alt="Rocksprings WIC Programs" title="Rocksprings WIC Programs">Rocksprings <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rockwall" alt="Rockwall WIC Programs" title="Rockwall WIC Programs">Rockwall <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-roma" alt="Roma WIC Programs" title="Roma WIC Programs">Roma <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rosenberg" alt="Rosenberg WIC Programs" title="Rosenberg WIC Programs">Rosenberg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-rotan" alt="Rotan WIC Programs" title="Rotan WIC Programs">Rotan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-round_rock" alt="Round Rock WIC Programs" title="Round Rock WIC Programs">Round Rock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sabinal" alt="Sabinal WIC Programs" title="Sabinal WIC Programs">Sabinal <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_angelo" alt="San Angelo WIC Programs" title="San Angelo WIC Programs">San Angelo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_antonio" alt="San Antonio WIC Programs" title="San Antonio WIC Programs">San Antonio <em>(19)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_augustine" alt="San Augustine WIC Programs" title="San Augustine WIC Programs">San Augustine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_benito" alt="San Benito WIC Programs" title="San Benito WIC Programs">San Benito <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_diego" alt="San Diego WIC Programs" title="San Diego WIC Programs">San Diego <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_elizario" alt="San Elizario WIC Programs" title="San Elizario WIC Programs">San Elizario <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_juan" alt="San Juan WIC Programs" title="San Juan WIC Programs">San Juan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_marcos" alt="San Marcos WIC Programs" title="San Marcos WIC Programs">San Marcos <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-san_saba" alt="San Saba WIC Programs" title="San Saba WIC Programs">San Saba <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-santa_rosa" alt="Santa Rosa WIC Programs" title="Santa Rosa WIC Programs">Santa Rosa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sealy" alt="Sealy WIC Programs" title="Sealy WIC Programs">Sealy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-seguin" alt="Seguin WIC Programs" title="Seguin WIC Programs">Seguin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-seminole" alt="Seminole WIC Programs" title="Seminole WIC Programs">Seminole <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-seymour" alt="Seymour WIC Programs" title="Seymour WIC Programs">Seymour <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-shamrock" alt="Shamrock WIC Programs" title="Shamrock WIC Programs">Shamrock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sheppard_afb" alt="Sheppard Afb WIC Programs" title="Sheppard Afb WIC Programs">Sheppard Afb <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sherman" alt="Sherman WIC Programs" title="Sherman WIC Programs">Sherman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sierra_blanca" alt="Sierra Blanca WIC Programs" title="Sierra Blanca WIC Programs">Sierra Blanca <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-silsbee" alt="Silsbee WIC Programs" title="Silsbee WIC Programs">Silsbee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-slaton" alt="Slaton WIC Programs" title="Slaton WIC Programs">Slaton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-snyder" alt="Snyder WIC Programs" title="Snyder WIC Programs">Snyder <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sour_lake" alt="Sour Lake WIC Programs" title="Sour Lake WIC Programs">Sour Lake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-spearman" alt="Spearman WIC Programs" title="Spearman WIC Programs">Spearman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-springtown" alt="Springtown WIC Programs" title="Springtown WIC Programs">Springtown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-spur" alt="Spur WIC Programs" title="Spur WIC Programs">Spur <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-stafford" alt="Stafford WIC Programs" title="Stafford WIC Programs">Stafford <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-stanton" alt="Stanton WIC Programs" title="Stanton WIC Programs">Stanton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-stephenville" alt="Stephenville  WIC Programs" title="Stephenville  WIC Programs">Stephenville  <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-stratford" alt="Stratford WIC Programs" title="Stratford WIC Programs">Stratford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sullivan_city" alt="Sullivan City WIC Programs" title="Sullivan City WIC Programs">Sullivan City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sulphur_springs" alt="Sulphur Springs WIC Programs" title="Sulphur Springs WIC Programs">Sulphur Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-sweetwater" alt="Sweetwater WIC Programs" title="Sweetwater WIC Programs">Sweetwater <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-tahoka" alt="Tahoka WIC Programs" title="Tahoka WIC Programs">Tahoka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-taylor" alt="Taylor WIC Programs" title="Taylor WIC Programs">Taylor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-temple" alt="Temple WIC Programs" title="Temple WIC Programs">Temple <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-terrell" alt="Terrell WIC Programs" title="Terrell WIC Programs">Terrell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-texarkana" alt="Texarkana WIC Programs" title="Texarkana WIC Programs">Texarkana <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-texas_city" alt="Texas City WIC Programs" title="Texas City WIC Programs">Texas City <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-texline" alt="Texline WIC Programs" title="Texline WIC Programs">Texline <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-the_colony" alt="The Colony WIC Programs" title="The Colony WIC Programs">The Colony <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-tomball" alt="Tomball WIC Programs" title="Tomball WIC Programs">Tomball <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-tornillo" alt="Tornillo WIC Programs" title="Tornillo WIC Programs">Tornillo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-tulia" alt="Tulia WIC Programs" title="Tulia WIC Programs">Tulia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-tyler" alt="Tyler WIC Programs" title="Tyler WIC Programs">Tyler <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-uvalde" alt="Uvalde WIC Programs" title="Uvalde WIC Programs">Uvalde <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-vega" alt="Vega WIC Programs" title="Vega WIC Programs">Vega <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-vernon" alt="Vernon WIC Programs" title="Vernon WIC Programs">Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-victoria" alt="Victoria WIC Programs" title="Victoria WIC Programs">Victoria <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-vidor" alt="Vidor WIC Programs" title="Vidor WIC Programs">Vidor <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-waco" alt="Waco WIC Programs" title="Waco WIC Programs">Waco <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-watauga" alt="Watauga WIC Programs" title="Watauga WIC Programs">Watauga <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-waxahachie" alt="Waxahachie WIC Programs" title="Waxahachie WIC Programs">Waxahachie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-weatherford" alt="Weatherford WIC Programs" title="Weatherford WIC Programs">Weatherford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-weimar" alt="Weimar WIC Programs" title="Weimar WIC Programs">Weimar <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-wellington" alt="Wellington WIC Programs" title="Wellington WIC Programs">Wellington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-weslaco" alt="Weslaco WIC Programs" title="Weslaco WIC Programs">Weslaco <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-wharton" alt="Wharton WIC Programs" title="Wharton WIC Programs">Wharton <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-wheeler" alt="Wheeler WIC Programs" title="Wheeler WIC Programs">Wheeler <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-white_settlement" alt="White Settlement WIC Programs" title="White Settlement WIC Programs">White Settlement <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-wichita_falls" alt="Wichita Falls WIC Programs" title="Wichita Falls WIC Programs">Wichita Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-winnie" alt="Winnie WIC Programs" title="Winnie WIC Programs">Winnie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-woodville" alt="Woodville WIC Programs" title="Woodville WIC Programs">Woodville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-wylie" alt="Wylie WIC Programs" title="Wylie WIC Programs">Wylie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-yoakum" alt="Yoakum WIC Programs" title="Yoakum WIC Programs">Yoakum <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-yorktown" alt="Yorktown WIC Programs" title="Yorktown WIC Programs">Yorktown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-zapata" alt="Zapata WIC Programs" title="Zapata WIC Programs">Zapata <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/tx-zavalla" alt="Zavalla WIC Programs" title="Zavalla WIC Programs">Zavalla <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Members</h4>
+			
+				<ul class="footer_widget_list">
+                    <li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+                    <li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+                    <li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2014 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

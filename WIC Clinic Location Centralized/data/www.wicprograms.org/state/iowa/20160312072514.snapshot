@@ -1,0 +1,582 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Iowa WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Iowa Programs,Iowa WIC Clinics,Iowa WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Iowa WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Iowa
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Iowa WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Iowa on the right. Find your local WIC location using our Iowa search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Iowa City: </h2>
+		
+			<b>Enter city name in Iowa</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="IA" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Iowa WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/ia_52601_burlington-ia-wic-clinic" title="Burlington IA Wic Clinic">Burlington IA Wic Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_52601_burlington-ia-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Burlington IA Wic Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                801 S. Roosevelt<br />
+                Burlington, IA - 52601<br />
+                800-532-1579<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_52601_burlington-ia-wic-clinic">Website</a></span>            </div>
+			<p>Community Action of Southeast Iowa administers the WIC Program for a five-county area which includes Des Moines, Henry, Lee, Louisa, and Muscatine counties. The WIC Program provides basic foods, nutrition counseling and access to health services to low-income families.To make a WIC Appointment:Des M</p>
+            <a href="http://www.wicprograms.org/li/ia_52601_burlington-ia-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ia_52632_wic-clinic-keokuk-ia-st-paul-church-of-church" title="WIC Clinic Keokuk IA - St Paul Church of Church">WIC Clinic Keokuk IA - St Paul Church of Church</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_52632_wic-clinic-keokuk-ia-st-paul-church-of-church" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="WIC Clinic Keokuk IA - St Paul Church of Church"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2030 Plank Road<br />
+                Keokuk, IA - 52632<br />
+                800-532-1579<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_52632_wic-clinic-keokuk-ia-st-paul-church-of-church">Website</a></span>            </div>
+			<p>Community Action of Southeast Iowa administers the WIC Program for a five-county area which includes Des Moines, Henry, Lee, Louisa, and Muscatine counties. The WIC Program provides basic foods, nutrition counseling and access to health services to low-income families.To make a WIC Appointment:Des M</p>
+            <a href="http://www.wicprograms.org/li/ia_52632_wic-clinic-keokuk-ia-st-paul-church-of-church" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ia_52641_mt-pleasant-ia-wic-clinic-presbyterian-church" title="Mt Pleasant IA WIC Clinic - Presbyterian Church">Mt Pleasant IA WIC Clinic - Presbyterian Church</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_52641_mt-pleasant-ia-wic-clinic-presbyterian-church" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Mt Pleasant IA WIC Clinic - Presbyterian Church"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                902 South Walnut<br />
+                Mt Pleasant, IA - 52641<br />
+                800-532-1579<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_52641_mt-pleasant-ia-wic-clinic-presbyterian-church">Website</a></span>            </div>
+			<p>Community Action of Southeast Iowa administers the WIC Program for a five-county area which includes Des Moines, Henry, Lee, Louisa, and Muscatine counties. The WIC Program provides basic foods, nutrition counseling and access to health services to low-income families.To make a WIC Appointment:Des M</p>
+            <a href="http://www.wicprograms.org/li/ia_52641_mt-pleasant-ia-wic-clinic-presbyterian-church" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ia_52738_columbus-junction-wic-clinic-united-methodist-church" title="Columbus Junction WIC Clinic - United Methodist Church">Columbus Junction WIC Clinic - United Methodist Church</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_52738_columbus-junction-wic-clinic-united-methodist-church" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Columbus Junction WIC Clinic - United Methodist Church"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                517 2nd Street<br />
+                Columbus Junction, IA - 52738<br />
+                800-532-1579<br />
+		                </p>                       
+                                            </div>
+			<p>Community Action of Southeast Iowa administers the WIC Program for a five-county area which includes Des Moines, Henry, Lee, Louisa, and Muscatine counties. The WIC Program provides basic foods, nutrition counseling and access to health services to low-income families.To make a WIC Appointment:Des M</p>
+            <a href="http://www.wicprograms.org/li/ia_52738_columbus-junction-wic-clinic-united-methodist-church" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/muscatine-clinics" title="Muscatine Clinics">Muscatine Clinics</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/muscatine-clinics" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Muscatine Clinics"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1507 Plaza Place<br />
+                Muscatine, IA - 52761<br />
+                1-800-532-1579 <br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/muscatine-clinics">Website</a></span>            </div>
+			<p>Community Action of Southeast Iowa administers the WIC Program for a five-county area which includes Des Moines, Henry, Lee, Louisa, and Muscatine counties. The WIC Program provides basic foods, nutrition counseling and access to health services to low-income families.To make a WIC Appointment:Des M</p>
+            <a href="http://www.wicprograms.org/li/muscatine-clinics" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ia_american-home-finding" title="American Home Finding Association - MCH and WIC Main Office">American Home Finding Association - MCH and WIC Main Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_american-home-finding" title=""><img src="http://www.wicprograms.org/gallery/199_house5.jpg" alt="American Home Finding Association - MCH and WIC Main Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                333 Church St.<br />
+                Ottumwa, IA - 52501<br />
+                (641) 682-8784<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_american-home-finding">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_american-home-finding">Website</a></span>            </div>
+			<p>Toll free number: 1-800-452-1098Counties served: Wapello County and Keokuk County CHILD HEALTH: Provides well child physical, developmental screening, vision and hearing screening, community referrals, nutrition education, social assessment.  WIC Services.   Child Health and Disability Prevention Ex</p>
+            <a href="http://www.wicprograms.org/li/ia_american-home-finding" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/appanoose_county_department_of_public_health_wic" title="Appanoose County Department of Public Health WIC">Appanoose County Department of Public Health WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/appanoose_county_department_of_public_health_wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Appanoose County Department of Public Health WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                209 East Jackson Street<br />
+                Centerville, IA - 52544<br />
+                (641) 437-4332<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/appanoose_county_department_of_public_health_wic">Website</a></span>            </div>
+			<p>Eligibility: Call for information  Fees: Fees apply  to some programs  Intake  Procedure: Call for information  Service  Hours: Mon-Fri 8:30 am-4:30 pm Closed at Noon Nurse answers 24/7 Clinic held the last Tuesday of the month form 9:30am-4pm  Description: CHILD HEALTH: General health teachings  re</p>
+            <a href="http://www.wicprograms.org/li/appanoose_county_department_of_public_health_wic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/52556_jefferson-county-wic-clinic-iowa" title="Jefferson County WIC Clinic Iowa">Jefferson County WIC Clinic Iowa</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/52556_jefferson-county-wic-clinic-iowa" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Jefferson County WIC Clinic Iowa"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                201 North Court Street<br />
+                Fairfield, IA - 52556<br />
+                (641)664-3629<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/52556_jefferson-county-wic-clinic-iowa">Website</a></span>            </div>
+			<p>Call for WIC Hours</p>
+            <a href="http://www.wicprograms.org/li/52556_jefferson-county-wic-clinic-iowa" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ia_52565_van-buren-county-wic-clinic" title="Van Buren County WIC Clinic">Van Buren County WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_52565_van-buren-county-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Van Buren County WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                RR 1, HWY 1 North<br />
+                Keosauqua, IA - 52565<br />
+                (641) 682-3449<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_52565_van-buren-county-wic-clinic">Website</a></span>            </div>
+			<p>Van Buren Community Hospital &amp; Clinics. Call for WIC Hours. </p>
+            <a href="http://www.wicprograms.org/li/ia_52565_van-buren-county-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ia_52537_davis-county-hospital-home-and-community-health-wic-office" title="Davis County WIC Clinic">Davis County WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ia_52537_davis-county-hospital-home-and-community-health-wic-office" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Davis County WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                402 East North Street<br />
+                Bloomfield, IA - 52537<br />
+                (641)664-3629<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ia_52537_davis-county-hospital-home-and-community-health-wic-office">Website</a></span>            </div>
+			<p>Hours: Mon-Fri 8 am-5 pm
+On call after hours. Must call for an appointment for WIC. WIC is a supplement food and nutrition education program for women who are pregnant, breastfeeding, or up to 6 month post-partum, infants, and children up to age of five.&nbsp; It is a short-term intervention progra</p>
+            <a href="http://www.wicprograms.org/li/ia_52537_davis-county-hospital-home-and-community-health-wic-office" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Iowa Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ia-albia" alt="Albia WIC Programs" title="Albia WIC Programs">Albia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-ames" alt="Ames WIC Programs" title="Ames WIC Programs">Ames <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-anamosa" alt="Anamosa WIC Programs" title="Anamosa WIC Programs">Anamosa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-atlantic" alt="Atlantic WIC Programs" title="Atlantic WIC Programs">Atlantic <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-bloomfield" alt="Bloomfield WIC Programs" title="Bloomfield WIC Programs">Bloomfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-burlington" alt="Burlington WIC Programs" title="Burlington WIC Programs">Burlington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-cedar_rapids" alt="Cedar Rapids WIC Programs" title="Cedar Rapids WIC Programs">Cedar Rapids <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-centerville" alt="Centerville WIC Programs" title="Centerville WIC Programs">Centerville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-cherokee" alt="Cherokee WIC Programs" title="Cherokee WIC Programs">Cherokee <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-colfax" alt="Colfax WIC Programs" title="Colfax WIC Programs">Colfax <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-columbus_junction" alt="Columbus Junction WIC Programs" title="Columbus Junction WIC Programs">Columbus Junction <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-corning" alt="Corning WIC Programs" title="Corning WIC Programs">Corning <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-des_moines" alt="Des Moines WIC Programs" title="Des Moines WIC Programs">Des Moines <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-dubuque" alt="Dubuque WIC Programs" title="Dubuque WIC Programs">Dubuque <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-estherville" alt="Estherville WIC Programs" title="Estherville WIC Programs">Estherville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-fairfield" alt="Fairfield WIC Programs" title="Fairfield WIC Programs">Fairfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-ft_madison" alt="Ft Madison WIC Programs" title="Ft Madison WIC Programs">Ft Madison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-geneva" alt="Geneva WIC Programs" title="Geneva WIC Programs">Geneva <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-glenwood" alt="Glenwood WIC Programs" title="Glenwood WIC Programs">Glenwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-graettinger" alt="Graettinger WIC Programs" title="Graettinger WIC Programs">Graettinger <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-greenfield" alt="Greenfield WIC Programs" title="Greenfield WIC Programs">Greenfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-grinnell" alt="Grinnell WIC Programs" title="Grinnell WIC Programs">Grinnell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-grundy_center" alt="Grundy Center WIC Programs" title="Grundy Center WIC Programs">Grundy Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-hawarden" alt="Hawarden WIC Programs" title="Hawarden WIC Programs">Hawarden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-hiawatha" alt="Hiawatha WIC Programs" title="Hiawatha WIC Programs">Hiawatha <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-ida_grove" alt="Ida Grove WIC Programs" title="Ida Grove WIC Programs">Ida Grove <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-independence" alt="Independence WIC Programs" title="Independence WIC Programs">Independence <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-iowa_city" alt="Iowa City WIC Programs" title="Iowa City WIC Programs">Iowa City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-iowa_falls" alt="Iowa Falls WIC Programs" title="Iowa Falls WIC Programs">Iowa Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-keokuk" alt="Keokuk WIC Programs" title="Keokuk WIC Programs">Keokuk <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-keosauqua" alt="Keosauqua WIC Programs" title="Keosauqua WIC Programs">Keosauqua <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-le_mars" alt="Le Mars WIC Programs" title="Le Mars WIC Programs">Le Mars <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-logan" alt="Logan WIC Programs" title="Logan WIC Programs">Logan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-marshalltown" alt="Marshalltown WIC Programs" title="Marshalltown WIC Programs">Marshalltown <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-mason_city" alt="Mason City WIC Programs" title="Mason City WIC Programs">Mason City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-mount_ayr" alt="Mount Ayr WIC Programs" title="Mount Ayr WIC Programs">Mount Ayr <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-mt_pleasant" alt="Mt Pleasant WIC Programs" title="Mt Pleasant WIC Programs">Mt Pleasant <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-muscatine" alt="Muscatine WIC Programs" title="Muscatine WIC Programs">Muscatine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-new_hampton" alt="New Hampton WIC Programs" title="New Hampton WIC Programs">New Hampton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-newton" alt="Newton WIC Programs" title="Newton WIC Programs">Newton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-orange_city" alt="Orange City WIC Programs" title="Orange City WIC Programs">Orange City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-oskaloosa" alt="Oskaloosa WIC Programs" title="Oskaloosa WIC Programs">Oskaloosa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-ottumwa" alt="Ottumwa WIC Programs" title="Ottumwa WIC Programs">Ottumwa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-pender" alt="Pender WIC Programs" title="Pender WIC Programs">Pender <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-perry" alt="Perry WIC Programs" title="Perry WIC Programs">Perry <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-red_oak" alt="Red Oak WIC Programs" title="Red Oak WIC Programs">Red Oak <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-remsen" alt="Remsen WIC Programs" title="Remsen WIC Programs">Remsen <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-rock_rapids" alt="Rock Rapids WIC Programs" title="Rock Rapids WIC Programs">Rock Rapids <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-rock_valley" alt="Rock Valley WIC Programs" title="Rock Valley WIC Programs">Rock Valley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-sioux_center" alt="Sioux Center WIC Programs" title="Sioux Center WIC Programs">Sioux Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-sioux_city" alt="Sioux City WIC Programs" title="Sioux City WIC Programs">Sioux City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-tama" alt="Tama WIC Programs" title="Tama WIC Programs">Tama <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-webster_city" alt="Webster City WIC Programs" title="Webster City WIC Programs">Webster City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ia-winterset" alt="Winterset WIC Programs" title="Winterset WIC Programs">Winterset <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2016 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,771 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>WIC Programs, WIC Clinic Office Locations and Information</title>
+    <meta name="keywords" content="WIC Programs, WIC Locations, WIC Clinics" />
+	<meta name="description" content="WicClinics.org provides listings of local WIC Programs and clinics. Find local WIC locations and helpful information." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Search For WIC Programs</h1>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"/>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"/>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						<p class="lead">WIC Program and Office Directory</p>
+						<div class="row-fluid">
+							<div class="span3">
+                            
+								<p>WICPrograms.org was developed as a helpful directory of WIC program listings along with other helpful Women In Crisis Programs. We are not in any way associated with the official WIC Program run by the Federal Governments USDA. 
+									<br /><br />
+									Our website is free. You can start browsing the listings by selecting your state below. Let us know how we are doing by visiting our ABOUT US page on the top navigational header.
+
+								</p>
+								<p>
+                              <h3>Select a State</h3>
+                            <p>Search The WIC Program Database</p>
+                           <form method="get" action="http://www.wicprograms.org/state.php">
+ 
+                            <select name="page_value" id="page_value">
+                                <option>-Select-</option>
+                                                                <option value="alabama">Alabama</option>
+                                                                <option value="alaska">Alaska</option>
+                                                                <option value="arizona">Arizona</option>
+                                                                <option value="arkansas">Arkansas</option>
+                                                                <option value="california">California</option>
+                                                                <option value="colorado">Colorado</option>
+                                                                <option value="connecticut">Connecticut</option>
+                                                                <option value="delaware">Delaware</option>
+                                                                <option value="district_of_columbia">District Of Columbia</option>
+                                                                <option value="florida">Florida</option>
+                                                                <option value="georgia">Georgia</option>
+                                                                <option value="hawaii">Hawaii</option>
+                                                                <option value="idaho">Idaho</option>
+                                                                <option value="illinois">Illinois</option>
+                                                                <option value="indiana">Indiana</option>
+                                                                <option value="iowa">Iowa</option>
+                                                                <option value="kansas">Kansas</option>
+                                                                <option value="kentucky">Kentucky</option>
+                                                                <option value="louisiana">Louisiana</option>
+                                                                <option value="maine">Maine</option>
+                                                                <option value="maryland">Maryland</option>
+                                                                <option value="massachusetts">Massachusetts</option>
+                                                                <option value="michigan">Michigan</option>
+                                                                <option value="minnesota">Minnesota</option>
+                                                                <option value="mississippi">Mississippi</option>
+                                                                <option value="missouri">Missouri</option>
+                                                                <option value="montana">Montana</option>
+                                                                <option value="nebraska">Nebraska</option>
+                                                                <option value="nevada">Nevada</option>
+                                                                <option value="new_hampshire">New Hampshire</option>
+                                                                <option value="new_jersey">New Jersey</option>
+                                                                <option value="new_mexico">New Mexico</option>
+                                                                <option value="new_york">New York</option>
+                                                                <option value="north_carolina">North Carolina</option>
+                                                                <option value="north_dakota">North Dakota</option>
+                                                                <option value="ohio">Ohio</option>
+                                                                <option value="oklahoma">Oklahoma</option>
+                                                                <option value="oregon">Oregon</option>
+                                                                <option value="pennsylvania">Pennsylvania</option>
+                                                                <option value="rhode_island">Rhode Island</option>
+                                                                <option value="south_carolina">South Carolina</option>
+                                                                <option value="south_dakota">South Dakota</option>
+                                                                <option value="tennessee">Tennessee</option>
+                                                                <option value="texas">Texas</option>
+                                                                <option value="utah">Utah</option>
+                                                                <option value="vermont">Vermont</option>
+                                                                <option value="virginia">Virginia</option>
+                                                                <option value="washington">Washington</option>
+                                                                <option value="west_virginia">West Virginia</option>
+                                                                <option value="wisconsin">Wisconsin</option>
+                                                                <option value="wyoming">Wyoming</option>
+                                                            </select>
+                            
+                            
+                         <input type="submit" value="Search" class="btn btn-block">
+                        </form>
+                        
+                        
+                         
+                            
+                            </p>
+							</div>
+                            <div class="mobile_hide">
+                                <div class="span9">
+                                    <img src="http://www.wicprograms.org/templates/flatroom/images/US-Map.gif" usemap="#Map" /> 
+<map name="Map"><area shape="rect" coords="558,25,578,40" href="http://www.wicprograms.org/state/vermont" /><area shape="rect" coords="558,50,578,65" href="http://www.wicprograms.org/state/new_hampshire" />
+<area shape="poly" coords="71,231,109,254,130,256,140,183,92,175,89,187,81,185,80,200,85,209,79,212,74,221" href="http://www.wicprograms.org/state/arizona">
+<area shape="poly" coords="201,189,197,255,157,251,157,254,140,252,139,256,130,256,141,183" href="http://www.wicprograms.org/state/new_mexico">
+<area shape="poly" coords="146,133,213,139,211,190,139,184" href="http://www.wicprograms.org/state/colorado">
+<area shape="poly" coords="103,110,132,115,130,131,148,132,139,182,90,174" href="http://www.wicprograms.org/state/utah">
+<area shape="poly" coords="137,80,198,88,193,136,130,131" href="http://www.wicprograms.org/state/wyoming">
+<area shape="poly" coords="202,37,260,40,264,77,200,75" href="http://www.wicprograms.org/state/north_dakota">
+<area shape="poly" coords="200,75,268,78,265,82,269,85,267,119,249,116,196,112" href="http://www.wicprograms.org/state/south_dakota">
+<area shape="poly" coords="202,35,198,86,138,79,137,84,120,83,114,67,109,68,108,66,113,53,103,42,100,32,105,20,150,30" href="http://www.wicprograms.org/state/montana">
+<area shape="poly" coords="194,113,247,118,264,120,270,129,272,137,273,145,277,153,212,152,213,139,194,137" href="http://www.wicprograms.org/state/nebraska">
+<area shape="poly" coords="212,189,212,152,276,152,281,155,279,157,284,164,284,191" href="http://www.wicprograms.org/state/kansas">
+<area shape="poly" coords="199,188,285,191,288,234,281,230,270,232,260,231,253,231,246,228,242,227,237,225,230,221,230,195,199,196" href="http://www.wicprograms.org/state/oklahoma">
+<area shape="poly" coords="198,197,195,254,155,251,173,270,174,281,188,292,195,282,205,282,214,287,223,302,232,313,232,320,235,327,246,334,256,334,253,322,255,313,260,306,266,302,274,298,282,292,290,287,297,282,298,275,299,267,296,260,294,252,293,245,292,236,278,232,269,235,254,234,241,229,228,227,229,196" href="http://www.wicprograms.org/state/texas">
+<area shape="poly" coords="76,105,83,79,81,75,92,60,88,55,68,50,57,51,46,48,40,48,36,46,36,41,27,36,26,44,10,76,9,87" href="http://www.wicprograms.org/state/oregon">
+<area shape="poly" coords="45,100,35,137,77,199,81,209,77,212,74,218,70,228,46,226,46,219,39,208,38,208,36,203,27,198,21,193,15,192,18,186,16,183,9,164,11,161,8,157,7,151,6,143,3,132,1,122,3,117,-1,106,6,98,7,88" href="http://www.wicprograms.org/state/california">
+<area shape="poly" coords="102,112,46,99,37,136,78,199,79,184,88,185" href="http://www.wicprograms.org/state/nevada">
+<area shape="poly" coords="32,33,39,37,40,43,50,45,60,47,73,47,91,51,99,15,52,2,47,11,33,5" href="http://www.wicprograms.org/state/washington">
+<area shape="poly" coords="77,105,132,115,137,83,120,83,114,67,107,67,110,52,102,39,99,31,105,18,96,17,89,54,93,61,87,68,81,76,85,79" href="http://www.wicprograms.org/state/idaho">
+<area shape="poly" coords="273,144,310,144,313,146,313,152,322,161,322,166,327,164,327,173,335,178,339,188,341,193,335,202,329,202,332,195,282,197,285,164,280,158,281,153" href="http://www.wicprograms.org/state/missouri">
+<area shape="poly" coords="284,195,331,194,328,200,336,199,333,205,333,213,328,220,324,229,323,239,292,240,292,234,287,232" href="http://www.wicprograms.org/state/arkansas">
+<area shape="poly" coords="286,240,288,258,293,265,290,280,307,284,323,286,343,287,338,275,335,266,315,265,315,258,320,248,319,239" href="http://www.wicprograms.org/state/louisiana">
+<area shape="poly" coords="349,214,347,259,350,273,339,275,337,265,316,267,316,261,321,253,321,242,320,232,324,225,330,216" href="http://www.wicprograms.org/state/mississippi">
+<area shape="poly" coords="375,211,386,245,386,261,358,265,360,273,351,273,348,259,348,213" href="http://www.wicprograms.org/state/alabama">
+<area shape="poly" coords="337,195,330,214,389,210,393,202,404,195,415,185" href="http://www.wicprograms.org/state/tennessee">
+<area shape="poly" coords="414,185,424,185,470,176,477,185,470,197,458,210,458,214,450,216,439,205,428,207,421,203,404,205,401,209,388,210,392,204,409,194" href="http://www.wicprograms.org/state/north_carolina">
+<area shape="poly" coords="399,212,411,224,422,233,428,241,438,233,447,216,436,206,425,208,422,204,407,204" href="http://www.wicprograms.org/state/south_carolina">
+<area shape="poly" coords="378,213,400,210,400,214,430,244,429,255,425,260,421,266,418,264,389,265,388,262,388,245" href="http://www.wicprograms.org/state/georgia">
+<area shape="poly" coords="356,266,383,262,384,266,415,265,418,266,422,260,434,282,448,308,447,328,443,331,436,323,427,317,423,310,419,305,414,299,415,287,402,277,396,272,383,280,375,273,359,272" href="http://www.wicprograms.org/state/florida">
+<area shape="poly" coords="258,39,265,78,263,83,267,86,265,109,314,109,314,104,301,95,300,87,298,83,298,80,302,76,303,68,325,49,294,43,281,41,278,33,276,39" href="http://www.wicprograms.org/state/minnesota">
+<area shape="poly" coords="265,108,314,107,315,116,326,126,324,133,316,134,319,139,316,144,311,145,272,145,272,134,265,121" href="http://www.wicprograms.org/state/iowa">
+<area shape="poly" coords="303,67,314,63,322,68,333,73,343,77,343,85,351,83,347,95,345,107,347,118,322,120,314,116,315,109,314,101,308,99,301,94,298,81,303,74" href="http://www.wicprograms.org/state/wisconsin">
+<area shape="poly" coords="341,194,396,188,409,176,400,166,398,161,387,161,379,157,375,163,371,171,365,171,350,175,348,182,338,186" href="http://www.wicprograms.org/state/kentucky">
+<area shape="poly" coords="399,186,429,182,474,174,464,156,456,152,458,147,452,145,444,143,442,152,438,158,435,157,431,165,431,172,423,174,414,177,409,174" href="http://www.wicprograms.org/state/virginia">
+<area shape="poly" coords="317,120,344,118,350,128,351,152,351,163,353,167,349,174,349,179,346,184,337,188,336,182,326,175,326,165,322,167,321,162,313,155,312,147,318,141,316,136,327,129" href="http://www.wicprograms.org/state/illinois">
+<area shape="poly" coords="350,130,356,125,374,124,379,156,375,162,372,164,371,168,365,170,358,173,350,175,354,168,354,162,352,159" href="http://www.wicprograms.org/state/indiana">
+<area shape="poly" coords="374,123,378,156,383,159,388,161,396,161,401,163,405,157,409,149,415,145,416,132,414,115,405,123,396,125,389,122" href="http://www.wicprograms.org/state/ohio">
+<area shape="poly" coords="402,166,410,155,416,149,417,133,420,146,430,144,430,151,436,146,443,144,448,146,441,149,436,154,436,159,431,159,428,165,427,171,427,174,412,178,406,173" href="http://www.wicprograms.org/state/west_virginia">
+<area shape="poly" coords="411,118,417,146,463,137,471,129,464,125,464,120,466,114,460,107,418,115,416,113" href="http://www.wicprograms.org/state/pennsylvania">
+<area shape="poly" coords="321,64,343,74,344,81,350,80,359,85,358,100,362,110,359,124,389,122,399,107,392,92,384,77,373,63,365,59,352,63,343,52,335,52" href="http://www.wicprograms.org/state/minnesota">
+<area shape="poly" coords="417,112,460,105,467,112,476,116,477,121,494,112,479,114,477,102,477,90,468,63,453,69,444,79,446,85,439,92,422,95" href="http://www.wicprograms.org/state/new_york">
+<area shape="poly" coords="489,46,497,81,526,51,514,41,508,22,502,23,494,23" href="http://www.wicprograms.org/state/maine">
+<area shape="poly" coords="469,60,476,91,482,91,485,59" href="http://www.wicprograms.org/state/vermont">
+<area shape="poly" coords="485,59,484,90,499,85,489,55" href="http://www.wicprograms.org/state/new_hampshire">
+<area shape="poly" coords="477,99,479,92,500,85,511,97,502,101,497,96" href="http://www.wicprograms.org/state/massachusetts">
+<area shape="poly" coords="599,128,600,140,616,134,613,124" href="http://www.wicprograms.org/state/connecticut">
+<area shape="poly" coords="494,100,497,106,504,102,499,94" href="http://www.wicprograms.org/state/rhode_island">
+<area shape="poly" coords="467,116,478,116,481,124,474,141,465,134,473,126,466,122" href="http://www.wicprograms.org/state/new_jersey">
+<area shape="poly" coords="433,142,465,138,468,151,478,151,478,158,469,157,458,155,461,155,454,145,447,142,433,149" href="http://www.wicprograms.org/state/maryland">
+<area shape="poly" coords="198,296,207,356,226,356,253,376,251,387,240,389,204,362,189,364,173,370,170,384,151,395,104,404,70,401,56,398,37,369,51,380,78,392,96,392,116,390,134,384,107,376,104,360,104,347,107,332,119,319,130,305,139,297,163,284" href="http://www.wicprograms.org/state/alaska">
+<area shape="poly" coords="103,316,133,299,108,283,89,272,67,263,51,255,44,247,41,276,52,281,60,284,70,282,81,292,88,304,98,323" href="http://www.wicprograms.org/state/hawaii">
+<area shape="poly" coords="469,139,468,151,483,151,481,139" href="http://www.wicprograms.org/state/delaware">
+<area shape="rect" coords="559,210,578,225" href="http://www.wicprograms.org/state/district_of_columbia" />
+<area shape="rect" coords="559,164,579,179" href="http://www.wicprograms.org/state/maryland">
+<area shape="rect" coords="557,120,577,132" href="http://www.wicprograms.org/state/connecticut">
+<area shape="rect" coords="554,96,574,109" href="http://www.wicprograms.org/state/rhode_island">
+<area shape="rect" coords="556,187,576,202" href="http://www.wicprograms.org/state/delaware">
+<area shape="rect" coords="555,142,575,156" href="http://www.wicprograms.org/state/new_jersey">
+<area shape="rect" coords="559,73,579,88" href="http://www.wicprograms.org/state/massachusetts">
+</map>
+                                </div>
+                            </div>
+						</div>
+
+						
+					
+						<div class="row-fluid">
+							<div class="span4 service_item">
+                            
+								<h5>WIC Programs</h5>
+								<p>We list the available programs by location along with specific details on these programs. </p>
+							</div>
+
+							<div class="span4 service_item">
+								<h5>WIC Offices</h5>
+								<p>Some WIC Offices are administrative offices only. We let you know. </p>
+							</div>
+
+							<div class="span4 service_item">
+								<h5>WIC Clinics</h5>
+								<p>We list WIC Clinic hours and days.</p>
+							</div>
+						</div>
+
+						<a name="state_list"></a>
+						<div class="row-fluid">
+							<div class="span12">
+								<h2>WIC Programs by state</h2>
+
+																								
+								
+								
+
+								<div class="multicolumn">
+									<ul class="unstyled span4">
+																					
+											<li><a href="http://www.wicprograms.org/state/alaska" title="Alaska WIC Programs" >Alaska</a> <em>(21)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/alabama" title="Alabama WIC Programs" >Alabama</a> <em>(61)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/arkansas" title="Arkansas WIC Programs" >Arkansas</a> <em>(90)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/arizona" title="Arizona WIC Programs" >Arizona</a> <em>(103)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/california" title="California WIC Programs" >California</a> <em>(253)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/colorado" title="Colorado WIC Programs" >Colorado</a> <em>(112)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/connecticut" title="Connecticut WIC Programs" >Connecticut</a> <em>(30)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/district_of_columbia" title="District of Columbia WIC Programs" >District of Columbia</a> <em>(21)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/delaware" title="Delaware WIC Programs" >Delaware</a> <em>(13)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/florida" title="Florida WIC Programs" >Florida</a> <em>(188)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/georgia" title="Georgia WIC Programs" >Georgia</a> <em>(239)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/hawaii" title="Hawaii WIC Programs" >Hawaii</a> <em>(19)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/iowa" title="Iowa WIC Programs" >Iowa</a> <em>(63)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/idaho" title="Idaho WIC Programs" >Idaho</a> <em>(47)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/illinois" title="Illinois WIC Programs" >Illinois</a> <em>(205)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/indiana" title="Indiana WIC Programs" >Indiana</a> <em>(146)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/kansas" title="Kansas WIC Programs" >Kansas</a> <em>(111)</em></li>
+																							
+												</ul>
+												<ul class="unstyled span4">
+																																
+											<li><a href="http://www.wicprograms.org/state/kentucky" title="Kentucky WIC Programs" >Kentucky</a> <em>(165)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/louisiana" title="Louisiana WIC Programs" >Louisiana</a> <em>(100)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/massachusetts" title="Massachusetts WIC Programs" >Massachusetts</a> <em>(56)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/maryland" title="Maryland WIC Programs" >Maryland</a> <em>(38)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/maine" title="Maine WIC Programs" >Maine</a> <em>(22)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/michigan" title="Michigan WIC Programs" >Michigan</a> <em>(61)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/minnesota" title="Minnesota WIC Programs" >Minnesota</a> <em>(99)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/missouri" title="Missouri WIC Programs" >Missouri</a> <em>(237)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/mississippi" title="Mississippi WIC Programs" >Mississippi</a> <em>(153)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/montana" title="Montana WIC Programs" >Montana</a> <em>(21)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/north_carolina" title="North Carolina WIC Programs" >North Carolina</a> <em>(102)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/north_dakota" title="North Dakota WIC Programs" >North Dakota</a> <em>(34)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/nebraska" title="Nebraska WIC Programs" >Nebraska</a> <em>(21)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/new_hampshire" title="New Hampshire WIC Programs" >New Hampshire</a> <em>(51)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/new_jersey" title="New Jersey WIC Programs" >New Jersey</a> <em>(46)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/new_mexico" title="New Mexico WIC Programs" >New Mexico</a> <em>(31)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/nevada" title="Nevada WIC Programs" >Nevada</a> <em>(52)</em></li>
+																							
+												</ul>
+												<ul class="unstyled span4">
+																																
+											<li><a href="http://www.wicprograms.org/state/new_york" title="New York WIC Programs" >New York</a> <em>(131)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/ohio" title="Ohio WIC Programs" >Ohio</a> <em>(202)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/oklahoma" title="Oklahoma WIC Programs" >Oklahoma</a> <em>(98)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/oregon" title="Oregon WIC Programs" >Oregon</a> <em>(47)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/pennsylvania" title="Pennsylvania WIC Programs" >Pennsylvania</a> <em>(119)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/rhode_island" title="Rhode Island WIC Programs" >Rhode Island</a> <em>(21)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/south_carolina" title="South Carolina WIC Programs" >South Carolina</a> <em>(106)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/south_dakota" title="South Dakota WIC Programs" >South Dakota</a> <em>(77)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/tennessee" title="Tennessee WIC Programs" >Tennessee</a> <em>(133)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/texas" title="Texas WIC Programs" >Texas</a> <em>(497)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/utah" title="Utah WIC Programs" >Utah</a> <em>(47)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/virginia" title="Virginia WIC Programs" >Virginia</a> <em>(150)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/vermont" title="Vermont WIC Programs" >Vermont</a> <em>(12)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/washington" title="Washington WIC Programs" >Washington</a> <em>(73)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/wisconsin" title="Wisconsin WIC Programs" >Wisconsin</a> <em>(91)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/west_virginia" title="West Virginia WIC Programs" >West Virginia</a> <em>(59)</em></li>
+																																
+											<li><a href="http://www.wicprograms.org/state/wyoming" title="Wyoming WIC Programs" >Wyoming</a> <em>(34)</em></li>
+																							
+												</ul>
+												<ul class="unstyled span4">
+																														</ul>
+									<div style="clear:both;"></div>
+								</div>
+							</div>
+						</div>
+
+
+					</div><!-- .entry-content -->
+				</article>
+			</div><!-- #content -->
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/ak-municipality_of_anchorage_jber_elmendorf_clinic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/5194_ak-municipality_of_anchorage_jber_elmendorf_clinic_fhr." alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/ak-municipality_of_anchorage_jber_elmendorf_clinic">JBER Military WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Elmendorf AFB,AK</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/63010_jefferson_co_health_dept.">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/7107_63010_jefferson_co_health_dept._fdl.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/63010_jefferson_co_health_dept."> Jefferson Franklin Community Action Corporation (JFCAC) WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Arnold,MO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/christus-santa-rosa-wic">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/6249_christus-santa-rosa-wic_bdv.ashx" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/christus-santa-rosa-wic">Christus Health - WIC  - Medical Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> San Antonio,TX</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/delta-health-center">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/7534_delta-health-center_hyn.png" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/delta-health-center">Delta Health Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Mound Bayou,MS</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar -->
+			<!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2017</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jquery.jqplot.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/shCore.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/shBrushJScript.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/shBrushXml.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.cursor.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.dateAxisRenderer.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.highlighter.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.canvasTextRenderer.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.canvasAxisLabelRenderer.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+</body>
+</html>

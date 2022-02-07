@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Ohio WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Ohio Programs,Ohio WIC Clinics,Ohio WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Ohio WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Ohio
+                
+				<p>
+                
+				<br /><strong>Ohio WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Ohio on the right. Find your local WIC location using our Ohio search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Ohio City: </h2>
+		
+			<b>Enter city name in Ohio</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="OH" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Ohio WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/lorain-county-health-dentistry" title="Lorain County General Health Department WIC">Lorain County General Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/lorain-county-health-dentistry" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Lorain County General Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1205 Broadway Avenue<br />
+                Lorain, OH - 44052<br />
+                (440) 233-5787<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lorain-county-health-dentistry">Website</a></span>            </div>
+			<p>M - F 8:00 - 4:30
+Closed 2nd Tuesday of the month.</p>
+            <a href="http://www.wicprograms.org/li/lorain-county-health-dentistry" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/athens-county-wic-program-the-plains" title="Athens County WIC Program - The Plains">Athens County WIC Program - The Plains</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/athens-county-wic-program-the-plains" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Athens County WIC Program - The Plains"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                70 North Plains Road<br />
+                The Plains, OH - 45780<br />
+                (740) 677-4002<br />
+		                </p>                       
+                                            </div>
+			<p>M - F 8:00 - 4:30</p>
+            <a href="http://www.wicprograms.org/li/athens-county-wic-program-the-plains" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/butler-county-wic-middletown" title="Butler County WIC - Middletown">Butler County WIC - Middletown</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/butler-county-wic-middletown" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Butler County WIC - Middletown"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1036 South Verity Parkway<br />
+                Middletown, OH - 45044<br />
+                (513) 705-9040<br />
+		                </p>                       
+                                            </div>
+			<p>M 7:30 - 6:00
+T - Th 7:30 - 4:00
+F 7:30 - 1:30</p>
+            <a href="http://www.wicprograms.org/li/butler-county-wic-middletown" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/crawford-county-wic-program" title="Crawford County WIC Program">Crawford County WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/crawford-county-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Crawford County WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1520 Isaac Beal Road<br />
+                Bucyrus, OH - 44820<br />
+                (419) 562-5859<br />
+		                </p>                       
+                                            </div>
+			<p>M - F 8:30 - 4:30</p>
+            <a href="http://www.wicprograms.org/li/crawford-county-wic-program" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/university-hospital-w-o-walker-center" title="University Hospital W.O. Walker Center">University Hospital W.O. Walker Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/university-hospital-w-o-walker-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="University Hospital W.O. Walker Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                10524 Euclid Avenue<br />
+                Cleveland, OH - 44106<br />
+                (216) 844-1339<br />
+		                </p>                       
+                                            </div>
+			<p>M - F 8:30 - 5:00</p>
+            <a href="http://www.wicprograms.org/li/university-hospital-w-o-walker-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/holmes-county-wic-program-grant-street" title="Holmes County WIC Program - Grant Street">Holmes County WIC Program - Grant Street</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/holmes-county-wic-program-grant-street" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Holmes County WIC Program - Grant Street"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                85 N Grant Street<br />
+                Millersburg, OH - 44654<br />
+                (330) 674-8455<br />
+		                </p>                       
+                                            </div>
+			<p>M - F 8:00 - 4:30
+2nd Th 8:00 - 6:00</p>
+            <a href="http://www.wicprograms.org/li/holmes-county-wic-program-grant-street" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/jackson-county-wic-program-east-huron" title="Jackson County WIC Program East Huron">Jackson County WIC Program East Huron</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/jackson-county-wic-program-east-huron" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Jackson County WIC Program East Huron"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                73-A East Huron Street<br />
+                Jackson, OH - 45640<br />
+                (740) 286-5443<br />
+		                </p>                       
+                                            </div>
+			<p>M - F 8:00 - 4:30</p>
+            <a href="http://www.wicprograms.org/li/jackson-county-wic-program-east-huron" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/lawrence-county-wic-program" title="Lawrence County WIC Program">Lawrence County WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/lawrence-county-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Lawrence County WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                120 North Third Street<br />
+                Ironton, OH - 45638<br />
+                (740) 532-2646<br />
+		                </p>                       
+                                            </div>
+			<p>M - F 8:00 - 4:30</p>
+            <a href="http://www.wicprograms.org/li/lawrence-county-wic-program" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/goshen-wic-clinic-salem" title="Goshen WIC Clinic Salem">Goshen WIC Clinic Salem</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/goshen-wic-clinic-salem" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Goshen WIC Clinic Salem"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                14003 W. South Range Rd.<br />
+                Salem, OH - 44460<br />
+                (330) 507-9290<br />
+		                </p>                       
+                                            </div>
+			<p>Th 9:00 - 3:30</p>
+            <a href="http://www.wicprograms.org/li/goshen-wic-clinic-salem" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/muskingum-county-wic-program" title="Muskingum County WIC Program">Muskingum County WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/muskingum-county-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Muskingum County WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                333 Putnam Avenue<br />
+                Zanesville, OH - 43701<br />
+                (740) 454-5040<br />
+		                </p>                       
+                                            </div>
+			<p>M 8:00 - 4:30
+T - Th 8:30 - 4:30
+F 8:00 - 4:30</p>
+            <a href="http://www.wicprograms.org/li/muskingum-county-wic-program" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Ohio Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/oh-akron" alt="Akron WIC Programs" title="Akron WIC Programs">Akron <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-alliance" alt="Alliance WIC Programs" title="Alliance WIC Programs">Alliance <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-ashland" alt="Ashland WIC Programs" title="Ashland WIC Programs">Ashland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-ashtabula" alt="Ashtabula WIC Programs" title="Ashtabula WIC Programs">Ashtabula <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-austintown" alt="Austintown WIC Programs" title="Austintown WIC Programs">Austintown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-barberton" alt="Barberton WIC Programs" title="Barberton WIC Programs">Barberton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-batavia" alt="Batavia WIC Programs" title="Batavia WIC Programs">Batavia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-bellaire" alt="Bellaire WIC Programs" title="Bellaire WIC Programs">Bellaire <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-bellefontaine" alt="Bellefontaine WIC Programs" title="Bellefontaine WIC Programs">Bellefontaine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-belpre" alt="Belpre WIC Programs" title="Belpre WIC Programs">Belpre <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-bowling_green" alt="Bowling Green WIC Programs" title="Bowling Green WIC Programs">Bowling Green <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-brandner" alt="Brandner WIC Programs" title="Brandner WIC Programs">Brandner <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-bryan" alt="Bryan WIC Programs" title="Bryan WIC Programs">Bryan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-buckeye_lake" alt="Buckeye Lake WIC Programs" title="Buckeye Lake WIC Programs">Buckeye Lake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-bucyrus" alt="Bucyrus WIC Programs" title="Bucyrus WIC Programs">Bucyrus <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-cadiz" alt="Cadiz WIC Programs" title="Cadiz WIC Programs">Cadiz <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-caldwell" alt="Caldwell WIC Programs" title="Caldwell WIC Programs">Caldwell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-cambridge" alt="Cambridge WIC Programs" title="Cambridge WIC Programs">Cambridge <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-canton" alt="Canton WIC Programs" title="Canton WIC Programs">Canton <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-carrollton" alt="Carrollton WIC Programs" title="Carrollton WIC Programs">Carrollton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-celina" alt="Celina WIC Programs" title="Celina WIC Programs">Celina <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-chagrin_falls" alt="Chagrin Falls WIC Programs" title="Chagrin Falls WIC Programs">Chagrin Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-chardon" alt="Chardon WIC Programs" title="Chardon WIC Programs">Chardon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-chesapeake" alt="Chesapeake WIC Programs" title="Chesapeake WIC Programs">Chesapeake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-chillicothe" alt="Chillicothe WIC Programs" title="Chillicothe WIC Programs">Chillicothe <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-cincinnati" alt="Cincinnati WIC Programs" title="Cincinnati WIC Programs">Cincinnati <em>(16)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-circleville" alt="Circleville WIC Programs" title="Circleville WIC Programs">Circleville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-cleveland" alt="Cleveland WIC Programs" title="Cleveland WIC Programs">Cleveland <em>(17)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-clyde" alt="Clyde WIC Programs" title="Clyde WIC Programs">Clyde <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-coal_grove" alt="Coal Grove WIC Programs" title="Coal Grove WIC Programs">Coal Grove <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-coldwater" alt="Coldwater WIC Programs" title="Coldwater WIC Programs">Coldwater <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-columbus" alt="Columbus WIC Programs" title="Columbus WIC Programs">Columbus <em>(16)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-conneaut" alt="Conneaut WIC Programs" title="Conneaut WIC Programs">Conneaut <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-coshocton" alt="Coshocton WIC Programs" title="Coshocton WIC Programs">Coshocton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-crestline" alt="Crestline WIC Programs" title="Crestline WIC Programs">Crestline <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-danville" alt="Danville WIC Programs" title="Danville WIC Programs">Danville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-dayton" alt="Dayton WIC Programs" title="Dayton WIC Programs">Dayton <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-defiance" alt="Defiance WIC Programs" title="Defiance WIC Programs">Defiance <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-delaware" alt="Delaware WIC Programs" title="Delaware WIC Programs">Delaware <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-deshler" alt="Deshler WIC Programs" title="Deshler WIC Programs">Deshler <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-dover" alt="Dover WIC Programs" title="Dover WIC Programs">Dover <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-east_cleveland" alt="East Cleveland WIC Programs" title="East Cleveland WIC Programs">East Cleveland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-eaton" alt="Eaton WIC Programs" title="Eaton WIC Programs">Eaton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-elyria" alt="Elyria WIC Programs" title="Elyria WIC Programs">Elyria <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-enon" alt="Enon WIC Programs" title="Enon WIC Programs">Enon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-euclid" alt="Euclid WIC Programs" title="Euclid WIC Programs">Euclid <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-fairborn" alt="Fairborn WIC Programs" title="Fairborn WIC Programs">Fairborn <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-felicity" alt="Felicity WIC Programs" title="Felicity WIC Programs">Felicity <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-findlay" alt="Findlay WIC Programs" title="Findlay WIC Programs">Findlay <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-fostoria" alt="Fostoria WIC Programs" title="Fostoria WIC Programs">Fostoria <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-franklin" alt="Franklin WIC Programs" title="Franklin WIC Programs">Franklin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-freeport" alt="Freeport WIC Programs" title="Freeport WIC Programs">Freeport <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-fremont" alt="Fremont WIC Programs" title="Fremont WIC Programs">Fremont <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-galion" alt="Galion WIC Programs" title="Galion WIC Programs">Galion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-gallipolis" alt="Gallipolis WIC Programs" title="Gallipolis WIC Programs">Gallipolis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-garfield_heights" alt="Garfield Heights WIC Programs" title="Garfield Heights WIC Programs">Garfield Heights <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-geneva" alt="Geneva WIC Programs" title="Geneva WIC Programs">Geneva <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Programs">Georgetown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-gibsonburg" alt="Gibsonburg WIC Programs" title="Gibsonburg WIC Programs">Gibsonburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-girard" alt="Girard WIC Programs" title="Girard WIC Programs">Girard <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-goshen" alt="Goshen WIC Programs" title="Goshen WIC Programs">Goshen <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-greenfield" alt="Greenfield WIC Programs" title="Greenfield WIC Programs">Greenfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-greenville" alt="Greenville WIC Programs" title="Greenville WIC Programs">Greenville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-hamilton" alt="Hamilton WIC Programs" title="Hamilton WIC Programs">Hamilton <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-hannibal" alt="Hannibal WIC Programs" title="Hannibal WIC Programs">Hannibal <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-harrison" alt="Harrison WIC Programs" title="Harrison WIC Programs">Harrison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-hicksville" alt="Hicksville WIC Programs" title="Hicksville WIC Programs">Hicksville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-hillsboro" alt="Hillsboro WIC Programs" title="Hillsboro WIC Programs">Hillsboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-holland" alt="Holland WIC Programs" title="Holland WIC Programs">Holland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-ironton" alt="Ironton WIC Programs" title="Ironton WIC Programs">Ironton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-jackson" alt="Jackson WIC Programs" title="Jackson WIC Programs">Jackson <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-jefferson" alt="Jefferson WIC Programs" title="Jefferson WIC Programs">Jefferson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-johnstown" alt="Johnstown WIC Programs" title="Johnstown WIC Programs">Johnstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-kenton" alt="Kenton WIC Programs" title="Kenton WIC Programs">Kenton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-kinsman" alt="Kinsman WIC Programs" title="Kinsman WIC Programs">Kinsman <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lake_milton" alt="Lake Milton WIC Programs" title="Lake Milton WIC Programs">Lake Milton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lakewood" alt="Lakewood WIC Programs" title="Lakewood WIC Programs">Lakewood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Programs">Lancaster <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-laurelville" alt="Laurelville WIC Programs" title="Laurelville WIC Programs">Laurelville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lebanon" alt="Lebanon WIC Programs" title="Lebanon WIC Programs">Lebanon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lewis_center" alt="Lewis Center WIC Programs" title="Lewis Center WIC Programs">Lewis Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lima" alt="Lima WIC Programs" title="Lima WIC Programs">Lima <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lisbon" alt="Lisbon WIC Programs" title="Lisbon WIC Programs">Lisbon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lodi" alt="Lodi WIC Programs" title="Lodi WIC Programs">Lodi <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-logan" alt="Logan WIC Programs" title="Logan WIC Programs">Logan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-london" alt="London WIC Programs" title="London WIC Programs">London <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-lorain" alt="Lorain WIC Programs" title="Lorain WIC Programs">Lorain <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-loudonville" alt="Loudonville WIC Programs" title="Loudonville WIC Programs">Loudonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-louisville" alt="Louisville WIC Programs" title="Louisville WIC Programs">Louisville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-macedonia" alt="Macedonia WIC Programs" title="Macedonia WIC Programs">Macedonia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-madison" alt="Madison WIC Programs" title="Madison WIC Programs">Madison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-malta" alt="Malta WIC Programs" title="Malta WIC Programs">Malta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-mansfield" alt="Mansfield WIC Programs" title="Mansfield WIC Programs">Mansfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-marietta" alt="Marietta WIC Programs" title="Marietta WIC Programs">Marietta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-marysville" alt="Marysville WIC Programs" title="Marysville WIC Programs">Marysville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-massillon" alt="Massillon WIC Programs" title="Massillon WIC Programs">Massillon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-mc_arthur" alt="Mc Arthur WIC Programs" title="Mc Arthur WIC Programs">Mc Arthur <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-medina" alt="Medina WIC Programs" title="Medina WIC Programs">Medina <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-mesopotamia" alt="Mesopotamia WIC Programs" title="Mesopotamia WIC Programs">Mesopotamia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-middleburg_heights" alt="Middleburg Heights WIC Programs" title="Middleburg Heights WIC Programs">Middleburg Heights <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-middlefield" alt="Middlefield WIC Programs" title="Middlefield WIC Programs">Middlefield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-middletown" alt="Middletown WIC Programs" title="Middletown WIC Programs">Middletown <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-millersburg" alt="Millersburg WIC Programs" title="Millersburg WIC Programs">Millersburg <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-montpelier" alt="Montpelier WIC Programs" title="Montpelier WIC Programs">Montpelier <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-mt_vernon" alt="Mt Vernon WIC Programs" title="Mt Vernon WIC Programs">Mt Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-mt._gilead" alt="Mt. Gilead WIC Programs" title="Mt. Gilead WIC Programs">Mt. Gilead <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-murray_city" alt="Murray City WIC Programs" title="Murray City WIC Programs">Murray City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-napoleon" alt="Napoleon WIC Programs" title="Napoleon WIC Programs">Napoleon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-navarre" alt="Navarre WIC Programs" title="Navarre WIC Programs">Navarre <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-new_carlisle" alt="New Carlisle WIC Programs" title="New Carlisle WIC Programs">New Carlisle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-new_lexington" alt="New Lexington WIC Programs" title="New Lexington WIC Programs">New Lexington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-newark" alt="Newark WIC Programs" title="Newark WIC Programs">Newark <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-newton_falls" alt="Newton Falls WIC Programs" title="Newton Falls WIC Programs">Newton Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-north_baltimore" alt="North Baltimore WIC Programs" title="North Baltimore WIC Programs">North Baltimore <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-northwood" alt="Northwood WIC Programs" title="Northwood WIC Programs">Northwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-norwalk" alt="Norwalk WIC Programs" title="Norwalk WIC Programs">Norwalk <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-orwell" alt="Orwell WIC Programs" title="Orwell WIC Programs">Orwell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-ottawa" alt="Ottawa WIC Programs" title="Ottawa WIC Programs">Ottawa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-oxford" alt="Oxford WIC Programs" title="Oxford WIC Programs">Oxford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-painesville" alt="Painesville WIC Programs" title="Painesville WIC Programs">Painesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-parma" alt="Parma WIC Programs" title="Parma WIC Programs">Parma <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-pataskala" alt="Pataskala WIC Programs" title="Pataskala WIC Programs">Pataskala <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-paulding" alt="Paulding WIC Programs" title="Paulding WIC Programs">Paulding <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-piqua" alt="Piqua WIC Programs" title="Piqua WIC Programs">Piqua <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-pomeroy" alt="Pomeroy WIC Programs" title="Pomeroy WIC Programs">Pomeroy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-port_clinton" alt="Port Clinton WIC Programs" title="Port Clinton WIC Programs">Port Clinton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-portsmouth" alt="Portsmouth WIC Programs" title="Portsmouth WIC Programs">Portsmouth <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-ravenna" alt="Ravenna WIC Programs" title="Ravenna WIC Programs">Ravenna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-richwood" alt="Richwood WIC Programs" title="Richwood WIC Programs">Richwood <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-rocky_river" alt="Rocky River WIC Programs" title="Rocky River WIC Programs">Rocky River <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-salem" alt="Salem WIC Programs" title="Salem WIC Programs">Salem <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-sandusky" alt="Sandusky WIC Programs" title="Sandusky WIC Programs">Sandusky <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-scio" alt="Scio WIC Programs" title="Scio WIC Programs">Scio <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-sebring" alt="Sebring WIC Programs" title="Sebring WIC Programs">Sebring <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-shelby" alt="Shelby WIC Programs" title="Shelby WIC Programs">Shelby <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-sidney" alt="Sidney WIC Programs" title="Sidney WIC Programs">Sidney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-south_charleston" alt="South Charleston WIC Programs" title="South Charleston WIC Programs">South Charleston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-springfield" alt="Springfield WIC Programs" title="Springfield WIC Programs">Springfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-st_clairsville" alt="St Clairsville WIC Programs" title="St Clairsville WIC Programs">St Clairsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-steubenville" alt="Steubenville WIC Programs" title="Steubenville WIC Programs">Steubenville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-stow" alt="Stow WIC Programs" title="Stow WIC Programs">Stow <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-stratton" alt="Stratton WIC Programs" title="Stratton WIC Programs">Stratton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-struthers" alt="Struthers WIC Programs" title="Struthers WIC Programs">Struthers <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-the_plains" alt="The Plains WIC Programs" title="The Plains WIC Programs">The Plains <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-tiffin" alt="Tiffin WIC Programs" title="Tiffin WIC Programs">Tiffin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-toledo" alt="Toledo WIC Programs" title="Toledo WIC Programs">Toledo <em>(7)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-troy" alt="Troy WIC Programs" title="Troy WIC Programs">Troy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-union_city" alt="Union City WIC Programs" title="Union City WIC Programs">Union City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-upper_sandusky" alt="Upper Sandusky WIC Programs" title="Upper Sandusky WIC Programs">Upper Sandusky <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-urbana" alt="Urbana WIC Programs" title="Urbana WIC Programs">Urbana <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-van_wert" alt="Van Wert WIC Programs" title="Van Wert WIC Programs">Van Wert <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-vermillion" alt="Vermillion WIC Programs" title="Vermillion WIC Programs">Vermillion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-wadsworth" alt="Wadsworth WIC Programs" title="Wadsworth WIC Programs">Wadsworth <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-wapakoneta" alt="Wapakoneta WIC Programs" title="Wapakoneta WIC Programs">Wapakoneta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-warren" alt="Warren WIC Programs" title="Warren WIC Programs">Warren <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-washington_courthouse" alt="Washington Courthouse WIC Programs" title="Washington Courthouse WIC Programs">Washington Courthouse <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-wauseon" alt="Wauseon WIC Programs" title="Wauseon WIC Programs">Wauseon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-waverly" alt="Waverly WIC Programs" title="Waverly WIC Programs">Waverly <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-west_carrollton" alt="West Carrollton WIC Programs" title="West Carrollton WIC Programs">West Carrollton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-west_union" alt="West Union WIC Programs" title="West Union WIC Programs">West Union <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-willard" alt="Willard WIC Programs" title="Willard WIC Programs">Willard <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-willoughby" alt="Willoughby WIC Programs" title="Willoughby WIC Programs">Willoughby <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-wilmington" alt="Wilmington WIC Programs" title="Wilmington WIC Programs">Wilmington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-woodsfield" alt="Woodsfield WIC Programs" title="Woodsfield WIC Programs">Woodsfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-wooster" alt="Wooster WIC Programs" title="Wooster WIC Programs">Wooster <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-xenia" alt="Xenia WIC Programs" title="Xenia WIC Programs">Xenia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-youngstown" alt="Youngstown WIC Programs" title="Youngstown WIC Programs">Youngstown <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/oh-zanesville" alt="Zanesville WIC Programs" title="Zanesville WIC Programs">Zanesville <em>(2)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2014 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

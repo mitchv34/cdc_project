@@ -1,0 +1,589 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Illinois WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Illinois Programs,Illinois WIC Clinics,Illinois WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Illinois WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Illinois
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Illinois WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Illinois on the right. Find your local WIC location using our Illinois search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Illinois City: </h2>
+		
+			<b>Enter city name in Illinois</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="IL" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Illinois WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/coles-county-health-department" title="Coles County Health Department">Coles County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/coles-county-health-department" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Coles County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1404 Broadway Avenue East<br />
+                Mattoon, IL - 61938<br />
+                (217) 234-2500<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/coles-county-health-department">Website</a></span>            </div>
+			<p>Hours of Operation: M-F 8:30 AM â€“ 4:30 PM
+Other Hours by Appointment
+Handicapped Accessible
+
+For pregnant, breastfeeding, postpartum women, infants and children up to age five.
+
+    Nutrition Education and Information
+    Breastfeeding Support and Information
+    Food Coupons for thos</p>
+            <a href="http://www.wicprograms.org/li/coles-county-health-department" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-palatine" title="Cook County Department of Public Health Palatine">Cook County Department of Public Health Palatine</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-palatine" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Cook County Department of Public Health Palatine"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1585 North Rand Road #530<br />
+                Palatine, IL - 60074<br />
+                (847) 818-2530<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-palatine">Website</a></span>            </div>
+			<p>Palatine Opportunity Center</p>
+            <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-palatine" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-bridgeview" title="Cook County Department of Public Health Bridgeview">Cook County Department of Public Health Bridgeview</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-bridgeview" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Cook County Department of Public Health Bridgeview"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                10220 South 76th Avenue<br />
+                Bridgeview, IL - 60455<br />
+                (708) 974-6160<br />
+		                </p>                       
+                                            </div>
+			<p></p>
+            <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-bridgeview" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-maywood" title="Cook County Department of Public Health Maywood">Cook County Department of Public Health Maywood</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-maywood" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Cook County Department of Public Health Maywood"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1701 South 1st Avenue<br />
+                Maywood, IL - 60153<br />
+                (708) 786-4020<br />
+		                </p>                       
+                                            </div>
+			<p>Eisenhower Tower</p>
+            <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-maywood" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/community-and-economic-development-association-of-cook-county" title="Community and Economic Development Association of Cook County">Community and Economic Development Association of Cook County</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/community-and-economic-development-association-of-cook-county" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Community and Economic Development Association of Cook County"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                6421 Dempster Street<br />
+                Morton Grove, IL - 60053<br />
+                (224) 534-7433<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/community-and-economic-development-association-of-cook-county">Website</a></span>            </div>
+			<p>CEDA operates the largest WIC program in Illinois, now serving over 50,000 clients. Clients are eligible for all WIC benefits, including vouchers for WIC foods, personalized counseling with a nutritionist, and individual and group education. </p>
+            <a href="http://www.wicprograms.org/li/community-and-economic-development-association-of-cook-county" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-robbins-il" title="Cook County Department of Public Health Robbins, IL">Cook County Department of Public Health Robbins, IL</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-robbins-il" title=""><img src="http://www.wicprograms.org/gallery/6364_kbqdamausz.jpg" alt="Cook County Department of Public Health Robbins, IL"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                13450 South Kedzie Avenue<br />
+                Robbins, IL - 60472<br />
+                (708) 293-8200<br />
+		                </p>                       
+                                            </div>
+			<p>Robbins Health Center. By appointment only.</p>
+            <a href="http://www.wicprograms.org/li/cook-county-department-of-public-health-robbins-il" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/southern_seven_health_department_rosiclare_62982" title="Southern Seven Health Department Rosiclare">Southern Seven Health Department Rosiclare</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/southern_seven_health_department_rosiclare_62982" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Southern Seven Health Department Rosiclare"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                Ferrell Rd Hospital Grounds<br />
+                Rosiclare, IL - 62982<br />
+                (618) 285-6215<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/southern_seven_health_department_rosiclare_62982">Website</a></span>            </div>
+			<p>Hardin County Hospital Grounds.  Southern Seven Health Department Rosiclare is a local WIC clinic in Rosiclare, Illinois. You can apply for WIC at this location. From this WIC location you can receiveSpecial checks to buy healthy foods such as milk, cheese, cereal, eggs, juice, peanut butter and dry</p>
+            <a href="http://www.wicprograms.org/li/southern_seven_health_department_rosiclare_62982" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/southern_seven_health_department_viena_62995" title="Southern Seven Health Department Viena">Southern Seven Health Department Viena</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/southern_seven_health_department_viena_62995" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Southern Seven Health Department Viena"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                515 E Vine St<br />
+                Vienna, IL - 62995<br />
+                (618) 658-5011<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/southern_seven_health_department_viena_62995">Website</a></span>            </div>
+			<p> Southern Seven Health Department Viena is a local WIC clinic in Vienna, Illinois. You can apply for WIC at this location. From this WIC location you can receiveSpecial checks to buy healthy foods such as milk, cheese, cereal, eggs, juice, peanut butter and dry beans.You can also receive nutrition a</p>
+            <a href="http://www.wicprograms.org/li/southern_seven_health_department_viena_62995" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/schuyler_county_health_department_62681" title="Schuyler County Health Department">Schuyler County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/schuyler_county_health_department_62681" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Schuyler County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                233 North Congress Street<br />
+                Rushville, IL - 62681<br />
+                (217) 322-4373<br />
+		                </p>                       
+                                            </div>
+			<p> Schuyler County Health Department is a local WIC clinic in Rushville, Illinois. You can apply for WIC at this location. From this WIC location you can receiveSpecial checks to buy healthy foods such as milk, cheese, cereal, eggs, juice, peanut butter and dry beans.You can also receive nutrition and</p>
+            <a href="http://www.wicprograms.org/li/schuyler_county_health_department_62681" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/randolph-county-health-department-wic" title="Randolph County Health Department WIC">Randolph County Health Department WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/randolph-county-health-department-wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Randolph County Health Department WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                211 North Hasle Street<br />
+                Sparta, IL - 62286<br />
+                (618) 443-2995<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/randolph-county-health-department-wic">Website</a></span>            </div>
+			<p>  WIC is the Special Supplemental Nutrition Program for Women, Infants and Children. It is administrered in Illinois by the Illinois Department of Human Services and is funded by the United States Department of Agriculture. WIC is a fedeal nutrition program that provides: Nutrition Education; Nutrit</p>
+            <a href="http://www.wicprograms.org/li/randolph-county-health-department-wic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Illinois Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/il-addison" alt="Addison WIC Programs" title="Addison WIC Programs">Addison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-aledo" alt="Aledo WIC Programs" title="Aledo WIC Programs">Aledo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-anna" alt="Anna WIC Programs" title="Anna WIC Programs">Anna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-astoria" alt="Astoria WIC Programs" title="Astoria WIC Programs">Astoria <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-aurora" alt="Aurora WIC Programs" title="Aurora WIC Programs">Aurora <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-beardstown" alt="Beardstown WIC Programs" title="Beardstown WIC Programs">Beardstown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-belleville" alt="Belleville WIC Programs" title="Belleville WIC Programs">Belleville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-belvidere" alt="Belvidere WIC Programs" title="Belvidere WIC Programs">Belvidere <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-benton" alt="Benton WIC Programs" title="Benton WIC Programs">Benton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-bloomington" alt="Bloomington WIC Programs" title="Bloomington WIC Programs">Bloomington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-blue_island" alt="Blue Island WIC Programs" title="Blue Island WIC Programs">Blue Island <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-bolingbrook" alt="Bolingbrook WIC Programs" title="Bolingbrook WIC Programs">Bolingbrook <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-bridgeview" alt="Bridgeview WIC Programs" title="Bridgeview WIC Programs">Bridgeview <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-burbank" alt="Burbank WIC Programs" title="Burbank WIC Programs">Burbank <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-cahokia" alt="Cahokia WIC Programs" title="Cahokia WIC Programs">Cahokia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-cairo" alt="Cairo WIC Programs" title="Cairo WIC Programs">Cairo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-canton" alt="Canton WIC Programs" title="Canton WIC Programs">Canton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-carlinville" alt="Carlinville WIC Programs" title="Carlinville WIC Programs">Carlinville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-carlyle" alt="Carlyle WIC Programs" title="Carlyle WIC Programs">Carlyle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-carmi" alt="Carmi WIC Programs" title="Carmi WIC Programs">Carmi <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-carpentersville" alt="Carpentersville WIC Programs" title="Carpentersville WIC Programs">Carpentersville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-carrollton" alt="Carrollton WIC Programs" title="Carrollton WIC Programs">Carrollton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-carthage" alt="Carthage WIC Programs" title="Carthage WIC Programs">Carthage <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-centralia" alt="Centralia WIC Programs" title="Centralia WIC Programs">Centralia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-champaign" alt="Champaign WIC Programs" title="Champaign WIC Programs">Champaign <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-charleston" alt="Charleston WIC Programs" title="Charleston WIC Programs">Charleston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-chester" alt="Chester WIC Programs" title="Chester WIC Programs">Chester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-chicago" alt="Chicago WIC Programs" title="Chicago WIC Programs">Chicago <em>(50)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-chicago_heights" alt="Chicago Heights WIC Programs" title="Chicago Heights WIC Programs">Chicago Heights <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-cicero" alt="Cicero WIC Programs" title="Cicero WIC Programs">Cicero <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-clinton" alt="Clinton WIC Programs" title="Clinton WIC Programs">Clinton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-colona" alt="Colona WIC Programs" title="Colona WIC Programs">Colona <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-crystal_lake" alt="Crystal Lake WIC Programs" title="Crystal Lake WIC Programs">Crystal Lake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-danville" alt="Danville WIC Programs" title="Danville WIC Programs">Danville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-decatur" alt="Decatur WIC Programs" title="Decatur WIC Programs">Decatur <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-dekalb" alt="Dekalb WIC Programs" title="Dekalb WIC Programs">Dekalb <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-des_plaines" alt="Des Plaines WIC Programs" title="Des Plaines WIC Programs">Des Plaines <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-dixon" alt="Dixon WIC Programs" title="Dixon WIC Programs">Dixon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-e_saint_louis" alt="E Saint Louis WIC Programs" title="E Saint Louis WIC Programs">E Saint Louis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-effingham" alt="Effingham WIC Programs" title="Effingham WIC Programs">Effingham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-eldorado" alt="Eldorado WIC Programs" title="Eldorado WIC Programs">Eldorado <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-elgin" alt="Elgin WIC Programs" title="Elgin WIC Programs">Elgin <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-eureka" alt="Eureka WIC Programs" title="Eureka WIC Programs">Eureka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-evanston" alt="Evanston WIC Programs" title="Evanston WIC Programs">Evanston <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-fairfield" alt="Fairfield WIC Programs" title="Fairfield WIC Programs">Fairfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-fairmont_city" alt="Fairmont City WIC Programs" title="Fairmont City WIC Programs">Fairmont City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-flora" alt="Flora WIC Programs" title="Flora WIC Programs">Flora <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-ford_heights" alt="Ford Heights WIC Programs" title="Ford Heights WIC Programs">Ford Heights <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-freeport" alt="Freeport WIC Programs" title="Freeport WIC Programs">Freeport <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-galena" alt="Galena WIC Programs" title="Galena WIC Programs">Galena <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-galesburg" alt="Galesburg WIC Programs" title="Galesburg WIC Programs">Galesburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-gladstone" alt="Gladstone WIC Programs" title="Gladstone WIC Programs">Gladstone <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-granite_city" alt="Granite City WIC Programs" title="Granite City WIC Programs">Granite City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-greenville" alt="Greenville WIC Programs" title="Greenville WIC Programs">Greenville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-hanover_park" alt="Hanover Park WIC Programs" title="Hanover Park WIC Programs">Hanover Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-hardin" alt="Hardin WIC Programs" title="Hardin WIC Programs">Hardin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-harvard" alt="Harvard WIC Programs" title="Harvard WIC Programs">Harvard <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-harvey" alt="Harvey WIC Programs" title="Harvey WIC Programs">Harvey <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-havana" alt="Havana WIC Programs" title="Havana WIC Programs">Havana <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-hennepin" alt="Hennepin WIC Programs" title="Hennepin WIC Programs">Hennepin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-highland_park" alt="Highland Park WIC Programs" title="Highland Park WIC Programs">Highland Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-hillsboro" alt="Hillsboro WIC Programs" title="Hillsboro WIC Programs">Hillsboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-jacksonville" alt="Jacksonville WIC Programs" title="Jacksonville WIC Programs">Jacksonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-jerseyville" alt="Jerseyville WIC Programs" title="Jerseyville WIC Programs">Jerseyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-joliet" alt="Joliet WIC Programs" title="Joliet WIC Programs">Joliet <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-jonesboro" alt="Jonesboro WIC Programs" title="Jonesboro WIC Programs">Jonesboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-kankakee" alt="Kankakee WIC Programs" title="Kankakee WIC Programs">Kankakee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-kewanee" alt="Kewanee WIC Programs" title="Kewanee WIC Programs">Kewanee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-la_salle" alt="La Salle WIC Programs" title="La Salle WIC Programs">La Salle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-lacon" alt="Lacon WIC Programs" title="Lacon WIC Programs">Lacon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-lawrenceville" alt="Lawrenceville WIC Programs" title="Lawrenceville WIC Programs">Lawrenceville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-lena" alt="Lena WIC Programs" title="Lena WIC Programs">Lena <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-lincoln" alt="Lincoln WIC Programs" title="Lincoln WIC Programs">Lincoln <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-litchfield" alt="Litchfield WIC Programs" title="Litchfield WIC Programs">Litchfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-lombard" alt="Lombard WIC Programs" title="Lombard WIC Programs">Lombard <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-macomb" alt="Macomb WIC Programs" title="Macomb WIC Programs">Macomb <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-markham" alt="Markham WIC Programs" title="Markham WIC Programs">Markham <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-martinsville" alt="Martinsville WIC Programs" title="Martinsville WIC Programs">Martinsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mattoon" alt="Mattoon WIC Programs" title="Mattoon WIC Programs">Mattoon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-maywood" alt="Maywood WIC Programs" title="Maywood WIC Programs">Maywood <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mc_leansboro" alt="Mc Leansboro WIC Programs" title="Mc Leansboro WIC Programs">Mc Leansboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mchenry" alt="McHenry WIC Programs" title="McHenry WIC Programs">McHenry <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mendota" alt="Mendota WIC Programs" title="Mendota WIC Programs">Mendota <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-metropolis" alt="Metropolis WIC Programs" title="Metropolis WIC Programs">Metropolis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-moline" alt="Moline WIC Programs" title="Moline WIC Programs">Moline <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-monmouth" alt="Monmouth WIC Programs" title="Monmouth WIC Programs">Monmouth <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-monticello" alt="Monticello WIC Programs" title="Monticello WIC Programs">Monticello <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-morris" alt="Morris WIC Programs" title="Morris WIC Programs">Morris <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-morton_grove" alt="Morton Grove WIC Programs" title="Morton Grove WIC Programs">Morton Grove <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mount_carmel" alt="Mount Carmel WIC Programs" title="Mount Carmel WIC Programs">Mount Carmel <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mount_carroll" alt="Mount Carroll WIC Programs" title="Mount Carroll WIC Programs">Mount Carroll <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mount_vernon" alt="Mount Vernon WIC Programs" title="Mount Vernon WIC Programs">Mount Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mt_prospect" alt="Mt Prospect WIC Programs" title="Mt Prospect WIC Programs">Mt Prospect <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-mt_sterling" alt="Mt Sterling WIC Programs" title="Mt Sterling WIC Programs">Mt Sterling <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-murphysboro" alt="Murphysboro WIC Programs" title="Murphysboro WIC Programs">Murphysboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-nashville" alt="Nashville WIC Programs" title="Nashville WIC Programs">Nashville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-newton" alt="Newton WIC Programs" title="Newton WIC Programs">Newton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-north_chicago" alt="North Chicago WIC Programs" title="North Chicago WIC Programs">North Chicago <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-oak_lawn" alt="Oak Lawn WIC Programs" title="Oak Lawn WIC Programs">Oak Lawn <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-oak_park" alt="Oak Park WIC Programs" title="Oak Park WIC Programs">Oak Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-olney" alt="Olney WIC Programs" title="Olney WIC Programs">Olney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-oregon" alt="Oregon WIC Programs" title="Oregon WIC Programs">Oregon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-ottawa" alt="Ottawa WIC Programs" title="Ottawa WIC Programs">Ottawa <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-palatine" alt="Palatine WIC Programs" title="Palatine WIC Programs">Palatine <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-paris" alt="Paris WIC Programs" title="Paris WIC Programs">Paris <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-paxton" alt="Paxton WIC Programs" title="Paxton WIC Programs">Paxton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-peoria" alt="Peoria WIC Programs" title="Peoria WIC Programs">Peoria <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-petersburg" alt="Petersburg WIC Programs" title="Petersburg WIC Programs">Petersburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-pinckneyville" alt="Pinckneyville WIC Programs" title="Pinckneyville WIC Programs">Pinckneyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-pittsfield" alt="Pittsfield WIC Programs" title="Pittsfield WIC Programs">Pittsfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-pontiac" alt="Pontiac WIC Programs" title="Pontiac WIC Programs">Pontiac <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-princeton" alt="Princeton WIC Programs" title="Princeton WIC Programs">Princeton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-quincy" alt="Quincy WIC Programs" title="Quincy WIC Programs">Quincy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rantoul" alt="Rantoul WIC Programs" title="Rantoul WIC Programs">Rantoul <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-ridgway" alt="Ridgway WIC Programs" title="Ridgway WIC Programs">Ridgway <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-robbins" alt="Robbins WIC Programs" title="Robbins WIC Programs">Robbins <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-robinson" alt="Robinson WIC Programs" title="Robinson WIC Programs">Robinson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rochelle" alt="Rochelle WIC Programs" title="Rochelle WIC Programs">Rochelle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rock_falls" alt="Rock Falls WIC Programs" title="Rock Falls WIC Programs">Rock Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rock_island" alt="Rock Island WIC Programs" title="Rock Island WIC Programs">Rock Island <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rockford" alt="Rockford WIC Programs" title="Rockford WIC Programs">Rockford <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rolling_meadows" alt="Rolling Meadows WIC Programs" title="Rolling Meadows WIC Programs">Rolling Meadows <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rosiclare" alt="Rosiclare WIC Programs" title="Rosiclare WIC Programs">Rosiclare <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-round_lake" alt="Round Lake WIC Programs" title="Round Lake WIC Programs">Round Lake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-round_lake_beach" alt="Round Lake Beach WIC Programs" title="Round Lake Beach WIC Programs">Round Lake Beach <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-rushville" alt="Rushville WIC Programs" title="Rushville WIC Programs">Rushville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-saint_charles" alt="Saint Charles WIC Programs" title="Saint Charles WIC Programs">Saint Charles <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-salem" alt="Salem WIC Programs" title="Salem WIC Programs">Salem <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-schaumburg" alt="Schaumburg WIC Programs" title="Schaumburg WIC Programs">Schaumburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-shelbyville" alt="Shelbyville WIC Programs" title="Shelbyville WIC Programs">Shelbyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-skokie" alt="Skokie WIC Programs" title="Skokie WIC Programs">Skokie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-south_holland" alt="South Holland WIC Programs" title="South Holland WIC Programs">South Holland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-sparta" alt="Sparta WIC Programs" title="Sparta WIC Programs">Sparta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-springfield" alt="Springfield WIC Programs" title="Springfield WIC Programs">Springfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-sullivan" alt="Sullivan WIC Programs" title="Sullivan WIC Programs">Sullivan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-summit" alt="Summit WIC Programs" title="Summit WIC Programs">Summit <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-taylorville" alt="Taylorville WIC Programs" title="Taylorville WIC Programs">Taylorville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-toledo" alt="Toledo WIC Programs" title="Toledo WIC Programs">Toledo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-tremont" alt="Tremont WIC Programs" title="Tremont WIC Programs">Tremont <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-tuscola" alt="Tuscola WIC Programs" title="Tuscola WIC Programs">Tuscola <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-ullin" alt="Ullin WIC Programs" title="Ullin WIC Programs">Ullin <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-university_park" alt="University Park WIC Programs" title="University Park WIC Programs">University Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-vandalia" alt="Vandalia WIC Programs" title="Vandalia WIC Programs">Vandalia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-vienna" alt="Vienna WIC Programs" title="Vienna WIC Programs">Vienna <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-virginia" alt="Virginia WIC Programs" title="Virginia WIC Programs">Virginia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-washington_park" alt="Washington Park WIC Programs" title="Washington Park WIC Programs">Washington Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-waterloo" alt="Waterloo WIC Programs" title="Waterloo WIC Programs">Waterloo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-watseka" alt="Watseka WIC Programs" title="Watseka WIC Programs">Watseka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-waukegan" alt="Waukegan WIC Programs" title="Waukegan WIC Programs">Waukegan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-west_chicago" alt="West Chicago WIC Programs" title="West Chicago WIC Programs">West Chicago <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-westmont" alt="Westmont WIC Programs" title="Westmont WIC Programs">Westmont <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-wheaton" alt="Wheaton WIC Programs" title="Wheaton WIC Programs">Wheaton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-white_hall" alt="White Hall WIC Programs" title="White Hall WIC Programs">White Hall <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-wilmington" alt="Wilmington WIC Programs" title="Wilmington WIC Programs">Wilmington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-winchester" alt="Winchester WIC Programs" title="Winchester WIC Programs">Winchester <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-wood_river" alt="Wood River WIC Programs" title="Wood River WIC Programs">Wood River <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-woodstock" alt="Woodstock WIC Programs" title="Woodstock WIC Programs">Woodstock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-yorkville" alt="Yorkville WIC Programs" title="Yorkville WIC Programs">Yorkville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/il-zion" alt="Zion WIC Programs" title="Zion WIC Programs">Zion <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2016 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

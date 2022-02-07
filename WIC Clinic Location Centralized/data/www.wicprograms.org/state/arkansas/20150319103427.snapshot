@@ -1,0 +1,592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Arkansas WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Arkansas Programs,Arkansas WIC Clinics,Arkansas WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Arkansas WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Arkansas
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Arkansas WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Arkansas on the right. Find your local WIC location using our Arkansas search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Arkansas City: </h2>
+		
+			<b>Enter city name in Arkansas</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="AR" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Arkansas WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_dewitt" title="Arkansas County Health Unit - DeWitt">Arkansas County Health Unit - DeWitt</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_dewitt" title=""><img src="http://www.wicprograms.org/gallery/3448_arkansasDewittBig.jpg" alt="Arkansas County Health Unit - DeWitt"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1616 S. Madison<br />
+                Dewitt, AR - 72042<br />
+                870-946-2934<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_dewitt">Website</a></span>            </div>
+			<p>This is a local county health unit. Services: WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by </p>
+            <a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_dewitt" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_stuttgart" title="Arkansas County Health Unit - Stuttgart">Arkansas County Health Unit - Stuttgart</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_stuttgart" title=""><img src="http://www.wicprograms.org/gallery/3449_arkansasStuttgartBig.jpg" alt="Arkansas County Health Unit - Stuttgart"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1602 N. Buerkle<br />
+                Stuttgart, AR - 72160<br />
+                870-673-1609<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_stuttgart">Website</a></span>            </div>
+			<p>This is a local county health unit. Services: WICNutritionPeer Counseling /Breast pumpsWomen&rsquo;s HealthBreastCareThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Healt</p>
+            <a href="http://www.wicprograms.org/li/ar-arkansas_county_health_unit_stuttgart" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_crossett" title="Ashley County Health Unit - Crossett">Ashley County Health Unit - Crossett</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_crossett" title=""><img src="http://www.wicprograms.org/gallery/3450_ashleyCrossettBig.jpg" alt="Ashley County Health Unit - Crossett"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1300 W. 5th Avenue<br />
+                Crossett, AR - 71635<br />
+                870-364-2115<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_crossett">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_crossett" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_hamburg" title="Ashley County Health Unit - Hamburg">Ashley County Health Unit - Hamburg</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_hamburg" title=""><img src="http://www.wicprograms.org/gallery/3451_ashleyHamburgBig.jpg" alt="Ashley County Health Unit - Hamburg"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                401 N. Cherry<br />
+                Hamburg, AR - 71646<br />
+                870-853-5525<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_hamburg">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsHours: 8 a.m. - 4:30 p.m., 1st Tues or each month 8 a.m. - 6 p.m.The WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered b</p>
+            <a href="http://www.wicprograms.org/li/ar-ashley_county_health_unit_hamburg" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-baxter_county_health_unit_mt_home" title="Baxter County Health Unit - Mt. Home">Baxter County Health Unit - Mt. Home</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-baxter_county_health_unit_mt_home" title=""><img src="http://www.wicprograms.org/gallery/3452_baxterMtnHomeBig.jpg" alt="Baxter County Health Unit - Mt. Home"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                206 Bucher<br />
+                Mt. Home, AR - 72653<br />
+                870-425-3072<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-baxter_county_health_unit_mt_home">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-baxter_county_health_unit_mt_home" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-benton_county_lowell_wic_clinic" title="Benton County - Lowell WIC Clinic">Benton County - Lowell WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-benton_county_lowell_wic_clinic" title=""><img src="http://www.wicprograms.org/gallery/3453_bentonLowellBig.jpg" alt="Benton County - Lowell WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                107-A South Lincoln<br />
+                Lowell, AR - 72745<br />
+                479-770-6232<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-benton_county_lowell_wic_clinic">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-benton_county_lowell_wic_clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_rogers" title="Benton County Health Unit - Rogers">Benton County Health Unit - Rogers</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_rogers" title=""><img src="http://www.wicprograms.org/gallery/3454_BentonCountyRogers.jpg" alt="Benton County Health Unit - Rogers"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1200 W. Walnut Street, Suite 2200 <br />
+                Rogers, AR - 72756<br />
+                479-986-1300<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_rogers">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_rogers" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_siloam_springs" title="Benton County Health Unit - Siloam Springs">Benton County Health Unit - Siloam Springs</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_siloam_springs" title=""><img src="http://www.wicprograms.org/gallery/3455_BentonCountySiloamSprings.jpg" alt="Benton County Health Unit - Siloam Springs"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                101 W. University<br />
+                Siloam Springs, AR - 72761<br />
+                479-549-3794<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_siloam_springs">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-benton_county_health_unit_siloam_springs" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-boone_county_health_unit_harrison" title="Boone County Health Unit - Harrison">Boone County Health Unit - Harrison</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-boone_county_health_unit_harrison" title=""><img src="http://www.wicprograms.org/gallery/3456_BooneCountyLHU.jpg" alt="Boone County Health Unit - Harrison"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1622 Campus Drive<br />
+                Harrison, AR - 72601<br />
+                870-743-5244<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-boone_county_health_unit_harrison">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-boone_county_health_unit_harrison" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ar-bradley_county_health_unit_warren" title="Bradley County Health Unit - Warren">Bradley County Health Unit - Warren</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ar-bradley_county_health_unit_warren" title=""><img src="http://www.wicprograms.org/gallery/3457_bradleyWarrenBig.jpg" alt="Bradley County Health Unit - Warren"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                208 North Bragg Street<br />
+                Warren, AR - 71671<br />
+                870-226-8440<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ar-bradley_county_health_unit_warren">Website</a></span>            </div>
+			<p>This is a local county health unit. Services:WICNutritionPeer Counseling /Breast pumpsThe WIC program is the Special Supplemental Nutrition Program for Women, Infants and Children.&nbsp;&nbsp; The Arkansas WIC Program is administered by the Arkansas Department of Health through a grant provided by t</p>
+            <a href="http://www.wicprograms.org/li/ar-bradley_county_health_unit_warren" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Arkansas Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ar-arkadelphia" alt="Arkadelphia WIC Programs" title="Arkadelphia WIC Programs">Arkadelphia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-batesville" alt="Batesville WIC Programs" title="Batesville WIC Programs">Batesville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-benton" alt="Benton WIC Programs" title="Benton WIC Programs">Benton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-berryville" alt="Berryville WIC Programs" title="Berryville WIC Programs">Berryville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-conway" alt="Conway WIC Programs" title="Conway WIC Programs">Conway <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-corning" alt="Corning WIC Programs" title="Corning WIC Programs">Corning <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-crossett" alt="Crossett WIC Programs" title="Crossett WIC Programs">Crossett <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-dewitt" alt="Dewitt WIC Programs" title="Dewitt WIC Programs">Dewitt <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-dumas" alt="Dumas WIC Programs" title="Dumas WIC Programs">Dumas <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-earle" alt="Earle WIC Programs" title="Earle WIC Programs">Earle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-fordyce" alt="Fordyce WIC Programs" title="Fordyce WIC Programs">Fordyce <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-fort_smith" alt="Fort Smith WIC Programs" title="Fort Smith WIC Programs">Fort Smith <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-hamburg" alt="Hamburg WIC Programs" title="Hamburg WIC Programs">Hamburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-hampton" alt="Hampton WIC Programs" title="Hampton WIC Programs">Hampton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-harrison" alt="Harrison WIC Programs" title="Harrison WIC Programs">Harrison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-heber_springs" alt="Heber Springs WIC Programs" title="Heber Springs WIC Programs">Heber Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-hope" alt="Hope WIC Programs" title="Hope WIC Programs">Hope <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-hot_springs" alt="Hot Springs WIC Programs" title="Hot Springs WIC Programs">Hot Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-jacksonville" alt="Jacksonville WIC Programs" title="Jacksonville WIC Programs">Jacksonville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-jonesboro" alt="Jonesboro WIC Programs" title="Jonesboro WIC Programs">Jonesboro <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-lake_village" alt="Lake Village WIC Programs" title="Lake Village WIC Programs">Lake Village <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-little_rock" alt="Little Rock WIC Programs" title="Little Rock WIC Programs">Little Rock <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-lowell" alt="Lowell WIC Programs" title="Lowell WIC Programs">Lowell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-magnolia" alt="Magnolia WIC Programs" title="Magnolia WIC Programs">Magnolia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-malvern" alt="Malvern WIC Programs" title="Malvern WIC Programs">Malvern <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-mcgehee" alt="McGehee WIC Programs" title="McGehee WIC Programs">McGehee <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-melbourne" alt="Melbourne WIC Programs" title="Melbourne WIC Programs">Melbourne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-monticello" alt="Monticello WIC Programs" title="Monticello WIC Programs">Monticello <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-morrilton" alt="Morrilton WIC Programs" title="Morrilton WIC Programs">Morrilton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-mt._home" alt="Mt. Home WIC Programs" title="Mt. Home WIC Programs">Mt. Home <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-nashville" alt="Nashville WIC Programs" title="Nashville WIC Programs">Nashville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-north_little_rock" alt="North Little Rock WIC Programs" title="North Little Rock WIC Programs">North Little Rock <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-ozark" alt="Ozark WIC Programs" title="Ozark WIC Programs">Ozark <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-paragould" alt="Paragould WIC Programs" title="Paragould WIC Programs">Paragould <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-piggott" alt="Piggott WIC Programs" title="Piggott WIC Programs">Piggott <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-pine_bluff" alt="Pine Bluff WIC Programs" title="Pine Bluff WIC Programs">Pine Bluff <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-rison" alt="Rison WIC Programs" title="Rison WIC Programs">Rison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-rogers" alt="Rogers WIC Programs" title="Rogers WIC Programs">Rogers <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-russellville" alt="Russellville WIC Programs" title="Russellville WIC Programs">Russellville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-salem" alt="Salem WIC Programs" title="Salem WIC Programs">Salem <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-sheridan" alt="Sheridan WIC Programs" title="Sheridan WIC Programs">Sheridan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-siloam_springs" alt="Siloam Springs WIC Programs" title="Siloam Springs WIC Programs">Siloam Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-springdale" alt="Springdale WIC Programs" title="Springdale WIC Programs">Springdale <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-stuttgart" alt="Stuttgart WIC Programs" title="Stuttgart WIC Programs">Stuttgart <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-van_buren" alt="Van Buren WIC Programs" title="Van Buren WIC Programs">Van Buren <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-warren" alt="Warren WIC Programs" title="Warren WIC Programs">Warren <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-west_memphis" alt="West Memphis WIC Programs" title="West Memphis WIC Programs">West Memphis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ar-wynne" alt="Wynne WIC Programs" title="Wynne WIC Programs">Wynne <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2015 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

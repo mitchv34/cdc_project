@@ -1,0 +1,628 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Kansas WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Kansas Programs,Kansas WIC Clinics,Kansas WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+<li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+<li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Kansas WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Kansas
+                
+				<p>
+                
+				<br /><strong>Kansas WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Kansas on the right. Find your local WIC location using our Kansas search below. 
+				<br />
+				</p>
+                <p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Kansas City: </h2>
+		
+			<b>Enter city name in Kansas</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="KS" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Kansas WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/wilson_county_health_department_66736-1342" title="Wilson County Health Department">Wilson County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/wilson_county_health_department_66736-1342" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Wilson County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                421 N 7th Stree<br />
+                Fredonia, KS - 66736<br />
+                620-378-4456
+<br />
+		                </p>                       
+                                            </div>
+			<p>Wilson County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Wilson County Health Department.The state of Kansas WIC Program provides support and nutrition education to familie</p>
+            <a href="http://www.wicprograms.org/li/wilson_county_health_department_66736-1342" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/wichita_county_health_department_67861-5039" title="Wichita County Health Department">Wichita County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/wichita_county_health_department_67861-5039" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Wichita County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                104 South Indian Road<br />
+                Leoti, KS - 67861<br />
+                620-375-2289
+<br />
+		                </p>                       
+                                            </div>
+			<p>Wichita County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Wichita County Health Department.The state of Kansas WIC Program provides support and nutrition education to famil</p>
+            <a href="http://www.wicprograms.org/li/wichita_county_health_department_67861-5039" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/washington_county_health_department_66968-1921" title="Washington County Health Department">Washington County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/washington_county_health_department_66968-1921" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Washington County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                115 W 3rd Street<br />
+                Washington, KS - 66968<br />
+                785-325-2600
+<br />
+		                </p>                       
+                                            </div>
+			<p>Washington County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Washington County Health Department.The state of Kansas WIC Program provides support and nutrition education to</p>
+            <a href="http://www.wicprograms.org/li/washington_county_health_department_66968-1921" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/wabaunsee_county_health_department_66401-9797" title="Wabaunsee County Health Department">Wabaunsee County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/wabaunsee_county_health_department_66401-9797" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Wabaunsee County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                215 Kansas Ave<br />
+                Alma, KS - 66401<br />
+                785-765-2425
+<br />
+		                </p>                       
+                                            </div>
+			<p>Wabaunsee County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Wabaunsee County Health Department.The state of Kansas WIC Program provides support and nutrition education to f</p>
+            <a href="http://www.wicprograms.org/li/wabaunsee_county_health_department_66401-9797" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/trego_county_health_department_67672-2104" title="Trego County Health Department">Trego County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/trego_county_health_department_67672-2104" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Trego County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                201 N Main Street<br />
+                Wakeeney, KS - 67672<br />
+                785-743-6348
+<br />
+		                </p>                       
+                                            </div>
+			<p>Trego County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Trego County Health Department.The state of Kansas WIC Program provides support and nutrition education to families </p>
+            <a href="http://www.wicprograms.org/li/trego_county_health_department_67672-2104" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/traveling_clinic_sherman_county_health_department_67735-3053" title="Traveling Clinic - Sherman County Health Department">Traveling Clinic - Sherman County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/traveling_clinic_sherman_county_health_department_67735-3053" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Traveling Clinic - Sherman County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1622 Broadway Avenue<br />
+                Goodland, KS - 67735<br />
+                785-890-4888
+<br />
+		                </p>                       
+                                            </div>
+			<p>Traveling Clinic - Sherman County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Traveling Clinic - Sherman County Health Department.The state of Kansas WIC Program provides su</p>
+            <a href="http://www.wicprograms.org/li/traveling_clinic_sherman_county_health_department_67735-3053" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/thomas_county_wic_67701-0000
+" title="Thomas County Wic">Thomas County Wic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/thomas_county_wic_67701-0000
+" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Thomas County Wic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                350 S Range Avenue<br />
+                Colby, KS - 67701<br />
+                <br />
+		                </p>                       
+                                            </div>
+			<p>Thomas County WIC is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Thomas County WIC.The state of Kansas WIC Program provides support and nutrition education to families at the following important</p>
+            <a href="http://www.wicprograms.org/li/thomas_county_wic_67701-0000
+" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/sumner_county_health_department_67152-3961" title="Sumner County Health Department">Sumner County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/sumner_county_health_department_67152-3961" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Sumner County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                217 W 8th Street<br />
+                Wellington, KS - 67152<br />
+                620-326-2774
+<br />
+		                </p>                       
+                                            </div>
+			<p>Sumner County Health Department is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Sumner County Health Department.The state of Kansas WIC Program provides support and nutrition education to familie</p>
+            <a href="http://www.wicprograms.org/li/sumner_county_health_department_67152-3961" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/stevens_county_wic_program_67951-2842" title="Stevens County Wic Program">Stevens County Wic Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/stevens_county_wic_program_67951-2842" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Stevens County Wic Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1042 S Jackson Street<br />
+                Hugoton, KS - 67951<br />
+                620-544-7177
+<br />
+		                </p>                       
+                                            </div>
+			<p>Stevens County WIC Program is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Stevens County WIC Program.The state of Kansas WIC Program provides support and nutrition education to families at the f</p>
+            <a href="http://www.wicprograms.org/li/stevens_county_wic_program_67951-2842" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/traveling_clinic_southwest_kansas_wic_program_67846-2777" title="Traveling Clinic - Southwest Kansas Wic Program">Traveling Clinic - Southwest Kansas Wic Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/traveling_clinic_southwest_kansas_wic_program_67846-2777" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Traveling Clinic - Southwest Kansas Wic Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                919 Zerr Rd<br />
+                Garden City, KS - 67846<br />
+                620-272-3615
+<br />
+		                </p>                       
+                                            </div>
+			<p>Traveling Clinic - Southwest Kansas WIC Program is a local WIC office in Kansas. We have provided the address and phone number for you to contact this agency. To apply for WIC set up an appointment at Traveling Clinic - Southwest Kansas WIC Program.The state of Kansas WIC Program provides support an</p>
+            <a href="http://www.wicprograms.org/li/traveling_clinic_southwest_kansas_wic_program_67846-2777" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+				
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Kansas Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ks-alma" alt="Alma WIC Programs" title="Alma WIC Programs">Alma <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-arkansas_city" alt="Arkansas City WIC Programs" title="Arkansas City WIC Programs">Arkansas City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-ashland" alt="Ashland WIC Programs" title="Ashland WIC Programs">Ashland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-atchison" alt="Atchison WIC Programs" title="Atchison WIC Programs">Atchison <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-belleville" alt="Belleville WIC Programs" title="Belleville WIC Programs">Belleville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-beloit" alt="Beloit WIC Programs" title="Beloit WIC Programs">Beloit <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-chanute" alt="Chanute WIC Programs" title="Chanute WIC Programs">Chanute <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-cimarron" alt="Cimarron WIC Programs" title="Cimarron WIC Programs">Cimarron <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-clay_center" alt="Clay Center WIC Programs" title="Clay Center WIC Programs">Clay Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-coffeyville" alt="Coffeyville WIC Programs" title="Coffeyville WIC Programs">Coffeyville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-colby" alt="Colby WIC Programs" title="Colby WIC Programs">Colby <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-coldwater" alt="Coldwater WIC Programs" title="Coldwater WIC Programs">Coldwater <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-columbus" alt="Columbus WIC Programs" title="Columbus WIC Programs">Columbus <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-concordia" alt="Concordia WIC Programs" title="Concordia WIC Programs">Concordia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-cottonwood_falls" alt="Cottonwood Falls WIC Programs" title="Cottonwood Falls WIC Programs">Cottonwood Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-council_grove" alt="Council Grove WIC Programs" title="Council Grove WIC Programs">Council Grove <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-dighton" alt="Dighton WIC Programs" title="Dighton WIC Programs">Dighton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-dodge_city" alt="Dodge City WIC Programs" title="Dodge City WIC Programs">Dodge City <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-el_dorado" alt="El Dorado WIC Programs" title="El Dorado WIC Programs">El Dorado <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-ellsworth" alt="Ellsworth WIC Programs" title="Ellsworth WIC Programs">Ellsworth <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-emporia" alt="Emporia WIC Programs" title="Emporia WIC Programs">Emporia <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-eureka" alt="Eureka WIC Programs" title="Eureka WIC Programs">Eureka <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-fredonia" alt="Fredonia WIC Programs" title="Fredonia WIC Programs">Fredonia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-ft._riley" alt="Ft. Riley WIC Programs" title="Ft. Riley WIC Programs">Ft. Riley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-garden_city" alt="Garden City WIC Programs" title="Garden City WIC Programs">Garden City <em>(6)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-garnett" alt="Garnett WIC Programs" title="Garnett WIC Programs">Garnett <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-goodland" alt="Goodland WIC Programs" title="Goodland WIC Programs">Goodland <em>(5)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-gove" alt="Gove WIC Programs" title="Gove WIC Programs">Gove <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-great_bend" alt="Great Bend WIC Programs" title="Great Bend WIC Programs">Great Bend <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-hays" alt="Hays WIC Programs" title="Hays WIC Programs">Hays <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-hiawatha" alt="Hiawatha WIC Programs" title="Hiawatha WIC Programs">Hiawatha <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-hill_city" alt="Hill City WIC Programs" title="Hill City WIC Programs">Hill City <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-hoxie" alt="Hoxie WIC Programs" title="Hoxie WIC Programs">Hoxie <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-hugoton" alt="Hugoton WIC Programs" title="Hugoton WIC Programs">Hugoton <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-hutchinson" alt="Hutchinson WIC Programs" title="Hutchinson WIC Programs">Hutchinson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-independence" alt="Independence WIC Programs" title="Independence WIC Programs">Independence <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-johnson_city" alt="Johnson City WIC Programs" title="Johnson City WIC Programs">Johnson City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-junction_city" alt="Junction City WIC Programs" title="Junction City WIC Programs">Junction City <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-kansas_city" alt="Kansas City WIC Programs" title="Kansas City WIC Programs">Kansas City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-lacrosse" alt="Lacrosse WIC Programs" title="Lacrosse WIC Programs">Lacrosse <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-larned" alt="Larned WIC Programs" title="Larned WIC Programs">Larned <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-leavenworth" alt="Leavenworth WIC Programs" title="Leavenworth WIC Programs">Leavenworth <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-leoti" alt="Leoti WIC Programs" title="Leoti WIC Programs">Leoti <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-liberal" alt="Liberal WIC Programs" title="Liberal WIC Programs">Liberal <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-lincoln" alt="Lincoln WIC Programs" title="Lincoln WIC Programs">Lincoln <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-lyndon" alt="Lyndon WIC Programs" title="Lyndon WIC Programs">Lyndon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-lyons" alt="Lyons WIC Programs" title="Lyons WIC Programs">Lyons <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-manhattan" alt="Manhattan WIC Programs" title="Manhattan WIC Programs">Manhattan <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-marion" alt="Marion WIC Programs" title="Marion WIC Programs">Marion <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-marysville" alt="Marysville WIC Programs" title="Marysville WIC Programs">Marysville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-mcpherson" alt="Mcpherson WIC Programs" title="Mcpherson WIC Programs">Mcpherson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-meade" alt="Meade WIC Programs" title="Meade WIC Programs">Meade <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-medicine_lodge" alt="Medicine Lodge WIC Programs" title="Medicine Lodge WIC Programs">Medicine Lodge <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-minneapolis" alt="Minneapolis WIC Programs" title="Minneapolis WIC Programs">Minneapolis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-ness_city" alt="Ness City WIC Programs" title="Ness City WIC Programs">Ness City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-norton" alt="Norton WIC Programs" title="Norton WIC Programs">Norton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-oakley" alt="Oakley WIC Programs" title="Oakley WIC Programs">Oakley <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-osborne" alt="Osborne WIC Programs" title="Osborne WIC Programs">Osborne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-ottawa" alt="Ottawa WIC Programs" title="Ottawa WIC Programs">Ottawa <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-paola" alt="Paola WIC Programs" title="Paola WIC Programs">Paola <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-parsons" alt="Parsons WIC Programs" title="Parsons WIC Programs">Parsons <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-phillipsburg" alt="Phillipsburg WIC Programs" title="Phillipsburg WIC Programs">Phillipsburg <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-pittsburg" alt="Pittsburg WIC Programs" title="Pittsburg WIC Programs">Pittsburg <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-pleasanton" alt="Pleasanton WIC Programs" title="Pleasanton WIC Programs">Pleasanton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-pratt" alt="Pratt WIC Programs" title="Pratt WIC Programs">Pratt <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-russell" alt="Russell WIC Programs" title="Russell WIC Programs">Russell <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-sabetha" alt="Sabetha WIC Programs" title="Sabetha WIC Programs">Sabetha <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-salina" alt="Salina WIC Programs" title="Salina WIC Programs">Salina <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-scott_city" alt="Scott City WIC Programs" title="Scott City WIC Programs">Scott City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-sedan" alt="Sedan WIC Programs" title="Sedan WIC Programs">Sedan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-smith_center" alt="Smith Center WIC Programs" title="Smith Center WIC Programs">Smith Center <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-st_marys" alt="St Marys WIC Programs" title="St Marys WIC Programs">St Marys <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-st._john" alt="St. John WIC Programs" title="St. John WIC Programs">St. John <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-stockton" alt="Stockton WIC Programs" title="Stockton WIC Programs">Stockton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-topeka" alt="Topeka WIC Programs" title="Topeka WIC Programs">Topeka <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-tribune" alt="Tribune WIC Programs" title="Tribune WIC Programs">Tribune <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-wakeeney" alt="Wakeeney WIC Programs" title="Wakeeney WIC Programs">Wakeeney <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-wamego" alt="Wamego WIC Programs" title="Wamego WIC Programs">Wamego <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-washington" alt="Washington WIC Programs" title="Washington WIC Programs">Washington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-wellington" alt="Wellington WIC Programs" title="Wellington WIC Programs">Wellington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-wichita" alt="Wichita WIC Programs" title="Wichita WIC Programs">Wichita <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-winfield" alt="Winfield WIC Programs" title="Winfield WIC Programs">Winfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ks-yates_center" alt="Yates Center WIC Programs" title="Yates Center WIC Programs">Yates Center <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* WIC Vertical */
+                google_ad_slot = "5367683000";
+                google_ad_width = 120;
+                google_ad_height = 240;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Members</h4>
+			
+				<ul class="footer_widget_list">
+                    <li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+                    <li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+                    <li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2012 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

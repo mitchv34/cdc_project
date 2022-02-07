@@ -1,0 +1,639 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>South Carolina WIC Programs | South Carolina WIC Locations, Information and Assistance</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="South Carolina WIC Programs in South Carolina" />
+	<meta name="description" content="South Carolina WIC Programs in South Carolina" />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong></strong> entries listed in our database.<br />
+	Entries pending approval: <strong></strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong></strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+			
+
+       
+			<!-- Top cities start -->
+
+			<div class="side-box group">
+				<h4 class="news">WIC Clinics and Offices By City</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-abbeville" alt="Abbeville WIC Programs" title="Abbeville WIC Clinics & Offices">Abbeville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-aiken" alt="Aiken WIC Programs" title="Aiken WIC Clinics & Offices">Aiken WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-allendale" alt="Allendale WIC Programs" title="Allendale WIC Clinics & Offices">Allendale WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-anderson" alt="Anderson WIC Programs" title="Anderson WIC Clinics & Offices">Anderson WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-bamberg" alt="Bamberg WIC Programs" title="Bamberg WIC Clinics & Offices">Bamberg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-barnwell" alt="Barnwell WIC Programs" title="Barnwell WIC Clinics & Offices">Barnwell WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-batesburg" alt="Batesburg WIC Programs" title="Batesburg WIC Clinics & Offices">Batesburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-beaufort" alt="Beaufort WIC Programs" title="Beaufort WIC Clinics & Offices">Beaufort WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-bennettsville" alt="Bennettsville WIC Programs" title="Bennettsville WIC Clinics & Offices">Bennettsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-bishopville" alt="Bishopville WIC Programs" title="Bishopville WIC Clinics & Offices">Bishopville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-bluffton" alt="Bluffton WIC Programs" title="Bluffton WIC Clinics & Offices">Bluffton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-bowman" alt="Bowman WIC Programs" title="Bowman WIC Clinics & Offices">Bowman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-camden" alt="Camden WIC Programs" title="Camden WIC Clinics & Offices">Camden WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-charleston_heights" alt="Charleston Heights WIC Programs" title="Charleston Heights WIC Clinics & Offices">Charleston Heights WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-chesnee" alt="Chesnee WIC Programs" title="Chesnee WIC Clinics & Offices">Chesnee WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-chester" alt="Chester WIC Programs" title="Chester WIC Clinics & Offices">Chester WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-chesterfield" alt="Chesterfield WIC Programs" title="Chesterfield WIC Clinics & Offices">Chesterfield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-clinton" alt="Clinton WIC Programs" title="Clinton WIC Clinics & Offices">Clinton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-columbia" alt="Columbia WIC Programs" title="Columbia WIC Clinics & Offices">Columbia WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-conway" alt="Conway WIC Programs" title="Conway WIC Clinics & Offices">Conway WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-darlington" alt="Darlington WIC Programs" title="Darlington WIC Clinics & Offices">Darlington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-denmark" alt="Denmark WIC Programs" title="Denmark WIC Clinics & Offices">Denmark WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-dillon" alt="Dillon WIC Programs" title="Dillon WIC Clinics & Offices">Dillon WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-eastover" alt="Eastover WIC Programs" title="Eastover WIC Clinics & Offices">Eastover WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-edgefield" alt="Edgefield WIC Programs" title="Edgefield WIC Clinics & Offices">Edgefield WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-elloree" alt="Elloree WIC Programs" title="Elloree WIC Clinics & Offices">Elloree WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-florence" alt="Florence WIC Programs" title="Florence WIC Clinics & Offices">Florence WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-ft_jackson" alt="Ft Jackson WIC Programs" title="Ft Jackson WIC Clinics & Offices">Ft Jackson WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-gaffney" alt="Gaffney WIC Programs" title="Gaffney WIC Clinics & Offices">Gaffney WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-georgetown" alt="Georgetown WIC Programs" title="Georgetown WIC Clinics & Offices">Georgetown WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-goose_creek" alt="Goose Creek WIC Programs" title="Goose Creek WIC Clinics & Offices">Goose Creek WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-great_falls" alt="Great Falls WIC Programs" title="Great Falls WIC Clinics & Offices">Great Falls WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-greenville" alt="Greenville WIC Programs" title="Greenville WIC Clinics & Offices">Greenville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-greenwood" alt="Greenwood WIC Programs" title="Greenwood WIC Clinics & Offices">Greenwood WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-greer" alt="Greer WIC Programs" title="Greer WIC Clinics & Offices">Greer WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-hampton" alt="Hampton WIC Programs" title="Hampton WIC Clinics & Offices">Hampton WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-hartsville" alt="Hartsville WIC Programs" title="Hartsville WIC Clinics & Offices">Hartsville WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-holly_hill" alt="Holly Hill WIC Programs" title="Holly Hill WIC Clinics & Offices">Holly Hill WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-inman" alt="Inman WIC Programs" title="Inman WIC Clinics & Offices">Inman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-kershaw" alt="Kershaw WIC Programs" title="Kershaw WIC Clinics & Offices">Kershaw WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-kingstree" alt="Kingstree WIC Programs" title="Kingstree WIC Clinics & Offices">Kingstree WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-lake_city" alt="Lake City WIC Programs" title="Lake City WIC Clinics & Offices">Lake City WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Clinics & Offices">Lancaster WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-lexington" alt="Lexington WIC Programs" title="Lexington WIC Clinics & Offices">Lexington WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-little_river" alt="Little River WIC Programs" title="Little River WIC Clinics & Offices">Little River WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-loris" alt="Loris WIC Programs" title="Loris WIC Clinics & Offices">Loris WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-lyman" alt="Lyman WIC Programs" title="Lyman WIC Clinics & Offices">Lyman WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-manning" alt="Manning WIC Programs" title="Manning WIC Clinics & Offices">Manning WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-marion" alt="Marion WIC Programs" title="Marion WIC Clinics & Offices">Marion WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-mccormick" alt="Mccormick WIC Programs" title="Mccormick WIC Clinics & Offices">Mccormick WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-moncks_corner" alt="Moncks Corner WIC Programs" title="Moncks Corner WIC Clinics & Offices">Moncks Corner WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-mt_pleasant" alt="Mt Pleasant WIC Programs" title="Mt Pleasant WIC Clinics & Offices">Mt Pleasant WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-mt._pleasant" alt="Mt. Pleasant WIC Programs" title="Mt. Pleasant WIC Clinics & Offices">Mt. Pleasant WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-myrtle_beach" alt="Myrtle Beach WIC Programs" title="Myrtle Beach WIC Clinics & Offices">Myrtle Beach WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-n_charleston" alt="N Charleston WIC Programs" title="N Charleston WIC Clinics & Offices">N Charleston WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-newberry" alt="Newberry WIC Programs" title="Newberry WIC Clinics & Offices">Newberry WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-north" alt="North WIC Programs" title="North WIC Clinics & Offices">North WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-north_augusta" alt="North Augusta WIC Programs" title="North Augusta WIC Clinics & Offices">North Augusta WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-north_charleston" alt="North Charleston WIC Programs" title="North Charleston WIC Clinics & Offices">North Charleston WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-orangeburg" alt="Orangeburg WIC Programs" title="Orangeburg WIC Clinics & Offices">Orangeburg WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-ridgeland" alt="Ridgeland WIC Programs" title="Ridgeland WIC Clinics & Offices">Ridgeland WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-rock_hill" alt="Rock Hill WIC Programs" title="Rock Hill WIC Clinics & Offices">Rock Hill WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-saluda" alt="Saluda WIC Programs" title="Saluda WIC Clinics & Offices">Saluda WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-shaw_afb" alt="Shaw Afb WIC Programs" title="Shaw Afb WIC Clinics & Offices">Shaw Afb WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-spartanburg" alt="Spartanburg WIC Programs" title="Spartanburg WIC Clinics & Offices">Spartanburg WIC Clinics</a> <em>(3)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-st_matthews" alt="St Matthews WIC Programs" title="St Matthews WIC Clinics & Offices">St Matthews WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-summerville" alt="Summerville WIC Programs" title="Summerville WIC Clinics & Offices">Summerville WIC Clinics</a> <em>(2)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-sumter" alt="Sumter WIC Programs" title="Sumter WIC Clinics & Offices">Sumter WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-surfside_beach" alt="Surfside Beach WIC Programs" title="Surfside Beach WIC Clinics & Offices">Surfside Beach WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-swansea" alt="Swansea WIC Programs" title="Swansea WIC Clinics & Offices">Swansea WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-union" alt="Union WIC Programs" title="Union WIC Clinics & Offices">Union WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-wagener" alt="Wagener WIC Programs" title="Wagener WIC Clinics & Offices">Wagener WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-walhalla" alt="Walhalla WIC Programs" title="Walhalla WIC Clinics & Offices">Walhalla WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-walterboro" alt="Walterboro WIC Programs" title="Walterboro WIC Clinics & Offices">Walterboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-winnsboro" alt="Winnsboro WIC Programs" title="Winnsboro WIC Clinics & Offices">Winnsboro WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-woodruff" alt="Woodruff WIC Programs" title="Woodruff WIC Clinics & Offices">Woodruff WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-york" alt="York WIC Programs" title="York WIC Clinics & Offices">York WIC Clinics</a> <em>(1)</em> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-charleston" alt="Charleston WIC Programs" title="Charleston WIC Clinics & Offices">Charleston WIC Clinics</a> 					</li>
+						<li>
+						<a href="http://www.wicprograms.org/ci/sc-mount_pleasant" alt="Mount Pleasant WIC Programs" title="Mount Pleasant WIC Clinics & Offices">Mount Pleasant WIC Clinics</a> 					</li>
+					</ul>
+
+			</div><!-- /.side-box -->
+
+<!-- Top cities end -->            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/state/south_carolina" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+
+
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<!-- Breadcrumb Start-->
+<a href="http://www.wicprograms.org">WIC Programs</a> &raquo; South Carolina
+<!-- Breadcrumb End-->			
+			<div id="headline">
+
+                <h2>South Carolina WIC Clinics and Offices</h2>
+    
+			
+			</div><!-- /headline -->
+
+                <p>We have listed out all of the cities where we have located WIC Clinics and Offices in South Carolina. We are constantly adding new clinics and office locations as we find them. If you know of any WIC locations that we are not providing on the website, please go to the <a href="http://www.wicprograms.org/listing_add.php">ADD A WIC Location</a> page to help us add to our resource. </p>
+<br />
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-2985566993569762";
+			/* 336x280, created 9/22/11 */
+			google_ad_slot = "1876671469";
+			google_ad_width = 336;
+			google_ad_height = 280;
+			//-->
+			</script>
+			<script type="text/javascript"
+			src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			
+			<!-- City search form start -->
+			<form action="http://www.wicprograms.org/city.php">
+				<h2>WIC Programs By City: </h2><br />
+				Type city name:<br />
+				<input name="city" size="40" type="text"/>
+				<input name="st" type="hidden" value="SC"/>
+				<input name="submit" value="Search for city" type="submit" />
+			</form>
+			<!-- City search form end -->
+            
+			<br /><br />
+			<h1>South Carolina WIC Program Overview</h1>
+						
+			<p>
+			    The Special Supplemental Nutrition Program for Women, Infants, and Children - better known as the WIC Program - serves to safeguard the health of low-income women, infants, & children up to age 5 who are at nutritional risk by providing nutritious foods to supplement diets, information on healthy eating, and referrals to health care.
+				
+			    <br /><br />
+			
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-2985566993569762";
+/* 336x280, created 9/22/11 */
+google_ad_slot = "1876671469";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+
+
+
+<br />
+		
+
+			
+			
+				<br /><strong>South Carolina WIC Food Packages</strong> <br />
+
+				The WIC food packages provide supplemental foods designed to meet the special nutritional needs of low-income pregnant, breastfeeding, non-breastfeeding postpartum women, infants and children up to five years of age who are at nutritional risk. WIC food packages and nutrition education are the chief means by which WIC affects the dietary quality and habits of participants.  <br /> <br />
+
+				New food packages are now being provided to WIC participants in all States.  On December 6, 2007,  an interim rule revising the WIC food packages was published in the Federal Register. The new food packages align with the 2005 Dietary Guidelines for Americans and infant feeding practice guidelines of the American Academy of Pediatrics. The food packages better promote and support the establishment of successful, long-term breastfeeding, provide WIC participants with a wider variety of foods including fruits and vegetables and whole grains, and provide WIC State agencies greater flexibility in prescribing food packages to accommodate the cultural food preferences of WIC participants.  An interim rule allows the Food and Nutrition Service to obtain feedback on the revisions while allowing implementation to move forward. The interim rule comment period ended on February 1, 2010. FNS is currently reviewing and analyzing comments and expects to promulgate a final rule in February 2011.
+
+				<br />
+
+					<br /><strong>South Carolina WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br /><br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+			
+			
+			
+			
+			
+			
+			            
+					<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/berkeley_county_public_health_department_29461">Berkeley County Public Health Department - Moncks Corner</a></h5>
+		Moncks Corner, SC - 29461<br />
+		(843) 719-4600<br />
+		Berkeley County Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family...<br />
+                 <a href="http://www.wicprograms.org/li/berkeley_county_public_health_department_29461">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/goose_creek_public_health_clinic_29445">Goose Creek Public Health Clinic - Goose Creek</a></h5>
+		Goose Creek, SC - 29445<br />
+		(843) 572-3313<br />
+		Goose Creek Public Health Clinic is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family members...<br />
+                 <a href="http://www.wicprograms.org/li/goose_creek_public_health_clinic_29445">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/mt._pleasant_public_health_department_29464">Mt. Pleasant Public Health Department - Mt Pleasant</a></h5>
+		Mt Pleasant, SC - 29464<br />
+		(843) 856-1210<br />
+		Mt. Pleasant Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family me...<br />
+                 <a href="http://www.wicprograms.org/li/mt._pleasant_public_health_department_29464">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/northwoods_public_health_department_29406">Northwoods Public Health Department - N Charleston</a></h5>
+		N Charleston, SC - 29406<br />
+		(843) 953-4300<br />
+		Northwoods Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family memb...<br />
+                 <a href="http://www.wicprograms.org/li/northwoods_public_health_department_29406">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/north_area_public_health_department_29405">North Area Public Health Department - Charleston Heights</a></h5>
+		Charleston Heights, SC - 29405<br />
+		(843) 740-1580
+<br />
+		North Area Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family memb...<br />
+                 <a href="http://www.wicprograms.org/li/north_area_public_health_department_29405">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/summerville_public_health_department_29483">Summerville Public Health Department - Summerville</a></h5>
+		Summerville, SC - 29483<br />
+		(843) 832-0041<br />
+		Summerville Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family mem...<br />
+                 <a href="http://www.wicprograms.org/li/summerville_public_health_department_29483">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/fairfield_county_public_health_department_29180">Fairfield County Public Health Department - Winnsboro</a></h5>
+		Winnsboro, SC - 29180<br />
+		(803) 635-6481<br />
+		Fairfield County Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the famil...<br />
+                 <a href="http://www.wicprograms.org/li/fairfield_county_public_health_department_29180">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/batesburg-leesville_clinic_29006">Batesburg-leesville Clinic - Batesburg</a></h5>
+		Batesburg, SC - 29006<br />
+		(803) 332-6326<br />
+		Batesburg-Leesville Clinic is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family members apply...<br />
+                 <a href="http://www.wicprograms.org/li/batesburg-leesville_clinic_29006">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/swansea_health_center_29160">Swansea Health Center - Swansea</a></h5>
+		Swansea, SC - 29160<br />
+		(803) 785-3914<br />
+		Swansea Health Center is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the family members applying f...<br />
+                 <a href="http://www.wicprograms.org/li/swansea_health_center_29160">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/lexington_county_public_health_department_29073">Lexington County Public Health Department - Lexington</a></h5>
+		Lexington, SC - 29073<br />
+		(803) 785-6550<br />
+		Lexington County Public Health Department is a local WIC Office in South Carolina. To apply for WIC contact this office. Translation services are also provided at this office. 
+	Please bring the famil...<br />
+                 <a href="http://www.wicprograms.org/li/lexington_county_public_health_department_29073">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->
+
+
+                
+			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2012 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

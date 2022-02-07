@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Utah WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Utah Programs,Utah WIC Clinics,Utah WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Utah WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Utah
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Utah WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Utah on the right. Find your local WIC location using our Utah search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Utah City: </h2>
+		
+			<b>Enter city name in Utah</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="UT" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Utah WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/ut_84074_wic-tooele" title="WIC Tooele">WIC Tooele</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ut_84074_wic-tooele" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="WIC Tooele"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                151 N Main Street<br />
+                Tooele, UT - 84074<br />
+                435-843-2320<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ut_84074_wic-tooele">Website</a></span>            </div>
+			<p>Offices are open Monday to Thursday from 7:00 a.m to 6:00 p.m.&nbsp; Closed Friday, weekends, and holidays.To schedule an appointment or if you have questions please call.</p>
+            <a href="http://www.wicprograms.org/li/ut_84074_wic-tooele" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/beaver-southwest-utah-public-health-department" title="Beaver Southwest Utah Public Health Department">Beaver Southwest Utah Public Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/beaver-southwest-utah-public-health-department" title=""><img src="http://www.wicprograms.org/gallery/6289_beaver-southwest-utah-public-health-department_yuv.jpg" alt="Beaver Southwest Utah Public Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                75 W. 1175 N.<br />
+                Beaver, UT - 84713<br />
+                (435) 438-2482<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/beaver-southwest-utah-public-health-department">Website</a></span>            </div>
+			<p>What happens at the clinic?
+
+Your proof of income, identification and residency will be reviewed. 
+For all applicants, height and weight will be checked and a drop of 
+blood will be taken to check for iron level. You will be asked about 
+your health and the foods you eat. You will receive nutri</p>
+            <a href="http://www.wicprograms.org/li/beaver-southwest-utah-public-health-department" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/cedar-city-health-department" title="Cedar City Health Department">Cedar City Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/cedar-city-health-department" title=""><img src="http://www.wicprograms.org/gallery/6290_cedar-city-health-department_fyg.jpg" alt="Cedar City Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                260 DL Sargent Dr<br />
+                Cedar City, UT - 84720<br />
+                (435) 586-2437<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/cedar-city-health-department">Website</a></span>            </div>
+			<p>M-Th: 7:30 AM - 4:30 PM (Tuesdays 1-4:30 PM)
+Fridays 8:00 AM - 4:00 PM
+Walk-in clinic! </p>
+            <a href="http://www.wicprograms.org/li/cedar-city-health-department" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/kanab-wic-clinic" title="Kanab WIC Clinic">Kanab WIC Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/kanab-wic-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Kanab WIC Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                445 N Main St<br />
+                Kanab, UT - 84741<br />
+                (435) 644-2537<br />
+		                </p>                       
+                                            </div>
+			<p>Call 644-2537 for appointment</p>
+            <a href="http://www.wicprograms.org/li/kanab-wic-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/panguitch-clinic" title="Panguitch Clinic">Panguitch Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/panguitch-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Panguitch Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                601 E Center St<br />
+                Panguitch, UT - 84759<br />
+                (435) 676-8800<br />
+		                </p>                       
+                                            </div>
+			<p>2nd & 4th Wednesdays: 1-3 PM
+Call 438-2482 for appointment
+</p>
+            <a href="http://www.wicprograms.org/li/panguitch-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/st-george-clinic" title="St.George Clinic">St.George Clinic</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/st-george-clinic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="St.George Clinic"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                620 South 400 East Suite 400<br />
+                Saint George, UT - 84770<br />
+                (435) 673-3528<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/st-george-clinic">Website</a></span>            </div>
+			<p>M-Th: 7:30 AM - 5 PM (Tuesdays open from 1 - 5 PM)
+Every other Friday: 8:00 AM - 4:30 PM
+Walk-in clinic! (</p>
+            <a href="http://www.wicprograms.org/li/st-george-clinic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/coalville-summit-county-public-health-department" title="Coalville Summit County Public Health Department">Coalville Summit County Public Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/coalville-summit-county-public-health-department" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Coalville Summit County Public Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                85 N 50 E<br />
+                Coalville, UT - 84017<br />
+                (435) 336-5981<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/coalville-summit-county-public-health-department">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/coalville-summit-county-public-health-department">Website</a></span>            </div>
+			<p>Coalville
+Tuesday, January 8
+Tuesday, February 5
+Tuesday, March 5
+Tuesday, April 2
+Tuesday, May 7
+Tuesday, June 4
+Tuesday, July 2
+Tuesday, August 6
+Tuesday, September 3
+Tuesday, October 8
+Tuesday, November 5
+Tuesday December 3</p>
+            <a href="http://www.wicprograms.org/li/coalville-summit-county-public-health-department" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/kamas-public-health-dept" title="Kamas Public Health Dept">Kamas Public Health Dept</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/kamas-public-health-dept" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Kamas Public Health Dept"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                110 N Main<br />
+                Kamas, UT - 84036<br />
+                435 - 783 - 435<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/kamas-public-health-dept">Website</a></span>            </div>
+			<p>WIC (Special Supplemental Nutrition Program for
+Women, Infants, and Children):
+WIC provides
+supplemental food such as milk, infant formula, eggs,
+juice, cereal, beans, fruits, and vegetables to pregnant
+women, nursing mothers, infants, and children under 5.
+Check on the other side of this flie</p>
+            <a href="http://www.wicprograms.org/li/kamas-public-health-dept" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/park-city-wic-office" title="Park City WIC Office">Park City WIC Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/park-city-wic-office" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Park City WIC Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                650 Round Valley Dr<br />
+                Park City, UT - 84060<br />
+                (435) 333-1515<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/park-city-wic-office">Website</a></span>            </div>
+			<p>Clinic Office: 435-333-1500
+Located at Quinnâ€™s Juction
+
+The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a federally-funded program that serves pregnant, breastfeeding and postpartum women, infants and children up to age 5 who live in Summit County and w</p>
+            <a href="http://www.wicprograms.org/li/park-city-wic-office" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/tooele-county-health-department" title="Tooele County Health Department">Tooele County Health Department</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/tooele-county-health-department" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Tooele County Health Department"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                151 N Main<br />
+                Tooele, UT - 84074<br />
+                (435) 277-2321<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/tooele-county-health-department">Website</a></span>            </div>
+			<p>Offices are open Monday â€“ Thursday from 7:00 a.m. â€“ 6:00 p.m.  Closed Friday, weekends, and holidays. </p>
+            <a href="http://www.wicprograms.org/li/tooele-county-health-department" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Utah Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ut-american_fork" alt="American Fork WIC Programs" title="American Fork WIC Programs">American Fork <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-beaver" alt="Beaver WIC Programs" title="Beaver WIC Programs">Beaver <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-blanding" alt="Blanding WIC Programs" title="Blanding WIC Programs">Blanding <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-bountiful" alt="Bountiful WIC Programs" title="Bountiful WIC Programs">Bountiful <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-brigham_city" alt="Brigham City WIC Programs" title="Brigham City WIC Programs">Brigham City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-castle_dale" alt="Castle Dale WIC Programs" title="Castle Dale WIC Programs">Castle Dale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-cedar_city" alt="Cedar City WIC Programs" title="Cedar City WIC Programs">Cedar City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-clearfield" alt="Clearfield WIC Programs" title="Clearfield WIC Programs">Clearfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-coalville" alt="Coalville WIC Programs" title="Coalville WIC Programs">Coalville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-delta" alt="Delta WIC Programs" title="Delta WIC Programs">Delta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-east_carbon" alt="East Carbon WIC Programs" title="East Carbon WIC Programs">East Carbon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-eureka" alt="Eureka WIC Programs" title="Eureka WIC Programs">Eureka <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-fillmore" alt="Fillmore WIC Programs" title="Fillmore WIC Programs">Fillmore <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-garden_city" alt="Garden City WIC Programs" title="Garden City WIC Programs">Garden City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-green_river" alt="Green River WIC Programs" title="Green River WIC Programs">Green River <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-heber_city" alt="Heber City WIC Programs" title="Heber City WIC Programs">Heber City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-junction" alt="Junction WIC Programs" title="Junction WIC Programs">Junction <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-kamas" alt="Kamas WIC Programs" title="Kamas WIC Programs">Kamas <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-kanab" alt="Kanab WIC Programs" title="Kanab WIC Programs">Kanab <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-loa" alt="Loa WIC Programs" title="Loa WIC Programs">Loa <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-logan" alt="Logan WIC Programs" title="Logan WIC Programs">Logan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-manti" alt="Manti WIC Programs" title="Manti WIC Programs">Manti <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-monticello" alt="Monticello WIC Programs" title="Monticello WIC Programs">Monticello <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-morgan" alt="Morgan WIC Programs" title="Morgan WIC Programs">Morgan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-mount_pleasant" alt="Mount Pleasant WIC Programs" title="Mount Pleasant WIC Programs">Mount Pleasant <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-nephi" alt="Nephi WIC Programs" title="Nephi WIC Programs">Nephi <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-ogden" alt="Ogden WIC Programs" title="Ogden WIC Programs">Ogden <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-orem" alt="Orem WIC Programs" title="Orem WIC Programs">Orem <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-panguitch" alt="Panguitch WIC Programs" title="Panguitch WIC Programs">Panguitch <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-park_city" alt="Park City WIC Programs" title="Park City WIC Programs">Park City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-payson" alt="Payson WIC Programs" title="Payson WIC Programs">Payson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-provo" alt="Provo WIC Programs" title="Provo WIC Programs">Provo <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-randolph" alt="Randolph WIC Programs" title="Randolph WIC Programs">Randolph <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-richfield" alt="Richfield WIC Programs" title="Richfield WIC Programs">Richfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-roosevelt" alt="Roosevelt WIC Programs" title="Roosevelt WIC Programs">Roosevelt <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-saint_george" alt="Saint George WIC Programs" title="Saint George WIC Programs">Saint George <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-salt_lake_city" alt="Salt Lake City WIC Programs" title="Salt Lake City WIC Programs">Salt Lake City <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-sandy" alt="Sandy WIC Programs" title="Sandy WIC Programs">Sandy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-tooele" alt="Tooele WIC Programs" title="Tooele WIC Programs">Tooele <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-tremonton" alt="Tremonton WIC Programs" title="Tremonton WIC Programs">Tremonton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-vernal" alt="Vernal WIC Programs" title="Vernal WIC Programs">Vernal <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-wendover" alt="Wendover WIC Programs" title="Wendover WIC Programs">Wendover <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-west_jordan" alt="West Jordan WIC Programs" title="West Jordan WIC Programs">West Jordan <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-west_valley_city" alt="West Valley City WIC Programs" title="West Valley City WIC Programs">West Valley City <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ut-woods_cross" alt="Woods Cross WIC Programs" title="Woods Cross WIC Programs">Woods Cross <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2016 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

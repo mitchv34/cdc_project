@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Pennsylvania WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Pennsylvania Programs,Pennsylvania WIC Clinics,Pennsylvania WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Pennsylvania WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Pennsylvania
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Pennsylvania on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Pennsylvania</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-abington">Abington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-aliquippa">Aliquippa</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-allentown">Allentown</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-altoona">Altoona</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-beaver_falls">Beaver Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-bensalem">Bensalem</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-bethlehem">Bethlehem</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-bloomsburg">Bloomsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-boyertown">Boyertown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-broad_top">Broad Top</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-butler">Butler</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-carlisle">Carlisle</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-carmichaels">Carmichaels</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-carnegie">Carnegie</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-carrolltown">Carrolltown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-chester">Chester</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-clairton">Clairton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-clearfield">Clearfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-coalport">Coalport</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-coatesville">Coatesville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-columbia">Columbia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-connellsville">Connellsville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-delta">Delta</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-dillsburg">Dillsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-dover">Dover</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-doylestown">Doylestown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-dubois">DuBois</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-east_stroudsburg">East Stroudsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-easton">Easton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-ebensburg">Ebensburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-ephrata">Ephrata</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-fairchance">Fairchance</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-gettysburg">Gettysburg</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-greenboro">Greenboro</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-greensburg">Greensburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-hanover">Hanover</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-harrisburg">Harrisburg</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-hawley">Hawley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-hazleton">Hazleton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-hiller">Hiller</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-houtzdale">Houtzdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-indiana">Indiana</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-jermyn">Jermyn</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-johnstown">Johnstown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-kingston">Kingston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-kittanning">Kittanning</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lancaster">Lancaster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lansdale">Lansdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-laporte">Laporte</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-latrobe">Latrobe</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lehighton">Lehighton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-levittown">Levittown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lewisberry">Lewisberry</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lewisburg">Lewisburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lewistown">Lewistown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-lock_haven">Lock Haven</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-masontown">Masontown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-mckees_rocks">Mckees Rocks</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-mckeesport">Mckeesport</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-meadville">Meadville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-middleburg">Middleburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-monessen">Monessen</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-monesson">Monesson</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-mt_pocono">Mt Pocono</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-mt._oliver">Mt. Oliver</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-new_castle">New Castle</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-new_milford">New Milford</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-noell">Noell</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-norristown">Norristown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-oxford">Oxford</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-philadelphia">Philadelphia</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-philipsburg">Philipsburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-phoenixville">Phoenixville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-pittsburgh">Pittsburgh</a>
+												<em>(4)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-pottstown">Pottstown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-pottsville">Pottsville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-quakertown">Quakertown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-quarryville">Quarryville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-reading">Reading</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-red_lion">Red Lion</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-scranton">Scranton</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-selinsgrove">Selinsgrove</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-shamokin">Shamokin</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-shenandoah">Shenandoah</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-shillington">Shillington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-shrewsbury">Shrewsbury</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-somerset">Somerset</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-spring_city">Spring City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-springdale">Springdale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-springfield">Springfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-state_college">State College</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-sunbury">Sunbury</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-susquehanna">Susquehanna</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-tamaqua">Tamaqua</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-toughkenamon">Toughkenamon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-towanda">Towanda</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-tunkhannock">Tunkhannock</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-turtle_creek">Turtle Creek</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-uniontown">Uniontown</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-upper_darby">Upper Darby</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-warminster">Warminster</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-washington">Washington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-waynesburg">Waynesburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-wellsboro">Wellsboro</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-west_chester">West Chester</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-wilkes-barre">Wilkes-Barre</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-williamsport">Williamsport</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/pa-york">York</a>
+												<em>(1)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222" title="Allegheny County Wic Program">Allegheny County Wic Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Allegheny County Wic Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    239 Fourth Avenue<br />
+                    Pittsburgh, PA - 15222<br />
+                    412-350-5801<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222">Website</a></span>            </div>
+            <p>Investment Building, 6th FloorOffice hoursMon-Fri: 8 AM-4:30 PMWIC serves income-eligible and medically or nutritionally at-risk pregnant women, breastfeeding mothers, infants and children under age five.WIC offers nutrition counseling and food vouchers redeemable at participating grocery stores for</p>
+            <a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201" title="Lawrenceville Center Wic Office">Lawrenceville Center Wic Office</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Lawrenceville Center Wic Office"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    3936 Butler Street<br />
+                    Pittsburgh, PA - 15201<br />
+                    412.578.8165<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201">Website</a></span>            </div>
+            <p>Monday - Friday7:30 a.m. - 4:00 p.m.Saturday appointments available.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants.  To enroll, the applicant's health care provider must complete a WIC application form.  You can enroll at this location.  The WIC P</p>
+            <a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210" title="Upmc South Pittsburgh Health Center - Mt. Oliver ">Upmc South Pittsburgh Health Center - Mt. Oliver </a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Upmc South Pittsburgh Health Center - Mt. Oliver "  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1630 Arlington Avenue<br />
+                    Mt. Oliver, PA - 15210<br />
+                    412.4812780<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210">Website</a></span>            </div>
+            <p>Monday - Friday8:00 a.m. - 4:00 p.m.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants.  To enroll, the applicant's health care provider must complete a WIC application form.  You can enroll at this location.  The WIC Program will review the completed</p>
+            <a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145" title="Westinghouse Valley Human Service Center">Westinghouse Valley Human Service Center</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Westinghouse Valley Human Service Center"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    519 Penn Avenue<br />
+                    Turtle Creek, PA - 15145<br />
+                    412.823.1333<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145">Website</a></span>            </div>
+            <p>Monday - Friday8:00 a.m. - 4:00 p.m. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must complete a WIC application form. You can enroll at this location. The WIC Program will review the completed a</p>
+            <a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/pa-family_planning_plus_wic_lewisburg" title="Family Planning Plus WIC Lewisburg">Family Planning Plus WIC Lewisburg</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/pa-family_planning_plus_wic_lewisburg" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Family Planning Plus WIC Lewisburg"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    4612 Westbranch Highway<br />
+                    Lewisburg, PA - 17837<br />
+                    570-523-6666<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/pa-family_planning_plus_wic_lewisburg">Website</a></span>            </div>
+            <p>WIC office hours: Tuesdays, Wednesdays, Thursdays 8am - 4pm. 
+
+WIC  is a federally funded program for eligible pregnant, breastfeeding and post-partum women and their children under five years old. Its objective is to improve the nutritional status of every participant by providing nutritionally v</p>
+            <a href="http://www.wicprograms.org/li/pa-family_planning_plus_wic_lewisburg" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106" title="Carnegie - 115 Wic Enrollment">Carnegie - 115 Wic Enrollment</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Carnegie - 115 Wic Enrollment"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1100 Washington Avenue<br />
+                    Carnegie, PA - 15106<br />
+                    412.278.2510<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106">Website</a></span>            </div>
+            <p>Monday - Friday8:00 a.m. - 4:00 p.m.Saturday appointments available.WIC is currently serving approximately 16,000 participants and has funding to serve more applicants.  To enroll, the applicant's health care provider must complete a WIC application form.  You can enroll at this location.  The WIC P</p>
+            <a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/clairton_health_center_wic_PA" title="Clairton Health Center Wic">Clairton Health Center Wic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/clairton_health_center_wic_PA" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Clairton Health Center Wic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    559 Miller Avenue<br />
+                    Clairton, PA - 15025<br />
+                    412.641.3267<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/clairton_health_center_wic_PA">Website</a></span>            </div>
+            <p>Monday and/or Thursday8:00 a.m. - 4:00 p.m. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants.  To enroll, the applicant's health care provider must complete a WIC application form.  You can enroll at this location.  The WIC Program will review the c</p>
+            <a href="http://www.wicprograms.org/li/clairton_health_center_wic_PA" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132" title="Mckeesport - 112 Wander Building Wic">Mckeesport - 112 Wander Building Wic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Mckeesport - 112 Wander Building Wic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    339 Fifth Avenue<br />
+                    Mckeesport, PA - 15132<br />
+                    412.664.8870<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132">Website</a></span>            </div>
+            <p>Monday - Friday8:00 a.m. - 4:00 p.m.Saturday appointments available. WIC is currently serving approximately 16,000 participants and has funding to serve more applicants.  To enroll, the applicant's health care provider must complete a WIC application form.  You can enroll at this location.  The WIC </p>
+            <a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/springdale_wic_program_15144" title="Springdale Wic Program">Springdale Wic Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/springdale_wic_program_15144" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Springdale Wic Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    830 Pittsburgh Street<br />
+                    Springdale, PA - 15144<br />
+                    724-274-6411<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/springdale_wic_program_15144">Website</a></span>            </div>
+            <p>Wed., Thursday &amp; Friday8:00 a.m. - 4:00 p.m.&nbsp;WIC is currently serving approximately 16,000 participants and has funding to serve more applicants.  To enroll, the applicant's health care provider must complete a WIC application form.  You can enroll at this location.  The WIC Program will re</p>
+            <a href="http://www.wicprograms.org/li/springdale_wic_program_15144" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/hosanna_house_wic_15221" title="Hosanna House Wic">Hosanna House Wic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/hosanna_house_wic_15221" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Hosanna House Wic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    807 Wallace Ave., Suite 202<br />
+                    Pittsburgh, PA - 15221<br />
+                    412.241.3860<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/hosanna_house_wic_15221">Website</a></span>            </div>
+            <p>Monday - Friday8:00 a.m. - 4:00 p.m WIC is currently serving approximately 16,000 participants and has funding to serve more applicants. To enroll, the applicant's health care provider must complete a WIC application form. You can enroll at this location. The WIC Program will review the completed ap</p>
+            <a href="http://www.wicprograms.org/li/hosanna_house_wic_15221" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                            
+
+                                <!-- Top cities start -->
+                                <aside class="widget">
+                                    <h3 class="widget-title">Pennsylvania WIC</h3>
+                                    <ul class="widget-list">
+                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-abington" alt="Abington WIC Programs" title="Abington WIC Programs">Abington <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-aliquippa" alt="Aliquippa WIC Programs" title="Aliquippa WIC Programs">Aliquippa <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-allentown" alt="Allentown WIC Programs" title="Allentown WIC Programs">Allentown <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-altoona" alt="Altoona WIC Programs" title="Altoona WIC Programs">Altoona <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-beaver_falls" alt="Beaver Falls WIC Programs" title="Beaver Falls WIC Programs">Beaver Falls <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-bensalem" alt="Bensalem WIC Programs" title="Bensalem WIC Programs">Bensalem <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-bethlehem" alt="Bethlehem WIC Programs" title="Bethlehem WIC Programs">Bethlehem <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-bloomsburg" alt="Bloomsburg WIC Programs" title="Bloomsburg WIC Programs">Bloomsburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-boyertown" alt="Boyertown WIC Programs" title="Boyertown WIC Programs">Boyertown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-broad_top" alt="Broad Top WIC Programs" title="Broad Top WIC Programs">Broad Top <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-butler" alt="Butler WIC Programs" title="Butler WIC Programs">Butler <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-carlisle" alt="Carlisle WIC Programs" title="Carlisle WIC Programs">Carlisle <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-carmichaels" alt="Carmichaels WIC Programs" title="Carmichaels WIC Programs">Carmichaels <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-carnegie" alt="Carnegie WIC Programs" title="Carnegie WIC Programs">Carnegie <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-carrolltown" alt="Carrolltown WIC Programs" title="Carrolltown WIC Programs">Carrolltown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-chester" alt="Chester WIC Programs" title="Chester WIC Programs">Chester <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-clairton" alt="Clairton WIC Programs" title="Clairton WIC Programs">Clairton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-clearfield" alt="Clearfield WIC Programs" title="Clearfield WIC Programs">Clearfield <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-coalport" alt="Coalport WIC Programs" title="Coalport WIC Programs">Coalport <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-coatesville" alt="Coatesville WIC Programs" title="Coatesville WIC Programs">Coatesville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-columbia" alt="Columbia WIC Programs" title="Columbia WIC Programs">Columbia <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-connellsville" alt="Connellsville WIC Programs" title="Connellsville WIC Programs">Connellsville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-delta" alt="Delta WIC Programs" title="Delta WIC Programs">Delta <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-dillsburg" alt="Dillsburg WIC Programs" title="Dillsburg WIC Programs">Dillsburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-dover" alt="Dover WIC Programs" title="Dover WIC Programs">Dover <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-doylestown" alt="Doylestown WIC Programs" title="Doylestown WIC Programs">Doylestown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-dubois" alt="DuBois WIC Programs" title="DuBois WIC Programs">DuBois <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-east_stroudsburg" alt="East Stroudsburg WIC Programs" title="East Stroudsburg WIC Programs">East Stroudsburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-easton" alt="Easton WIC Programs" title="Easton WIC Programs">Easton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-ebensburg" alt="Ebensburg WIC Programs" title="Ebensburg WIC Programs">Ebensburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-ephrata" alt="Ephrata WIC Programs" title="Ephrata WIC Programs">Ephrata <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-fairchance" alt="Fairchance WIC Programs" title="Fairchance WIC Programs">Fairchance <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-gettysburg" alt="Gettysburg WIC Programs" title="Gettysburg WIC Programs">Gettysburg <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-greenboro" alt="Greenboro WIC Programs" title="Greenboro WIC Programs">Greenboro <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-greensburg" alt="Greensburg WIC Programs" title="Greensburg WIC Programs">Greensburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-hanover" alt="Hanover WIC Programs" title="Hanover WIC Programs">Hanover <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-harrisburg" alt="Harrisburg WIC Programs" title="Harrisburg WIC Programs">Harrisburg <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-hawley" alt="Hawley WIC Programs" title="Hawley WIC Programs">Hawley <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-hazleton" alt="Hazleton WIC Programs" title="Hazleton WIC Programs">Hazleton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-hiller" alt="Hiller WIC Programs" title="Hiller WIC Programs">Hiller <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-houtzdale" alt="Houtzdale WIC Programs" title="Houtzdale WIC Programs">Houtzdale <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-indiana" alt="Indiana WIC Programs" title="Indiana WIC Programs">Indiana <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-jermyn" alt="Jermyn WIC Programs" title="Jermyn WIC Programs">Jermyn <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-johnstown" alt="Johnstown WIC Programs" title="Johnstown WIC Programs">Johnstown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-kingston" alt="Kingston WIC Programs" title="Kingston WIC Programs">Kingston <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-kittanning" alt="Kittanning WIC Programs" title="Kittanning WIC Programs">Kittanning <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lancaster" alt="Lancaster WIC Programs" title="Lancaster WIC Programs">Lancaster <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lansdale" alt="Lansdale WIC Programs" title="Lansdale WIC Programs">Lansdale <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-laporte" alt="Laporte WIC Programs" title="Laporte WIC Programs">Laporte <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-latrobe" alt="Latrobe WIC Programs" title="Latrobe WIC Programs">Latrobe <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lehighton" alt="Lehighton WIC Programs" title="Lehighton WIC Programs">Lehighton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-levittown" alt="Levittown WIC Programs" title="Levittown WIC Programs">Levittown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lewisberry" alt="Lewisberry WIC Programs" title="Lewisberry WIC Programs">Lewisberry <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lewisburg" alt="Lewisburg WIC Programs" title="Lewisburg WIC Programs">Lewisburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lewistown" alt="Lewistown WIC Programs" title="Lewistown WIC Programs">Lewistown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-lock_haven" alt="Lock Haven WIC Programs" title="Lock Haven WIC Programs">Lock Haven <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-masontown" alt="Masontown WIC Programs" title="Masontown WIC Programs">Masontown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-mckees_rocks" alt="Mckees Rocks WIC Programs" title="Mckees Rocks WIC Programs">Mckees Rocks <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-mckeesport" alt="Mckeesport WIC Programs" title="Mckeesport WIC Programs">Mckeesport <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-meadville" alt="Meadville WIC Programs" title="Meadville WIC Programs">Meadville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-middleburg" alt="Middleburg WIC Programs" title="Middleburg WIC Programs">Middleburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-monessen" alt="Monessen WIC Programs" title="Monessen WIC Programs">Monessen <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-monesson" alt="Monesson WIC Programs" title="Monesson WIC Programs">Monesson <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-mt_pocono" alt="Mt Pocono WIC Programs" title="Mt Pocono WIC Programs">Mt Pocono <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-mt._oliver" alt="Mt. Oliver WIC Programs" title="Mt. Oliver WIC Programs">Mt. Oliver <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-new_castle" alt="New Castle WIC Programs" title="New Castle WIC Programs">New Castle <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-new_milford" alt="New Milford WIC Programs" title="New Milford WIC Programs">New Milford <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-noell" alt="Noell WIC Programs" title="Noell WIC Programs">Noell <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-norristown" alt="Norristown WIC Programs" title="Norristown WIC Programs">Norristown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-oxford" alt="Oxford WIC Programs" title="Oxford WIC Programs">Oxford <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-philadelphia" alt="Philadelphia WIC Programs" title="Philadelphia WIC Programs">Philadelphia <em>(3)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-philipsburg" alt="Philipsburg WIC Programs" title="Philipsburg WIC Programs">Philipsburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-phoenixville" alt="Phoenixville WIC Programs" title="Phoenixville WIC Programs">Phoenixville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-pittsburgh" alt="Pittsburgh WIC Programs" title="Pittsburgh WIC Programs">Pittsburgh <em>(4)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-pottstown" alt="Pottstown WIC Programs" title="Pottstown WIC Programs">Pottstown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-pottsville" alt="Pottsville WIC Programs" title="Pottsville WIC Programs">Pottsville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-quakertown" alt="Quakertown WIC Programs" title="Quakertown WIC Programs">Quakertown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-quarryville" alt="Quarryville WIC Programs" title="Quarryville WIC Programs">Quarryville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-reading" alt="Reading WIC Programs" title="Reading WIC Programs">Reading <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-red_lion" alt="Red Lion WIC Programs" title="Red Lion WIC Programs">Red Lion <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-scranton" alt="Scranton WIC Programs" title="Scranton WIC Programs">Scranton <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-selinsgrove" alt="Selinsgrove WIC Programs" title="Selinsgrove WIC Programs">Selinsgrove <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-shamokin" alt="Shamokin WIC Programs" title="Shamokin WIC Programs">Shamokin <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-shenandoah" alt="Shenandoah WIC Programs" title="Shenandoah WIC Programs">Shenandoah <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-shillington" alt="Shillington WIC Programs" title="Shillington WIC Programs">Shillington <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-shrewsbury" alt="Shrewsbury WIC Programs" title="Shrewsbury WIC Programs">Shrewsbury <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-somerset" alt="Somerset WIC Programs" title="Somerset WIC Programs">Somerset <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-spring_city" alt="Spring City WIC Programs" title="Spring City WIC Programs">Spring City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-springdale" alt="Springdale WIC Programs" title="Springdale WIC Programs">Springdale <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-springfield" alt="Springfield WIC Programs" title="Springfield WIC Programs">Springfield <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-state_college" alt="State College WIC Programs" title="State College WIC Programs">State College <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-sunbury" alt="Sunbury WIC Programs" title="Sunbury WIC Programs">Sunbury <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-susquehanna" alt="Susquehanna WIC Programs" title="Susquehanna WIC Programs">Susquehanna <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-tamaqua" alt="Tamaqua WIC Programs" title="Tamaqua WIC Programs">Tamaqua <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-toughkenamon" alt="Toughkenamon WIC Programs" title="Toughkenamon WIC Programs">Toughkenamon <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-towanda" alt="Towanda WIC Programs" title="Towanda WIC Programs">Towanda <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-tunkhannock" alt="Tunkhannock WIC Programs" title="Tunkhannock WIC Programs">Tunkhannock <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-turtle_creek" alt="Turtle Creek WIC Programs" title="Turtle Creek WIC Programs">Turtle Creek <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-uniontown" alt="Uniontown WIC Programs" title="Uniontown WIC Programs">Uniontown <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-upper_darby" alt="Upper Darby WIC Programs" title="Upper Darby WIC Programs">Upper Darby <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-warminster" alt="Warminster WIC Programs" title="Warminster WIC Programs">Warminster <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-washington" alt="Washington WIC Programs" title="Washington WIC Programs">Washington <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-waynesburg" alt="Waynesburg WIC Programs" title="Waynesburg WIC Programs">Waynesburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-wellsboro" alt="Wellsboro WIC Programs" title="Wellsboro WIC Programs">Wellsboro <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-west_chester" alt="West Chester WIC Programs" title="West Chester WIC Programs">West Chester <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-wilkes-barre" alt="Wilkes-Barre WIC Programs" title="Wilkes-Barre WIC Programs">Wilkes-Barre <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-williamsport" alt="Williamsport WIC Programs" title="Williamsport WIC Programs">Williamsport <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/pa-york" alt="York WIC Programs" title="York WIC Programs">York <em>(1)</em></a></li>                                                                            </ul>
+                                </aside>
+                                <!-- Top cities end -->
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/allegheny_county_wic_program_15222">Allegheny County Wic Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Pittsburgh,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/lawrenceville_center_wic_office_15201">Lawrenceville Center Wic Office</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Pittsburgh,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/upmc_south_pittsburgh_health_center_mt._oliver_136_15210">Upmc South Pittsburgh Health Center - Mt. Oliver </a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Mt. Oliver,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/westinghouse_valley_human_service_center_15145">Westinghouse Valley Human Service Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Turtle Creek,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/pa-family_planning_plus_wic_lewisburg">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/pa-family_planning_plus_wic_lewisburg">Family Planning Plus WIC Lewisburg</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Lewisburg,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/carnegie_115_wic_enrollment_15106">Carnegie - 115 Wic Enrollment</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Carnegie,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/clairton_health_center_wic_PA">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/clairton_health_center_wic_PA">Clairton Health Center Wic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Clairton,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/mckeesport_112_wander_building_wic_15132">Mckeesport - 112 Wander Building Wic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Mckeesport,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/springdale_wic_program_15144">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/springdale_wic_program_15144">Springdale Wic Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Springdale,PA</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/hosanna_house_wic_15221">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/hosanna_house_wic_15221">Hosanna House Wic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Pittsburgh,PA</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2016</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-3966987-23', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

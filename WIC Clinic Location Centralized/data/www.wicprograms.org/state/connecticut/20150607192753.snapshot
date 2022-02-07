@@ -1,0 +1,598 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Connecticut WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="Connecticut Programs,Connecticut WIC Clinics,Connecticut WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/ar/privacy-policy" title="Login">Privacy Policy</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+            
+            	<br />
+			<center><h3>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</h3></center>
+            
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>Connecticut WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; Connecticut
+                
+				<p>
+				<br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />
+				<br /><strong>Connecticut WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Connecticut on the right. Find your local WIC location using our Connecticut search below. 
+				<br />
+				</p>
+                <p>
+				<script type="text/javascript"><!--
+                google_ad_client = "ca-pub-2985566993569762";
+                /* wicprograms336x280 */
+                google_ad_slot = "7064662665";
+                google_ad_width = 336;
+                google_ad_height = 280;
+                //-->
+                </script>
+                <script type="text/javascript"
+                src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By Connecticut City: </h2>
+		
+			<b>Enter city name in Connecticut</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="CT" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>Connecticut WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/bristol_hospital_wic_program_06010" title="Bristol Hospital WIC Program - Main Street Office">Bristol Hospital WIC Program - Main Street Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/bristol_hospital_wic_program_06010" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Bristol Hospital WIC Program - Main Street Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                450 Main Street<br />
+                New Britain, CT - 06051<br />
+                860-225-8695<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/bristol_hospital_wic_program_06010">Website</a></span>            </div>
+			<p>To apply for WIC benefits in Connecticut, you need to visit your local WIC office. This office serves: New Britain, Berlin, Kensington.
+	WIC Eligibility in CTWIC Office hours: Mondays 8am-5:45pm; Tuesdays through Thursdays: 8am-4:45pm; Fridays: 8am-2:45pmTo be Eligible you must:Live in ConnecticutH</p>
+            <a href="http://www.wicprograms.org/li/bristol_hospital_wic_program_06010" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct_06010_bristol-hospital-wic-program-prospect-st" title="Bristol Hospital WIC Program - Prospect St">Bristol Hospital WIC Program - Prospect St</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct_06010_bristol-hospital-wic-program-prospect-st" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Bristol Hospital WIC Program - Prospect St"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                9 Prospect Street<br />
+                Bristol, CT - 06010<br />
+                860-585-3280<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ct_06010_bristol-hospital-wic-program-prospect-st">Website</a></span>            </div>
+			<p>This WIC office serves: Avon, Bristol, Burlington, Canton, Collinsville, Farmington*, 
+Granby, Marion, Milldale, Pequabuck, Plainville*, Plantsville, Plymouth,
+ Simsbury, Southington*, Terryville*, Unionville. The * signifies a satellite office. WIC Office hours: M,T,Th,F: 8am-5pm; W: 8am-6pm.To b</p>
+            <a href="http://www.wicprograms.org/li/ct_06010_bristol-hospital-wic-program-prospect-st" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/access_agency_wic_program_06226" title="ACCESS Agency WIC Program">ACCESS Agency WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/access_agency_wic_program_06226" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="ACCESS Agency WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1315 Main Street<br />
+                Willimantic, CT - 06226<br />
+                (860) 450-7405<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/access_agency_wic_program_06226">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/access_agency_wic_program_06226">Website</a></span>            </div>
+			<p>To apply for WIC benefits in Connecticut, you need to visit your local WIC office. 
+	WIC Eligibility in CTTo be eligible for WIC you need the following: Be a pregnant woman or be within 6 months after birth or after pregnancy ended.Be breastfeeding, up to 1 year old for the child.Be a postpartum wo</p>
+            <a href="http://www.wicprograms.org/li/access_agency_wic_program_06226" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct_06608_optimus-health-care-east-main-office" title="Optimus Health Care East Main Office">Optimus Health Care East Main Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct_06608_optimus-health-care-east-main-office" title=""><img src="http://www.wicprograms.org/gallery/6427_ct_06608_optimus-health-care-east-main-office_tev.png" alt="Optimus Health Care East Main Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                982 East Main Street<br />
+                Bridgeport, CT - 06608<br />
+                (203) 696-3260<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ct_06608_optimus-health-care-east-main-office">Website</a></span>            </div>
+			<p>Office hours:Mondays, Wednesdays, Thursdays, Friday (8:00a.m.-5:00p.m.)Tuesday:&nbsp; (8:00a.m.-7:00p.m.)Saturday: (9:00a.m. – 1:00 p.m.)To be Eligible you must:Live in ConnecticutHave a gross income that falls within specific guidelinesORYou automatically qualify if participating in food stamps, </p>
+            <a href="http://www.wicprograms.org/li/ct_06608_optimus-health-care-east-main-office" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct-killingly_ct_wic_office_killingly_community_center" title="Killingly CT WIC Office - Killingly Community Center">Killingly CT WIC Office - Killingly Community Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct-killingly_ct_wic_office_killingly_community_center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Killingly CT WIC Office - Killingly Community Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                185 Broad Street<br />
+                Killingly, CT - 06239<br />
+                (860) 928-3660<br />
+		                </p>                       
+                                            </div>
+			<p>Open 2nd and 4th Friday of each month - 8:00 am - 4:30 pm
+Differing Saturday each month -
+8:00 am - 11:30 am (please contact us for this months schedule).To be Eligible you must:Live in ConnecticutHave a gross income that falls within specific guidelinesORYou automatically qualify if participating</p>
+            <a href="http://www.wicprograms.org/li/ct-killingly_ct_wic_office_killingly_community_center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/naugatuck-valley-health-district" title="Naugatuck Valley Health District WIC Office">Naugatuck Valley Health District WIC Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/naugatuck-valley-health-district" title=""><img src="http://www.wicprograms.org/gallery/5759_naugatuck-valley-health-district_wlm.png" alt="Naugatuck Valley Health District WIC Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                98 Bank St<br />
+                Seymour, CT - 06483<br />
+                (203) 888-1271<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/naugatuck-valley-health-district">Website</a></span>            </div>
+			<p>Seymour Office Hours: Open M-F 8:30am to 4:00 Appointment required; Bilingual (English/Spanish) services available. WIC is a supplementary food program for low-income pregnant, breastfeeding and post-partum women, infants, and children under 5 years of age. WIC provides nutritious foods, referrals, </p>
+            <a href="http://www.wicprograms.org/li/naugatuck-valley-health-district" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct_06112_hartford-wic-office" title="Hartford WIC Office Coventry St">Hartford WIC Office Coventry St</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct_06112_hartford-wic-office" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Hartford WIC Office Coventry St"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                131 Coventry Street<br />
+                Hartford, CT - 06112<br />
+                (860) 757-4780<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ct_06112_hartford-wic-office">Website</a></span>            </div>
+			<p>Office hours: M,W,Th,F: 8am-5pm; T: 8am-6:30pm; Every other Sat: 9am-1pm.To be Eligible you must:Live in ConnecticutHave a gross income that falls within specific guidelinesORYou automatically qualify if participating in food stamps, TFA or Husky A Medical InsuranceCall for a WIC appointment. </p>
+            <a href="http://www.wicprograms.org/li/ct_06112_hartford-wic-office" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct_06106_hartford-santa-marquez-wic-center" title="Hartford - Santa Marquez WIC Center">Hartford - Santa Marquez WIC Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct_06106_hartford-santa-marquez-wic-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Hartford - Santa Marquez WIC Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                547 Park Street<br />
+                Hartford, CT - 06106<br />
+                (860) 757-4860<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ct_06106_hartford-santa-marquez-wic-center">Website</a></span>            </div>
+			<p>Hours: Mon, Wed, Thurs, and Fri: 8:00am – 5:00pm Tues: 8:00am – 6:30pm Saturday (2x month) 9:00am- 1:00pm</p>
+            <a href="http://www.wicprograms.org/li/ct_06106_hartford-santa-marquez-wic-center" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct_06110_hillcrest-neighborhood-center-wic" title="Hillcrest Neighborhood Center WIC">Hillcrest Neighborhood Center WIC</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct_06110_hillcrest-neighborhood-center-wic" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Hillcrest Neighborhood Center WIC"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                105 Hillcrest Avenue<br />
+                West Hartford, CT - 06110<br />
+                (860) 953-8875<br />
+		                </p>                       
+                                            </div>
+			<p>WIC Hours: 2 Thursdays per month: 9:30am – 3:45pm.</p>
+            <a href="http://www.wicprograms.org/li/ct_06110_hillcrest-neighborhood-center-wic" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/ct_06112_community-health-services-wic-office" title="Community Health Services WIC Office">Community Health Services WIC Office</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/ct_06112_community-health-services-wic-office" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Community Health Services WIC Office"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                500 Albany Avenue<br />
+                Hartford, CT - 06112<br />
+                (860) 249-9625<br />
+		                </p>                       
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/ct_06112_community-health-services-wic-office">Website</a></span>            </div>
+			<p>WIC Hours: 2 Thursdays per month: 9:45am – 4:00pm.To be Eligible you must:Live in ConnecticutHave a gross income that falls within specific guidelinesORYou automatically qualify if participating in food stamps, TFA or Husky A Medical InsuranceCall for a WIC appointment. </p>
+            <a href="http://www.wicprograms.org/li/ct_06112_community-health-services-wic-office" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+	WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>Connecticut Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ct-bridgeport" alt="Bridgeport WIC Programs" title="Bridgeport WIC Programs">Bridgeport <em>(4)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-bristol" alt="Bristol WIC Programs" title="Bristol WIC Programs">Bristol <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-dale" alt="Dale WIC Programs" title="Dale WIC Programs">Dale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-danbury" alt="Danbury  WIC Programs" title="Danbury  WIC Programs">Danbury  <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-east_hartford" alt="East Hartford WIC Programs" title="East Hartford WIC Programs">East Hartford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-hartford" alt="Hartford WIC Programs" title="Hartford WIC Programs">Hartford <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-killingly" alt="Killingly WIC Programs" title="Killingly WIC Programs">Killingly <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-meriden" alt="Meriden WIC Programs" title="Meriden WIC Programs">Meriden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-middletown" alt="Middletown WIC Programs" title="Middletown WIC Programs">Middletown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-new_britain" alt="New Britain WIC Programs" title="New Britain WIC Programs">New Britain <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-new_haven" alt="New Haven WIC Programs" title="New Haven WIC Programs">New Haven <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-new_london" alt="New London WIC Programs" title="New London WIC Programs">New London <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-norwalk" alt="Norwalk WIC Programs" title="Norwalk WIC Programs">Norwalk <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-norwich" alt="Norwich WIC Programs" title="Norwich WIC Programs">Norwich <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-plainfield" alt="Plainfield WIC Programs" title="Plainfield WIC Programs">Plainfield <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-putnam" alt="Putnam WIC Programs" title="Putnam WIC Programs">Putnam <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-rockville" alt="Rockville WIC Programs" title="Rockville WIC Programs">Rockville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-seymour" alt="Seymour WIC Programs" title="Seymour WIC Programs">Seymour <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-shelton" alt="Shelton WIC Programs" title="Shelton WIC Programs">Shelton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-stamford" alt="Stamford WIC Programs" title="Stamford WIC Programs">Stamford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-torrington" alt="Torrington WIC Programs" title="Torrington WIC Programs">Torrington <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-waterbury" alt="Waterbury WIC Programs" title="Waterbury WIC Programs">Waterbury <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-west_hartford" alt="West Hartford WIC Programs" title="West Hartford WIC Programs">West Hartford <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ct-willimantic" alt="Willimantic WIC Programs" title="Willimantic WIC Programs">Willimantic <em>(1)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2015 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

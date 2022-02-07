@@ -1,0 +1,570 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<!-- Title -->
+	<title>WIC Programs | WIC Clinic Locations and Information</title>
+	
+	<!-- Meta tags -->
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="WIC Programs " />
+	<meta name="description" content="WIC Programs " />
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen, projection" href="http://www.wicprograms.org/templates/centizero/blue/css/screen.css" />
+	<!--[if IE 6]><link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" /><![endif]-->
+
+	<!-- Scripts -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/jquery.form.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/facybox.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/centizero/js/scripts.js"></script>
+
+	<!-- PNG transparency fix for IE 6 -->
+	<!--[if IE 6]>
+	<script src="http://www.wicprograms.org/templates/centizero/js/DD_belatedPNG.js"></script>
+	<script>DD_belatedPNG.fix('#logo h1, a.more, div.content ul li, div.content  blockquote, div.content p.call a.quote, p.call a.viewwork, div.content p.tip, div.content a.top, a.top, div.post ul li, div.content div.post div.meta p.author, div.comment-area ul.comments li a.reply, div.content form input[type=submit], div.about a.more-about, div.about a.view-work, div.side-box p.call a.quote, #featured-nav a');</script>
+	<![endif]-->
+
+
+</head>
+
+<body class="home">
+
+<div id="container">
+
+	<div class="grid"><!-- GRID --></div>
+
+	<div id="header" class="group">
+	
+		<div id="logo">
+			<h1><a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a></h1>
+			<strong>Not associated with USDA</strong>
+					
+		</div><!-- /logo -->
+	
+		<ul id="nav">
+			<li class="current"><a href="http://www.wicprograms.org/" title="WIC Programs">Home</a></li>
+			<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+			<li><a href="http://www.wicprograms.org/listing_add.php">Add Listing</a></li>
+			<li><a href="http://www.wicprograms.org/search.php">Search</a></li>
+					</ul>
+		
+	</div><!-- /header -->
+	<div class="group">
+	
+		<div id="secondary">
+
+			<!-- Search widget start -->
+
+    <div class="about group">
+        <h2>WIC Programs</h2>
+        			
+             <div class="widget">
+	<!-- Total Entries Start -->
+	There are a total of <strong>1774</strong> entries listed in our database.<br />
+	Entries pending approval: <strong>0</strong><br />
+	<!-- Total Entries End -->
+</div>
+			<div class="widget">
+
+	<!-- Total Members Start -->
+
+	There are a total of <strong>1021</strong> members.<br /> 
+
+	<a href="http://www.wicprograms.org/member_add.php">Join Now</a><br />
+
+	<!-- Total Members End -->
+
+</div>
+    <form action="http://www.wicprograms.org/state/" method="get">
+        Select a state:<br />
+        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+            <option>- Select a state -</option>
+            <option value="alabama">Alabama</option>
+            <option value="alaska">Alaska</option>
+            <option value="arizona">Arizona</option>
+            <option value="arkansas">Arkansas</option>
+            <option value="california">California</option>
+            <option value="colorado">Colorado</option>
+            <option value="connecticut">Connecticut</option>
+            <option value="delaware">Delaware</option>
+            <option value="district_of_columbia">District of Columbia</option>
+            <option value="florida">Florida</option>
+            <option value="georgia">Georgia</option>
+            <option value="hawaii">Hawaii</option>
+            <option value="idaho">Idaho</option>
+            <option value="illinois">Illinois</option>
+            <option value="indiana">Indiana</option>
+            <option value="iowa">Iowa</option>
+            <option value="kansas">Kansas</option>
+            <option value="kentucky">Kentucky</option>
+            <option value="louisiana">Louisiana</option>
+            <option value="maine">Maine</option>
+            <option value="maryland">Maryland</option>
+            <option value="massachusetts">Massachusetts</option>
+            <option value="michigan">Michigan</option>
+            <option value="minnesota">Minnesota</option>
+            <option value="mississippi">Mississippi</option>
+            <option value="missouri">Missouri</option>
+            <option value="montana">Montana</option>
+            <option value="nebraska">Nebraska</option>
+            <option value="nevada">Nevada</option>
+            <option value="new_hampshire">New Hampshire</option>
+            <option value="new_jersey">New Jersey</option>
+            <option value="new_mexico">New Mexico</option>
+            <option value="new_york">New York</option>
+            <option value="north_carolina">North Carolina</option>
+            <option value="north_dakota">North Dakota</option>
+            <option value="ohio">Ohio</option>
+            <option value="oklahoma">Oklahoma</option>
+            <option value="oregon">Oregon</option>
+            <option value="pennsylvania">Pennsylvania</option>
+            <option value="rhode_island">Rhode Island</option>
+            <option value="south_carolina">South Carolina</option>
+            <option value="south_dakota">South Dakota</option>
+            <option value="tennessee">Tennessee</option>
+            <option value="texas">Texas</option>
+            <option value="utah">Utah</option>
+            <option value="vermont">Vermont</option>
+            <option value="virginia">Virginia</option>
+            <option value="washington">Washington</option>
+            <option value="west_virginia">West Virginia</option>
+            <option value="wisconsin">Wisconsin</option>
+            <option value="wyoming">Wyoming</option>
+        </select>
+           <input type="submit" value="Submit" class="login" />
+    </form>			
+    <strong>-OR-</strong><br />
+    <form action="http://www.wicprograms.org/zip.php" method="get">
+        Enter a zip code:<br />
+        <input type="text" name="zip" size="10" />
+        <input type="submit" value="Submit" class="login" />
+    </form>
+    </div><!-- /.about -->
+
+
+<!-- Search widget end -->			
+            
+				<!-- Login start -->
+
+			<div class="side-box group contact">
+				<h4 class="contact">Login</h4>
+				<form name="memberLogin" action="http://www.wicprograms.org/login.php" method="post">
+        
+        
+				<p>Login:<br />
+	<input type="text" name="email" class="txtBox" value="Your Email" onfocus="javascript:if(this.value=='Your Email'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'Your Email';}" /></p>
+				<p>Password:<br />
+<input type="password" name="password" class="txtBox" value="password" onfocus="javascript:if(this.value=='password'){this.value = '';}" onblur="javascript:if(this.value==''){this.value = 'password';}"/><br />
+			<input type="hidden" name="return_url" value="/" />
+			<input type="submit" name="login" value="Login" class="login" /></p>
+				<p><a href="http://www.wicprograms.org/forgot_password.php">Forgot Password?</a> | <a href="http://www.wicprograms.org/member_add.php">Register</a></p>			
+		</form>
+			</div><!-- /.side-box -->
+
+
+	<!-- Login end -->
+            <!-- Top States Start -->
+
+			<div class="side-box group">
+				<h4 class="news">Find WIC Clinics By State</h4>
+				<ul>
+						<li>
+						<a href="http://www.wicprograms.org/state/alabama" title="Alabama WIC Programs" >Alabama WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/alaska" title="Alaska WIC Programs" >Alaska WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/arizona" title="Arizona WIC Programs" >Arizona WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/arkansas" title="Arkansas WIC Programs" >Arkansas WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/california" title="California WIC Programs" >California WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/colorado" title="Colorado WIC Programs" >Colorado WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/connecticut" title="Connecticut WIC Programs" >Connecticut WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/delaware" title="Delaware WIC Programs" >Delaware WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/district_of_columbia" title="District of Columbia WIC Programs" >District of Columbia WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/florida" title="Florida WIC Programs" >Florida WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/georgia" title="Georgia WIC Programs" >Georgia WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/hawaii" title="Hawaii WIC Programs" >Hawaii WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/idaho" title="Idaho WIC Programs" >Idaho WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/illinois" title="Illinois WIC Programs" >Illinois WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/indiana" title="Indiana WIC Programs" >Indiana WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/iowa" title="Iowa WIC Programs" >Iowa WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/kansas" title="Kansas WIC Programs" >Kansas WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/kentucky" title="Kentucky WIC Programs" >Kentucky WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/louisiana" title="Louisiana WIC Programs" >Louisiana WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/maine" title="Maine WIC Programs" >Maine WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/maryland" title="Maryland WIC Programs" >Maryland WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/massachusetts" title="Massachusetts WIC Programs" >Massachusetts WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/michigan" title="Michigan WIC Programs" >Michigan WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/minnesota" title="Minnesota WIC Programs" >Minnesota WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/mississippi" title="Mississippi WIC Programs" >Mississippi WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/missouri" title="Missouri WIC Programs" >Missouri WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/montana" title="Montana WIC Programs" >Montana WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/nebraska" title="Nebraska WIC Programs" >Nebraska WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/nevada" title="Nevada WIC Programs" >Nevada WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/new_hampshire" title="New Hampshire WIC Programs" >New Hampshire WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/new_jersey" title="New Jersey WIC Programs" >New Jersey WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/new_mexico" title="New Mexico WIC Programs" >New Mexico WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/new_york" title="New York WIC Programs" >New York WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/north_carolina" title="North Carolina WIC Programs" >North Carolina WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/north_dakota" title="North Dakota WIC Programs" >North Dakota WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/ohio" title="Ohio WIC Programs" >Ohio WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/oklahoma" title="Oklahoma WIC Programs" >Oklahoma WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/oregon" title="Oregon WIC Programs" >Oregon WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/pennsylvania" title="Pennsylvania WIC Programs" >Pennsylvania WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/rhode_island" title="Rhode Island WIC Programs" >Rhode Island WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/south_carolina" title="South Carolina WIC Programs" >South Carolina WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/south_dakota" title="South Dakota WIC Programs" >South Dakota WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/tennessee" title="Tennessee WIC Programs" >Tennessee WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/texas" title="Texas WIC Programs" >Texas WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/utah" title="Utah WIC Programs" >Utah WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/vermont" title="Vermont WIC Programs" >Vermont WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/virginia" title="Virginia WIC Programs" >Virginia WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/washington" title="Washington WIC Programs" >Washington WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/west_virginia" title="West Virginia WIC Programs" >West Virginia WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/wisconsin" title="Wisconsin WIC Programs" >Wisconsin WIC Clinics</a> 
+					</li>
+						<li>
+						<a href="http://www.wicprograms.org/state/wyoming" title="Wyoming WIC Programs" >Wyoming WIC Clinics</a> 
+					</li>
+					</ul>
+							
+			</div><!-- /.side-box -->
+
+<!-- Top States End -->
+			
+					
+			
+		</div><!-- /secondary -->
+	
+		<div id="main">
+	
+			<div style="text-align:center">
+
+				<!-- US Map Start -->
+
+<img src="http://www.wicprograms.org/templates/centizero//images/us_region_map.gif" alt="search map"  border="0" usemap="#Map2" style="margin:2px;"/>
+
+<map name="Map2" id="Map2">
+
+
+<area shape="poly" coords="79,230,89,211,40,140,45,117,63,120,63,111,74,104,65,101,85,93,95,82,97,35,47,29,18,52,32,61,30,79,19,108,20,112,15,122,18,129,18,140,23,146,20,151,23,154,21,158,25,171,28,174,30,188,34,196" href="http://www.wicprograms.org/re/pacific" alt="Pacific WIC Programs" />
+
+<area shape="poly" coords="60,271,80,279,179,329,130,376,71,347,36,362,50,357,39,336,29,330,51,319,41,315,36,302,50,296,40,293,40,284,52,288,46,278" href="http://www.wicprograms.org/re/pacific" alt="Pacific WIC Programs" />
+
+<area shape="poly" coords="95,35,194,49,192,113,203,113,202,144,195,143,192,254,155,248,129,250,83,229,83,191,51,151,65,123,89,84,118,97,91,70,127,69,95,54" href="http://www.wicprograms.org/re/mountain" alt="Mountain Rent Assitance" />
+
+<area shape="poly" coords="195,41,282,51,289,55,291,54,309,56,299,68,294,79,297,88,305,92,313,107,309,113,306,121,314,130,317,135,325,145,320,154,317,150,329,199,304,197,285,192,213,191,200,129" href="http://www.wicprograms.org/re/west_north_central" alt="West North Central WIC Programs" />
+
+<area shape="poly" coords="168,259,192,259,201,192,249,187,291,191,280,207,331,192,320,230,318,245,313,258,342,274,291,272,336,285,284,280,272,276,292,280,279,298,256,319,235,298,267,326,220,305,209,287,205,278,195,277,191,285,178,276,181,270" href="http://www.wicprograms.org/re/west_south_central" alt="West South Central WIC Programs" />
+
+<area shape="poly" coords="307,80,336,50,365,65,361,94,371,75,374,92,383,97,387,103,389,113,396,117,393,132,400,133,409,127,412,142,403,156,390,151,380,164,371,165,367,172,329,182,323,165,312,154,319,134,320,125,314,122" href="http://www.wicprograms.org/re/east_north_central" alt="East North Central WIC Programs" />
+
+<area shape="poly" coords="342,195,345,197,350,190,357,188,369,176,381,180,383,186,379,192,389,193,376,209,366,210,374,230,375,240,357,243,358,248,345,249,342,244,330,245,334,237,331,225" href="http://www.wicprograms.org/re/east_south_central" alt="East South Central WIC Programs" />
+
+<area shape="poly" coords="415,98,420,137,464,128,506,122,481,90,478,81,470,84,469,70,461,54,452,57,449,65,448,71,434,74,436,80" href="http://www.wicprograms.org/re/mid_atlantic" alt="Mid Atlantic WIC Programs" />
+
+<area shape="poly" coords="373,250,373,253,377,260,389,256,398,253,398,264,409,269,422,289,435,307,453,309,432,271,423,258,418,245,421,232,436,221,438,204,443,196,495,181,496,127,427,129,441,147,408,154,397,172,403,180,394,184,396,189,394,202,373,208,380,209,388,230,390,240,390,249" href="http://www.wicprograms.org/re/south_atlantic" alt="South Atlantic WIC Programs" />
+
+<area shape="poly" coords="473,40,467,28,473,13,502,-3,518,16,532,22,514,55,512,72,500,112,484,81,491,68,476,78,472,60" href="http://www.wicprograms.org/re/new_england" alt="New England WIC Programs" />
+
+</map>			
+
+<!-- US Map End -->
+			</div><!-- /featured -->
+			
+			<div id="headline">
+
+				<h2>Find WIC clinics and office locations.</h2>
+				<p>WICPrograms.org is not in any way associated with the Official WIC Program offered by the USDA</p>
+			
+			</div><!-- /headline -->
+
+            	<!-- Latest Entries Start -->
+
+			<div id="latest" class="group">
+				<h3>Latest WIC Locations (Clinics and Offices)</h3>
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/autauga_county_health_department">Autauga County Health Department - Prattville</a></h5>
+		Prattville, AL - 36067<br />
+		(334) 361-3743<br />
+		The Autauga County Health Department provides many services to the public. WIC is one of the many.Women, Infants, and Children (WIC) - Application, Voucher Issuance, and Nutrition Counseling.Women, In...<br />
+                 <a href="http://www.wicprograms.org/li/autauga_county_health_department">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-baldwin_county_health_department_clinic">Baldwin County Health Department Clinic - Robertsdale</a></h5>
+		Robertsdale, AL - 36567<br />
+		(251) 947-1910<br />
+		The Baldwin County Health Department provides the following clinic services to the public. &nbsp;&nbsp;&nbsp; ALL Kids&nbsp;&nbsp;&nbsp; Breast and Cervical Cancer Early Detection Program&nbsp;&nbsp;&...<br />
+                 <a href="http://www.wicprograms.org/li/al-baldwin_county_health_department_clinic">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-mobile_county_health_department">Mobile County Health Department - Mobile</a></h5>
+		Mobile, AL - 36603<br />
+		251-690-8829<br />
+		WIC\'s mission is to increase awareness among postpartum and breastfeeding women and parents/caretakers of participants age 1-5 years of the need to balance food intake and daily physical activity, to...<br />
+                 <a href="http://www.wicprograms.org/li/al-mobile_county_health_department">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/mobile_county_health_department_citronelle_clinic">Mobile County Health Department Citronelle Clinic - Mobile</a></h5>
+		Mobile, AL - 36522<br />
+		251-866-5940 <br />
+		WIC\'s mission is to increase awareness among postpartum and breastfeeding women and parents/caretakers of participants age 1-5 years of the need to balance food intake and daily physical activity, to...<br />
+                 <a href="http://www.wicprograms.org/li/mobile_county_health_department_citronelle_clinic">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/eight_mile_wic_clinic">Eight Mile WIC Clinic - Eight Mile</a></h5>
+		Eight Mile, AL - 36613<br />
+		(251) 457-4186<br />
+		WIC\'s mission is to increase awareness among postpartum and breastfeeding women and parents/caretakers of participants age 1-5 years of the need to balance food intake and daily physical activity, to...<br />
+                 <a href="http://www.wicprograms.org/li/eight_mile_wic_clinic">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-womens_center">Women\'s Center - Mobile</a></h5>
+		Mobile, AL - 36604<br />
+		(251) 690-8942<br />
+		WIC\'s mission is to increase awareness among postpartum and breastfeeding women and parents/caretakers of participants age 1-5 years of the need to balance food intake and daily physical activity, to...<br />
+                 <a href="http://www.wicprograms.org/li/al-womens_center">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-tillmans_corner_wic_clinic">Tillman\'s Corner WIC Clinic - Mobile</a></h5>
+		Mobile, AL - 36619<br />
+		(251) 602-8451<br />
+		WIC\'s mission is to increase awareness among postpartum and breastfeeding women and parents/caretakers of participants age 1-5 years of the need to balance food intake and daily physical activity, to...<br />
+                 <a href="http://www.wicprograms.org/li/al-tillmans_corner_wic_clinic">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-semmes_wic_clinic">Semmes WIC Clinic - Semmes</a></h5>
+		Semmes, AL - 36575<br />
+		(251) 445-0581<br />
+		WIC\'s mission is to increase awareness among postpartum and breastfeeding women and parents/caretakers of participants age 1-5 years of the need to balance food intake and daily physical activity, to...<br />
+                 <a href="http://www.wicprograms.org/li/al-semmes_wic_clinic">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-bessemer_health_center">Bessemer Health Center - Bessemer</a></h5>
+		Bessemer, AL - 35020<br />
+		205-497-9300<br />
+		Hours:  7:45 a.m. to 4:30 p.m. M-F (except on  Holidays) and accept patients with the following health coverage:                       Medicaid, AllKids, Blue Cross and Medicare.   However, JCDH does ...<br />
+                 <a href="http://www.wicprograms.org/li/al-bessemer_health_center">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+				
+
+				
+		
+		<h5><a href="http://www.wicprograms.org/li/al-central_health_center_birmingham">Central Health Center Birmingham - Birmingham</a></h5>
+		Birmingham, AL - 35233<br />
+		205-933-9110<br />
+		Hours: 7:45 a.m. to 4:30 p.m. M-F (except on Holidays) and accept patients with the following health coverage: Medicaid, AllKids, Blue Cross and Medicare. However, JCDH does not accept patients who ar...<br />
+                 <a href="http://www.wicprograms.org/li/al-central_health_center_birmingham">View Full Details</a><br />
+		    
+			
+
+			<br /><hr><br /><br />
+
+
+			</div><!-- /latest -->
+
+
+
+	<!-- Latest Entries End -->			
+				
+		</div><!-- /main -->
+
+	</div><!-- /.group -->
+
+		 
+	<div id="footer" class="group">
+		<p class="copy">&copy; 2008 - 2012 WIC Programs</p>
+		
+	</div><!-- /footer -->
+	
+</div><!-- /container -->
+
+</body>
+
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+
+
+</script>
+
+
+
+</html>
+

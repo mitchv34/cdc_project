@@ -1,0 +1,640 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>New York WIC Programs, WIC Clinics, WIC Office Locations</title>
+	<meta name="keywords" content="New York Programs,New York WIC Clinics,New York WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+	
+	<!-- ########## CSS Files ########## -->
+	<!-- Screen CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style.css" type="text/css" media="screen" />
+	
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/style_red/style_red.css" type="text/css" media="screen" />
+	
+	<!-- Framework CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/960.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/reset.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/text.css" type="text/css" media="screen" />
+	
+	<!-- PrettyPhoto CSS -->
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<!-- ########## end css ########## -->	
+	
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/ie7.css" type="text/css" />
+ 	<![endif]-->
+ 	
+ 	<!--[if lt IE 8]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+	<![endif]-->
+	
+	<!-- Jquery -->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
+	<!-- Cufon Font Replacement -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/cufon.js"></script>
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/Alte_Haas_Grotesk_400-Alte_Haas_Grotesk_700.font.js"></script>
+
+	<!-- Superfish Menu -->
+	<!-- http://users.tpg.com.au/j_birch/plugins/superfish/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/superfish.js"></script>
+	
+	<!-- Nivo Slider -->
+	<!-- http://nivo.dev7studios.com/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nivo.slider.pack.js" ></script>
+	
+	<!-- Coin Slider -->
+	<!-- http://workshop.rs/projects/coin-slider/ -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/coin-slider.min.js"></script>
+	
+	<!-- Portfolio Filter Plugin -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/filterable.js" type="text/javascript" charset="utf-8"></script>	
+	
+	<!-- PrettyPhoto Lightbox -->
+	<!-- http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/ -->
+	<script src="http://www.wicprograms.org/templates/cocomonio/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	
+	<!-- To customise any of the above, please use this file -->
+	<script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/inc.js"></script>
+    
+    <!-- Thumnbnail -->
+    <script type="text/javascript" src="http://www.wicprograms.org/templates/cocomonio/js/jquery.nailthumb.1.0.min.js"></script>
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/cocomonio/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+
+<script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.nailthumb-container').nailthumb();
+        });
+</script>
+<style type="text/css" media="screen">
+	.square-thumb {
+		width: 80px;
+		height: 80px;
+	}
+	.rectangular-thumb {
+		width: 200px;
+		height: 120px;
+	}
+</style>    
+
+</head>
+
+<body id="top">
+	
+		<!-- Start Head Container -->
+		<div class="container_12 head">
+		
+			<!-- Logo -->
+			<h1 class="grid_4 logo"><a href="http://www.wicprograms.org" class='ie6fix'>WIC Programs</a></h1>
+			
+			<!-- Start Navigation -->
+			<div class="grid_7">
+			
+				<ul class="sf-menu">
+					<li class="current"><a href="http://www.wicprograms.org">Home</a></li>
+					<li><a href="http://www.wicprograms.org/ar/about" title="About WIC Programs">About Us</a></li>
+					<li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+<li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+<li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+
+
+				</ul>
+			
+			</div><!-- Navigation END -->
+			
+			<!-- Start Social Buttons -->
+			<div class="grid_1">
+              
+				<ul class="social_bookmarks">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+				</ul>
+
+			</div><!-- Social Buttons END -->
+
+		</div><!-- Head Container END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+		
+		<!-- Start Header Break Line -->
+		<div class="container_12 head_break">
+			<hr class="grid_12"></hr>
+		</div><!-- Header Break Line END -->
+		
+		<div class="clear"></div><!-- CLEAR -->
+
+	
+		<!-- Start Main Content -->
+		<div class="container_12 content">
+			
+			<!-- Start Content -->
+			<div class="grid_8 blog">
+			
+            	<h1>New York WIC Programs, Clinics, and Office Locations</h1>
+
+				<a href="http://www.wicprograms.org">Home</a> &raquo; New York
+                
+				<p>
+                
+				<br /><strong>New York WIC Program Locations</strong> <br />
+
+				Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in New York on the right. Find your local WIC location using our New York search below. 
+				<br />
+				</p>
+                <p>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* 300x250, created 11/22/10 */
+google_ad_slot = "6936711454";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+				</p>
+                
+
+		<p>
+			<hr class="grid_8 alpha break">
+			<h2>Search WIC Clinics By New York City: </h2>
+		
+			<b>Enter city name in New York</b>:<br />
+                	<form action="http://www.wicprograms.org/city.php" method="get">
+                    	<input type="text" name="city" />
+                    	<input type="hidden" name="st" value="NY" />
+                        <input type="submit" value="Search for city" />
+                    </form>
+		    <hr class="grid_8 alpha break">
+                </p>
+		<p>
+					<br /><strong>New York WIC Further Benefits</strong> <br />
+					Research has shown that there is no better food than breast milk for a baby's first year of life. Breastfeeding provides many health, nutritional, economical and emotional benefits to mother and baby. Since a major goal of the WIC Program is to improve the nutritional status of infants, WIC mothers are encouraged to breastfeed their infants. WIC has historically promoted breastfeeding to all pregnant women as the optimal infant feeding choice, unless medically contraindicated.
+				<br />
+				    <br /> WIC mothers choosing to breastfeed are provided information through counseling and breastfeeding educational materials.
+				    <br />Breastfeeding mothers receive follow-up support through peer counselors.
+				    <br /> Breastfeeding mothers are eligible to participate in WIC longer than non-breastfeeding mothers.
+				    <br /> Mothers who exclusively breastfeed their infants receive an enhanced food package.
+				    <br />Breastfeeding mothers can receive breast pumps, breast shells or nursing supplementers to help support the initiation and continuation of breastfeeding.
+				<br />
+                
+                </p>
+                
+				<!-- Latest Entries Start -->
+			<h2><a href="http://www.wicprograms.org/li/catholic-charities-neighborhood-services-woodside-wic-program" title="Catholic Charities Neighborhood Services Woodside WIC Program">Catholic Charities Neighborhood Services Woodside WIC Program</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/catholic-charities-neighborhood-services-woodside-wic-program" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Catholic Charities Neighborhood Services Woodside WIC Program"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                42-71 65th Place<br />
+                Woodside, NY - 11377<br />
+                (718) 715-7001<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/catholic-charities-neighborhood-services-woodside-wic-program">Email</a></span>                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/catholic-charities-neighborhood-services-woodside-wic-program">Website</a></span>            </div>
+			<p>CCNS WOODSIDE WIC PROGRAM
+HOURS OF OPERATION
+Monday & Tuesday:   8:30 a.m. - 4:30p.m.
+Wednesday - Friday:  8:00 a.m. - 4:30 p.m.
+
+Directions:
+Woodside: (Subway) Take the  7 train to 61st– Woodside; (Bus): Take the Q60 or Q18 bus to 65th Place and Queens Blvd. 
+</p>
+            <a href="http://www.wicprograms.org/li/catholic-charities-neighborhood-services-woodside-wic-program" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/eastside-wic-program-sunnyside" title="Eastside WIC Program - Sunnyside ">Eastside WIC Program - Sunnyside </a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/eastside-wic-program-sunnyside" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Eastside WIC Program - Sunnyside "  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                49-02 Queens Blvd.<br />
+                Woodside, NY - 11377<br />
+                718-779-8828<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/eastside-wic-program-sunnyside">Email</a></span>                            </div>
+			<p></p>
+            <a href="http://www.wicprograms.org/li/eastside-wic-program-sunnyside" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/eastside-wic-metropolitan-hospital" title="Eastside WIC -  Metropolitan Hospital">Eastside WIC -  Metropolitan Hospital</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/eastside-wic-metropolitan-hospital" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Eastside WIC -  Metropolitan Hospital"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                1901 1st Ave. at 97th St.<br />
+                New York, NY - 10029<br />
+                212-423-7395<br />
+		                </p>                       
+                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/eastside-wic-metropolitan-hospital">Email</a></span>                            </div>
+			<p></p>
+            <a href="http://www.wicprograms.org/li/eastside-wic-metropolitan-hospital" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/livingston_county_department_of_health_14510" title="Livingston County Department Of Health">Livingston County Department Of Health</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/livingston_county_department_of_health_14510" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Livingston County Department Of Health"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                2 Murray Hill Drive<br />
+                Mt. Morris, NY - 14510<br />
+                585-243-7530<br />
+		                </p>                       
+                                            </div>
+			<p>Livingston County Department of Health is a local WIC clinic in New York. This clinic is located in Wyoming County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby that is </p>
+            <a href="http://www.wicprograms.org/li/livingston_county_department_of_health_14510" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/westchester_county_department_of_health_10601" title="Westchester County Department Of Health">Westchester County Department Of Health</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/westchester_county_department_of_health_10601" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Westchester County Department Of Health"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                112 East Post Road, 1st Floor<br />
+                White Plains, NY - 10601<br />
+                914-995-5427<br />
+		                </p>                       
+                                            </div>
+			<p>Westchester County Department of Health is a local WIC clinic in New York. This clinic is located in Westchester County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby tha</p>
+            <a href="http://www.wicprograms.org/li/westchester_county_department_of_health_10601" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/open_door_family_medical_center_10562" title="Open Door Family Medical Center">Open Door Family Medical Center</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/open_door_family_medical_center_10562" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Open Door Family Medical Center"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                165 Main Street<br />
+                Ossining, NY - 10562<br />
+                914-941-1263<br />
+		                </p>                       
+                                            </div>
+			<p>Open Door Family Medical Center is a local WIC clinic in New York. This clinic is located in Westchester County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby that is up </p>
+            <a href="http://www.wicprograms.org/li/open_door_family_medical_center_10562" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/mt._vernon_neighborhood_health_center_inc_10550" title="Mt. Vernon Neighborhood Health Center, Inc">Mt. Vernon Neighborhood Health Center, Inc</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/mt._vernon_neighborhood_health_center_inc_10550" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Mt. Vernon Neighborhood Health Center, Inc"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                107 West 4th Street<br />
+                Mount Vernon, NY - 10550<br />
+                914-699-7200<br />
+		                </p>                       
+                                            </div>
+			<p>Mt. Vernon Neighborhood Health Center, Inc is a local WIC clinic in New York. This clinic is located in Westchester County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby </p>
+            <a href="http://www.wicprograms.org/li/mt._vernon_neighborhood_health_center_inc_10550" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/hudson_river_healthcare_inc_12601" title="Hudson River Healthcare, Inc">Hudson River Healthcare, Inc</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/hudson_river_healthcare_inc_12601" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Hudson River Healthcare, Inc"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                29 North Hamilton Street<br />
+                Poughkeepsie, NY - 12601<br />
+                845-452-6478<br />
+		                </p>                       
+                                            </div>
+			<p>Hudson River Healthcare, Inc is a local WIC clinic in New York. This clinic is located in Westchester County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby that is up to </p>
+            <a href="http://www.wicprograms.org/li/hudson_river_healthcare_inc_12601" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/washington_county_public_health_services_12839" title="Washington County Public Health Services">Washington County Public Health Services</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/washington_county_public_health_services_12839" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Washington County Public Health Services"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                411 Lower Main Street, County Annex Bldg 2<br />
+                Hudson Falls, NY - 12839<br />
+                518-746-2460<br />
+		                </p>                       
+                                            </div>
+			<p>Washington County Public Health Services is a local WIC clinic in New York. This clinic is located in Washington County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby tha</p>
+            <a href="http://www.wicprograms.org/li/washington_county_public_health_services_12839" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+			<h2><a href="http://www.wicprograms.org/li/warren_county_health_services_12845" title="Warren County Health Services">Warren County Health Services</a></h2>
+			<!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:-10px 10px 0px 0px;">
+                  <a href="http://www.wicprograms.org/li/warren_county_health_services_12845" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Warren County Health Services"  /></a>
+            </div>                    
+            <div style="float:left; margin:-10px 0px 0px 0px; width:410px;">
+                <p style="font-weight:bold;">
+                Warren County Municipal Center, 1340 State Rte 9, 1st Floor<br />
+                Lake George, NY - 12845<br />
+                518-761-6425<br />
+		                </p>                       
+                                            </div>
+			<p>Warren County Health Services is a local WIC clinic in New York. This clinic is located in Warren County. 
+	To apply for WIC at this office you must qualify. Call the office for further details.
+	1. A pregnant woman.
+	2. An infant or child up to 5 years old.
+	3. A mother of a baby that is up to six </p>
+            <a href="http://www.wicprograms.org/li/warren_county_health_services_12845" title=""><b>View Full Details</b></a>
+			
+			<hr class="grid_8 alpha break"></hr>
+
+<!-- Latest Entries End -->
+
+
+				
+			</div><!-- Content END -->
+			
+			<!-- Start Sidebar Gradient -->
+			<div class="grid_1 sb_gradient"></div><!-- Sidebar Gradient END -->
+		
+							<!-- Start Sidebar -->
+			<div class="grid_3 sidebar">			
+				
+		
+					<h4>Search for WIC Programs, Clinics, Office Locations.</h4>
+			<!-- Search widget start -->
+                <div class="search widget">
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						<div>
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						</div>
+					</form>
+               <br /> OR
+                </div>
+
+				<div class="search widget">
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					<div>
+						<input type="submit" value="." id="searchsubmit" class="button"/>
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					</div>
+					</form><br />
+				</div>
+			<!-- Search widget end -->
+
+                            <!-- Top cities start -->
+				<div class="widget">
+				<h3>New York Cities</h3>
+					<ul>
+                    						<li><a href="http://www.wicprograms.org/ci/ny-akwesasne" alt="Akwesasne WIC Programs" title="Akwesasne WIC Programs">Akwesasne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-albany" alt="Albany WIC Programs" title="Albany WIC Programs">Albany <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-arverne" alt="Arverne WIC Programs" title="Arverne WIC Programs">Arverne <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-auburn" alt="Auburn WIC Programs" title="Auburn WIC Programs">Auburn <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-batavia" alt="Batavia WIC Programs" title="Batavia WIC Programs">Batavia <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-bath" alt="Bath WIC Programs" title="Bath WIC Programs">Bath <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-binghamton" alt="Binghamton WIC Programs" title="Binghamton WIC Programs">Binghamton <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-brewster" alt="Brewster WIC Programs" title="Brewster WIC Programs">Brewster <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-bronx" alt="Bronx WIC Programs" title="Bronx WIC Programs">Bronx <em>(8)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-brooklyn" alt="Brooklyn WIC Programs" title="Brooklyn WIC Programs">Brooklyn <em>(13)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-canandaigua" alt="Canandaigua WIC Programs" title="Canandaigua WIC Programs">Canandaigua <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-cobleskill" alt="Cobleskill WIC Programs" title="Cobleskill WIC Programs">Cobleskill <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-cortland" alt="Cortland WIC Programs" title="Cortland WIC Programs">Cortland <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-dunkirk" alt="Dunkirk WIC Programs" title="Dunkirk WIC Programs">Dunkirk <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-east_setauket" alt="East Setauket WIC Programs" title="East Setauket WIC Programs">East Setauket <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-elizabethtown" alt="Elizabethtown WIC Programs" title="Elizabethtown WIC Programs">Elizabethtown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-elmira" alt="Elmira WIC Programs" title="Elmira WIC Programs">Elmira <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-fonda" alt="Fonda WIC Programs" title="Fonda WIC Programs">Fonda <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-freeport" alt="Freeport WIC Programs" title="Freeport WIC Programs">Freeport <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-hamden" alt="Hamden WIC Programs" title="Hamden WIC Programs">Hamden <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-hauppauge" alt="Hauppauge WIC Programs" title="Hauppauge WIC Programs">Hauppauge <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-hudson" alt="Hudson WIC Programs" title="Hudson WIC Programs">Hudson <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-hudson_falls" alt="Hudson Falls WIC Programs" title="Hudson Falls WIC Programs">Hudson Falls <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-indian_lake" alt="Indian Lake WIC Programs" title="Indian Lake WIC Programs">Indian Lake <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-ithaca" alt="Ithaca WIC Programs" title="Ithaca WIC Programs">Ithaca <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-jamaica" alt="Jamaica WIC Programs" title="Jamaica WIC Programs">Jamaica <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-lake_george" alt="Lake George WIC Programs" title="Lake George WIC Programs">Lake George <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-liberty" alt="Liberty WIC Programs" title="Liberty WIC Programs">Liberty <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-mount_vernon" alt="Mount Vernon WIC Programs" title="Mount Vernon WIC Programs">Mount Vernon <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-mt._morris" alt="Mt. Morris WIC Programs" title="Mt. Morris WIC Programs">Mt. Morris <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-new_hyde_park" alt="New Hyde Park WIC Programs" title="New Hyde Park WIC Programs">New Hyde Park <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-new_paltz" alt="New Paltz WIC Programs" title="New Paltz WIC Programs">New Paltz <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-new_rochelle" alt="New Rochelle WIC Programs" title="New Rochelle WIC Programs">New Rochelle <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-new_york" alt="New York WIC Programs" title="New York WIC Programs">New York <em>(15)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-newburgh" alt="Newburgh WIC Programs" title="Newburgh WIC Programs">Newburgh <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-niagara_falls" alt="Niagara Falls WIC Programs" title="Niagara Falls WIC Programs">Niagara Falls <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-norwich" alt="Norwich WIC Programs" title="Norwich WIC Programs">Norwich <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-olean" alt="Olean WIC Programs" title="Olean WIC Programs">Olean <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-oneida" alt="Oneida WIC Programs" title="Oneida WIC Programs">Oneida <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-oneonta" alt="Oneonta WIC Programs" title="Oneonta WIC Programs">Oneonta <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-ossining" alt="Ossining WIC Programs" title="Ossining WIC Programs">Ossining <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-oswego" alt="Oswego WIC Programs" title="Oswego WIC Programs">Oswego <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-owego" alt="Owego WIC Programs" title="Owego WIC Programs">Owego <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-plattsburgh" alt="Plattsburgh WIC Programs" title="Plattsburgh WIC Programs">Plattsburgh <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-pomona" alt="Pomona WIC Programs" title="Pomona WIC Programs">Pomona <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-port_jervis" alt="Port Jervis WIC Programs" title="Port Jervis WIC Programs">Port Jervis <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-poughkeepsie" alt="Poughkeepsie WIC Programs" title="Poughkeepsie WIC Programs">Poughkeepsie <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-queens" alt="Queens WIC Programs" title="Queens WIC Programs">Queens <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-rochester" alt="Rochester WIC Programs" title="Rochester WIC Programs">Rochester <em>(2)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-saratoga_springs" alt="Saratoga Springs WIC Programs" title="Saratoga Springs WIC Programs">Saratoga Springs <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-schenectady" alt="Schenectady WIC Programs" title="Schenectady WIC Programs">Schenectady <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-staten_island" alt="Staten Island WIC Programs" title="Staten Island WIC Programs">Staten Island <em>(3)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-syracuse" alt="Syracuse WIC Programs" title="Syracuse WIC Programs">Syracuse <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-troy" alt="Troy WIC Programs" title="Troy WIC Programs">Troy <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-uniondale" alt="Uniondale WIC Programs" title="Uniondale WIC Programs">Uniondale <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-utica" alt="Utica WIC Programs" title="Utica WIC Programs">Utica <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-watertown" alt="Watertown WIC Programs" title="Watertown WIC Programs">Watertown <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-wellsville" alt="Wellsville WIC Programs" title="Wellsville WIC Programs">Wellsville <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-white_plains" alt="White Plains WIC Programs" title="White Plains WIC Programs">White Plains <em>(1)</em></a>											<li><a href="http://www.wicprograms.org/ci/ny-woodside" alt="Woodside WIC Programs" title="Woodside WIC Programs">Woodside <em>(2)</em></a>										</ul>
+				</div>
+			<!-- Top cities end -->       
+
+
+                <!-- Latest News Start -->
+
+				<div class="sb_wicked_box widget">
+
+					<img class='alignleft_icon' src='http://www.wicprograms.org/templates/cocomonio/images/icons/announcement.png' alt=''/>
+			
+					<h3>Latest News</h3>
+
+   
+                    <div class="nailthumb-container square-thumb" style="float:left; margin:10px;">
+                         <a href="http://www.wicprograms.org/li/"><img src="http://www.wicprograms.org/gallery/_wic.jpg" alt="" width="80" /></a>
+                    </div>                    
+
+					<div style="float:left; width:110px; margin-left:5px"><a href="http://www.wicprograms.org/ar/wic-enrollment-down">WIC  Enrollment Down</a></div>
+                    <p>
+                    Economic hardship means families have to make tough choices among basic needs. Rent, mortgage, food, heat, health care — when what’s coming in is far less than what needs to go out, parents are inevitably stressed. Both the economic needs and the...<br />
+					[<a href="http://www.wicprograms.org/ar/wic-enrollment-down">READ MORE</a>]
+                    </p>
+
+			
+				</div><!-- Latest News  END -->
+
+
+
+			
+			
+		<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+			
+			
+			
+			
+			
+			</div><!-- Sidebar END -->
+
+			
+			<hr class="grid_12"></hr>
+	
+	</div><!-- Main Content END -->
+	
+	<div class="clear"></div>
+	
+	<div id="fullwidth_footer_border"></div><!-- Footer Border -->
+	
+	<!-- Start Footer Top -->
+	<div id="fullwidth_footer_top">
+		
+		<!-- Start Footer Top Container -->
+		<div class="container_12">
+			
+			<!-- Start Footer Widget About -->
+			<div class="grid_4 footer_widget_about">
+			
+				<h4>About WIC Programs</h4>
+				
+				<p>WIC Programs is not associated with any government agency or nonprofit organization. WIC provides Federal grants to States for supplemental foods, health care referrals, and nutrition education for low-income pregnant, breastfeeding, and non-breastfeeding postpartum women, and to infants and children up to age five who are found to be at nutritional risk.</p>
+				
+				<p>Follow us on the world wide web.</p>
+				
+				<ul class="social_bookmarks_footer">
+					<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>										<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+   				</ul>
+			
+			</div><!-- Footer Widget About END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Members</h4>
+			
+				<ul class="footer_widget_list">
+                    <li><a href="http://www.wicprograms.org/member/listing_add_new.php" title="Add a listing">Add a listing</a>
+                    <li><a href="http://www.wicprograms.org/member/member_add.php" title="Register">Register</a>
+                    <li><a href="http://www.wicprograms.org/member/login.php" title="Login">Login</a>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+			<!-- Start Footer Widget -->
+			<div class="grid_3 footer_widget">
+		
+			<h4>Helpful sites</h4>
+			
+				<ul class="footer_widget_list">
+					<li><a href="http://www.fns.usda.gov/wic/" class="" title="">FNS</a></li>
+					<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" class="" title="">US HHS</a></li>
+				</ul>
+			
+			</div><!-- Footer Widget END -->
+		
+		
+		</div><!-- Footer Top Container END -->
+	
+	</div><!-- Footer Top END-->
+	
+	<!-- Start Footer Bottom -->
+	<div id="fullwidth_footer_bottom">
+	
+		<!-- Start Footer Bottom Container -->
+		<div class="container_12">
+        	
+        	<!-- Start Copyright -->
+			<div class="grid_8 copyright">
+                    
+				<p class="rights">Copyright 2013 by <a href="http://www.wicprograms.org" title="WIC Programs">WIC Programs</a>. All rights reserved.</p>
+            
+			</div><!-- Copyright END -->
+
+			<!-- Start Footer Text -->
+			<div class="grid_4 footer_text">
+            
+				<a href="http://www.wicprograms.org">WIC Programs</a>
+                
+			</div><!-- Footer Text END -->
+            
+                        
+		</div><!-- Footer Bottom Container END -->
+    
+    <!-- Clearfix -->    
+	<div class="clear"></div>
+	
+	</div><!-- Footer Bottom END -->
+		
+<!-- IE fix -->
+<script type="text/javascript"> Cufon.now(); </script>	
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20175266-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</body>
+</html>

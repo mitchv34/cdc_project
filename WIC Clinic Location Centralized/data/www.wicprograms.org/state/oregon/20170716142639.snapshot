@@ -1,0 +1,1004 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Oregon WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Oregon Programs,Oregon WIC Clinics,Oregon WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Oregon WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Oregon
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Oregon on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Oregon</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-albany">Albany</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-astoria">Astoria</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-baker_city">Baker City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-beaverton">Beaverton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-bend">Bend</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-burns">Burns</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-corvallis">Corvallis</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-dallas">Dallas</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-enterprise">Enterprise</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-eugene">Eugene</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-gold_beach">Gold Beach</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-grants_pass">Grants Pass</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-gresham">Gresham</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-hermiston">Hermiston</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-hillsboro">Hillsboro</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-hood_river">Hood River</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-john_day">John Day</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-klamath_falls">Klamath Falls</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-la_grande">La Grande</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-la_pine">La Pine</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-lakeview">Lakeview</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-madras">Madras</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-mcminnville">McMinnville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-medford">Medford</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-newberg">Newberg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-newport">Newport</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-north_bend">North Bend</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-ontario">Ontario</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-oregon_city">Oregon City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-pendleton">Pendleton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-portland">Portland</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-prineville">Prineville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-redmond">Redmond</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-roseburg">Roseburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-salem">Salem</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-silverton">Silverton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-sisters">Sisters</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-st._helens">St. Helens</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-stayton">Stayton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-the_dalles">The Dalles</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-tigard">Tigard</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-tillamook">Tillamook</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-warm_springs">Warm Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/or-woodburn">Woodburn</a>
+												<em>(2)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/clatsop_county_wic_clinic_97103" title="Clatsop County Public Health WIC Program">Clatsop County Public Health WIC Program</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/clatsop_county_wic_clinic_97103" title=""><img src="http://www.wicprograms.org/gallery/4646_clatsop_county_wic_clinic_97103_xzl.jpg" alt="Clatsop County Public Health WIC Program"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    820 Exchange Street, Suite 100<br />
+                    Astoria, OR - 97103<br />
+                    503-338-3637<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/clatsop_county_wic_clinic_97103">Website</a></span>            </div>
+            <p>Phone us at (503) 338-3637 or come in to our office at 820 Exchange Street, Suite 100, Astoria, to enroll. You will receive paperwork in the mail notifying you of your appointment date, then come to your appointment and meet the WIC team. After you attend your appointment, you will be given an eWIC/</p>
+            <a href="http://www.wicprograms.org/li/clatsop_county_wic_clinic_97103" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/or_97756_deschutes-county-wic-redmond-becky-johnson-center" title="Deschutes County WIC - Redmond - Becky Johnson Center">Deschutes County WIC - Redmond - Becky Johnson Center</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/or_97756_deschutes-county-wic-redmond-becky-johnson-center" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Deschutes County WIC - Redmond - Becky Johnson Center"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    412 SW 8th St.<br />
+                    Redmond, OR - 97756<br />
+                    (541) 317-3149<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/or_97756_deschutes-county-wic-redmond-becky-johnson-center">Website</a></span>            </div>
+            <p>Office hours Monday, Tuesday, Wednesday, &amp; Friday (Closed Thursday)8:00 a.m. to 5:00 p.m.CLOSED 12:00 to 1:00 p.m.Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence</p>
+            <a href="http://www.wicprograms.org/li/or_97756_deschutes-county-wic-redmond-becky-johnson-center" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/columbia_county_wic_clinic_97051" title="Columbia County WIC Clinic">Columbia County WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/columbia_county_wic_clinic_97051" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Columbia County WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    2370 Gable Road<br />
+                    St. Helens, OR - 97051<br />
+                    (503) 397-4651<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/columbia_county_wic_clinic_97051">Website</a></span>            </div>
+            <p>Office hours Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health behaviors in targeted, at-risk populations. Nutrition education is the cor</p>
+            <a href="http://www.wicprograms.org/li/columbia_county_wic_clinic_97051" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/97759_sisters_health_clinic_(adjacent_to_sisters_high_school)" title="Sisters Health Clinic (Adjacent to Sisters High School)">Sisters Health Clinic (Adjacent to Sisters High School)</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/97759_sisters_health_clinic_(adjacent_to_sisters_high_school)" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Sisters Health Clinic (Adjacent to Sisters High School)"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1680 W. McKinney Butte Road<br />
+                    Sisters, OR - 97759<br />
+                    (541) 322-7400<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/97759_sisters_health_clinic_(adjacent_to_sisters_high_school)">Website</a></span>            </div>
+            <p>Office hours 1st and 3rd Friday Every Month9:00 a.m. to 4:00 p.m.CLOSED 12:00 to 1:00Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health be</p>
+            <a href="http://www.wicprograms.org/li/97759_sisters_health_clinic_(adjacent_to_sisters_high_school)" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/clackamas_county_wic_clinic_97045" title="Clackamas County WIC Clinic">Clackamas County WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/clackamas_county_wic_clinic_97045" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Clackamas County WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    999 Library Court<br />
+                    Oregon City, OR - 97045<br />
+                    (503) 655-8476<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/clackamas_county_wic_clinic_97045">Website</a></span>            </div>
+            <p>Office hours Monday, Wednesday, Thursday, Friday 8:30 a.m. to 4:30 p.m. Tuesday 11 a.m. to 7 p.m.Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition a</p>
+            <a href="http://www.wicprograms.org/li/clackamas_county_wic_clinic_97045" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/benton_county_wic_clinic_97330" title="Benton County WIC Clinic">Benton County WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/benton_county_wic_clinic_97330" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Benton County WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    530 NW 27th Street<br />
+                    Corvallis, OR - 97330<br />
+                    (541) 766-6835<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/benton_county_wic_clinic_97330">Website</a></span>            </div>
+            <p>Office hours Monday &amp; Wednesday8:00 a.m. - 8:00 p.m.Tuesday, Thursday &amp; Friday8:00 a.m. - 5:00 p.m.Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime n</p>
+            <a href="http://www.wicprograms.org/li/benton_county_wic_clinic_97330" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/baker_county_wic_clinic_97814" title="Baker County WIC Clinic">Baker County WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/baker_county_wic_clinic_97814" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Baker County WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    3330 Pocahontas Road<br />
+                    Baker City, OR - 97814<br />
+                    (541) 523-8212<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/baker_county_wic_clinic_97814">Website</a></span>            </div>
+            <p>Office hours Monday and Wednesday 8am-5pmCall for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health behaviors in targeted, at-risk populations. Nu</p>
+            <a href="http://www.wicprograms.org/li/baker_county_wic_clinic_97814" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/coos_county_wic_clinic_97459" title="Coos County WIC Clinic">Coos County WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/coos_county_wic_clinic_97459" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Coos County WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1975 McPherson<br />
+                    North Bend, OR - 97459<br />
+                    (541) 751-2401<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/coos_county_wic_clinic_97459">Website</a></span>            </div>
+            <p>Office hours Monday Tuesday and ThursdayCall for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health behaviors in targeted, at-risk populations. Nut</p>
+            <a href="http://www.wicprograms.org/li/coos_county_wic_clinic_97459" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/crook_county_wic_clinic_97754" title="Crook County WIC Clinic">Crook County WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/crook_county_wic_clinic_97754" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Crook County WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    375 NW Beaver Street, Suite 100<br />
+                    Prineville, OR - 97754<br />
+                    (541) 447-5165<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/crook_county_wic_clinic_97754">Website</a></span>            </div>
+            <p>Office hours Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health behaviors in targeted, at-risk populations. Nutrition education is the cor</p>
+            <a href="http://www.wicprograms.org/li/crook_county_wic_clinic_97754" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/97739_la_pine_community_campus" title="La Pine Community Campus">La Pine Community Campus</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/97739_la_pine_community_campus" title=""><img src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=43.6797175,-121.507033&fov=90&heading=235&pitch=10" alt="La Pine Community Campus"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    51633 Coach Road<br />
+                    La Pine, OR - 97739<br />
+                    (541) 322-7400 <br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/97739_la_pine_community_campus">Website</a></span>            </div>
+            <p>Office hours Every Tuesday9:00 a.m. to 4:00 p.m.CLOSED 12:00 to 1:00 p.m.Call for appointmentWIC is the Special Supplemental Nutrition Program for Women, Infants and Children. This public health program is designed to improve health outcomes and influence lifetime nutrition and health behaviors in t</p>
+            <a href="http://www.wicprograms.org/li/97739_la_pine_community_campus" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                            
+
+                                <!-- Top cities start -->
+                                <aside class="widget">
+                                    <h3 class="widget-title">Oregon WIC</h3>
+                                    <ul class="widget-list">
+                                                                                    <li><a href="http://www.wicprograms.org/ci/or-albany" alt="Albany WIC Programs" title="Albany WIC Programs">Albany <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-astoria" alt="Astoria WIC Programs" title="Astoria WIC Programs">Astoria <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-baker_city" alt="Baker City WIC Programs" title="Baker City WIC Programs">Baker City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-beaverton" alt="Beaverton WIC Programs" title="Beaverton WIC Programs">Beaverton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-bend" alt="Bend WIC Programs" title="Bend WIC Programs">Bend <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-burns" alt="Burns WIC Programs" title="Burns WIC Programs">Burns <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-corvallis" alt="Corvallis WIC Programs" title="Corvallis WIC Programs">Corvallis <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-dallas" alt="Dallas WIC Programs" title="Dallas WIC Programs">Dallas <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-enterprise" alt="Enterprise WIC Programs" title="Enterprise WIC Programs">Enterprise <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-eugene" alt="Eugene WIC Programs" title="Eugene WIC Programs">Eugene <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-gold_beach" alt="Gold Beach WIC Programs" title="Gold Beach WIC Programs">Gold Beach <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-grants_pass" alt="Grants Pass WIC Programs" title="Grants Pass WIC Programs">Grants Pass <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-gresham" alt="Gresham WIC Programs" title="Gresham WIC Programs">Gresham <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-hermiston" alt="Hermiston WIC Programs" title="Hermiston WIC Programs">Hermiston <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-hillsboro" alt="Hillsboro WIC Programs" title="Hillsboro WIC Programs">Hillsboro <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-hood_river" alt="Hood River WIC Programs" title="Hood River WIC Programs">Hood River <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-john_day" alt="John Day WIC Programs" title="John Day WIC Programs">John Day <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-klamath_falls" alt="Klamath Falls WIC Programs" title="Klamath Falls WIC Programs">Klamath Falls <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-la_grande" alt="La Grande WIC Programs" title="La Grande WIC Programs">La Grande <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-la_pine" alt="La Pine WIC Programs" title="La Pine WIC Programs">La Pine <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-lakeview" alt="Lakeview WIC Programs" title="Lakeview WIC Programs">Lakeview <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-madras" alt="Madras WIC Programs" title="Madras WIC Programs">Madras <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-mcminnville" alt="McMinnville WIC Programs" title="McMinnville WIC Programs">McMinnville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-medford" alt="Medford WIC Programs" title="Medford WIC Programs">Medford <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-newberg" alt="Newberg WIC Programs" title="Newberg WIC Programs">Newberg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-newport" alt="Newport WIC Programs" title="Newport WIC Programs">Newport <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-north_bend" alt="North Bend WIC Programs" title="North Bend WIC Programs">North Bend <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-ontario" alt="Ontario WIC Programs" title="Ontario WIC Programs">Ontario <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-oregon_city" alt="Oregon City WIC Programs" title="Oregon City WIC Programs">Oregon City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-pendleton" alt="Pendleton WIC Programs" title="Pendleton WIC Programs">Pendleton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-portland" alt="Portland WIC Programs" title="Portland WIC Programs">Portland <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-prineville" alt="Prineville WIC Programs" title="Prineville WIC Programs">Prineville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-redmond" alt="Redmond WIC Programs" title="Redmond WIC Programs">Redmond <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-roseburg" alt="Roseburg WIC Programs" title="Roseburg WIC Programs">Roseburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-salem" alt="Salem WIC Programs" title="Salem WIC Programs">Salem <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-silverton" alt="Silverton WIC Programs" title="Silverton WIC Programs">Silverton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-sisters" alt="Sisters WIC Programs" title="Sisters WIC Programs">Sisters <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-st._helens" alt="St. Helens WIC Programs" title="St. Helens WIC Programs">St. Helens <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-stayton" alt="Stayton WIC Programs" title="Stayton WIC Programs">Stayton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-the_dalles" alt="The Dalles WIC Programs" title="The Dalles WIC Programs">The Dalles <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-tigard" alt="Tigard WIC Programs" title="Tigard WIC Programs">Tigard <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-tillamook" alt="Tillamook WIC Programs" title="Tillamook WIC Programs">Tillamook <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-warm_springs" alt="Warm Springs WIC Programs" title="Warm Springs WIC Programs">Warm Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/or-woodburn" alt="Woodburn WIC Programs" title="Woodburn WIC Programs">Woodburn <em>(2)</em></a></li>                                                                            </ul>
+                                </aside>
+                                <!-- Top cities end -->
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/clatsop_county_wic_clinic_97103">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/4646_clatsop_county_wic_clinic_97103_xzl.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/clatsop_county_wic_clinic_97103">Clatsop County Public Health WIC Program</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Astoria,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/or_97756_deschutes-county-wic-redmond-becky-johnson-center">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/or_97756_deschutes-county-wic-redmond-becky-johnson-center">Deschutes County WIC - Redmond - Becky Johnson Center</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Redmond,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/columbia_county_wic_clinic_97051">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/columbia_county_wic_clinic_97051">Columbia County WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> St. Helens,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/97759_sisters_health_clinic_(adjacent_to_sisters_high_school)">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/97759_sisters_health_clinic_(adjacent_to_sisters_high_school)">Sisters Health Clinic (Adjacent to Sisters High School)</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Sisters,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/clackamas_county_wic_clinic_97045">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/clackamas_county_wic_clinic_97045">Clackamas County WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Oregon City,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/benton_county_wic_clinic_97330">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/benton_county_wic_clinic_97330">Benton County WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Corvallis,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/baker_county_wic_clinic_97814">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/baker_county_wic_clinic_97814">Baker County WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Baker City,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/coos_county_wic_clinic_97459">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/coos_county_wic_clinic_97459">Coos County WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> North Bend,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/crook_county_wic_clinic_97754">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/crook_county_wic_clinic_97754">Crook County WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Prineville,OR</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/97739_la_pine_community_campus">
+							<img width="90" height="75" src="http://maps.googleapis.com/maps/api/streetview?size=300x220&location=43.6797175,-121.507033&fov=90&heading=235&pitch=10" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/97739_la_pine_community_campus">La Pine Community Campus</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> La Pine,OR</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2017</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>

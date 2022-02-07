@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Colorado WIC Programs, WIC Clinics, WIC Office Locations</title>
+    <meta name="keywords" content="Colorado Programs,Colorado WIC Clinics,Colorado WIC Locations, ." />
+	<meta name="description" content="Wicprograms.org provides listings and information for local WIC Programs and Clinics." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Colorado WIC Programs, Clinics, and Office Locations</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<div class="title">You are here:</div>
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						Colorado
+					</div>
+				</div>
+
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"></path>
+				</svg>
+			</div>
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								Alabama WIC Program Locations 
+Find local WIC offices to apply for WIC below. We have listed all of the WIC offices that we have located in Alabama on the right. Find your local WIC location using our Alabama search below. 
+								<br /><br />
+								We have also listed the top cities in Colorado on the right side of the page (OR below for mobile visitors).
+							</div>
+						</div>
+
+<div class="row-fluid">
+							<div class="span6">
+  <br /><br />
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+							</div>
+
+						</div>
+
+
+
+						<div class="row-fluid" style="margin-bottom: 30px;">
+							<div class="span12">
+								<h1>Cities in Colorado</h1>
+								<p>Find a wic clinic in your city.</p>
+								<div style="position:relative; padding-top:10px;">
+									<div id="cityList-nav" class="listNav"></div>
+									<ul id="cityList" class="unstyled columns_3">
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-akron">Akron</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-alamosa">Alamosa</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-arvada">Arvada</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-aspen">Aspen</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-aurora">Aurora</a>
+												<em>(3)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-avon">Avon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-avondale">Avondale</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-bailey">Bailey</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-bennett">Bennett</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-black_hawk">Black Hawk</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-boulder">Boulder</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-brighton">Brighton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-broomfield">Broomfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-buena_vista">Buena Vista</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-burlington">Burlington</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-canon_city">Canon City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-castle_rock">Castle Rock</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-cedaredge">Cedaredge</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-center">Center</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-cheyenne_wells">Cheyenne Wells</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-colorado_springs">Colorado Springs</a>
+												<em>(4)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-commerce_city">Commerce City</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-conifer">Conifer</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-cortez">Cortez</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-craig">Craig</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-crested_butte">Crested Butte</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-cripple_creek">Cripple Creek</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-delta">Delta</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-denver">Denver</a>
+												<em>(7)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-divide">Divide</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-dove_creek">Dove Creek</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-durango">Durango</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-eads">Eads</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-eagle">Eagle</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-edgewater">Edgewater</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-el_jebel">El Jebel</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-elizabeth">Elizabeth</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-englewood">Englewood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-estes_park">Estes Park</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-evans">Evans</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-fairplay">Fairplay</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-flagler">Flagler</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-florence">Florence</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-fort_collins">Fort Collins</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-fraser">Fraser</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-frisco">Frisco</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-fruita">Fruita</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-glenwood_springs">Glenwood Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-grand_junction">Grand Junction</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-greeley">Greeley</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-gunnison">Gunnison</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-holyoke">Holyoke</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-hot_sulfur_springs">Hot Sulfur Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-hotchkiss">Hotchkiss</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-hugo">Hugo</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-idaho_springs">Idaho Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-ignacio">Ignacio</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-julesburg">Julesburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-kremmling">Kremmling</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-la_junta">La Junta</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-lafayette">Lafayette</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-lake_city">Lake City</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-lakewood">Lakewood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-lamar">Lamar</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-las_animas">Las Animas</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-leadville">Leadville</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-limon">Limon</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-littleton">Littleton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-lone_tree">Lone Tree</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-longmont">Longmont</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-loveland">Loveland</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-manzanola">Manzanola</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-meeker">Meeker</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-monte_vista">Monte Vista</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-montrose">Montrose</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-northglenn">Northglenn</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-norwood">Norwood</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-nucla">Nucla</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-olathe">Olathe</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-ordway">Ordway</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-ouray">Ouray</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-pagosa_springs">Pagosa Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-paonia">Paonia</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-pueblo">Pueblo</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-pueblo_west">Pueblo West</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-rangely">Rangely</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-rifle">Rifle</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-rocky_ford">Rocky Ford</a>
+												<em>(2)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-salida">Salida</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-springfield">Springfield</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-steamboat_springs">Steamboat Springs</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-sterling">Sterling</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-stratton">Stratton</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-telluride">Telluride</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-walden">Walden</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-walsenburg">Walsenburg</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-westcliffe">Westcliffe</a>
+												<em>(1)</em>
+											</li>
+																					<li>
+												<a href="http://www.wicprograms.org/ci/co-yuma">Yuma</a>
+												<em>(1)</em>
+											</li>
+																			</ul>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+						</div>
+
+
+						<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/weld_county_wic_clinic_greeley_80631" title="Greeley WIC Clinic">Greeley WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/weld_county_wic_clinic_greeley_80631" title=""><img src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="Greeley WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    100 North 11th Ave<br />
+                    Greeley, CO - 80631<br />
+                    970-313-0351<br />
+                                    </p>
+                                            </div>
+            <p>Office HoursTuesday - Friday, 7:30 am - 6 pmWIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qual</p>
+            <a href="http://www.wicprograms.org/li/weld_county_wic_clinic_greeley_80631" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/yuma_county_wic_clinic_80759" title="Yuma County Wic Clinic">Yuma County Wic Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/yuma_county_wic_clinic_80759" title=""><img src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="Yuma County Wic Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    529 North Albany, Suite 1120<br />
+                    Yuma, CO - 80759<br />
+                    970-848-3811<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/yuma_county_wic_clinic_80759">Website</a></span>            </div>
+            <p>Office HoursVariable Hours, please callWIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qualify. </p>
+            <a href="http://www.wicprograms.org/li/yuma_county_wic_clinic_80759" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/washington_county_wic_clinic_akron_80720" title="Akron WIC Clinic">Akron WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/washington_county_wic_clinic_akron_80720" title=""><img src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="Akron WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    77 Main <br />
+                    Akron, CO - 80720<br />
+                    970-345-6562<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/washington_county_wic_clinic_akron_80720">Website</a></span>            </div>
+            <p>Office HoursOpen every other MondayWIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qualify. WIC�</p>
+            <a href="http://www.wicprograms.org/li/washington_county_wic_clinic_akron_80720" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/weld_county_wic_clinic_evans_80620" title="Evans WIC Clinic">Evans WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/weld_county_wic_clinic_evans_80620" title=""><img src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="Evans WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    2930 11th Avenue<br />
+                    Evans, CO - 80620<br />
+                    970-395-1113<br />
+                                    </p>
+                                            </div>
+            <p>Office HoursMonday - Friday, 8am - 5pm&nbsp;WIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qual</p>
+            <a href="http://www.wicprograms.org/li/weld_county_wic_clinic_evans_80620" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/summit_county_wic_clinic_frisco_80443" title="Frisco WIC Clinic">Frisco WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/summit_county_wic_clinic_frisco_80443" title=""><img src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="Frisco WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    360 Peak One Dr., Suite 230<br />
+                    Frisco, CO - 80443<br />
+                    970-668-9161<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/summit_county_wic_clinic_frisco_80443">Website</a></span>            </div>
+            <p>Office HoursMonday - Thursday, 8 am - 5 pm; &nbsp;Friday, 8:45 am ‐ 4:30 pmWIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of cha</p>
+            <a href="http://www.wicprograms.org/li/summit_county_wic_clinic_frisco_80443" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/teller_county_wic_clinic_cripple_creek_80813" title="Cripple Creek WIC Clinic">Cripple Creek WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/teller_county_wic_clinic_cripple_creek_80813" title=""><img src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="Cripple Creek WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    166 E. Bennett Ave<br />
+                    Cripple Creek, CO - 80813<br />
+                    719‐689‐3584<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/teller_county_wic_clinic_cripple_creek_80813">Website</a></span>            </div>
+            <p>Office HoursVariable Hours, please callWIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qualify. </p>
+            <a href="http://www.wicprograms.org/li/teller_county_wic_clinic_cripple_creek_80813" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_telluride_81435" title="Telluride WIC Clinic">Telluride WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_telluride_81435" title=""><img src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="Telluride WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    333 West Colorado<br />
+                    Telluride, CO - 81435<br />
+                    970-728-4289<br />
+                                    </p>
+                                            </div>
+            <p>Office HoursVariable Hours, please call&nbsp;WIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qua</p>
+            <a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_telluride_81435" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/sedgwick_county_wic_clinic_julesburg_80737" title="Julesburg WIC Clinic">Julesburg WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/sedgwick_county_wic_clinic_julesburg_80737" title=""><img src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="Julesburg WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    118 West 3rd<br />
+                    Julesburg, CO - 80737<br />
+                    970-474-2619<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/sedgwick_county_wic_clinic_julesburg_80737">Website</a></span>            </div>
+            <p>Office HoursVariable Hours, please call&nbsp;WIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qua</p>
+            <a href="http://www.wicprograms.org/li/sedgwick_county_wic_clinic_julesburg_80737" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_norwood_81423" title="Norwood WIC Clinic">Norwood WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_norwood_81423" title=""><img src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="Norwood WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1120 Summit Street<br />
+                    Norwood, CO - 81423<br />
+                    970-327-4543<br />
+                                    </p>
+                                            </div>
+            <p>Office HoursVariable Hours, please call&nbsp;WIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qua</p>
+            <a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_norwood_81423" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/rio_blanco_county_wic_clinic_rangely_81648" title="Rangely WIC Clinic">Rangely WIC Clinic</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/rio_blanco_county_wic_clinic_rangely_81648" title=""><img src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="Rangely WIC Clinic"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    209 East Main<br />
+                    Rangely, CO - 81648<br />
+                    970-878-9525<br />
+                                    </p>
+                                            </div>
+            <p>Office HoursWednesdays, 8 am ‐ 4:30 pmWIC&nbsp;The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) is a nutrition program that provides nutritious groceries, nutrition education, breastfeeding support and other services free of charge to Colorado families who qualify.</p>
+            <a href="http://www.wicprograms.org/li/rio_blanco_county_wic_clinic_rangely_81648" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+
+					</div><!-- .entry-content -->
+				</article>
+
+
+
+			</div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                            
+
+                                <!-- Top cities start -->
+                                <aside class="widget">
+                                    <h3 class="widget-title">Colorado WIC</h3>
+                                    <ul class="widget-list">
+                                                                                    <li><a href="http://www.wicprograms.org/ci/co-akron" alt="Akron WIC Programs" title="Akron WIC Programs">Akron <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-alamosa" alt="Alamosa WIC Programs" title="Alamosa WIC Programs">Alamosa <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-arvada" alt="Arvada WIC Programs" title="Arvada WIC Programs">Arvada <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-aspen" alt="Aspen WIC Programs" title="Aspen WIC Programs">Aspen <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-aurora" alt="Aurora WIC Programs" title="Aurora WIC Programs">Aurora <em>(3)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-avon" alt="Avon WIC Programs" title="Avon WIC Programs">Avon <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-avondale" alt="Avondale WIC Programs" title="Avondale WIC Programs">Avondale <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-bailey" alt="Bailey WIC Programs" title="Bailey WIC Programs">Bailey <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-bennett" alt="Bennett WIC Programs" title="Bennett WIC Programs">Bennett <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-black_hawk" alt="Black Hawk WIC Programs" title="Black Hawk WIC Programs">Black Hawk <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-boulder" alt="Boulder WIC Programs" title="Boulder WIC Programs">Boulder <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-brighton" alt="Brighton WIC Programs" title="Brighton WIC Programs">Brighton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-broomfield" alt="Broomfield WIC Programs" title="Broomfield WIC Programs">Broomfield <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-buena_vista" alt="Buena Vista WIC Programs" title="Buena Vista WIC Programs">Buena Vista <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-burlington" alt="Burlington WIC Programs" title="Burlington WIC Programs">Burlington <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-canon_city" alt="Canon City WIC Programs" title="Canon City WIC Programs">Canon City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-castle_rock" alt="Castle Rock WIC Programs" title="Castle Rock WIC Programs">Castle Rock <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-cedaredge" alt="Cedaredge WIC Programs" title="Cedaredge WIC Programs">Cedaredge <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-center" alt="Center WIC Programs" title="Center WIC Programs">Center <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-cheyenne_wells" alt="Cheyenne Wells WIC Programs" title="Cheyenne Wells WIC Programs">Cheyenne Wells <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-colorado_springs" alt="Colorado Springs WIC Programs" title="Colorado Springs WIC Programs">Colorado Springs <em>(4)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-commerce_city" alt="Commerce City WIC Programs" title="Commerce City WIC Programs">Commerce City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-conifer" alt="Conifer WIC Programs" title="Conifer WIC Programs">Conifer <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-cortez" alt="Cortez WIC Programs" title="Cortez WIC Programs">Cortez <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-craig" alt="Craig WIC Programs" title="Craig WIC Programs">Craig <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-crested_butte" alt="Crested Butte WIC Programs" title="Crested Butte WIC Programs">Crested Butte <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-cripple_creek" alt="Cripple Creek WIC Programs" title="Cripple Creek WIC Programs">Cripple Creek <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-delta" alt="Delta WIC Programs" title="Delta WIC Programs">Delta <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-denver" alt="Denver WIC Programs" title="Denver WIC Programs">Denver <em>(7)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-divide" alt="Divide WIC Programs" title="Divide WIC Programs">Divide <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-dove_creek" alt="Dove Creek WIC Programs" title="Dove Creek WIC Programs">Dove Creek <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-durango" alt="Durango WIC Programs" title="Durango WIC Programs">Durango <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-eads" alt="Eads WIC Programs" title="Eads WIC Programs">Eads <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-eagle" alt="Eagle WIC Programs" title="Eagle WIC Programs">Eagle <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-edgewater" alt="Edgewater WIC Programs" title="Edgewater WIC Programs">Edgewater <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-el_jebel" alt="El Jebel WIC Programs" title="El Jebel WIC Programs">El Jebel <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-elizabeth" alt="Elizabeth WIC Programs" title="Elizabeth WIC Programs">Elizabeth <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-englewood" alt="Englewood WIC Programs" title="Englewood WIC Programs">Englewood <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-estes_park" alt="Estes Park WIC Programs" title="Estes Park WIC Programs">Estes Park <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-evans" alt="Evans WIC Programs" title="Evans WIC Programs">Evans <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-fairplay" alt="Fairplay WIC Programs" title="Fairplay WIC Programs">Fairplay <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-flagler" alt="Flagler WIC Programs" title="Flagler WIC Programs">Flagler <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-florence" alt="Florence WIC Programs" title="Florence WIC Programs">Florence <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-fort_collins" alt="Fort Collins WIC Programs" title="Fort Collins WIC Programs">Fort Collins <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-fraser" alt="Fraser WIC Programs" title="Fraser WIC Programs">Fraser <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-frisco" alt="Frisco WIC Programs" title="Frisco WIC Programs">Frisco <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-fruita" alt="Fruita WIC Programs" title="Fruita WIC Programs">Fruita <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-glenwood_springs" alt="Glenwood Springs WIC Programs" title="Glenwood Springs WIC Programs">Glenwood Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-grand_junction" alt="Grand Junction WIC Programs" title="Grand Junction WIC Programs">Grand Junction <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-greeley" alt="Greeley WIC Programs" title="Greeley WIC Programs">Greeley <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-gunnison" alt="Gunnison WIC Programs" title="Gunnison WIC Programs">Gunnison <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-holyoke" alt="Holyoke WIC Programs" title="Holyoke WIC Programs">Holyoke <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-hot_sulfur_springs" alt="Hot Sulfur Springs WIC Programs" title="Hot Sulfur Springs WIC Programs">Hot Sulfur Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-hotchkiss" alt="Hotchkiss WIC Programs" title="Hotchkiss WIC Programs">Hotchkiss <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-hugo" alt="Hugo WIC Programs" title="Hugo WIC Programs">Hugo <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-idaho_springs" alt="Idaho Springs WIC Programs" title="Idaho Springs WIC Programs">Idaho Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-ignacio" alt="Ignacio WIC Programs" title="Ignacio WIC Programs">Ignacio <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-julesburg" alt="Julesburg WIC Programs" title="Julesburg WIC Programs">Julesburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-kremmling" alt="Kremmling WIC Programs" title="Kremmling WIC Programs">Kremmling <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-la_junta" alt="La Junta WIC Programs" title="La Junta WIC Programs">La Junta <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-lafayette" alt="Lafayette WIC Programs" title="Lafayette WIC Programs">Lafayette <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-lake_city" alt="Lake City WIC Programs" title="Lake City WIC Programs">Lake City <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-lakewood" alt="Lakewood WIC Programs" title="Lakewood WIC Programs">Lakewood <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-lamar" alt="Lamar WIC Programs" title="Lamar WIC Programs">Lamar <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-las_animas" alt="Las Animas WIC Programs" title="Las Animas WIC Programs">Las Animas <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-leadville" alt="Leadville WIC Programs" title="Leadville WIC Programs">Leadville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-limon" alt="Limon WIC Programs" title="Limon WIC Programs">Limon <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-littleton" alt="Littleton WIC Programs" title="Littleton WIC Programs">Littleton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-lone_tree" alt="Lone Tree WIC Programs" title="Lone Tree WIC Programs">Lone Tree <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-longmont" alt="Longmont WIC Programs" title="Longmont WIC Programs">Longmont <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-loveland" alt="Loveland WIC Programs" title="Loveland WIC Programs">Loveland <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-manzanola" alt="Manzanola WIC Programs" title="Manzanola WIC Programs">Manzanola <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-meeker" alt="Meeker WIC Programs" title="Meeker WIC Programs">Meeker <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-monte_vista" alt="Monte Vista WIC Programs" title="Monte Vista WIC Programs">Monte Vista <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-montrose" alt="Montrose WIC Programs" title="Montrose WIC Programs">Montrose <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-northglenn" alt="Northglenn WIC Programs" title="Northglenn WIC Programs">Northglenn <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-norwood" alt="Norwood WIC Programs" title="Norwood WIC Programs">Norwood <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-nucla" alt="Nucla WIC Programs" title="Nucla WIC Programs">Nucla <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-olathe" alt="Olathe WIC Programs" title="Olathe WIC Programs">Olathe <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-ordway" alt="Ordway WIC Programs" title="Ordway WIC Programs">Ordway <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-ouray" alt="Ouray WIC Programs" title="Ouray WIC Programs">Ouray <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-pagosa_springs" alt="Pagosa Springs WIC Programs" title="Pagosa Springs WIC Programs">Pagosa Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-paonia" alt="Paonia WIC Programs" title="Paonia WIC Programs">Paonia <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-pueblo" alt="Pueblo WIC Programs" title="Pueblo WIC Programs">Pueblo <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-pueblo_west" alt="Pueblo West WIC Programs" title="Pueblo West WIC Programs">Pueblo West <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-rangely" alt="Rangely WIC Programs" title="Rangely WIC Programs">Rangely <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-rifle" alt="Rifle WIC Programs" title="Rifle WIC Programs">Rifle <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-rocky_ford" alt="Rocky Ford WIC Programs" title="Rocky Ford WIC Programs">Rocky Ford <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-salida" alt="Salida WIC Programs" title="Salida WIC Programs">Salida <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-springfield" alt="Springfield WIC Programs" title="Springfield WIC Programs">Springfield <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-steamboat_springs" alt="Steamboat Springs WIC Programs" title="Steamboat Springs WIC Programs">Steamboat Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-sterling" alt="Sterling WIC Programs" title="Sterling WIC Programs">Sterling <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-stratton" alt="Stratton WIC Programs" title="Stratton WIC Programs">Stratton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-telluride" alt="Telluride WIC Programs" title="Telluride WIC Programs">Telluride <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-walden" alt="Walden WIC Programs" title="Walden WIC Programs">Walden <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-walsenburg" alt="Walsenburg WIC Programs" title="Walsenburg WIC Programs">Walsenburg <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-westcliffe" alt="Westcliffe WIC Programs" title="Westcliffe WIC Programs">Westcliffe <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/co-yuma" alt="Yuma WIC Programs" title="Yuma WIC Programs">Yuma <em>(1)</em></a></li>                                                                            </ul>
+                                </aside>
+                                <!-- Top cities end -->
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/weld_county_wic_clinic_greeley_80631">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_4.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/weld_county_wic_clinic_greeley_80631">Greeley WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Greeley,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/yuma_county_wic_clinic_80759">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_5.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/yuma_county_wic_clinic_80759">Yuma County Wic Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Yuma,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/washington_county_wic_clinic_akron_80720">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_7.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/washington_county_wic_clinic_akron_80720">Akron WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Akron,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/weld_county_wic_clinic_evans_80620">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_10.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/weld_county_wic_clinic_evans_80620">Evans WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Evans,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/summit_county_wic_clinic_frisco_80443">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_3.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/summit_county_wic_clinic_frisco_80443">Frisco WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Frisco,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/teller_county_wic_clinic_cripple_creek_80813">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_2.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/teller_county_wic_clinic_cripple_creek_80813">Cripple Creek WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Cripple Creek,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_telluride_81435">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_1.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_telluride_81435">Telluride WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Telluride,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/sedgwick_county_wic_clinic_julesburg_80737">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_6.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/sedgwick_county_wic_clinic_julesburg_80737">Julesburg WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Julesburg,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_norwood_81423">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_8.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/san_miguel_county_wic_clinic_norwood_81423">Norwood WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Norwood,CO</div>
+					</div>
+				</div>
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/rio_blanco_county_wic_clinic_rangely_81648">
+							<img width="90" height="75" src="http://www.wicprograms.org/gallery/no_photo_9.jpg" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/rio_blanco_county_wic_clinic_rangely_81648">Rangely WIC Clinic</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Rangely,CO</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2016</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    
+      ga('create', 'UA-3966987-23', 'auto');
+      ga('send', 'pageview');
+    
+    </script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" type="text/javascript" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+	});
+</script>
+
+</body>
+</html>
