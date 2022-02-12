@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta class="viewport" name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Guntersville, AL WIC Programs, WIC Clinics, and WIC Office Locations</title>
+    <meta name="keywords" content="Guntersville, AL WIC Programs, Guntersville WIC Clinics, Guntersville WIC Office Locations" />
+	<meta name="description" content="Guntersville, AL WIC program and clinic information. We provide informative information on where to find your local WIC location." />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	
+	<!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+	<![endif]-->
+  
+	<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/font-awesome.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/animation.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/bootstrap/css/bootstrap-responsive.min.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/jquery.jqplot.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/responsive.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/custom.css' type='text/css' media='all' />
+	
+	<!--[if lt IE 7]>
+		<link rel='stylesheet' href='http://www.wicprograms.org/templates/flatroom/css/buttons/social-icons-ie7.css' type='text/css' media='all' />
+	<![endif]-->
+
+	<link rel="stylesheet" href="http://www.wicprograms.org/templates/flatroom/css/jquery.nailthumb.1.0.min.css" type="text/css" media="screen" />
+	<style type="text/css" media="screen">
+		.square-thumb {
+			width: 80px;
+			height: 80px;
+		}
+		.rectangular-thumb {
+			width: 200px;
+			height: 120px;
+		}
+		.rectangular-featured {
+			width: 620px;
+			height: 250px;
+		}
+	</style>
+</head>
+<body class="page light main-menu-visible">
+	<div id="page">
+		<header id="site-header" class="site-header" role="banner">
+			<div class="bg-color second-bg"></div>
+			<nav id="second-menu" role="navigation">
+				<div class="container">
+					<a href="#" class="close no-border">close <span>&#215;</span></a>
+					<div class="second-container">
+						<ul id="menu-mainmenu" class="menu">
+							<li>
+								<a href="http://www.wicprograms.org">Home</a>
+							</li>
+							<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+							<li><a href="http://www.wicprograms.org/ar/privacy-policy">Privacy Policy</a></li>
+                            
+                            
+                            
+						</ul>
+					</div>
+				</div>
+			</nav>
+
+			<div class="container">
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+				<div class="header-top-margin"></div>
+				<div class="clearfix"></div>
+
+				<div class="menu-button-box">
+					<a href="#" class="menu-button no-border ">
+						<span></span>
+						<span></span>
+						<span></span>
+						Menu
+					</a>
+				</div><!-- .menu-button-box -->
+
+				
+                
+                
+                <div class="logo-box">
+					<div class="site-logo">
+						<a href="http://www.wicprograms.org">
+							<img src="http://www.wicprograms.org/gallery/logo.png" alt="Logo">
+						</a>
+					</div>
+				</div><!-- .logo-box -->
+                
+                <br /><br />
+                <div style="color:#666; font-size:12px;">
+                WicPrograms.org is not in any way associated with the Official WIC Program offered by the USDA
+                </div>
+                
+			</div>
+				
+
+<!--
+			<div class="login-register">
+				<div class="standart">
+					<div class="links">
+						<a href="http://www.wicprograms.org/member_add.php">Login</a>
+						<span>or</span>
+						<a href="http://www.wicprograms.org/member_add.php">Register</a>
+						<span class="and">and</span>
+					</div>
+					<a class="btn" href="http://www.wicprograms.org/listing_add.php">Add A Listing</a>
+				</div>
+			</div>
+-->
+			
+			<div class="clearfix"></div>
+			<div class="header-bottom-margin"></div>
+			<div class="clearfix"></div>
+		</header><!-- #site-header -->
+
+
+<div id="main">
+	<div class="bg-images"></div>
+	<header class="page-header bg-color">
+		<div class="container">
+			<div class="row">
+				<div class="span9">
+					<h1 class="entry-title">Guntersville, AL WIC</h1>
+				</div>
+				<div class="span3">
+					<div id="breadcrumb">
+						<a href="http://www.wicprograms.org">Home</a>
+						<span class="separator">/</span>
+						<a href="http://www.wicprograms.org/state/alabama">Alabama WIC Programs</a> &raquo; Guntersville
+					</div>
+				
+                
+                
+                </div>
+			</div>
+			<div class="setsquare">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"/>
+				</svg>
+			</div>
+			<div class="setsquare two">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.566px" height="10px" viewBox="0 0 40.566 10" enable-background="new 0 0 40.566 10" xml:space="preserve">
+					<path fill-rule="evenodd" clip-rule="evenodd" fill="#111111" d="M28.284,2c-3.806,2.188-8,8-8,8s-4.214-5.957-8.062-8.062C8.742,0.035,0,0,0,0h40.566C40.566,0,31.703,0.035,28.284,2z"/>
+				</svg>
+			</div>
+            
+           
+		</div>
+	</header><!-- .page-header -->
+
+	<div id="primary" class="container right-sidebar">
+		<div class="row">
+			<div id="content" class="span9 bg-dark">
+				<article class="page">
+					<div class="entry-content">
+						<div class="row-fluid">
+					<h4>Guntersville, AL WIC Programs, WIC Clinics, and Office Locations</h4>		
+View our list of WIC Clinics, Office Locations and Programs in Guntersville, Alabama below. Select the location to find out more specific information.
+                                See all <a href="http://www.wicprograms.org/co/al-marshall">Marshall County Alabama WIC Clinics</a>. 
+                				<br /><br />
+                
+    
+          
+                
+                
+                
+				Our list of WIC options and centers is by no means inclusive and is always growing. Please check back so you can see our latest WIC Office.      <br /><br />                     
+								
+             
+             
+             
+             
+             
+             
+             </div>
+                        
+                      <br />
+                <img src="http://www.wicprograms.org/images/women_help.jpg"/>
+                <br />    
+                        
+    
+               
+                        
+                        
+<p>
+ <div style="float:left; width:350px; height:350px; padding: 10px 0px 0px 0px;">
+                                <h4>Help Us Help You</h4>
+                                <form id="familyform" action="http://www.wicprograms.org/help_you.php" method="get" target="_blank">
+                                    <p>Tell us what type of assistance you are looking for:</p>
+                                    <input type="hidden" name="sid" value="wiccityquest" />
+                                    <input type="hidden" name="trx" value="" />
+                                    <input type="checkbox" id="wic" name="wic"/> Help For Children and Single Mothers<br />
+                                    <input type="checkbox" id="ele" name="ele"/> Electric Bill Assistance<br />
+                                    <input type="checkbox" id="lih" name="lih"/> Low Income Housing<br />
+                                    <input type="checkbox" id="emp" name="emp"/> Unemployment Help<br />
+                                    <input type="checkbox" id="foo" name="foo"/> Food Assistance<br />
+                                    <input type="checkbox" id="med" name="med"/> Medical Assistance<br />
+                                    <input type="checkbox" id="den" name="den"/> Rent Assistance<br />
+<br />
+                                    <input type="email" name="email" placeholder="Email" required="required" />
+                                    <input type="submit" value="Get Help" class="btn"/>
+                                </form>
+                                <div id="familyformsuccess" style="display:none;  width:280px; padding: 10px 0px 20px 0px;">
+                                	<h4>Thank you!</h4>
+                                    <br />
+                                    Your feedback will help us improve our website!
+                                </div>
+
+                            </div>
+                            
+                            
+                           </p>
+                          
+                           
+                           
+                            <div style="clear:both"></div>
+                             <br /><br /> <br /><br /> <br />
+                              
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                            
+                      <br /><br />
+					</div><!-- .entry-content -->
+				</article>
+
+				<!-- Latest Entries Start -->
+    <div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/marshall_county_health_department_wic_office_guntersville" title="Marshall County Health Department WIC Office Guntersville">Marshall County Health Department WIC Office Guntersville</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/marshall_county_health_department_wic_office_guntersville" title=""><img src="http://maps.google.com/maps/api/staticmap?center=150 Judy Smith Drive,Guntersville,AL&zoom=12&size=203x150&maptype=roadmap&sensor=true" alt="Marshall County Health Department WIC Office Guntersville"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    150 Judy Smith Drive<br />
+                    Guntersville, AL -  3597<br />
+                    (256) 582-3174<br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/marshall_county_health_department_wic_office_guntersville">Website</a></span>            </div>
+            <p>Office hours : Mondays through Fridays 7:30am - 5pm. <br />
+<br />
+WIC Services: Application, Voucher Issuance, Nutrition Counseling.<br />
+<br />
+To be eligible for WIC you must:<br />
+    meet income guidelines.<br />
+    be a resident of Alabama.<br />
+    have a nutrition need, which will be determined by a health professional at the WIC clinic.<br />
+<br />
+At the WIC appointment, yo</p>
+            <a href="http://www.wicprograms.org/li/marshall_county_health_department_wic_office_guntersville" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+<!-- Latest Entries End -->
+
+
+			
+            
+            
+            
+            
+            
+            
+        <p>
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+                
+                
+                
+                
+                	
+
+	<H3>More WIC Offices</H3>
+	Due to the small amount of offices in Guntersville, we have listed some area listings below. In our search we do not limit the listings by state. Important: different States have different WIC policies. If you are calling about WIC in one particular State, you will need to contact another WIC program office in that same state that you live in.<br /><br />                
+              
+              
+
+
+<div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/jackson_county_health_department_wic_office_scottsboro" title="Jackson County Health Department WIC Office Scottsboro">Jackson County Health Department WIC Office Scottsboro</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/jackson_county_health_department_wic_office_scottsboro" title=""><img src="http://maps.google.com/maps/api/staticmap?center=204 Liberty Lane,Scottsboro,AL&zoom=12&size=203x150&maptype=roadmap&sensor=true" alt="Jackson County Health Department WIC Office Scottsboro"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    204 Liberty Lane<br />
+                    Scottsboro, AL - 35769<br />
+                    (256) 259-4161<br />
+                                            <b>Location: 26.66 miles from Guntersville</b><br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/jackson_county_health_department_wic_office_scottsboro">Website</a></span>            </div>
+            <p>Hours of Operation: 8:00 a.m.-5:00 p.m., Monday through Friday.
+
+Women, Infants, and Children (WIC) Services: Application, Voucher Issuance, and Nutrition Counseling.
+
+To be eligible for WIC you must:
+    meet income guidelines.
+    be a resident of Alabama.
+    have a nutrition need, which will be d...</p>
+            <a href="http://www.wicprograms.org/li/jackson_county_health_department_wic_office_scottsboro" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+            
+            
+            
+
+<div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/blount_county_health_department_wic_office_oneonta" title="Blount County Health Department WIC Office Oneonta">Blount County Health Department WIC Office Oneonta</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/blount_county_health_department_wic_office_oneonta" title=""><img src="http://maps.google.com/maps/api/staticmap?center=1001 Lincoln Avenue,Oneonta,AL&zoom=12&size=203x150&maptype=roadmap&sensor=true" alt="Blount County Health Department WIC Office Oneonta"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    1001 Lincoln Avenue<br />
+                    Oneonta, AL - 35121<br />
+                    (205) 274-2120<br />
+                                            <b>Location: 28.68 miles from Guntersville</b><br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/blount_county_health_department_wic_office_oneonta">Website</a></span>            </div>
+            <p>Clinic hours are 7:30 a.m. to 5:00 p.m., Monday through Friday.
+
+Women, Infants, and Children (WIC) - Application, Voucher Issuance, and Nutrition Counseling.
+
+Call to make an appointment. 
+
+To be eligible for WIC you must:
+    meet income guidelines.
+    be a resident of Alabama.
+    h...</p>
+            <a href="http://www.wicprograms.org/li/blount_county_health_department_wic_office_oneonta" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+            
+            
+            
+
+<div class="row-fluid">
+        <div class="span12" style="margin-bottom:10px;">
+            <h2><a href="http://www.wicprograms.org/li/etowah_county_health_department_wic_clinic_east_gadsden" title="Etowah County Health Department WIC Clinic East Gadsden">Etowah County Health Department WIC Clinic East Gadsden</a></h2>
+            <!-- Image Start -->
+            <div class="nailthumb-container rectangular-thumb" style="float:left; margin:10px 10px 0px 0px;">
+                <a href="http://www.wicprograms.org/li/etowah_county_health_department_wic_clinic_east_gadsden" title=""><img src="http://maps.google.com/maps/api/staticmap?center=709 East Broad Street,East Gadsden,AL&zoom=12&size=203x150&maptype=roadmap&sensor=true" alt="Etowah County Health Department WIC Clinic East Gadsden"  /></a>
+            </div>
+            <div style="margin-bottom: 10px;">
+                <p style="font-weight:bold;">
+                    709 East Broad Street<br />
+                    East Gadsden, AL -  3590<br />
+                    (256) 547-6311<br />
+                                            <b>Location: 29.63 miles from Guntersville</b><br />
+                                    </p>
+                                <span class="blog-subhead"><a href="http://www.wicprograms.org/li/etowah_county_health_department_wic_clinic_east_gadsden">Website</a></span>            </div>
+            <p>Clinic Hours:  8:00 a.m. to 5:00 p.m, Monday through Friday.
+
+Call to make an appointment. 
+
+To be eligible for WIC you must:
+    meet income guidelines.
+    be a resident of Alabama.
+    have a nutrition need, which will be determined by a health professional at the WIC clinic.
+
+At the...</p>
+            <a href="http://www.wicprograms.org/li/etowah_county_health_department_wic_clinic_east_gadsden" title="">Read more</a>
+
+            <hr class="grid_8 alpha break"/>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+            
+            
+            
+        
+            
+            
+            <p>
+		<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2985566993569762";
+/* wicprograms336x280 */
+google_ad_slot = "7064662665";
+google_ad_width = 336;
+google_ad_height = 280;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+           
+
+           
+            </p>
+            
+            
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            </div><!-- #content -->
+
+			                    <div id="sidebar" class="sidebar span3">
+						<a href="#" class="sidebar-button">
+							<span></span>
+							<span></span>
+							<span></span>
+                            
+						</a>
+						<a href="#" class="close">close <span>&#215;</span></a>
+						<div class="clearfix"></div>
+						<div class="bg-sidebar"></div>
+
+						<div class="widget-area">
+                            <aside class="widget">
+                                <p>
+                                			Search for WIC Programs, Clinics, Office Locations
+			<!-- Search widget start -->
+               
+	                <form action="http://www.wicprograms.org/state/" method="get">
+						
+
+                        <select id="state" name="state" onchange="window.location='http://www.wicprograms.org/state/'+this.value">
+			<option value="" SELECTED>Choose State</option>
+                            <option value="alabama">Alabama</option>
+                            <option value="alaska">Alaska</option>
+                            <option value="arizona">Arizona</option>
+                            <option value="arkansas">Arkansas</option>
+                            <option value="california">California</option>
+                            <option value="colorado">Colorado</option>
+                            <option value="connecticut">Connecticut</option>
+                            <option value="delaware">Delaware</option>
+                            <option value="district_of_columbia">District of Columbia</option>
+                            <option value="florida">Florida</option>
+                            <option value="georgia">Georgia</option>
+                            <option value="hawaii">Hawaii</option>
+                            <option value="idaho">Idaho</option>
+                            <option value="illinois">Illinois</option>
+                            <option value="indiana">Indiana</option>
+                            <option value="iowa">Iowa</option>
+                            <option value="kansas">Kansas</option>
+                            <option value="kentucky">Kentucky</option>
+                            <option value="louisiana">Louisiana</option>
+                            <option value="maine">Maine</option>
+                            <option value="maryland">Maryland</option>
+                            <option value="massachusetts">Massachusetts</option>
+                            <option value="michigan">Michigan</option>
+                            <option value="minnesota">Minnesota</option>
+                            <option value="mississippi">Mississippi</option>
+                            <option value="missouri">Missouri</option>
+                            <option value="montana">Montana</option>
+                            <option value="nebraska">Nebraska</option>
+                            <option value="nevada">Nevada</option>
+                            <option value="new_hampshire">New Hampshire</option>
+                            <option value="new_jersey">New Jersey</option>
+                            <option value="new_mexico">New Mexico</option>
+                            <option value="new_york">New York</option>
+                            <option value="north_carolina">North Carolina</option>
+                            <option value="north_dakota">North Dakota</option>
+                            <option value="ohio">Ohio</option>
+                            <option value="oklahoma">Oklahoma</option>
+                            <option value="oregon">Oregon</option>
+                            <option value="pennsylvania">Pennsylvania</option>
+                            <option value="rhode_island">Rhode Island</option>
+                            <option value="south_carolina">South Carolina</option>
+                            <option value="south_dakota">South Dakota</option>
+                            <option value="tennessee">Tennessee</option>
+                            <option value="texas">Texas</option>
+                            <option value="utah">Utah</option>
+                            <option value="vermont">Vermont</option>
+                            <option value="virginia">Virginia</option>
+                            <option value="washington">Washington</option>
+                            <option value="west_virginia">West Virginia</option>
+                            <option value="wisconsin">Wisconsin</option>
+                            <option value="wyoming">Wyoming</option>
+                        </select>
+
+						
+					</form>
+               <br /> OR
+             
+                Search by Zip
+                    <form action="http://www.wicprograms.org/zip.php" method="get" id="searchform" >
+					
+						
+						<input type="text"  class="searchinput rounded" onfocus="if (this.value == 'Zip')  {this.value = '';}" onblur="if (this.value == '')  {this.value = 'Search';}" id="zip" name="zip" value="Zip">
+					
+					</form><br />
+				
+       
+			<!-- Search widget end -->
+
+<br /><br />	
+                                
+                                WIC is a registered service mark of the U.S. Department of Agriculture for USDA's Special Supplemental Nutrition Program for Women, Infants and Children.<br /><br />		
+		
+	
+
+                                </p>
+                            </aside>
+
+                                                            
+
+                                <!-- Top cities start -->
+                                <aside class="widget">
+                                    <h3 class="widget-title">Alabama WIC</h3>
+                                    <ul class="widget-list">
+                                                                                    <li><a href="http://www.wicprograms.org/ci/al-abbeville" alt="Abbeville WIC Programs" title="Abbeville WIC Programs">Abbeville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-alexander_city" alt="Alexander City WIC Programs" title="Alexander City WIC Programs">Alexander City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-andalusia" alt="Andalusia WIC Programs" title="Andalusia WIC Programs">Andalusia <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-ashville" alt="Ashville WIC Programs" title="Ashville WIC Programs">Ashville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-athens" alt="Athens WIC Programs" title="Athens WIC Programs">Athens <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-auburn" alt="Auburn WIC Programs" title="Auburn WIC Programs">Auburn <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-bessemer" alt="Bessemer WIC Programs" title="Bessemer WIC Programs">Bessemer <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-birmingham" alt="Birmingham WIC Programs" title="Birmingham WIC Programs">Birmingham <em>(4)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-butler" alt="Butler WIC Programs" title="Butler WIC Programs">Butler <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-camden" alt="Camden WIC Programs" title="Camden WIC Programs">Camden <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-centre" alt="Centre WIC Programs" title="Centre WIC Programs">Centre <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-chatom" alt="Chatom WIC Programs" title="Chatom WIC Programs">Chatom <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-citronelle" alt="Citronelle WIC Programs" title="Citronelle WIC Programs">Citronelle <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-clanton" alt="Clanton WIC Programs" title="Clanton WIC Programs">Clanton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-clio" alt="Clio WIC Programs" title="Clio WIC Programs">Clio <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-dadeville" alt="Dadeville WIC Programs" title="Dadeville WIC Programs">Dadeville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-decatur" alt="Decatur WIC Programs" title="Decatur WIC Programs">Decatur <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-dothan" alt="Dothan WIC Programs" title="Dothan WIC Programs">Dothan <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-double_springs" alt="Double Springs WIC Programs" title="Double Springs WIC Programs">Double Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-east_gadsden" alt="East Gadsden WIC Programs" title="East Gadsden WIC Programs">East Gadsden <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-eclectic" alt="Eclectic WIC Programs" title="Eclectic WIC Programs">Eclectic <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-eight_mile" alt="Eight Mile WIC Programs" title="Eight Mile WIC Programs">Eight Mile <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-enterprise" alt="Enterprise WIC Programs" title="Enterprise WIC Programs">Enterprise <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-eufaula" alt="Eufaula WIC Programs" title="Eufaula WIC Programs">Eufaula <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-florence" alt="Florence WIC Programs" title="Florence WIC Programs">Florence <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-foley" alt="Foley WIC Programs" title="Foley WIC Programs">Foley <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-fort_payne" alt="Fort Payne WIC Programs" title="Fort Payne WIC Programs">Fort Payne <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-greenville" alt="Greenville WIC Programs" title="Greenville WIC Programs">Greenville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-grove_hill" alt="Grove Hill WIC Programs" title="Grove Hill WIC Programs">Grove Hill <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-guntersville" alt="Guntersville WIC Programs" title="Guntersville WIC Programs">Guntersville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-hamilton" alt="Hamilton WIC Programs" title="Hamilton WIC Programs">Hamilton <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-headland" alt="Headland WIC Programs" title="Headland WIC Programs">Headland <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-huntsville" alt="Huntsville WIC Programs" title="Huntsville WIC Programs">Huntsville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-mobile" alt="Mobile WIC Programs" title="Mobile WIC Programs">Mobile <em>(4)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-montgomery" alt="Montgomery WIC Programs" title="Montgomery WIC Programs">Montgomery <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-morris" alt="Morris WIC Programs" title="Morris WIC Programs">Morris <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-mount_vernon" alt="Mount Vernon WIC Programs" title="Mount Vernon WIC Programs">Mount Vernon <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-oneonta" alt="Oneonta WIC Programs" title="Oneonta WIC Programs">Oneonta <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-opelika" alt="Opelika WIC Programs" title="Opelika WIC Programs">Opelika <em>(2)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-ozark" alt="Ozark WIC Programs" title="Ozark WIC Programs">Ozark <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-pell_city" alt="Pell City WIC Programs" title="Pell City WIC Programs">Pell City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-phenix_city" alt="Phenix City WIC Programs" title="Phenix City WIC Programs">Phenix City <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-prattville" alt="Prattville WIC Programs" title="Prattville WIC Programs">Prattville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-ramer" alt="Ramer WIC Programs" title="Ramer WIC Programs">Ramer <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-robertsdale" alt="Robertsdale WIC Programs" title="Robertsdale WIC Programs">Robertsdale <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-russellville" alt="Russellville WIC Programs" title="Russellville WIC Programs">Russellville <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-scottsboro" alt="Scottsboro WIC Programs" title="Scottsboro WIC Programs">Scottsboro <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-selma" alt="Selma WIC Programs" title="Selma WIC Programs">Selma <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-semmes" alt="Semmes WIC Programs" title="Semmes WIC Programs">Semmes <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-sheffield" alt="Sheffield WIC Programs" title="Sheffield WIC Programs">Sheffield <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-sylacauga" alt="Sylacauga WIC Programs" title="Sylacauga WIC Programs">Sylacauga <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-tuskegee" alt="Tuskegee WIC Programs" title="Tuskegee WIC Programs">Tuskegee <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-tyler" alt="Tyler WIC Programs" title="Tyler WIC Programs">Tyler <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-union_springs" alt="Union Springs WIC Programs" title="Union Springs WIC Programs">Union Springs <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-valley" alt="Valley WIC Programs" title="Valley WIC Programs">Valley <em>(1)</em></a></li>                                                                                    <li><a href="http://www.wicprograms.org/ci/al-wetumpka" alt="Wetumpka WIC Programs" title="Wetumpka WIC Programs">Wetumpka <em>(1)</em></a></li>                                                                            </ul>
+                                </aside>
+                                <!-- Top cities end -->
+                            
+							<div class="aside-border"></div>
+							
+								<aside class="ibr-properties-widget widget">
+		<h3 class="widget-title">
+			Latest WIC Clinics
+		</h3>
+
+		<div class="widget-properties">
+							<div class="property-on-widget">
+					<div class="on-widget-image">
+						<a href="http://www.wicprograms.org/li/marshall_county_health_department_wic_office_guntersville">
+							<img width="90" height="75" src="http://maps.google.com/maps/api/staticmap?center=150 Judy Smith Drive,Guntersville,AL&zoom=12&size=203x150&maptype=roadmap&sensor=true" alt="" />
+						</a>
+					</div>
+					<div class="on-widget-content">
+						<div class="on-widget-title no-border">
+							<a href="http://www.wicprograms.org/li/marshall_county_health_department_wic_office_guntersville">Marshall County Health Department WIC Office Guntersville</a>
+						</div>
+						<div class="on-widget-location"><i class="fa fa-map-marker"></i> Guntersville,AL</div>
+					</div>
+				</div>
+					</div>
+	</aside><!-- .ibr-properties-widget -->
+
+							
+
+							<div class="aside-border"></div>
+
+                            <aside class="widget">
+                               <iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWIC-Programs%2F420008041353290&amp;width=219&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true&amp;appId=430552543672436" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:219px; height:290px;" allowTransparency="true"></iframe>	
+                            </aside>
+						</div><!-- .widget-area -->
+					</div><!-- #sidebar --><!-- #sidebar -->
+		</div>
+	</div><!-- #primary -->
+</div><!-- #main -->
+<footer id="site-footer" class="bg-light" role="contentinfo">
+	<div class="top-box">
+		<div class="container">
+			<div class="row">
+				<div class="span4 footer-navigation">
+					<h3 class="title">Welcome</h3>
+					<nav role="navigation">
+						<div class="menu-welcome-container">
+							<ul id="menu-welcome" class="menu">
+								<li><a href="http://www.wicprograms.org/ar/about">About Us</a></li>
+								<!-- <li><a href="http://www.wicprograms.org/listing_add.php">Add a Listing</a></li> -->
+							</ul>
+						</div>
+					</nav>
+				</div><!-- .footer-navigation -->
+
+				<div class="span4">
+					<h3 class="title">About Us</h3>
+					<div class="text">
+
+						<p>WIC Programs is not associated with any government agency or non profit organizations. We list WIC Programs throughout the US.</p>
+
+						<p style="margin-bottom: 4px;">Follow us on the world wide web.</p>
+
+						<ul class="social_bookmarks_footer">
+							<li class="facebook"><a href="http://www.facebook.com/pages/WIC-Programs/420008041353290" class="" title="Facebook">Facebook</a></li>														<li class="rss"><a href="http://www.wicprograms.org/feed/" class="" title="RSS">RSS</a></li>
+						</ul>
+
+					</div>
+				</div><!-- .about-us -->
+
+				<div class="span4 contact-us">
+					<h3 class="title">Helpful Sites</h3>
+					<ul class="footer_widget_list">
+						<li><a href="http://www.fns.usda.gov/wic/" title="FNS">FNS</a>
+						<li><a href="http://www.acf.hhs.gov/programs/ocs/liheap/" title="US HHS">US HHS</a>
+						
+					</ul>
+				</div><!-- helpful sites -->
+			</div>
+		</div>
+	</div><!-- .top-box -->
+
+	<div class="bottom-box">
+		<div class="container">
+			<div class="row">
+				<div class="span6 pull-right">
+					<!--
+                        <ul class="social-icon">
+                            <li class="no-border">
+                                <a href="https://www.facebook.com/ItemBridge" target="_self">
+                                    <i class="icon-facebook"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://twitter.com/ItemBridge" target="_self">
+                                    <i class="icon-twitter"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="https://plus.google.com/109912245583663219097/posts" target="_self">
+                                    <i class="icon-gplus"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="http://www.flickr.com/photos/itembridge" target="_self">
+                                    <i class="icon-flickr"></i>
+                                </a>
+                            </li>
+                            <li class="no-border">
+                                <a href="support@itembridge.com" target="_self">
+                                    <i class="icon-email"></i>
+                                </a>
+                            </li>
+                        </ul>
+                        -->
+				</div>
+				<div class="span6">Copyright &copy; WIC Programs 2017</div>
+			</div>
+		</div>
+		<a href="#" id="up">Up</a>
+	</div><!-- .bottom-box -->
+
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20175266-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ 
+
+
+</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery-ui-1.10.3.custom.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/bootstrap/js/bootstrap.min.js'></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+<script>
+    (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-63231714-2', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.nailthumb.1.0.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        jQuery('.nailthumb-container').nailthumb();
+    });
+</script>
+
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.carouFredSel-6.2.1-packed.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.touchSwipe.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.selectbox-0.2.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jquery.fancybox.pack.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jquery.jqplot.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/shCore.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/shBrushJScript.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/shBrushXml.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.cursor.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.dateAxisRenderer.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.highlighter.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.canvasTextRenderer.min.js'></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/jqplot/jqplot.canvasAxisLabelRenderer.min.js'></script>
+<script type="text/javascript" src="http://www.wicprograms.org/templates/flatroom/js/jquery.listnav-2.1.js" charset="utf-8"></script>
+<script src='http://www.wicprograms.org/templates/flatroom/js/main.js'></script>
+
+
+<script type="text/javascript" charset="utf-8">
+	$(function(){
+
+		$('#cityList').listnav({
+			includeNums: false,
+			showCounts:	true
+		});
+
+
+	});
+</script>
+
+</body>
+</html>
