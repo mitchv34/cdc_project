@@ -9,7 +9,7 @@ import pandas as pd
 
 
 # Replace the path with the path of the data you to downloaded.
-data = pd.read_csv("/mnt/c/Users/mitch/Downloads/us.1969_2019.19ages.adjusted.txt",  header=0, parse_dates=[0], index_col=0, squeeze=True)
+data = pd.read_csv("~/us.1969_2019.19ages.adjusted.txt",  header=0, parse_dates=[0], index_col=0, squeeze=True)
 
 #  Filter out unwanted years
 rows = [r for r in  data.index.tolist() if int(r[:4]) >= 2000] 
@@ -33,14 +33,14 @@ pop_data = {
 data_df = pd.DataFrame(pop_data)
 
 # Create a child column including oly the 0 to 14 years old
-data.loc[:, "child"] = data.age.astype(int) <  5
+data_df.loc[:, "child"] = data_df.age.astype(int) <  5
 
 # Write dataframe as csv file (replace path with the path of the file you want to save)
 
-data_df.to_csv("/root/Work/cdc_project/FBI_UCR/county_pop_data.csv", index = False)
+data_df.to_csv("~/Work/cdc_project/FBI_UCR/county_pop_data.csv", index = False)
 
-data.groupby(["state", "year", "age", "sex"]).agg({"population": "sum"}).reset_index().to_csv("/root/Work/cdc_project/FBI_UCR/state_pop_data.csv", index = False)
+data_df.groupby(["state", "year", "age", "sex"]).agg({"population": "sum"}).reset_index().to_csv("~/Work/cdc_project/FBI_UCR/state_pop_data.csv", index = False)
 
-data.groupby(["state", "FIPS_county", "year", "child", "sex"]).agg({"population": "sum"}).reset_index().to_csv("/root/Work/cdc_project/FBI_UCR/county_data_child.csv", index = False)
+data_df.groupby(["state", "FIPS_county", "year", "child", "sex"]).agg({"population": "sum"}).reset_index().to_csv("~/Work/cdc_project/FBI_UCR/county_data_child.csv", index = False)
 
-data.groupby(["state", "year", "child", "sex"]).agg({"population": "sum"}).reset_index().to_csv("/root/Work/cdc_project/FBI_UCR/state_data_child.csv", index = False)
+data_df.groupby(["state", "year", "child", "sex"]).agg({"population": "sum"}).reset_index().to_csv("/Work/cdc_project/FBI_UCR/state_data_child.csv", index = False)
